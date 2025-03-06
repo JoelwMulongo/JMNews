@@ -52,7 +52,7 @@
             .then(response => response.json())
             .then(news => {
                 const newsContainer = document.getElementById("news-container");
-                news.forEach(article => {
+                news.slice(0, 7).forEach(article => {  // Get 7 articles
                     const newsItem = document.createElement("div");
                     newsItem.classList.add("news-item");
                     newsItem.innerHTML = `
