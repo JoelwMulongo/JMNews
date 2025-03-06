@@ -5,15 +5,15 @@ import json
 # Get API Key from GitHub Secrets
 API_KEY = os.getenv("NEWS_API_KEY")
 
-KENYA_NEWS_URL = f"https://newsapi.org/v2/top-headlines?country=ke&apiKey={API_KEY}"
+TECH_NEWS_URL = f"https://newsapi.org/v2/top-headlines?category=technology&language=en&apiKey={API_KEY}"
 
 def fetch_news():
     if not API_KEY:
         print("Error: Missing API key")
         return
 
-    response = requests.get(KENYA_NEWS_URL)
-    news_data = response.json().get("articles", [])[:4]  # Get top 4 news
+    response = requests.get(TECH_NEWS_URL)
+    news_data = response.json().get("articles", [])[:4]  # Get top 4 tech news
 
     news_list = []
     for article in news_data:
