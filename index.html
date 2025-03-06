@@ -5,15 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JMNEWS</title>
     <link rel="stylesheet" href="style.css">
-    <script defer src="script.js"></script>
 </head>
 <body>
-    <header>
-        <h1>JMNEWS</h1>
-        <span id="date"></span>
-    </header>
-    <main id="news-container">
-        <p>Loading news...</p>
-    </main>
+    <div class="container">
+        <header>
+            <h1>JMNEWS</h1>
+            <p id="date"></p>
+        </header>
+
+        <main id="news-container"></main>
+
+        <footer>
+            <p>Follow me on <a href="https://x.com/mulongojoel" target="_blank">@mulongojoel</a> | 
+               GitHub: <a href="https://github.com/joelwmulongo" target="_blank">joelwmulongo</a></p>
+            <p>© 2025 JMNews. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script>
+        document.getElementById("date").innerText = new Date().toLocaleDateString();
+
+        fetch("data/news.json")
+            .then(response => response.json())
+            .then(news => {
+                const newsContainer = document.getElementById("news-container");
+                news.forEach(article => {
+                    const newsItem = document.createElement("div");
+                    newsItem.classList.add("news-item");
+                    newsItem.innerHTML = `
+                        <img src="${article.image}" alt="News Image">
+                        <h2>${article.title}</h2>
+                        <p>${article.description}</p>
+                        <a href="${article.url}" target="_blank">Read more</a>
+                    `;
+                    newsContainer.appendChild(newsItem);
+                });
+            });
+    </script>
 </body>
 </html>
