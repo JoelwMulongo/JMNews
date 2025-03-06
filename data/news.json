@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "title": "Users report emotional bonds with startlingly realistic AI voice demo - Ars Technica",
+        "description": "Sesame\u2019s new AI voice model features uncanny imperfections, and it\u2019s willing to act like an angry boss.",
+        "url": "https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/bluedigitalface1-1152x648.jpg"
+    },
+    {
+        "title": "Andy Dunn\u2019s new app Pie uses AI to help you make friends - TechCrunch",
+        "description": "\"We're a long way from pants,\" Andy Dunn, founder of online fashion retailer Bonobos, told TechCrunch. Now, the former CEO is taking on a completely",
+        "url": "https://techcrunch.com/2025/03/04/andy-dunns-new-app-pie-uses-ai-to-help-you-make-friends/",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1164865731.jpg?resize=1200,801"
+    },
+    {
+        "title": "Apple unveils upgraded iPad Air ahead of expected MacBook Air refresh - New York Post ",
+        "description": "Apple had social media buzzing on Tuesday after unveiling the latest version of its iPad Air \u2013 and another major product upgrade announcement is likely just around the corner.",
+        "url": "https://nypost.com/2025/03/04/business/apple-unveils-upgraded-ipad-air-ahead-of-expected-macbook-air-refresh/",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/03/99758348.jpg?quality=75&strip=all&w=1024"
+    },
+    {
+        "title": "Google\u2019s AI-powered Pixel Sense app could gobble up all your Pixel 10 data - Ars Technica",
+        "description": "The app will reportedly offer contextual suggestions as you use the phone.",
+        "url": "https://arstechnica.com/google/2025/03/googles-ai-powered-pixel-sense-app-could-gobble-up-all-your-pixel-10-data/",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/PXL_20240821_140155033.MP-1-1-scaled-1152x648-1741117427.jpg"
+    }
+]
