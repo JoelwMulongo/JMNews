@@ -4,19 +4,103 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JMNEWS</title>
-    <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="https://joelmulongo.vercel.app/assets/images/joelwmulongo.jpg">
     <meta name="description" content="Stay updated with the latest tech news from around the world.">
     <meta property="og:title" content="JMNEWS">
     <meta property="og:description" content="Stay updated with the latest tech news from around the world.">
     <meta property="og:image" content="https://joelmulongo.vercel.app/assets/images/joelwmulongo.jpg">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+        body {
+            font-family: 'Noto Sans', sans-serif;
+            background-color: #121212;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1f1f1f;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #e50914;
+        }
+
+        .site-title {
+            font-size: 28px;
+            font-weight: bold;
+            color: #e50914;
+            margin-left: 20px;
+        }
+
+        .date {
+            font-size: 16px;
+            font-weight: bold;
+            margin-right: 20px;
+        }
+
+        main {
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        article {
+            background-color: #222;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
+            transition: transform 0.2s;
+        }
+
+        article:hover {
+            transform: scale(1.02);
+        }
+
+        article img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        h2 {
+            font-size: 20px;
+            color: #ffcc00;
+        }
+
+        p {
+            font-size: 16px;
+            color: #cccccc;
+        }
+
+        a {
+            color: #ffcc00;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            font-size: 12px;
+            padding: 10px;
+            background-color: #1f1f1f;
+            margin-top: 20px;
+            border-top: 2px solid #e50914;
+        }
+    </style>
 </head>
 <body>
+
     <header>
-        <div class="header-content">
-            <h1 class="site-title">JMNEWS</h1>
-            <span class="date" id="current-date"></span>
-        </div>
+        <h1 class="site-title">JMNEWS</h1>
+        <span class="date" id="current-date"></span>
     </header>
 
     <main id="news-container">
@@ -29,6 +113,30 @@
         <p>&copy; 2025 JMNEWS</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const dateElement = document.getElementById("current-date");
+            dateElement.textContent = new Date().toDateString();
+
+            fetch("data/news.json")
+                .then(response => response.json())
+                .then(data => {
+                    const newsContainer = document.getElementById("news-container");
+                    newsContainer.innerHTML = "";
+
+                    data.articles.slice(0, 5).forEach(article => {
+                        const newsItem = document.createElement("article");
+                        newsItem.innerHTML = `
+                            <img src="${article.image}" alt="News Image">
+                            <h2>${article.title}</h2>
+                            <p>${article.description}</p>
+                            <a href="${article.url}" target="_blank">Read More</a>
+                        `;
+                        newsContainer.appendChild(newsItem);
+                    });
+                })
+                .catch(error => console.error("Error fetching news:", error));
+        });
+    </script>
 </body>
 </html>
