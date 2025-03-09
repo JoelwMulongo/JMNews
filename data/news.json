@@ -1,10 +1,28 @@
 {
     "articles": [
         {
+            "title": "The Pok\u00e9mon Company and Honda have produced a life-sized motorbike based on a Pokemon - Video Games Chronicle",
+            "description": "Fans based in Japan can see the concept bike this weekend",
+            "url": "https://www.videogameschronicle.com/news/the-pokemon-company-and-honda-have-produced-a-life-sized-motorbike-based-on-a-pokemon/",
+            "image": "https://www.videogameschronicle.com/files/2025/03/1-1.jpg"
+        },
+        {
+            "title": "'BS and hype': Amazon execs cast doubt on Microsoft's quantum-computing claims in private discussions - Business Insider",
+            "description": "Amazon executives and employees have been frustrated by Microsoft's recent quantum claims, questioning the true significance of its new chip.",
+            "url": "https://www.businessinsider.com/amazon-exec-casts-doubt-microsoft-quantum-claims-2025-3",
+            "image": "https://i.insider.com/67c9280069253ccddf986d46?width=1200&format=jpeg"
+        },
+        {
             "title": "Tony Hawk's Pro Skater 4 Has Been Butchered For The Switch Remake - Nintendo Life",
             "description": "Pop shuvit up your...",
             "url": "https://www.nintendolife.com/news/2025/03/tony-hawks-pro-skater-4-has-been-butchered-for-the-switch-remake",
             "image": "https://images.nintendolife.com/1f43957fa450f/1280x720.jpg"
+        },
+        {
+            "title": "Apple M4 powered MacBook Air makes Geekbench debut - Notebookcheck.net",
+            "description": "Apple's new MacBook Air has made its Geekbench debut. It appears to be a base variant based on its 16 GB RAM and slightly lower Metal score, which suggests it might be running an 8-core GPU.",
+            "url": "https://www.notebookcheck.net/Apple-M4-powered-MacBook-Air-makes-Geekbench-debut.974203.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/the-apple-m4-macbook-air-is-finally-here80.jpg"
         },
         {
             "title": "M3 Ultra on par with M4 Max in CPU performance based on benchmark test - 9to5Mac",
@@ -13,28 +31,10 @@
             "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/mac-studio-m4-max-m3-ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Here\u2019s Galaxy Z Fold 6 and Flip 6 One UI 7 beta changelog - SamMobile - Samsung news",
-            "description": "After announcing the expansion of the One UI 7.0 Beta Program for more devices earlier this week, Samsung released the ...",
-            "url": "https://www.sammobile.com/news/galaxy-z-fold-6-flip-6-one-ui-7-beta-full-changelog/",
-            "image": "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Fold-6-cameras-1-720x405.jpg"
-        },
-        {
-            "title": "Pixel 9a\u2019s new purple color and tiny camera bump shown off in latest leaks [Gallery] - 9to5Google",
-            "description": "Yet another Pixel 9a leak has hit the web, this time showing off the purple color and the tiny camera bump on Google's device.",
-            "url": "http://9to5google.com/2025/03/06/google-pixel-9a-purple-leak/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/pixel-9a-camera-bump-blass-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-            "title": "Nintendo Expands Switch Online's Game Boy Library With Two More Titles - Nintendo Life",
-            "description": "Mario and Donkey Kong are here",
-            "url": "https://www.nintendolife.com/news/2025/03/nintendo-expands-switch-onlines-game-boy-library-with-two-more-titles",
-            "image": "https://images.nintendolife.com/0fe67fdb5729a/1280x720.jpg"
-        },
-        {
-            "title": "Google's new AI Mode is a preview of the future of search - Platformer",
-            "description": "The next phase of AI's takeover of search offers plenty of links to the web \u2014 but will anyone click?",
-            "url": "https://www.platformer.news/google-ai-mode-hands-on/",
-            "image": "https://www.platformer.news/content/images/size/w1200/2025/03/ai-mode-hero-image.width-2200.format-webp.webp"
+            "title": "Scientists Just Discovered a Hidden Superpower in Microscopes \u2013 Thanks to AI - SciTechDaily",
+            "description": "Traditional microscopy often relies on labeling samples with dyes, but this process is costly and time-consuming. To overcome these limitations, researchers have developed a computational quantitative phase imaging (QPI) method using chromatic aberration and \u2026",
+            "url": "https://scitechdaily.com/scientists-just-discovered-a-hidden-superpower-in-microscopes-thanks-to-ai/",
+            "image": "https://scitechdaily.com/images/Physical-Foundations-of-New-Generative-AI-Based-Quantitative-Phase-Imaging-Method-scaled.jpg"
         }
     ]
 }
