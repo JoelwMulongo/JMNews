@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Pok\u00e9mon Company and Honda have produced a life-sized motorbike based on a Pokemon - Video Games Chronicle",
-            "description": "Fans based in Japan can see the concept bike this weekend",
-            "url": "https://www.videogameschronicle.com/news/the-pokemon-company-and-honda-have-produced-a-life-sized-motorbike-based-on-a-pokemon/",
-            "image": "https://www.videogameschronicle.com/files/2025/03/1-1.jpg"
+            "title": "Reviewer purchased fake AMD Ryzen 7 9800X3D CPU in sealed box - VideoCardz.com",
+            "description": "AMD Ryzen 7 9800X3D is actually 2011 FX-4100 CPU\u00a0 Fake CPU from Amazon strikes again.\u00a0 Aris from Hardware Busters needed an extra Ryzen 7 9800X3D processor for his testing, so he ordered one from Amazon. The CPU, purchased at the end of February, arrived almo\u2026",
+            "url": "https://videocardz.com/newz/reviewer-purchased-fake-amd-ryzen-7-9800x3d-cpu-in-sealed-box",
+            "image": "https://cdn.videocardz.com/1/2025/03/FAKE-9800X3D.jpg"
         },
         {
-            "title": "'BS and hype': Amazon execs cast doubt on Microsoft's quantum-computing claims in private discussions - Business Insider",
-            "description": "Amazon executives and employees have been frustrated by Microsoft's recent quantum claims, questioning the true significance of its new chip.",
-            "url": "https://www.businessinsider.com/amazon-exec-casts-doubt-microsoft-quantum-claims-2025-3",
-            "image": "https://i.insider.com/67c9280069253ccddf986d46?width=1200&format=jpeg"
+            "title": "Nintendo Kicks Off MAR10 Day With A New Free Alarmo Theme - Nintendo Life",
+            "description": "Featuring four new tracks",
+            "url": "https://www.nintendolife.com/news/2025/03/nintendo-kicks-off-mar10-day-with-a-new-free-alarmo-theme",
+            "image": "https://images.nintendolife.com/0f1bfbeaa28be/1280x720.jpg"
         },
         {
-            "title": "Tony Hawk's Pro Skater 4 Has Been Butchered For The Switch Remake - Nintendo Life",
-            "description": "Pop shuvit up your...",
-            "url": "https://www.nintendolife.com/news/2025/03/tony-hawks-pro-skater-4-has-been-butchered-for-the-switch-remake",
-            "image": "https://images.nintendolife.com/1f43957fa450f/1280x720.jpg"
+            "title": "Physics-based action adventure game Rootbound announced for PC - Gematsu",
+            "description": "Brainlag Games, a German studio made up of former Piranha Bytes developers established in 2024, has announced Rootbound, a physics-based action adventure game about a plantling\u2019s quest to sav\u2026",
+            "url": "https://www.gematsu.com/2025/03/physics-based-action-adventure-game-rootbound-announced-for-pc",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Rootbound-Ann_03-10-25.jpg"
         },
         {
-            "title": "Apple M4 powered MacBook Air makes Geekbench debut - Notebookcheck.net",
-            "description": "Apple's new MacBook Air has made its Geekbench debut. It appears to be a base variant based on its 16 GB RAM and slightly lower Metal score, which suggests it might be running an 8-core GPU.",
-            "url": "https://www.notebookcheck.net/Apple-M4-powered-MacBook-Air-makes-Geekbench-debut.974203.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/the-apple-m4-macbook-air-is-finally-here80.jpg"
+            "title": "The New Rust-Written NVIDIA \"NOVA\" Driver Submitted Ahead Of Linux 6.15 - Phoronix",
+            "description": "For quite a while Red Hat engineers have been developing the open-source, Rust-written NOVA driver to in effect serve as the successor to the reverse-engineered Nouveau driver that isn't too actively developed in more recent times",
+            "url": "https://www.phoronix.com/news/NOVA-Driver-For-Linux-6.15",
+            "image": "https://www.phoronix.net/image.php?id=2025&image=nova_first"
         },
         {
-            "title": "M3 Ultra on par with M4 Max in CPU performance based on benchmark test - 9to5Mac",
-            "description": "Apple this week announced a new generation of Mac Studio, and surprisingly it is available with two different chip families:...",
-            "url": "https://9to5mac.com/2025/03/06/m3-ultra-m4-max-chip-benchmark/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/mac-studio-m4-max-m3-ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Next PS5 Battlefield Gameplay Floods Internet, Remains Online - Push Square",
+            "description": "We're ready to be hurt again",
+            "url": "https://www.pushsquare.com/news/2025/03/next-ps5-battlefield-gameplay-floods-internet-remains-online",
+            "image": "https://images.pushsquare.com/376ac24451d9e/1280x720.jpg"
         },
         {
-            "title": "Scientists Just Discovered a Hidden Superpower in Microscopes \u2013 Thanks to AI - SciTechDaily",
-            "description": "Traditional microscopy often relies on labeling samples with dyes, but this process is costly and time-consuming. To overcome these limitations, researchers have developed a computational quantitative phase imaging (QPI) method using chromatic aberration and \u2026",
-            "url": "https://scitechdaily.com/scientists-just-discovered-a-hidden-superpower-in-microscopes-thanks-to-ai/",
-            "image": "https://scitechdaily.com/images/Physical-Foundations-of-New-Generative-AI-Based-Quantitative-Phase-Imaging-Method-scaled.jpg"
+            "title": "Cho Aniki Bakuretsu Rantou Hen coming to Switch on June 19 in Japan - Gematsu",
+            "description": "Edia will release a Switch version of one-versus-one fighting game Cho Aniki Bakuretsu Rantou Hen on June 19 in Japan for 4,290 yen, the developer announced. It will be available both physically an\u2026",
+            "url": "https://www.gematsu.com/2025/03/cho-aniki-bakuretsu-rantou-hen-coming-to-switch-on-june-19-in-japan",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Cho-Aniki-Bakuretsu-Rantou-Hen-Switch_03-09-25.jpg"
         }
     ]
 }
