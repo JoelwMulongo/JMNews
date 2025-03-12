@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Reviewer purchased fake AMD Ryzen 7 9800X3D CPU in sealed box - VideoCardz.com",
-            "description": "AMD Ryzen 7 9800X3D is actually 2011 FX-4100 CPU\u00a0 Fake CPU from Amazon strikes again.\u00a0 Aris from Hardware Busters needed an extra Ryzen 7 9800X3D processor for his testing, so he ordered one from Amazon. The CPU, purchased at the end of February, arrived almo\u2026",
-            "url": "https://videocardz.com/newz/reviewer-purchased-fake-amd-ryzen-7-9800x3d-cpu-in-sealed-box",
-            "image": "https://cdn.videocardz.com/1/2025/03/FAKE-9800X3D.jpg"
+            "title": "Microsoft is replacing Remote Desktop with its new Windows app - The Verge",
+            "description": "Microsoft is replacing its Remote Desktop app with the new Windows app. The transition will take place on May 27th.",
+            "url": "https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Nintendo Kicks Off MAR10 Day With A New Free Alarmo Theme - Nintendo Life",
-            "description": "Featuring four new tracks",
-            "url": "https://www.nintendolife.com/news/2025/03/nintendo-kicks-off-mar10-day-with-a-new-free-alarmo-theme",
-            "image": "https://images.nintendolife.com/0f1bfbeaa28be/1280x720.jpg"
+            "title": "Apple\u2019s next major OS updates will bring the biggest design overhaul in years - TechCrunch",
+            "description": "Apple's next set of major updates for the iPhone, iPad and Mac operating systems could bring the biggest design changes across the company's platforms in",
+            "url": "https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800"
         },
         {
-            "title": "Physics-based action adventure game Rootbound announced for PC - Gematsu",
-            "description": "Brainlag Games, a German studio made up of former Piranha Bytes developers established in 2024, has announced Rootbound, a physics-based action adventure game about a plantling\u2019s quest to sav\u2026",
-            "url": "https://www.gematsu.com/2025/03/physics-based-action-adventure-game-rootbound-announced-for-pc",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Rootbound-Ann_03-10-25.jpg"
+            "title": "Rumour: Xbox Expected To Join Switch 2 With A New Handheld This Year - Nintendo Life",
+            "description": "Microsoft could be testing the waters...",
+            "url": "https://www.nintendolife.com/news/2025/03/rumour-xbox-expected-to-join-switch-2-with-a-new-handheld-this-year",
+            "image": "https://images.nintendolife.com/091670a905143/1280x720.jpg"
         },
         {
-            "title": "The New Rust-Written NVIDIA \"NOVA\" Driver Submitted Ahead Of Linux 6.15 - Phoronix",
-            "description": "For quite a while Red Hat engineers have been developing the open-source, Rust-written NOVA driver to in effect serve as the successor to the reverse-engineered Nouveau driver that isn't too actively developed in more recent times",
-            "url": "https://www.phoronix.com/news/NOVA-Driver-For-Linux-6.15",
-            "image": "https://www.phoronix.net/image.php?id=2025&image=nova_first"
+            "title": "Chrono Trigger celebrates 30th anniversary; various projects beyond the game world planned - Gematsu",
+            "description": "The timeless RPG Chrono Trigger, which first launched for Super Famicom in 1995, celebrates its 30th anniversary on March 11 in Japan. In a celebration post on its official Twitter account, Square \u2026",
+            "url": "https://www.gematsu.com/2025/03/chrono-trigger-celebrates-30th-anniversary-various-projects-beyond-the-game-world-planned",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Chrono-Trigger-30th_03-10-25.jpg"
         },
         {
-            "title": "Next PS5 Battlefield Gameplay Floods Internet, Remains Online - Push Square",
-            "description": "We're ready to be hurt again",
-            "url": "https://www.pushsquare.com/news/2025/03/next-ps5-battlefield-gameplay-floods-internet-remains-online",
-            "image": "https://images.pushsquare.com/376ac24451d9e/1280x720.jpg"
+            "title": "Kojima Cameo Mission Coming to Control Ultimate Edition on PS5 - Push Square",
+            "description": "\ufeffDr Yoshimi Tokui's Guided Imagery Experience",
+            "url": "https://www.pushsquare.com/news/2025/03/kojima-cameo-mission-coming-to-control-ultimate-edition-on-ps5",
+            "image": "https://images.pushsquare.com/852e499a93d93/1280x720.jpg"
         },
         {
-            "title": "Cho Aniki Bakuretsu Rantou Hen coming to Switch on June 19 in Japan - Gematsu",
-            "description": "Edia will release a Switch version of one-versus-one fighting game Cho Aniki Bakuretsu Rantou Hen on June 19 in Japan for 4,290 yen, the developer announced. It will be available both physically an\u2026",
-            "url": "https://www.gematsu.com/2025/03/cho-aniki-bakuretsu-rantou-hen-coming-to-switch-on-june-19-in-japan",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Cho-Aniki-Bakuretsu-Rantou-Hen-Switch_03-09-25.jpg"
+            "title": "Intel MacBook Air users can finally upgrade without giving up a feature - 9to5Mac",
+            "description": "Still using an Intel MacBook Air? You\u2019re now free to throw it in the recycling bin without feeling guilty. OK,...",
+            "url": "https://9to5mac.com/2025/03/10/intel-macbook-air-users-can-finally-upgrade-without-giving-up-a-feature/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/07/2018-MacBook-Air1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
