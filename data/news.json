@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft is replacing Remote Desktop with its new Windows app - The Verge",
-            "description": "Microsoft is replacing its Remote Desktop app with the new Windows app. The transition will take place on May 27th.",
-            "url": "https://www.theverge.com/news/627483/microsoft-remote-desktop-windows-app-replacement",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK095_MICROSOFT_2_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "\u2018Pokemon Go\u2019 Studio Niantic Sold in $3.5B Deal to Mobile Gaming Giant Scopely - Hollywood Reporter",
+            "description": "Niantic will sell its gaming business to Scopely, including 'Pokemon Go,' 'Pikmin Bloom' in a deal that transforms the mobile gaming landscape.",
+            "url": "http://www.hollywoodreporter.com/business/digital/pokemon-go-studio-niantic-sold-scopely-1236161480/",
+            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/Scopely-and-Niantic_Header.png?crop=0px%2C4px%2C1920px%2C1074px&resize=1440%2C810"
         },
         {
-            "title": "Apple\u2019s next major OS updates will bring the biggest design overhaul in years - TechCrunch",
-            "description": "Apple's next set of major updates for the iPhone, iPad and Mac operating systems could bring the biggest design changes across the company's platforms in",
-            "url": "https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800"
+            "title": "Apple adds new disclaimer on its website advertising delayed AI Siri features - 9to5Mac",
+            "description": "Apple is still reeling from the last-week\u2019s news that the most compelling new Apple Intelligence features for Siri have been...",
+            "url": "https://9to5mac.com/2025/03/12/apple-adds-new-disclaimer-on-its-website-advertising-delayed-ai-siri-features/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/ios-18-siri-features-delayed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Rumour: Xbox Expected To Join Switch 2 With A New Handheld This Year - Nintendo Life",
-            "description": "Microsoft could be testing the waters...",
-            "url": "https://www.nintendolife.com/news/2025/03/rumour-xbox-expected-to-join-switch-2-with-a-new-handheld-this-year",
-            "image": "https://images.nintendolife.com/091670a905143/1280x720.jpg"
+            "title": "North Korean government hackers snuck spyware on Android app store - TechCrunch",
+            "description": "Cybersecurity firm Lookout found several samples of a North Korean spyware it calls KoSpy.",
+            "url": "https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/03/kim-jong-un-tv-cellphone.jpg?resize=1200,850"
         },
         {
-            "title": "Chrono Trigger celebrates 30th anniversary; various projects beyond the game world planned - Gematsu",
-            "description": "The timeless RPG Chrono Trigger, which first launched for Super Famicom in 1995, celebrates its 30th anniversary on March 11 in Japan. In a celebration post on its official Twitter account, Square \u2026",
-            "url": "https://www.gematsu.com/2025/03/chrono-trigger-celebrates-30th-anniversary-various-projects-beyond-the-game-world-planned",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/03/Chrono-Trigger-30th_03-10-25.jpg"
+            "title": "Google calls Gemma 3 the most powerful AI model you can run on one GPU - The Verge",
+            "description": "Google\u2019s Gemma 3 AI models are \u201copen\u201d versions of the technology behind its Gemini AI, which it says can outperform competition from DeepSeek, Meta, and OpenAI.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK258_GOOGLE_GEMMA__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Kojima Cameo Mission Coming to Control Ultimate Edition on PS5 - Push Square",
-            "description": "\ufeffDr Yoshimi Tokui's Guided Imagery Experience",
-            "url": "https://www.pushsquare.com/news/2025/03/kojima-cameo-mission-coming-to-control-ultimate-edition-on-ps5",
-            "image": "https://images.pushsquare.com/852e499a93d93/1280x720.jpg"
+            "title": "Microsoft quantum breakthrough claims labelled 'unreliable' and 'essentially fraudulent' - The Register",
+            "description": "Redmond insists it's got this right and has even more impressive results to share soon",
+            "url": "https://www.theregister.com/2025/03/12/microsoft_majorana_quantum_claims_overshadowed/",
+            "image": "https://regmedia.co.uk/2025/02/19/microsoft_majorana.jpg"
         },
         {
-            "title": "Intel MacBook Air users can finally upgrade without giving up a feature - 9to5Mac",
-            "description": "Still using an Intel MacBook Air? You\u2019re now free to throw it in the recycling bin without feeling guilty. OK,...",
-            "url": "https://9to5mac.com/2025/03/10/intel-macbook-air-users-can-finally-upgrade-without-giving-up-a-feature/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/07/2018-MacBook-Air1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Space Force's Secret Plane Returns After More Than a Year in Orbit - ScienceAlert",
+            "description": "The X-37B is a reusable robotic space plane operated by the US Space Force.",
+            "url": "https://www.sciencealert.com/space-forces-secret-plane-returns-after-more-than-a-year-in-orbit",
+            "image": "https://www.sciencealert.com/images/2025/03/nasa_space_plane_header.jpg"
         }
     ]
 }
