@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "\u2018Pokemon Go\u2019 Studio Niantic Sold in $3.5B Deal to Mobile Gaming Giant Scopely - Hollywood Reporter",
-            "description": "Niantic will sell its gaming business to Scopely, including 'Pokemon Go,' 'Pikmin Bloom' in a deal that transforms the mobile gaming landscape.",
-            "url": "http://www.hollywoodreporter.com/business/digital/pokemon-go-studio-niantic-sold-scopely-1236161480/",
-            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/03/Scopely-and-Niantic_Header.png?crop=0px%2C4px%2C1920px%2C1074px&resize=1440%2C810"
+            "title": "iOS 18.3.2\u2014Update Now Warning Issued To All iPhone Users - Forbes",
+            "description": "Apple has released iOS 18.3.2, an emergency update fixing a single iPhone security issue already being used in real-life attacks. Here's what you need to know.",
+            "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/03/13/ios-1832-update-now-warning-issued-to-all-iphone-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/671fd9d1c5671e85910fdff9/0x0.jpg?format=jpg&crop=2367,1331,x0,y122,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Apple adds new disclaimer on its website advertising delayed AI Siri features - 9to5Mac",
-            "description": "Apple is still reeling from the last-week\u2019s news that the most compelling new Apple Intelligence features for Siri have been...",
-            "url": "https://9to5mac.com/2025/03/12/apple-adds-new-disclaimer-on-its-website-advertising-delayed-ai-siri-features/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/ios-18-siri-features-delayed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "John Gruber Says 'Something is Rotten' at Apple - MacRumors",
+            "description": "Daring Fireball's John Gruber today shared some strongly-worded comments about Apple's delayed personalized Siri features. Gruber is a...",
+            "url": "https://www.macrumors.com/2025/03/12/gruber-says-something-is-rotten-at-apple/",
+            "image": "https://images.macrumors.com/t/CKzEO2sgmRHs1CEG7jXnaVdSKtg=/1600x/article-new/2025/03/Apple-More-Personal-Siri-Ad.jpg"
         },
         {
-            "title": "North Korean government hackers snuck spyware on Android app store - TechCrunch",
-            "description": "Cybersecurity firm Lookout found several samples of a North Korean spyware it calls KoSpy.",
-            "url": "https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/03/kim-jong-un-tv-cellphone.jpg?resize=1200,850"
+            "title": "Something Is Rotten in the State of Cupertino - Daring Fireball",
+            "description": "Who decided these personalized Siri features should go in the WWDC keynote, with a promise they\u2019d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three\u2026",
+            "url": "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino",
+            "image": "https://daringfireball.net/graphics/df-wide-card.png"
         },
         {
-            "title": "Google calls Gemma 3 the most powerful AI model you can run on one GPU - The Verge",
-            "description": "Google\u2019s Gemma 3 AI models are \u201copen\u201d versions of the technology behind its Gemini AI, which it says can outperform competition from DeepSeek, Meta, and OpenAI.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK258_GOOGLE_GEMMA__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Everything on Xbox's PC gaming handheld \"Kennan\" - Windows Central",
+            "description": "Microsoft is working on a partner gaming handheld with ASUS, set to launch later this year.",
+            "url": "https://www.windowscentral.com/gaming/xbox/xbox-project-kennan-gaming-handheld-everything-we-know-so-far",
+            "image": "https://cdn.mos.cms.futurecdn.net/TDqY5dRejc5xiXVGCfUjuV-1200-80.jpg"
         },
         {
-            "title": "Microsoft quantum breakthrough claims labelled 'unreliable' and 'essentially fraudulent' - The Register",
-            "description": "Redmond insists it's got this right and has even more impressive results to share soon",
-            "url": "https://www.theregister.com/2025/03/12/microsoft_majorana_quantum_claims_overshadowed/",
-            "image": "https://regmedia.co.uk/2025/02/19/microsoft_majorana.jpg"
+            "title": "Google\u2019s New AI Model Gemma 3 Shines for Creative Writers, Falls Short Elsewhere - Decrypt",
+            "description": "In our review, Google's open-source Gemma 3 beats AI Models 15 times its size while running on a single GPU. But it\u2019s also very limited.",
+            "url": "https://decrypt.co/309718/googles-new-ai-model-gemma-3-shines-for-creative-writers-falls-short-elsewhere",
+            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/03/freepik__a-female-robot-from-google-with-the-google-logo-on__90059-gID_7.png"
         },
         {
-            "title": "Space Force's Secret Plane Returns After More Than a Year in Orbit - ScienceAlert",
-            "description": "The X-37B is a reusable robotic space plane operated by the US Space Force.",
-            "url": "https://www.sciencealert.com/space-forces-secret-plane-returns-after-more-than-a-year-in-orbit",
-            "image": "https://www.sciencealert.com/images/2025/03/nasa_space_plane_header.jpg"
+            "title": "Mark Klein, AT&T Whistleblower Who Revealed NSA Mass Spying, Has Died - Slashdot",
+            "description": "An anonymous reader quotes a report from the EFF: EFF is deeply saddened to learn of the passing of Mark Klein, a bona fide hero who risked civil liability and criminal prosecution to help expose a massive spying program that violated the rights of millions o\u2026",
+            "url": "https://news.slashdot.org/story/25/03/12/2127218/mark-klein-att-whistleblower-who-revealed-nsa-mass-spying-has-died",
+            "image": "https://a.fsdn.com/sd/topics/usa_64.png"
         }
     ]
 }
