@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "iOS 18.3.2\u2014Update Now Warning Issued To All iPhone Users - Forbes",
-            "description": "Apple has released iOS 18.3.2, an emergency update fixing a single iPhone security issue already being used in real-life attacks. Here's what you need to know.",
-            "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/03/13/ios-1832-update-now-warning-issued-to-all-iphone-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/671fd9d1c5671e85910fdff9/0x0.jpg?format=jpg&crop=2367,1331,x0,y122,safe&height=900&width=1600&fit=bounds"
+            "title": "Generation Xanax: The Dark Side of America\u2019s Wonder Drug - The Wall Street Journal",
+            "description": "No description available.",
+            "url": "https://www.wsj.com/health/wellness/xanax-drug-benzodiazepines-research-harm-7a60f236",
+            "image": null
         },
         {
-            "title": "John Gruber Says 'Something is Rotten' at Apple - MacRumors",
-            "description": "Daring Fireball's John Gruber today shared some strongly-worded comments about Apple's delayed personalized Siri features. Gruber is a...",
-            "url": "https://www.macrumors.com/2025/03/12/gruber-says-something-is-rotten-at-apple/",
-            "image": "https://images.macrumors.com/t/CKzEO2sgmRHs1CEG7jXnaVdSKtg=/1600x/article-new/2025/03/Apple-More-Personal-Siri-Ad.jpg"
+            "title": "Compact Light Phone 3 for minimalists expected to be available from late March - Notebookcheck.net",
+            "description": "The Light Phone 3, one of the most unusual smartphones on the market, is set to launch soon. Sporting a 3.92-inch AMOLED display, the smartphone is not only extremely compact, its minimalist user interface is designed to avoid unnecessary distractions.",
+            "url": "https://www.notebookcheck.net/Compact-Light-Phone-3-for-minimalists-expected-to-be-available-from-late-March.978776.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Light-Phone-3b.jpg"
         },
         {
-            "title": "Something Is Rotten in the State of Cupertino - Daring Fireball",
-            "description": "Who decided these personalized Siri features should go in the WWDC keynote, with a promise they\u2019d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three\u2026",
-            "url": "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino",
-            "image": "https://daringfireball.net/graphics/df-wide-card.png"
+            "title": "T-Mobile is raising prices on some of its prized legacy plans - The Verge",
+            "description": "T-Mobile is increasing legacy plans by $5 per line per month starting April 2nd.",
+            "url": "https://www.theverge.com/news/629598/t-mobile-legacy-plan-price-increase",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23962440/acastro_STK067__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Everything on Xbox's PC gaming handheld \"Kennan\" - Windows Central",
-            "description": "Microsoft is working on a partner gaming handheld with ASUS, set to launch later this year.",
-            "url": "https://www.windowscentral.com/gaming/xbox/xbox-project-kennan-gaming-handheld-everything-we-know-so-far",
-            "image": "https://cdn.mos.cms.futurecdn.net/TDqY5dRejc5xiXVGCfUjuV-1200-80.jpg"
+            "title": "Konami's Japan-set Silent Hill f resurfaces with eerie new trailer and fresh details - Eurogamer",
+            "description": "It's been a good long while since Silent Hill f was unveiled as part of Konami's four-game series revival back in 2022.\u2026",
+            "url": "https://www.eurogamer.net/konamis-japan-set-silent-hill-f-resurfaces-with-eerie-new-trailer-and-fresh-details",
+            "image": "https://assetsio.gnwcdn.com/silent-hill-f-twisted-mannequin.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Google\u2019s New AI Model Gemma 3 Shines for Creative Writers, Falls Short Elsewhere - Decrypt",
-            "description": "In our review, Google's open-source Gemma 3 beats AI Models 15 times its size while running on a single GPU. But it\u2019s also very limited.",
-            "url": "https://decrypt.co/309718/googles-new-ai-model-gemma-3-shines-for-creative-writers-falls-short-elsewhere",
-            "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/03/freepik__a-female-robot-from-google-with-the-google-logo-on__90059-gID_7.png"
+            "title": "Apple\u2019s AirPods 4 are down to their lowest price to date - The Verge",
+            "description": "The AirPods 4, Apple\u2019s entry-level earbuds, are on sale for just $99.99 right now. You can also pick up the AirPods 4 with ANC for about $50 more.",
+            "url": "https://www.theverge.com/good-deals/629335/apple-airpods-4-earbuds-lowest-price-deal-sale",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSCF0031.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
         },
         {
-            "title": "Mark Klein, AT&T Whistleblower Who Revealed NSA Mass Spying, Has Died - Slashdot",
-            "description": "An anonymous reader quotes a report from the EFF: EFF is deeply saddened to learn of the passing of Mark Klein, a bona fide hero who risked civil liability and criminal prosecution to help expose a massive spying program that violated the rights of millions o\u2026",
-            "url": "https://news.slashdot.org/story/25/03/12/2127218/mark-klein-att-whistleblower-who-revealed-nsa-mass-spying-has-died",
-            "image": "https://a.fsdn.com/sd/topics/usa_64.png"
+            "title": "Kuo: Cook Should Personally Address Siri Apple Intelligence Failure - MacRumors",
+            "description": "Apple made a major misstep with the way that it handled the delay of Apple Intelligence features for Siri, Apple analyst Ming-Chi Kuo said today....",
+            "url": "https://www.macrumors.com/2025/03/13/kuo-tim-cook-siri-apple-failure/",
+            "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg"
         }
     ]
 }
