@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Forget 28mm, much wider tyres are coming - Cyclingnews",
-            "description": "Cyclingnews finds saving of over 75 watts on cobbled roads, even with aerodynamics accounted for",
-            "url": "https://www.cyclingnews.com/news/forget-28mm-much-wider-tyres-are-coming/",
-            "image": "https://cdn.mos.cms.futurecdn.net/8s4gzAzVQMJByj8RebU4Yj-1200-80.jpg"
+            "title": "Gemini app now available without Google Account sign in - 9to5Google",
+            "description": "Since launch, the Gemini app has required that you sign in with your Google Account. That\u2019s no longer the case...",
+            "url": "http://9to5google.com/2025/03/18/gemini-no-sign-in/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Gemini-sign-in-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "\"We had to scale back a little bit and hire security guards\": Palworld developer reveals Nintendo lawsuit reaction - Eurogamer",
-            "description": "Pocketpair, the maker of Palworld, has discussed the moment it discovered Nintendo had launched legal action against the studio's Pok\u00e9mon-style game.",
-            "url": "https://www.eurogamer.net/we-had-to-scale-back-a-little-bit-and-hire-security-guards-palworld-developer-reveals-nintendo-lawsuit-reaction",
-            "image": "https://assetsio.gnwcdn.com/Untitled-1_kcSOFIh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Developer\u2019s GDC billboard pokes at despised former Google Stadia exec - Ars Technica",
+            "description": "Satirical San Francisco billboard asks: \u201cHas a Harrison fired you lately?\u201d\u2026",
+            "url": "https://arstechnica.com/gaming/2025/03/developers-gdc-billboard-pokes-at-despised-former-google-stadia-exec/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/philboard-2560x1440.png"
         },
         {
-            "title": "Xbox Game Pass loses another 10 games in March 2025 - TrueAchievements",
-            "description": "The second wave of games leaving Xbox Game Pass in March 2025 has been confirmed. At the end of the month, another 10 titles will drop out of Game Pass.",
-            "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-march-2025-wave-2",
-            "image": "https://www.trueachievements.com/imgs/157038/xbox-game-pass-loses-another-10-games-in-march-2025.jpg"
+            "title": "Gal Gadot\u2019s \u2018Imagine\u2019 Video Was The Beginning of the End - Vulture",
+            "description": "Perhaps it\u2019s not a coincidence that, in the five years since Gal Gadot released her \u2018Imagine\u2019 video, disdain for celebrities \u2014 at least the traditional Hollywood class \u2014 has increased alongside a deep sense of nihilism.",
+            "url": "http://www.vulture.com/article/gal-gadot-imagine-video-five-years-later.html",
+            "image": "https://pyxis.nymag.com/v1/imgs/1b1/141/213aaf8177abc0111f1b1e05435bfcc59a-galgadot-imagine.1x.rsocial.w1200.jpg"
         },
         {
-            "title": "YESTON expects Radeon RX 9070 supply to stabilize after April - VideoCardz.com",
-            "description": "Yeston anticipates improved Radeon RX 9070 supply in six Weeks If you are looking for a new card, especially one based on AMD RDNA 4 architecture, you may feel frustrated by the fact that there are no MSRP cards available. The supply is undoubtedly better tha\u2026",
-            "url": "https://videocardz.com/newz/yeston-expects-radeon-rx-9070-supply-to-stabilize-after-april",
-            "image": "https://cdn.videocardz.com/1/2025/03/YESTON-RADEON-RX-9070-HERO.jpg"
+            "title": "Nintendo Switch 2 rumor just tipped possible release date \u2014 and it's much sooner than we thought - Tom's Guide",
+            "description": "A Spring release?",
+            "url": "https://www.tomsguide.com/gaming/nintendo/nintendo-switch-2-rumor-just-tipped-possible-release-date-and-its-much-sooner-than-we-thought",
+            "image": "https://cdn.mos.cms.futurecdn.net/v9g5HNpqoizWatHeV55Fhi-1200-80.jpg"
         },
         {
-            "title": "Google Messages could soon sport an Android 16-inspired look (APK teardown) - Android Authority",
-            "description": "Google is working to redesign the Preferences screen within Google Messages, bringing it more inline what we see across Android 16. Read on!",
-            "url": "https://www.androidauthority.com/google-messages-preferences-redesign-apk-teardown-3535932/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Messages-upcoming-Redesign_2-scaled.jpg"
-        },
-        {
-            "title": "Gemini Live gets more compact interface ahead of Astra - 9to5Google",
-            "description": "Ahead of Astra video and screen sharing later this month, Gemini Live is getting a more compact interface on Android.",
-            "url": "http://9to5google.com/2025/03/17/gemini-live-compact-interface/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/New-Gemini-Live-UI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Gemini gets new coding and writing tools, plus AI-generated \u201cpodcasts\u201d - Ars Technica",
+            "description": "Gemini is absorbing features from one of Google\u2019s coolest AI products.",
+            "url": "https://arstechnica.com/gadgets/2025/03/gemini-gets-new-coding-and-writing-tools-plus-ai-generated-podcasts/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Google-Gemini-Canvas-Audio-1152x648-1742324534.jpg"
         }
     ]
 }
