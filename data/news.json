@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Huawei\u2019s new flip phone is weirdly wide - The Verge",
-            "description": "The Huawei Pura X is a flip phone with a new, wider form factor \u2014 and it\u2019s the first phone to run the new Harmony Intelligence AI assistant.",
-            "url": "https://www.theverge.com/news/633159/huawei-pura-x-flip-phone-wide-1610-aspect-ratio-harmonyos-next",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/huawei-pura-x-crop.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+            "title": "God of War Fans Gutted with Free 20th Anniversary Goodies - Push Square",
+            "description": "\"They give us pure crap\"",
+            "url": "https://www.pushsquare.com/news/2025/03/god-of-war-fans-gutted-with-free-20th-anniversary-goodies",
+            "image": "https://images.pushsquare.com/de22d72e6b52f/large.jpg"
         },
         {
-            "title": "The GFX100RF is a Medium Format Fixed-Lens Rangefinder-Style Camera - PetaPixel",
-            "description": "The Fujifilm GFX100RF features a 28mm f/4 full-frame equivalent lens in front of a medium format 102-megapixel sensor.",
-            "url": "https://petapixel.com/2025/03/20/the-gfx100rf-is-a-medium-format-fixed-lens-rangefinder-style-camera/",
-            "image": "https://petapixel.com/assets/uploads/2025/03/The-GFX100RF-is-a-Medium-Format-Fixed-Lens-Rangefinder-Style-Camera.jpg"
+            "title": "Gemini app redesigns \u2018plus\u2019 menu, adds Canvas on Android and iOS - 9to5Google",
+            "description": "Gemini Canvas and Audio Overviews are now available on the Android and iOS app with a redesign of the plus menu.",
+            "url": "http://9to5google.com/2025/03/20/gemini-app-plus-menu-redesign/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/gemini-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Google Pixel 9a launch LIVE: Everything you need to know - Tom's Guide",
-            "description": "Google has announced its new budget phone and we've got hands-on impressions",
-            "url": "https://www.tomsguide.com/news/live/google-pixel-9a-launch",
-            "image": "https://cdn.mos.cms.futurecdn.net/N32yUKLnVQ5hpy3HYNtXki-1200-80.jpg"
+            "title": "Nintendo Expands Switch Online's SNES Library With Four More Titles - Nintendo Life",
+            "description": "Arriving next week",
+            "url": "https://www.nintendolife.com/news/2025/03/nintendo-expands-switch-onlines-snes-library-with-four-more-titles",
+            "image": "https://images.nintendolife.com/af0d4fbd9ecaf/large.jpg"
         },
         {
-            "title": "Siri has become an unmitigated disaster, and AI won\u2019t save it - 9to5Mac",
-            "description": "I know, I know. I\u2019m late to the Siri Sucks party. In my defense, Siri\u2019s degree of suck has increased....",
-            "url": "https://9to5mac.com/2025/03/19/siri-has-become-an-unmitigated-disaster-and-ai-wont-save-it/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/siri-dumpster-fire.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Microsoft Unveils DirectX Raytracing 1.2 With Huge Performance & Visual Improvements, Next-Gen Neural Rendering, Partnerships With NVIDIA, AMD & Intel - Wccftech",
+            "description": "Microsoft has announced DirectX Raytracing (DXR) 1.2 update alongside next-gen Neural Rendering support across NVIDIA, Intel & AMD hardware.",
+            "url": "https://wccftech.com/microsoft-directx-raytracing-1-2-huge-performance-visual-improvements-next-gen-neural-rendering-nvidia-amd-intel/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Microsoft-DirectX-Raytracing-DXR.jpg"
         },
         {
-            "title": "Gallery: Xenoblade Chronicles X Celebrates Switch Launch With Stunning Character Artwork - Nintendo Life",
-            "description": "New Switch Online icons also available",
-            "url": "https://www.nintendolife.com/news/2025/03/gallery-xenoblade-chronicles-x-celebrates-switch-launch-with-stunning-character-artwork",
-            "image": "https://images.nintendolife.com/98ac141a0f426/large.jpg"
+            "title": "Is Xbox getting Steam integration?! - Windows Central",
+            "description": "Microsoft just \"leaked\" an Xbox interface mock up which has Steam game integration.",
+            "url": "https://www.windowscentral.com/gaming/xbox/microsoft-just-leaked-an-xbox-interface-mock-up-which-has-steam-game-integration",
+            "image": "https://cdn.mos.cms.futurecdn.net/myM8PSUT3NcBMxksTRkYrB-1200-80.jpg"
         },
         {
-            "title": "After 25 years of The Sims, could InZoi be about to steal its crown? - Eurogamer",
-            "description": "You know how the old saying goes: you wait 25 years for a The Sims competitor and then three come along at once. Lo-fi \u2026",
-            "url": "https://www.eurogamer.net/after-25-years-of-the-sims-could-inzoi-be-about-to-steal-its-crown",
-            "image": "https://assetsio.gnwcdn.com/inzoi-header_1u0E44P.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri - Yahoo Finance",
+            "description": "(Bloomberg) -- Apple Inc. is undergoing a rare shake-up of its executive ranks, aiming to get its artificial intelligence efforts back on track after months ...",
+            "url": "https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html",
+            "image": "https://s.yimg.com/ny/api/res/1.2/0qiJAaJK5WgTckXvwSyf3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_technology_68/66d71aefcf095b00dc804550cf21acac"
         }
     ]
 }
