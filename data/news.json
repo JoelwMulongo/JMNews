@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Reminder: Nintendo Is Removing A Switch Online SNES Game Next Week - Nintendo Life",
-            "description": "Play 'Super Soccer' on the subscription service before it's gone",
-            "url": "https://www.nintendolife.com/news/2025/03/reminder-nintendo-is-removing-a-switch-online-snes-game-next-week",
-            "image": "https://images.nintendolife.com/e9f853d16f231/large.jpg"
+            "title": "Android 16 Beta lets more Pixels use screen-off fingerprint unlock - 9to5Google",
+            "description": "The recent Android 16 Beta 3 (and Beta 3.1) release updates a feature limited to the Pixel 9 and allows...",
+            "url": "http://9to5google.com/2025/03/24/android-16-beta-lets-more-pixels-use-screen-off-fingerprint-unlock/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/pixel-6a-google-fingerprint-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Xenoblade dev Monolith Soft says it will never be satisfied with the status quo, wants to aim for higher quality - Nintendo Everything",
-            "description": "Xenoblade developer Monolith Soft reflects on the past and future, talking about quality and striving for more.",
-            "url": "https://nintendoeverything.com/monolith-soft-says-it-will-never-be-satisfied-with-the-status-quo-wants-to-aim-for-higher-quality/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Monolith-Soft-quality.jpg"
+            "title": "Google Confirms User Data Deletion Error\u2014Who Is Impacted, What To Do - Forbes",
+            "description": "Google has confirmed it deleted user data in error, which may not be recoverable. Here\u2019s what you need to know.",
+            "url": "https://www.forbes.com/sites/daveywinder/2025/03/24/google-confirms-user-data-deletion-error-who-is-impacted-what-to-do/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6784ea09a5322b8d82da9764/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Abusable Tarkir: Dragonstorm Build-Around Floods the Board with Attackers - MTG Rocks",
-            "description": "Avenger of the Fallen has the same stats as Preacher of the Schism, and in the right setting, Avenger threatens to take over the game.",
-            "url": "https://mtgrocks.com/avenger-of-the-fallen-mtg/",
-            "image": "https://mtgrocks.com/wp-content/uploads/2025/03/preacher-of-the-schism-art-large-better-quality.webp"
+            "title": "UK Charts: A Strong Xenoblade Debut Can't Escape Assassin's Creed's Shadow - Nintendo Life",
+            "description": "Pain in the Mech",
+            "url": "https://www.nintendolife.com/news/2025/03/uk-charts-a-strong-xenoblade-debut-cant-escape-assassins-creeds-shadow",
+            "image": "https://images.nintendolife.com/0985bbccf4250/large.jpg"
         },
         {
-            "title": "Hue accidentally leaks a new video doorbell - The Verge",
-            "description": "An update to the Hue app this week added instructions to install an unannounced \u201cSecure doorbell\u201d product if you\u2019re missing the QR code.",
-            "url": "https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Hue-indoor-outdoor-camera.jpeg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200"
+            "title": "Final Fantasy 7 Rebirth Drops to Lowest Price Ever, and Even Beats Its Black Friday Discount - IGN",
+            "description": "Get Final Fantasy VII Rebirth for PS5 at its lowest price yet\u2014just $32.99 at Woot. With such a deep discount, it may not last long.",
+            "url": "https://www.ign.com/articles/final-fantasy-7-rebirth-drops-to-lowest-price-ever-2025",
+            "image": "https://assets-prd.ignimgs.com/2023/06/15/access-sog23-blog-1686854467602.jpg?width=1280"
         },
         {
-            "title": "A new God of War \u2018side-story project\u2019 set in Greece is coming this year, it\u2019s claimed - Video Games Chronicle",
-            "description": "\"It's not a remaster collection\" but something new, journalist says",
-            "url": "https://www.videogameschronicle.com/news/a-new-god-of-war-side-story-project-set-in-greece-is-coming-this-year-its-claimed/",
-            "image": "https://www.videogameschronicle.com/files/2025/03/God-of-War-2-wallpaper.jpg"
+            "title": "Rumour: A Switch 1 Direct Presentation May Take Place This Week - Nintendo Life",
+            "description": "Colour us sceptical, though",
+            "url": "https://www.nintendolife.com/news/2025/03/rumour-a-switch-1-direct-presentation-may-take-place-this-week",
+            "image": "https://images.nintendolife.com/8a6c650897628/large.jpg"
+        },
+        {
+            "title": "Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks - The Hacker News",
+            "description": "Next.js flaw CVE-2025-29927 bypasses authorization checks in versions 12.3.5 to 15.2.3, risking admin page access.",
+            "url": "https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju51s8C-YRfwNqS5bwSkr7KlPeKSciSM8enbWEAc111TwyUbr_G-EV3jJiuTWPbBk9e7lrxh9OPdS6_YyLdjr4pgrt7rApvGk7XVjcpIDBwa-uipiAM1r8SFIWj6Myo2-hC4d2-pb2Fzys8ny8yAIQqF3vIv8g7E0lA9IJUuHCg9Q2fkqFsdWzG2k3O0Z-/s728-rw-e365/nextjs.png"
         }
     ]
 }
