@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Android 16 Beta lets more Pixels use screen-off fingerprint unlock - 9to5Google",
-            "description": "The recent Android 16 Beta 3 (and Beta 3.1) release updates a feature limited to the Pixel 9 and allows...",
-            "url": "http://9to5google.com/2025/03/24/android-16-beta-lets-more-pixels-use-screen-off-fingerprint-unlock/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/pixel-6a-google-fingerprint-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "The magical medieval tale revealed by a hi-tech camera - BBC.com",
+            "description": "For centuries, an intriguing sequel to the tale of Merlin has sat unseen within the bindings of another book. Researchers have finally revealed it with cutting-edge techniques.",
+            "url": "https://www.bbc.com/future/article/20250324-the-magical-medieval-tale-revealed-by-a-100000-dollar-camera",
+            "image": "https://ychef.files.bbci.co.uk/624x351/p0l036rn.jpg"
         },
         {
-            "title": "Google Confirms User Data Deletion Error\u2014Who Is Impacted, What To Do - Forbes",
-            "description": "Google has confirmed it deleted user data in error, which may not be recoverable. Here\u2019s what you need to know.",
-            "url": "https://www.forbes.com/sites/daveywinder/2025/03/24/google-confirms-user-data-deletion-error-who-is-impacted-what-to-do/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6784ea09a5322b8d82da9764/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "Nintendo Reuploads Game Vouchers Trailer With Switch 2 Fine Print - Nintendo Life",
+            "description": "ICYMI: Vouchers won't work on Switch 2",
+            "url": "https://www.nintendolife.com/news/2025/03/nintendo-reuploads-game-vouchers-trailer-with-switch-2-fine-print",
+            "image": "https://images.nintendolife.com/156803be0cdc3/large.jpg"
         },
         {
-            "title": "UK Charts: A Strong Xenoblade Debut Can't Escape Assassin's Creed's Shadow - Nintendo Life",
-            "description": "Pain in the Mech",
-            "url": "https://www.nintendolife.com/news/2025/03/uk-charts-a-strong-xenoblade-debut-cant-escape-assassins-creeds-shadow",
-            "image": "https://images.nintendolife.com/0985bbccf4250/large.jpg"
+            "title": "Bethesda, Xbox Played to the PlayStation Crowd with Indiana Jones PS5's Reveal - Push Square",
+            "description": "They knew what they were doing",
+            "url": "https://www.pushsquare.com/news/2025/03/bethesda-xbox-played-to-the-playstation-crowd-with-indiana-jones-ps5s-reveal",
+            "image": "https://images.pushsquare.com/d9bf2c7f8fa01/large.jpg"
         },
         {
-            "title": "Final Fantasy 7 Rebirth Drops to Lowest Price Ever, and Even Beats Its Black Friday Discount - IGN",
-            "description": "Get Final Fantasy VII Rebirth for PS5 at its lowest price yet\u2014just $32.99 at Woot. With such a deep discount, it may not last long.",
-            "url": "https://www.ign.com/articles/final-fantasy-7-rebirth-drops-to-lowest-price-ever-2025",
-            "image": "https://assets-prd.ignimgs.com/2023/06/15/access-sog23-blog-1686854467602.jpg?width=1280"
+            "title": "Xbox testing new Game Hubs feature, update rolling out to select users now - Windows Central",
+            "description": "Members of certain Xbox Insider Program tiers can test Game Hubs, which gather information about a game all in one place.",
+            "url": "https://www.windowscentral.com/gaming/xbox/xbox-game-hubs-feature-testing-xbox-insider-program",
+            "image": "https://cdn.mos.cms.futurecdn.net/hJHjBwVwYkmqPyt8MGZsJg-1200-80.jpg"
         },
         {
-            "title": "Rumour: A Switch 1 Direct Presentation May Take Place This Week - Nintendo Life",
-            "description": "Colour us sceptical, though",
-            "url": "https://www.nintendolife.com/news/2025/03/rumour-a-switch-1-direct-presentation-may-take-place-this-week",
-            "image": "https://images.nintendolife.com/8a6c650897628/large.jpg"
-        },
-        {
-            "title": "Critical Next.js Vulnerability Allows Attackers to Bypass Middleware Authorization Checks - The Hacker News",
-            "description": "Next.js flaw CVE-2025-29927 bypasses authorization checks in versions 12.3.5 to 15.2.3, risking admin page access.",
-            "url": "https://thehackernews.com/2025/03/critical-nextjs-vulnerability-allows.html",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju51s8C-YRfwNqS5bwSkr7KlPeKSciSM8enbWEAc111TwyUbr_G-EV3jJiuTWPbBk9e7lrxh9OPdS6_YyLdjr4pgrt7rApvGk7XVjcpIDBwa-uipiAM1r8SFIWj6Myo2-hC4d2-pb2Fzys8ny8yAIQqF3vIv8g7E0lA9IJUuHCg9Q2fkqFsdWzG2k3O0Z-/s728-rw-e365/nextjs.png"
+            "title": "\u2018Pixie\u2019 was a canceled Pixel assistant that became Screenshots app - 9to5Google",
+            "description": "Ahead of the Pixel 9, Google was rumored to be working on a \u201cPixie\u201d assistant. That never launched, but a new report reveals what happened.",
+            "url": "http://9to5google.com/2025/03/24/pixel-pixie-assistant-report/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Pixel-Screenshots-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
