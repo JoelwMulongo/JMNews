@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The magical medieval tale revealed by a hi-tech camera - BBC.com",
-            "description": "For centuries, an intriguing sequel to the tale of Merlin has sat unseen within the bindings of another book. Researchers have finally revealed it with cutting-edge techniques.",
-            "url": "https://www.bbc.com/future/article/20250324-the-magical-medieval-tale-revealed-by-a-100000-dollar-camera",
-            "image": "https://ychef.files.bbci.co.uk/624x351/p0l036rn.jpg"
+            "title": "Porsche\u2019s next Taycan gets an infotainment upgrade \u2014 but no new CarPlay - The Verge",
+            "description": "Porsche is launching Apps an Alexa on the 2026 Taycan, 911, Panamera, and Cayenne with upgraded infotainment software.",
+            "url": "https://www.theverge.com/news/635940/porsche-2026-911-taycan-infotainment-pcm-alexa-carplay",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/TA26Q3EID0006_rgb__3_A3_RGB.jpg?quality=90&strip=all&crop=0%2C10.738752916039%2C100%2C78.522494167922&w=1200"
         },
         {
-            "title": "Nintendo Reuploads Game Vouchers Trailer With Switch 2 Fine Print - Nintendo Life",
-            "description": "ICYMI: Vouchers won't work on Switch 2",
-            "url": "https://www.nintendolife.com/news/2025/03/nintendo-reuploads-game-vouchers-trailer-with-switch-2-fine-print",
-            "image": "https://images.nintendolife.com/156803be0cdc3/large.jpg"
+            "title": "Nintendo's Music App Is Getting A Small Update Later This Year \"Around October\" - Nintendo Life",
+            "description": "Start the countdown!",
+            "url": "https://www.nintendolife.com/news/2025/03/nintendos-music-app-is-getting-a-small-update-later-this-year-around-october",
+            "image": "https://images.nintendolife.com/f512ab6da3ba8/large.jpg"
         },
         {
-            "title": "Bethesda, Xbox Played to the PlayStation Crowd with Indiana Jones PS5's Reveal - Push Square",
-            "description": "They knew what they were doing",
-            "url": "https://www.pushsquare.com/news/2025/03/bethesda-xbox-played-to-the-playstation-crowd-with-indiana-jones-ps5s-reveal",
-            "image": "https://images.pushsquare.com/d9bf2c7f8fa01/large.jpg"
+            "title": "Character.ai can now tell parents which bots their kid is talking to - The Verge",
+            "description": "AI chat service Character.ai, which is popular with teenagers, has added a \u2018parental insights\u2019 report as part of a recent child safety feature rollout.",
+            "url": "https://www.theverge.com/news/634974/character-ai-parental-insights-chatbot-report-kids",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Parental-Insights-01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
         },
         {
-            "title": "Xbox testing new Game Hubs feature, update rolling out to select users now - Windows Central",
-            "description": "Members of certain Xbox Insider Program tiers can test Game Hubs, which gather information about a game all in one place.",
-            "url": "https://www.windowscentral.com/gaming/xbox/xbox-game-hubs-feature-testing-xbox-insider-program",
-            "image": "https://cdn.mos.cms.futurecdn.net/hJHjBwVwYkmqPyt8MGZsJg-1200-80.jpg"
+            "title": "Massive PS Store Spring Sale Brings a Crazy 4,500+ PS5, PS4 Game Deals - Push Square",
+            "description": "Kingdom Come 2! Baldur's Gate 3! Stellar Blade!",
+            "url": "https://www.pushsquare.com/news/2025/03/massive-ps-store-spring-sale-brings-a-crazy-4500plus-ps5-ps4-game-deals",
+            "image": "https://images.pushsquare.com/9948dff90ed3c/large.jpg"
         },
         {
-            "title": "\u2018Pixie\u2019 was a canceled Pixel assistant that became Screenshots app - 9to5Google",
-            "description": "Ahead of the Pixel 9, Google was rumored to be working on a \u201cPixie\u201d assistant. That never launched, but a new report reveals what happened.",
-            "url": "http://9to5google.com/2025/03/24/pixel-pixie-assistant-report/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Pixel-Screenshots-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Gurman: Jon Prosser's iOS 19 Mockups 'Aren't Representative' of Redesign - MacRumors",
+            "description": "The iOS 19 mockup images that leaker Jon Prosser shared today are not representative of the actual iOS 19 design, Bloomberg's Mark Gurman said on...",
+            "url": "https://www.macrumors.com/2025/03/25/gurman-ios-19-mockups-not-accurate/",
+            "image": "https://images.macrumors.com/t/yOxy1bWvoM_0RJSdbUMVQpbFrCo=/2500x/article-new/2024/11/Generic-iOS-19-Feature-Mock.jpg"
+        },
+        {
+            "title": "Tony Hawk Reportedly Demanded That Bam Margera Be Included In Video Game Remake - Outkick",
+            "description": "Tony Hawk reportedly took it upon himself to make sure Bam Margera was included in a remake of one of his classic video games.",
+            "url": "https://www.outkick.com/sports/tony-hawk-reportedly-demanded-bam-margera-included-video-game-remake",
+            "image": "https://static.outkick.com/www.outkick.com/content/uploads/2025/03/tony-hawk-bam.jpg"
         }
     ]
 }
