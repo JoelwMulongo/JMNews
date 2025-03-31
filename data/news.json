@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Listen Up, Mii Are Officially Back And They Now Have Ears - Nintendo Life",
-            "description": "It's a good day to be a Mii fan",
-            "url": "https://www.nintendolife.com/news/2025/03/listen-up-mii-are-officially-back-and-they-now-have-ears",
-            "image": "https://images.nintendolife.com/74590113a25b9/large.jpg"
+            "title": "I've tested dozens of Bluetooth trackers for Android, and this is the only one I recommend - Android Authority",
+            "description": "After running around with dozens of Bluetooth trackers for months, there's only one I would recommend for Android users for its reliability and features.",
+            "url": "https://www.androidauthority.com/bluetooth-trackers-android-samsung-galaxy-smarttag2-3539097/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2024/12/samsung-galaxy-tag-vs-other-bluetooth-trackers.jpg"
         },
         {
-            "title": "New Windows 11 build makes mandatory Microsoft Account sign-in even more mandatory - Ars Technica",
-            "description": "\u201cBypassnro\u201d is an easy MS Account workaround for Home and Pro Windows editions.",
-            "url": "https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-laptop-1152x648.jpeg"
+            "title": "Google\u2019s Gmail Upgrade\u2014New Warning For 3 Billion Users - Forbes",
+            "description": "Dangerous attack has operated under the radar for years\u2014here\u2019s what to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/03/30/googles-gmail-upgrade-new-warning-for-3-billion-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=1110,702,x190,y327,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Beyond RGB: A new image file format efficiently stores invisible light data - Ars Technica",
-            "description": "New Spectral JPEG XL compression reduces file sizes, making spectral imaging more practical.",
-            "url": "https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/spectral_prisms-1152x648.jpg"
+            "title": "Microsoft Warns 1 Billion Windows Users\u2014Do Not Use Password - Forbes",
+            "description": "Stop using your password\u2014here\u2019s why",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/03/30/microsoft-warns-1-billion-windows-users-do-not-use-password/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/67e6399763c7d52486a03df2/0x0.jpg?format=jpg&crop=872,539,x373,y230,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Baby Steps Previews Describe a Wacky But Engrossing Open World Excursion on PS5 - Push Square",
-            "description": "One foot in front of the other",
-            "url": "https://www.pushsquare.com/news/2025/03/baby-steps-previews-describe-a-wacky-but-engrossing-open-world-excursion-on-ps5",
-            "image": "https://images.pushsquare.com/b4dd9fb606e1e/large.jpg"
+            "title": "37 Products For People Who Live Solo That Just Make Sense - BuzzFeed",
+            "description": "Because you could but don't need to eat a family's worth of homemade soup. Let's freeze some soup instead.",
+            "url": "https://www.buzzfeed.com/elizabethlilly/lives-alone-products-make-sense-an",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/27/01/thumb/c8erDn3Q3.jpg?crop=1992:1328;4,0&resize=1250:830"
         },
         {
-            "title": "New Nintendo Switch 2 Report Raises Questions On When Preorders Will Go Live - GameSpot",
-            "description": "Two different dates from two different retailers have now surfaced.",
-            "url": "https://www.gamespot.com/articles/new-nintendo-switch-2-report-raises-questions-on-when-preorders-will-go-live/1100-6530476/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4467341-switch2preorderconflictingdates.jpg"
+            "title": "Google surprisingly rolling out Gemini 2.5 Pro (exp) to free users - 9to5Google",
+            "description": "Google on Saturday announced that it\u2019s rolling out its latest 2.5 Pro (experimental) model to all (free) Gemini app users.",
+            "url": "http://9to5google.com/2025/03/29/gemini-2-5-pro-experimental-free/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/google-gemini-white-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "New details revealed about Halo DS, apparently scrapped because of Nintendo - Nintendo Everything",
+            "description": "After nearly two decades, new details surface about the Halo DS game including how the cancellation was apparently because of Nintendo.",
+            "url": "https://nintendoeverything.com/new-details-revealed-about-halo-ds-apparently-scrapped-because-of-nintendo/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Halo-Nintendo-DS-details.jpg"
         }
     ]
 }
