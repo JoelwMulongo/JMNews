@@ -1,40 +1,16 @@
 {
     "articles": [
         {
-            "title": "Micro USB is the bane of my existence - The Verge",
-            "description": "Why won\u2019t Micro USB go away? There are a bunch of good (and bad) reasons why the annoying, outdated connector is still around.",
-            "url": "https://www.theverge.com/tech/638566/micro-usb-is-the-worst",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257572_Spec_Week_CVirginia_2_MICRO-USB.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "$70 and $80 game price tags send an early signal about Switch 2 game pricing - Ars Technica",
+            "description": "All Nintendo titles see an increase from the $60 Switch 1 status quo.",
+            "url": "https://arstechnica.com/gaming/2025/04/psa-mario-kart-world-is-50-bundled-with-a-switch-2-but-80-by-itself/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/mk-world-1152x648-1743618373.jpeg"
         },
         {
-            "title": "Gameplay of EA's New The Sims 'Concept' Appears to Leak Online, and It's Not Going Down Well With Fans - IGN",
-            "description": "A video purportedly taken from the next iteration of The Sims has popped up online, and fans have expressed their concern about what it may mean for the much-loved series.",
-            "url": "https://www.ign.com/articles/gameplay-of-eas-new-the-sims-concept-appears-to-leak-online-and-its-not-going-down-well-with-fans",
-            "image": "https://assets1.ignimgs.com/2019/04/01/the-sims-4-strangerville---scr34-1554144534633.jpg?width=1280"
-        },
-        {
-            "title": "iOS 18.4\u2014Update Now Warning Issued To All iPhone Users - Forbes",
-            "description": "Apple has issued iOS 18.4, fixing a hefty list of 62 iPhone security vulnerabilities, some of which are serious. Here's what you need to know.",
-            "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/04/02/ios-184-update-now-warning-issued-to-all-iphone-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/66e92e00f612880978984290/0x0.jpg?format=jpg&crop=3402,1915,x0,y247,safe&height=900&width=1600&fit=bounds"
-        },
-        {
-            "title": "RuneScape: Dragonwilds Announced as Jagex's New Take on the Open World Survival Genre - IGN",
-            "description": "Today, Jagex has announced that it's bringing the world of RuneScape into a new genre: survival. The developer revealed RuneScape: Dragonwilds, a cooperative open world survival game coming to early access this spring.",
-            "url": "https://www.ign.com/articles/runescape-dragonwilds-announced-as-jagexs-new-take-on-the-open-world-survival-genre",
-            "image": "https://assets-prd.ignimgs.com/2025/03/31/2-vista-1743435836533.png?width=1280"
-        },
-        {
-            "title": "Oblivion Remake Could Be Released Tomorrow, It\u2019s Claimed - Insider Gaming",
-            "description": "No description available.",
-            "url": "https://insider-gaming.com/oblivion-remake-release-tomorrow-claimed/",
-            "image": null
-        },
-        {
-            "title": "Nintendo set to unveil Switch 2, follow-up to megahit game console - Al Jazeera",
-            "description": "Japanese gaming giant expected to reveal release date, price and other key details in live presentation on Wednesday.",
-            "url": "https://www.aljazeera.com/economy/2025/4/2/nintendo-set-to-unveil-switch-2-follow-up-to-megahit-game-console",
-            "image": "https://www.aljazeera.com/wp-content/uploads/2025/04/AP25091730127554-1743571345.jpg?resize=1920%2C1440"
+            "title": "NotebookLM can now search the web and \u2018Discover sources\u2019 for you - 9to5Google",
+            "description": "To date, NotebookLM works by having you manually add files and links, with Google now introducing a \u201cDiscover sources\u201d button that searches.",
+            "url": "http://9to5google.com/2025/04/02/notebooklm-discover-sources/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/NotebookLM-Discover-sources-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
