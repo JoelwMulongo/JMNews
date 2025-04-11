@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft starts testing Copilot Vision update that can \u201csee\u201d your screen and apps - The Verge",
-            "description": "Microsoft has started testing new Copilot features with Windows Insiders. You\u2019ll be able to use Copilot Vision to help guide you through apps and games.",
-            "url": "https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Vision%E2%80%94FRE-scaled-1.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200"
+            "title": "Ubisoft says players suing over The Crew shutdown shouldn\u2019t have expected to own the game forever - Video Games Chronicle",
+            "description": "The Crew game was shut down last year, rendering it unplayable",
+            "url": "https://www.videogameschronicle.com/news/ubisoft-says-players-suing-over-the-crew-shutdown-shouldnt-have-expected-to-own-the-game-forever/",
+            "image": "https://www.videogameschronicle.com/files/2023/12/the-crew.jpg"
         },
         {
-            "title": "Microsoft Patches 126 Flaws Including Actively Exploited Windows CLFS Vulnerability - The Hacker News",
-            "description": "Microsoft patched 126 vulnerabilities including actively exploited CVE-2025-29824, leaving Windows 10 users exposed.",
-            "url": "https://thehackernews.com/2025/04/microsoft-patches-126-flaws-including.html",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8huioh2VbeKyRAkHYZDbMNfV2s2PPum2O5tFEUCqFlc6f_ROVum1JefEmC0GizUwxg9-YIvXXaYTz33MYSpdVo1YpPSLBCDGvPChWZu092kTyNt6MqI4Bb9ru0Z43jnd82blNgyVQYZN02CkEeBmv4avRAaxILdGvpNya7xlAQv-gcXNBg_NTYzLo4G8/s728-rw-e365/MS-patch.jpg"
+            "title": "Health indicators and power ups: The 'freaky and unpleasant' world when video games leak into the physical realm - BBC",
+            "description": "Video games are the biggest form of entertainment in the world, but sometimes they bleed into people's lives offline in surprising and disturbing ways.",
+            "url": "https://www.bbc.com/future/article/20250409-game-transfer-phenomenon-the-people-who-see-video-games-in-the-physical-world",
+            "image": "https://ychef.files.bbci.co.uk/624x351/p0l3dsh2.jpg"
         },
         {
-            "title": "Samsung unveils next-gen Home Up with super cool One UI 7.0 customization - Sammy Fans",
-            "description": "Samsung officially introduced the new Home Up with exciting new One UI 7.0 customization. The company initially debuted this upgraded plugin during the Beta Program. As the One UI 7 goes Public, the Good Lock plugin also sees the love. Powered by One UI 7.0, \u2026",
-            "url": "https://www.sammyfans.com/2025/04/08/samsung-unveils-next-gen-home-up-with-super-cool-one-ui-7-0-customization/",
-            "image": "https://www.sammyfans.com/wp-content/uploads/2025/04/home-up-one-ui-7-img-1000x576.jpg"
+            "title": "Microsoft\u2019s Free Upgrade Offer For 500 Million Windows Users - Forbes",
+            "description": "Don't leave it until it's too late,\u2014here's why.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/10/microsofts-free-upgrade-offer-for-500-million-windows-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/67e16f26f3e59256a03d32a7/0x0.jpg?format=jpg&crop=2041,1162,x808,y757,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Nintendo: Switch 2's Launch Titles Are \"Sort Of\" Genre- And Franchise-Defining - Nintendo Life",
-            "description": "It's something you \"really can't miss\"",
-            "url": "https://www.nintendolife.com/news/2025/04/nintendo-switch-2s-launch-titles-are-sort-of-genre-and-franchise-defining",
-            "image": "https://images.nintendolife.com/b630144fe79a0/large.jpg"
+            "title": "As Backlash Against $10 Nintendo Switch 2 Welcome Tour Heats Up, Reggie Fils-Aim\u00e9 Tweets the Story of Wii Sports Pack-in From IGN Interview \u2014 and Everyone Knows the Point He\u2019s Trying to Make - IGN",
+            "description": "Former Nintendo of America boss Reggie Fils-Aim\u00e9 has pointed to the story of Wii pack-in game Wii Sports in thinly-veiled tweets addressing the controversy surrounding Nintendo\u2019s decision to charge for Switch 2 tutorial game Welcome Tour.",
+            "url": "https://www.ign.com/articles/as-backlash-against-10-nintendo-switch-2-welcome-tour-heats-up-reggie-fils-aim-tweets-the-story-of-wii-sports-pack-in-from-ign-interview-and-everyone-knows-the-point-hes-trying-to-make",
+            "image": "https://assets-prd.ignimgs.com/2025/04/10/reggie-1744265564531.jpg?width=1280"
         },
         {
-            "title": "Bloodborne fans losing it over \u2018awesome\u2019 new game - GAMINGbible",
-            "description": "FromSoftware fans losing it over an awesome new game that looks like Bloodborne",
-            "url": "https://www.gamingbible.com/news/platform/nintendo/bloodborne-awesome-new-game-273938-20250408",
-            "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltcde16b06b966fdec/67f51fb28f5937404b76eb60/GAMINGbible_Review_Header_Template_Master_(1)_(2).png"
+            "title": "Nintendo confirms no download codes needed for physical Switch 2 Edition games - vooks.net",
+            "description": "At least ones from Nintendo.",
+            "url": "https://www.vooks.net/nintendo-confirms-no-download-codes-needed-for-physical-switch-2-edition-games/",
+            "image": "https://www.vooks.net/img/2025/04/switch2-editions.jpg"
         },
         {
-            "title": "SmartThings gets Matter 1.4 support for water heaters, heat pumps, and more - The Verge",
-            "description": "SmartThings now works with Matter water heaters, heat pumps, and more as Samsung adds Matter 1.4 support. Also, the company has added more automation triggers.",
-            "url": "https://www.theverge.com/news/645519/samsung-smartthings-matter-1-4-support",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Ex-PlayStation Boss Comments On Switch 2's \"Hefty\" Price Hikes - Nintendo Life",
+            "description": "\"Exclusivity kind of mitigates the sticker shock\"",
+            "url": "https://www.nintendolife.com/news/2025/04/ex-playstation-boss-comments-on-switch-2s-hefty-price-hikes",
+            "image": "https://images.nintendolife.com/d654ecd7bb6b9/large.jpg"
         }
     ]
 }
