@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "AMD Radeon RX 9060 XT rumored to launch in May - VideoCardz.com",
-            "description": "AMD set to unveil its response to RTX 5060 next month Coming around Computex? AMD is said to be gearing up to launch a new Radeon GPU, this time focusing on the mid-range segment. Similar to NVIDIA, the plan is to launch a graphics card with two memory config\u2026",
-            "url": "https://videocardz.com/newz/amd-radeon-rx-9060-xt-rumored-to-launch-in-may",
-            "image": "https://cdn.videocardz.com/1/2025/04/RADEON-RX-9060-XT-HERO-YELLOW.jpg"
+            "title": "Where to buy RTX 5060 Ti GPU \u2014 live updates and stock checker - Tom's Guide",
+            "description": "Here's where to buy Nvidia's new 5060 Ti",
+            "url": "https://www.tomsguide.com/news/live/where-to-buy-rtx-5060-ti",
+            "image": "https://cdn.mos.cms.futurecdn.net/47v7z4bbPPxdkRpSgJHiq8.jpg"
         },
         {
-            "title": "BougeRV\u2019s electric wagon is the uphill king and downhill menace - The Verge",
-            "description": "BougeRV\u2019s electric foldable wagon is worth the $400 if you need to regularly haul big loads up hills.",
-            "url": "https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/IMG_7745_375637.jpeg?quality=90&strip=all&crop=0%2C15.08670552418%2C100%2C69.826588951641&w=1200"
+            "title": "Apple Patches Two Actively Exploited iOS Flaws Used in Sophisticated Targeted Attacks - The Hacker News",
+            "description": "Apple fixed 2 exploited flaws in iOS 18.4.1, one flagged by Google TAG, urging urgent updates.",
+            "url": "https://thehackernews.com/2025/04/apple-patches-two-actively-exploited.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsrpo2sDYJAgFxU_wLRG3pOGUK3SbEYLzMd29mEpcBb9F-n4RQwtRn5eTNMY8YKUqlqkJtOhNVty1vtxe9hLNISRJKD63Ld6px7eyw7-lx8eJ7NBSn4EAnFYnVNMmyVdCHEoduPrnXqiwjoJKYPqWO6HLL388OSRr_NewTN46ZhrVCJtf8_krktmo14Ao_/s728-rw-e365/apple.jpg"
         },
         {
-            "title": "How To Open The Blue Door In Blue Prince - GameSpot",
-            "description": "What's behind the tunnel's Blue Door in Blue Prince.",
-            "url": "https://www.gamespot.com/gallery/blue-prince-blue-door-tunnel-unlock/2900-6459/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4476073-blue-prince-blue-doors-unlock-tunnel-.jpg"
+            "title": "ICYMI: Nintendo Reminds Us Game Vouchers Won't Work On Switch 2 Exclusives - Nintendo Life",
+            "description": "The Switch 2 is also backwards compatible",
+            "url": "https://www.nintendolife.com/news/2025/04/icymi-nintendo-reminds-us-game-vouchers-wont-work-on-switch-2-exclusives",
+            "image": "https://images.nintendolife.com/4fb6c93314f18/large.jpg"
         },
         {
-            "title": "Best Buy Spring Sale 2025 - Save On Video Games, Hardware, VR Headsets, And More - GameSpot",
-            "description": "Best Buy's Spring Sale is a great time to grab some great PS5, Xbox Series X, and Nintendo Switch games and upgrade your setup with new accessories.",
-            "url": "https://www.gamespot.com/articles/best-buy-spring-sale-2025-save-on-video-games-hardware-vr-headsets-and-more/1100-6530887/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4477295-bestbuy.jpg"
+            "title": "Gemini Live\u2019s screensharing feature is now free for Android users - The Verge",
+            "description": "Google\u2019s feature for Gemini Live feature that lets it see and respond to what\u2019s on your camera and your screen will now be free for all Android users via the Gemini app.",
+            "url": "https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Roll cancels reportedly not available for Capcom vs. SNK 2 ranked online in the Capcom Fighting Collection 2 - EventHubs",
-            "description": "We're now just over a month away from the release of the Capcom Fighting Collection 2 that'll bring back eight classic titles for modern systems.It appears that some creators have gotten early access to the Capcom Fighting ...",
-            "url": "https://www.eventhubs.com/news/2025/apr/15/capcom-snk-roll-cancel/",
-            "image": "https://media.eventhubs.com/images/2025/04/15-capcom-snk-roll-cancelt.webp"
+            "title": "Android 16 Beta 4 update set for tomorrow - 9to5Google",
+            "description": "Google has teased that the next Android 16 preview update is officially coming Thursday, April 17 with Beta 4.",
+            "url": "http://9to5google.com/2025/04/16/android-16-beta-4-update/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-16-logos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "New Xbox Doom Controller Features Spikes And Blood - Kotaku",
+            "description": "There's also a new console wrap that turns your Xbox into a Doom Slayer shrine",
+            "url": "https://kotaku.com/doom-dark-ages-xbox-controller-blood-spikes-price-elite-1851776474",
+            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b92e321173e37e2e0433dae1b9953729.jpg"
         }
     ]
 }
