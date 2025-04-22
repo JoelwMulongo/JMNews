@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Google Confirms Gmail Warning\u20143 Billion Users Must Now Act - Forbes",
-            "description": "Do not lose your account\u2014do this now.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/20/google-confirms-gmail-update-stop-using-your-password-now/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/672917de30558ca355afff3b/0x0.jpg?format=jpg&crop=1014,571,x259,y476,safe&height=900&width=1600&fit=bounds"
+            "title": "44 Products So Good Reviewers Bought Backups Of Them Just In Case - BuzzFeed",
+            "description": "You can never have too many pairs of cheap, adorable sunglasses or bottles of this wildly popular hydrating body wash.",
+            "url": "https://www.buzzfeed.com/emmalord9/products-bought-back-ups-just-in-case-an",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/18/21/thumb/c9ZOykEkJ.jpg?crop=1245:830;2,0&resize=1250:830"
         },
         {
-            "title": "Nintendo isn\u2019t retiring Diddy Kong and here\u2019s why - Nintendo Everything",
-            "description": "There have been some scattered claims going around lately saying that Nintendo is phasing out Diddy Kong, for one reason or another. If you have no idea what we\u2019re talking about, that\u2019s completely understandable. This claim is mostly attributed to the dormanc\u2026",
-            "url": "https://nintendoeverything.com/nintendo-probably-isnt-retiring-diddy-kong-heres-why/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Diddy-Kong-future.jpg"
+            "title": "What's Palworld Dev's Defence Against Nintendo's Lawsuit? Pikmin 3, Apparently - Nintendo Life",
+            "description": "Amongst other games, of course",
+            "url": "https://www.nintendolife.com/news/2025/04/whats-palworld-devs-defence-against-nintendos-lawsuit-pikmin-3-apparently",
+            "image": "https://images.nintendolife.com/05beab739c010/large.jpg"
         },
         {
-            "title": "Paul Rudd Hypes Nintendo Switch 2 With Playful Throwback to Infamous 90s SNES Commercial - IGN",
-            "description": "Nintendo has tapped actor Paul Rudd to hype up the Nintendo Switch 2 in a brand new commercial that pays corny-yet-adorable homage to a beloved 90s commercial he did for the Super Nintendo.",
-            "url": "https://www.ign.com/articles/paul-rudd-hypes-nintendo-switch-2-with-playful-throwback-to-infamous-90s-snes-commercial",
-            "image": "https://assets-prd.ignimgs.com/2025/04/18/ruddblogroll-1745013128093.gif?width=1280"
+            "title": "Sound Up: The Lexus GR GT3 Sports Car Sounds Amazing - Motor1.com",
+            "description": "A new video shows the Lexus GR GT3 sports car testing on the track at Laguna Seca, showing off its (rumored) twin-turbo V-8 engine.",
+            "url": "https://www.motor1.com/news/757114/lexus-gr-gt3-sports-car-supercar-sound-video/",
+            "image": "https://cdn.motor1.com/images/mgl/XBqJNv/s1/lexus-gr-gt3-sports-car-prototype-laguna-seca.jpg"
         },
         {
-            "title": "Nintendo Switch 2 pre-orders begin April 24 in the US, accessory prices hiked - GSMArena.com news - GSMArena.com",
-            "description": "Expect to pay a handful more dollars for that controller set. Nintendo has announced that its Switch 2 console will begin retail pre-orders on April 24,...",
-            "url": "https://www.gsmarena.com/nintendo_switch_2_preorders_begin_april_24_in_the_us_accessory_prices_hikes-news-67466.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/25/04/nintendo-switch-2-pricing-change/-952x498w6/gsmarena_000.jpg"
+            "title": "I test Gemini for a living \u2014 5 prompts I wish I knew sooner - Tom's Guide",
+            "description": "These five prompts made me stop underestimating Gemini",
+            "url": "https://www.tomsguide.com/ai/i-test-gemini-for-a-living-5-prompts-i-wish-i-knew-sooner",
+            "image": "https://cdn.mos.cms.futurecdn.net/QRSFkjwKfCAMyonAD8tZ7P.jpg"
         },
         {
-            "title": "Widespread Microsoft Entra lockouts tied to new security feature rollout - BleepingComputer",
-            "description": "Windows administrators from numerous organizations report widespread account lockouts triggered by false positives in the rollout of a new Microsoft Entra ID's \"leaked credentials\" detection app called MACE.",
-            "url": "https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/",
-            "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg"
-        },
-        {
-            "title": "Synology is tightening restrictions on third-party NAS hard drives - The Verge",
-            "description": "Synology will introduce new restrictions on third-party hard drives with new NAS systems later this year that could make first-party drives essential.",
-            "url": "https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/SynologyDS224-Plus.png?quality=90&strip=all&crop=0%2C13.350785340314%2C100%2C73.298429319372&w=1200"
+            "title": "Millions Of Americans Get Microsoft\u2019s Free Upgrade Offer - Forbes",
+            "description": "America first for Microsoft \u2014 what Windows users need to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/21/millions-of-americans-get-microsofts-free-upgrade-offer/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6805d78d1495c79f7286b089/0x0.jpg?format=jpg&crop=2334,1311,x1184,y705,safe&height=900&width=1600&fit=bounds"
         }
     ]
 }
