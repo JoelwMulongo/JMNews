@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "44 Products So Good Reviewers Bought Backups Of Them Just In Case - BuzzFeed",
-            "description": "You can never have too many pairs of cheap, adorable sunglasses or bottles of this wildly popular hydrating body wash.",
-            "url": "https://www.buzzfeed.com/emmalord9/products-bought-back-ups-just-in-case-an",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-03/18/21/thumb/c9ZOykEkJ.jpg?crop=1245:830;2,0&resize=1250:830"
+            "title": "NVIDIA GeForce RTX 5060 Ti with 8GB memory is far behind 16GB model in gaming performance, review shows - VideoCardz.com",
+            "description": "GeForce RTX 5060 Ti with 8GB memory tested: 16GB version up to 589% faster in 1% FPS LOW NVIDIA did their best to bury the reviews of the GeForce RTX\u00a05060\u00a0Ti\u00a08\u00a0GB by instructing board partners not to send samples of that graphics card to the media. This was a\u2026",
+            "url": "https://videocardz.com/newz/nvidia-geforce-rtx-5060-ti-with-8gb-memory-is-far-behind-16gb-model-in-gaming-performance-review-shows",
+            "image": "https://cdn.videocardz.com/1/2025/04/RTX5060TI-8GB-HERO.jpg"
         },
         {
-            "title": "What's Palworld Dev's Defence Against Nintendo's Lawsuit? Pikmin 3, Apparently - Nintendo Life",
-            "description": "Amongst other games, of course",
-            "url": "https://www.nintendolife.com/news/2025/04/whats-palworld-devs-defence-against-nintendos-lawsuit-pikmin-3-apparently",
-            "image": "https://images.nintendolife.com/05beab739c010/large.jpg"
+            "title": "Nintendo Expands Switch Online's GBA Library With A Classic Fire Emblem - Nintendo Life",
+            "description": "\"You must always be ready for battle\"",
+            "url": "https://www.nintendolife.com/news/2025/04/nintendo-expands-switch-onlines-gba-library-with-a-classic-fire-emblem",
+            "image": "https://images.nintendolife.com/b1c955646af77/large.jpg"
         },
         {
-            "title": "Sound Up: The Lexus GR GT3 Sports Car Sounds Amazing - Motor1.com",
-            "description": "A new video shows the Lexus GR GT3 sports car testing on the track at Laguna Seca, showing off its (rumored) twin-turbo V-8 engine.",
-            "url": "https://www.motor1.com/news/757114/lexus-gr-gt3-sports-car-supercar-sound-video/",
-            "image": "https://cdn.motor1.com/images/mgl/XBqJNv/s1/lexus-gr-gt3-sports-car-prototype-laguna-seca.jpg"
+            "title": "Exclusive: Anthropic warns fully AI employees are a year away - Axios",
+            "description": "Managing those AI identities will require companies to completely reassess their cybersecurity strategies.",
+            "url": "https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security",
+            "image": "https://images.axios.com/hWrJOofLqZwRf89Wc6ffKe_wpk4=/0x0:1920x1080/1366x768/2025/04/21/1745264781438.jpg"
         },
         {
-            "title": "I test Gemini for a living \u2014 5 prompts I wish I knew sooner - Tom's Guide",
-            "description": "These five prompts made me stop underestimating Gemini",
-            "url": "https://www.tomsguide.com/ai/i-test-gemini-for-a-living-5-prompts-i-wish-i-knew-sooner",
-            "image": "https://cdn.mos.cms.futurecdn.net/QRSFkjwKfCAMyonAD8tZ7P.jpg"
+            "title": "Duolingo is getting a chess course - The Verge",
+            "description": "Duolingo is testing a new chess course with a \u201climited number of learners\u201d and will continue to roll it out on iOS in English in the \u201ccoming weeks.\u201d",
+            "url": "https://www.theverge.com/news/649319/duolingo-chess-course-ios-test",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKB350_DUOLINGO_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Millions Of Americans Get Microsoft\u2019s Free Upgrade Offer - Forbes",
-            "description": "America first for Microsoft \u2014 what Windows users need to know.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/21/millions-of-americans-get-microsofts-free-upgrade-offer/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6805d78d1495c79f7286b089/0x0.jpg?format=jpg&crop=2334,1311,x1184,y705,safe&height=900&width=1600&fit=bounds"
+            "title": "Nintendo Announces Official Pre-Order Date for the Switch 2 \u2014 Everything You Need to Know About When and Where to Buy - The Hollywood Reporter",
+            "description": "The next generation of Nintendo consoles is coming soon \u2014\u00a0here's where to pre-order and buy the Switch 2 for summer 2025.",
+            "url": "http://www.hollywoodreporter.com/lifestyle/shopping/where-when-to-preorder-buy-nintendo-switch-2-online-1236116319/",
+            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/Nintendo-Switch-2-Video-Game-Console-H-MAIN-2025.jpg?w=1296&h=730&crop=1"
+        },
+        {
+            "title": "All Heroes And Abilities In Overwatch 2 Stadium Mode - GameSpot",
+            "description": "Overwatch 2's new competitive mode, called Stadium, features a smaller roster of heroes with special perks and abilities you can buy during a match.",
+            "url": "https://www.gamespot.com/gallery/overwatch-2-stadium-heroes-and-abilities-list/2900-6490/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1599/15997278/4479306-thumb.jpg"
         }
     ]
 }
