@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Clair Obscur: Expedition 33 Has The Juice - Kotaku",
-            "description": "Sandfall Interactive\u2019s homage to turn-based RPG classics is a complex web of cool ideas and occasional frustrations",
-            "url": "https://kotaku.com/clair-obscur-expedition-33-rpg-review-in-progress-1851777402",
-            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9d17f378e3ed2d4f0c727d960da2512f.jpg"
+            "title": "Adobe to launch mobile app for AI image generation tool as OpenAI steps up rivalry - CNBC",
+            "description": "Adobe said Thursday that it will release its Firefly AI image generator on both iOS and Android \"soon,\" without giving a specific date.",
+            "url": "https://www.cnbc.com/2025/04/24/adobe-plans-mobile-app-for-firefly-ai-image-generator-to-rival-openai.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108135565-1745429339339-Firefly_Actual_butterflies_arranged_to_create_lighting_pattern_on_subjects_face_insects_as_lightin_copy.jpg?v=1745470878&w=1920&h=1080"
         },
         {
-            "title": "New Porsche 911 'Spirit 70' Revives the Iconic 'Pasha' Seats - Motor1.com",
-            "description": "Porsche has unveiled the 911 Spirit 70, a special edition paying homage to its 1970s designs. It has olive paint, a Pasha interior scheme, and a retro livery.",
-            "url": "https://www.motor1.com/news/757392/2026-porsche-911-spirit-70/",
-            "image": "https://cdn.motor1.com/images/mgl/jl0B7e/s1/2026-porsche-911-spirit-70-exterior-lead-image.jpg"
+            "title": "Samsung To Reportedly Hold An Event On May 13 To Unveil The Galaxy S25 Edge, With The Ultra-Slim Flagship Apparently Launching In Three Markets Later That Month - Wccftech",
+            "description": "A report states that the Galaxy S25 Edge will get an official announcement on May 13, with the flagship expected to go on sale shortly after",
+            "url": "https://wccftech.com/galaxy-s25-edge-reportedly-getting-announced-on-may-13/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/04/Galaxy-S25-Edge.jpg"
         },
         {
-            "title": "Scientists Say They Found a New Color Humans Have Never Seen Before - ScienceAlert",
-            "description": "For the first time, humans might have glimpsed a rainbow of color that lies just beyond our sight \u2013 including a \"blue-green of unprecedented saturation\".",
-            "url": "https://www.sciencealert.com/scientists-say-they-found-a-new-color-humans-have-never-seen-before",
-            "image": "https://www.sciencealert.com/images/2025/04/ConeOzPrototype.jpg"
+            "title": "Nintendo Switch 2 preorders were a total mess \u2014 at first - The Verge",
+            "description": "Nintendo\u2019s delayed Switch 2 preorders finally kicked off in the US at 12AM ET, but there were some big problems to start.",
+            "url": "https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKR001_NINTENDO_SWITCH_4_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Samsung now sells refurbished Galaxy S24 Ultra, S24+, and S24 at discounted prices - ZDNET",
-            "description": "With Samsung's Certified Renewed program, you can get a like-new flagship phone at a great price while helping reduce e-waste.",
-            "url": "https://www.zdnet.com/article/samsung-now-sells-refurbished-galaxy-s24-ultra-s24-and-s24-at-discounted-prices/",
-            "image": "https://www.zdnet.com/a/img/resize/74a666ed9ee47be3fbb76e9325633f5efca3f179/2024/01/14/89dbbde8-a0e0-4850-a235-5aea3ebc62fd/dsc00989.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "'You Can't Lick a Badger Twice': Google Failures Highlight a Fundamental AI Flaw - WIRED",
+            "description": "Google\u2019s AI Overviews feature credible-sounding explanations for completely made-up idioms.",
+            "url": "https://www.wired.com/story/google-ai-overviews-meaning/",
+            "image": "https://media.wired.com/photos/680941d25ee23407c49ed5a8/191:100/w_1280,c_limit/Google-AI-Overview-Business.jpg"
         },
         {
-            "title": "Character.AI unveils AvatarFX, an AI video model to create lifelike chatbots - TechCrunch",
-            "description": "Character.AI has unveiled AvatarFX, an AI model to create lifelike chatbots. It could potentially be used in harmful ways.",
-            "url": "https://techcrunch.com/2025/04/22/character-ai-unveils-avatarfx-an-ai-video-model-to-create-lifelike-chatbots/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672"
-        },
-        {
-            "title": "Overwatch 2\u2019s new mode, Stadium, is the game\u2019s 3rd pillar, Blizzard says - Polygon",
-            "description": "Blizzard is about to roll out a \u201cthird pillar\u201d game mode for Overwatch 2 called Stadium. It\u2019s the biggest bet yet for the Overwatch team.",
-            "url": "https://www.polygon.com/overwatch/559233/overwatch-2-stadium-mode-blizzard-interview",
-            "image": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/04/OVR_PK_S16_Stadium_Gameplay_001.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "title": "2025's Best-Reviewed Game Can \"Exist Alongside\" Oblivion Remastered, Clair Obscur Star Says - GameSpot",
+            "description": "During an interview with GameSpot, Ben Starr says the two games releasing at the same time isn't a bad thing at all.",
+            "url": "https://www.gamespot.com/articles/2025s-best-reviewed-game-can-exist-alongside-oblivion-remastered-clair-obscur-star-says/1100-6531070/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1850/18507742/4481292-clair-obscur-interview.jpg"
         }
     ]
 }
