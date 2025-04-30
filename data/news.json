@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The New Status Watch? One With Personality and Soul. - WSJ",
-            "description": "With restrained details and vintage designs, the watches that offer bragging rights nowadays prioritize character and understated cool.",
-            "url": "https://www.wsj.com/style/fashion/the-new-status-watch-one-with-personality-and-soul-ce133b4a",
-            "image": "https://images.wsj.net/im-21987661/social"
+            "title": "Far Cry 4 Now Finally Runs at 60fps On PlayStation 5 - IGN",
+            "description": "11 years after its debut, Far Cry 4 now runs at 60 frames per second (fps) on PlayStation 5.",
+            "url": "https://www.ign.com/articles/far-cry-4-now-finally-runs-at-60fps-on-playstation-5",
+            "image": "https://assets2.ignimgs.com/2014/06/09/fc407jpg-6e4641.jpg?width=1280"
         },
         {
-            "title": "iOS and Android juice jacking defenses have been trivial to bypass for years - Ars Technica",
-            "description": "New ChoiceJacking attack allows malicious chargers to steal data from phones.",
-            "url": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/scary-usb-juice-jacking-whooooo-1152x648.jpg"
+            "title": "As Days Gone gets its PS5 remaster, it's only right that it gets a critical reevaluation too - Eurogamer",
+            "description": "Days Gone finally gets a native PS5 re-release, complete with some enhancements, so we ask if the game got judged too harshly on its initial release.",
+            "url": "https://www.eurogamer.net/as-days-gone-gets-its-ps5-remaster-its-only-right-that-it-gets-a-critical-reevaluation-too",
+            "image": "https://assetsio.gnwcdn.com/Days-gone-header-character-shot.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Anker\u2019s Tabletop UV Printer Will Make Your Prints Look Like Real Painted Art - Gizmodo",
-            "description": "The eufyMake E1 UV printer is bringing embossed prints directly into the home.",
-            "url": "https://gizmodo.com/ankers-tabletop-uv-printer-will-make-your-prints-look-like-real-painted-art-2000593861",
-            "image": "https://gizmodo.com/app/uploads/2025/04/eufymakem1-uv-printer.jpg"
+            "title": "BMW Defends the M2 Race Car's Four-Cylinder Engine - Motor1.com",
+            "description": "BMW tells Motor1 why the new M2 Racing had to have a smaller 2.0-liter, four-cylinder engine instead of the road car's 3.0-liter inline-six.",
+            "url": "https://www.motor1.com/news/758005/bmw-defends-four-cylinder-m2/",
+            "image": "https://cdn.motor1.com/images/mgl/3WYwV6/s1/bmw-m2-racing.jpg"
         },
         {
-            "title": "GameStop Apparently Investigating New York Store Over Sus Switch 2 Bundle Sales - Nintendo Life",
-            "description": "No description available.",
-            "url": "https://www.nintendolife.com/news/2025/04/gamestop-apparently-investigating-new-york-store-over-sus-switch-2-bundle-sales",
-            "image": null
+            "title": "Nothing Phone (3) is \u2018100%\u2019 coming to the United States, Carl Pei says - 9to5Google",
+            "description": "According to Carl Pei, the Nothing Phone (3) is \"100%\" coming to the United States, suggesting it won't be sold in a \"beta program.\"",
+            "url": "http://9to5google.com/2025/04/28/nothing-phone-3-united-states/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/nothing-phone-2-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Wii Homebrew Community \"Built On Lies And Copyright Infringement\" - Time Extension",
-            "description": "The Homebrew Channel ceases development",
-            "url": "https://www.timeextension.com/news/2025/04/wii-homebrew-community-built-on-lies-and-copyright-infringement",
-            "image": "https://images.timeextension.com/6ac9af1ff211d/large.jpg"
+            "title": "Deal: Google Pixel 9 plummets to its all-time low price - Android Authority",
+            "description": "The Google Pixel 9 is at its record-low price, making it a great choice for those who want a premium phone that won't break the bank.",
+            "url": "https://www.androidauthority.com/google-pixel-9-deal-3548886/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-Peony-in-a-mans-hands-as-he-examines-the-back-of-the-device.jpg"
         },
         {
-            "title": "Ghost of Yotei's PS5 Price Provokes Fresh Switch 2 Fury - Push Square",
-            "description": "Perspective",
-            "url": "https://www.pushsquare.com/news/2025/04/ghost-of-yoteis-ps5-price-provokes-fresh-switch-2-fury",
-            "image": "https://images.pushsquare.com/b54ae747e60de/large.jpg"
+            "title": "WUCHANG: Fallen Feathers launches July 24 - Gematsu",
+            "description": "WUCHANG: Fallen Feathers will launch for PlayStation 5, Xbox Series, and PC via Steam, Epic Games Store, and Microsoft Store on July 24 for $49.99 / \u00a344.99 / \u20ac49.99, publisher 505 Games and develop\u2026",
+            "url": "https://www.gematsu.com/2025/04/wuchang-fallen-feathers-launches-july-24",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/04/WUCHANG-Date_04-28-25.jpg"
         }
     ]
 }
