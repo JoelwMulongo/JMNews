@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Far Cry 4 Now Finally Runs at 60fps On PlayStation 5 - IGN",
-            "description": "11 years after its debut, Far Cry 4 now runs at 60 frames per second (fps) on PlayStation 5.",
-            "url": "https://www.ign.com/articles/far-cry-4-now-finally-runs-at-60fps-on-playstation-5",
-            "image": "https://assets2.ignimgs.com/2014/06/09/fc407jpg-6e4641.jpg?width=1280"
+            "title": "Donkey Kong's New Design Added As Icon In Latest Switch Firmware Update - Nintendo Life",
+            "description": "Including DK's new design!",
+            "url": "https://www.nintendolife.com/news/2025/04/mulitple-profie-icons-revamped-in-latest-switch-firmware-update",
+            "image": "https://images.nintendolife.com/d90921b2577d2/large.jpg"
         },
         {
-            "title": "As Days Gone gets its PS5 remaster, it's only right that it gets a critical reevaluation too - Eurogamer",
-            "description": "Days Gone finally gets a native PS5 re-release, complete with some enhancements, so we ask if the game got judged too harshly on its initial release.",
-            "url": "https://www.eurogamer.net/as-days-gone-gets-its-ps5-remaster-its-only-right-that-it-gets-a-critical-reevaluation-too",
-            "image": "https://assetsio.gnwcdn.com/Days-gone-header-character-shot.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Google\u2019s Update Decision\u2014Bad News For 50% Of Android Users - Forbes",
+            "description": "Update deadline is next week \u2014 what to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/29/googles-android-decision-bad-news-for-50-of-all-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/666c6a1747665cecbf788d0b/0x0.jpg?format=jpg&crop=1752,985,x1472,y1216,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "BMW Defends the M2 Race Car's Four-Cylinder Engine - Motor1.com",
-            "description": "BMW tells Motor1 why the new M2 Racing had to have a smaller 2.0-liter, four-cylinder engine instead of the road car's 3.0-liter inline-six.",
-            "url": "https://www.motor1.com/news/758005/bmw-defends-four-cylinder-m2/",
-            "image": "https://cdn.motor1.com/images/mgl/3WYwV6/s1/bmw-m2-racing.jpg"
+            "title": "Google teases Pixel display improvement, likely starting with Pixel 10 - 9to5Google",
+            "description": "A shortcoming of Pixel displays thus far may be addressed going forward, as Google is teasing better PWM dimming rates...",
+            "url": "http://9to5google.com/2025/04/29/google-teases-pixel-display-improvement-likely-starting-with-pixel-10/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-pixel-9-pro-xl-3-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Nothing Phone (3) is \u2018100%\u2019 coming to the United States, Carl Pei says - 9to5Google",
-            "description": "According to Carl Pei, the Nothing Phone (3) is \"100%\" coming to the United States, suggesting it won't be sold in a \"beta program.\"",
-            "url": "http://9to5google.com/2025/04/28/nothing-phone-3-united-states/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/07/nothing-phone-2-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Robot vacuum cleaner 'could water plants or play with cat' - BBC",
+            "description": "Scientists, including researchers in Bath, have come up with 100 proposed uses for the robots.",
+            "url": "https://www.bbc.com/news/articles/c5yrzyzke8do",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e131/live/e987ead0-24fd-11f0-8f57-b7237f6a66e6.jpg"
         },
         {
-            "title": "Deal: Google Pixel 9 plummets to its all-time low price - Android Authority",
-            "description": "The Google Pixel 9 is at its record-low price, making it a great choice for those who want a premium phone that won't break the bank.",
-            "url": "https://www.androidauthority.com/google-pixel-9-deal-3548886/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-in-Peony-in-a-mans-hands-as-he-examines-the-back-of-the-device.jpg"
+            "title": "The New 2025 Apple iPad Air with M3 Chip Drops to an All-Time Low on Amazon - IGN",
+            "description": "Lightweight, powerful, and discounted for Mother's Day.",
+            "url": "https://www.ign.com/articles/apple-ipad-air-m3-tablet-deal-mothers-day-2025",
+            "image": "https://assets-prd.ignimgs.com/2025/04/29/appleipadairm2-1745956878889.jpg?width=1280"
         },
         {
-            "title": "WUCHANG: Fallen Feathers launches July 24 - Gematsu",
-            "description": "WUCHANG: Fallen Feathers will launch for PlayStation 5, Xbox Series, and PC via Steam, Epic Games Store, and Microsoft Store on July 24 for $49.99 / \u00a344.99 / \u20ac49.99, publisher 505 Games and develop\u2026",
-            "url": "https://www.gematsu.com/2025/04/wuchang-fallen-feathers-launches-july-24",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/04/WUCHANG-Date_04-28-25.jpg"
+            "title": "DBX S - Aston Martin",
+            "description": "Introducing DBX S with the most power to perform of any SUV on the planet. More power, more attitude, and extreme performance in iconic Aston Martin style.",
+            "url": "https://www.astonmartin.com/en/models/dbx-s",
+            "image": null
         }
     ]
 }
