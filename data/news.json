@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Donkey Kong's New Design Added As Icon In Latest Switch Firmware Update - Nintendo Life",
-            "description": "Including DK's new design!",
-            "url": "https://www.nintendolife.com/news/2025/04/mulitple-profie-icons-revamped-in-latest-switch-firmware-update",
-            "image": "https://images.nintendolife.com/d90921b2577d2/large.jpg"
+            "title": "Microsoft: Xbox is now the \"biggest publisher\" on PlayStation, as PC Game Pass hits 45% year over year growth - Windows Central",
+            "description": "Microsoft's gaming fortunes are on the up and up, as it posts record Q3 growth in a tough market.",
+            "url": "https://www.windowscentral.com/gaming/xbox/microsoft-xbox-is-now-the-biggest-publisher-on-playstation-as-pc-game-pass-hits-45-percent-year-over-year-growth",
+            "image": "https://cdn.mos.cms.futurecdn.net/tzojbhzFU2aB7YgDcchSu5.jpg"
         },
         {
-            "title": "Google\u2019s Update Decision\u2014Bad News For 50% Of Android Users - Forbes",
-            "description": "Update deadline is next week \u2014 what to know.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/04/29/googles-android-decision-bad-news-for-50-of-all-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/666c6a1747665cecbf788d0b/0x0.jpg?format=jpg&crop=1752,985,x1472,y1216,safe&height=900&width=1600&fit=bounds"
+            "title": "Microsoft\u2019s most capable new Phi 4 AI model rivals the performance of far larger systems - TechCrunch",
+            "description": "Microsoft has launched several new 'open' AI models, the most capable of which is competitive with OpenAI's o3-mini on at least one benchmark.",
+            "url": "https://techcrunch.com/2025/04/30/microsofts-most-capable-new-phi-4-ai-model-rivals-the-performance-of-far-larger-systems/",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?resize=1200,800"
         },
         {
-            "title": "Google teases Pixel display improvement, likely starting with Pixel 10 - 9to5Google",
-            "description": "A shortcoming of Pixel displays thus far may be addressed going forward, as Google is teasing better PWM dimming rates...",
-            "url": "http://9to5google.com/2025/04/29/google-teases-pixel-display-improvement-likely-starting-with-pixel-10/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-pixel-9-pro-xl-3-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Google\u2019s Gemini chatbot gets upgraded image creation tools - TechCrunch",
+            "description": "Google's Gemini chatbot app now lets you modify both AI-generated images and images uploaded from your phone or computer.",
+            "url": "https://techcrunch.com/2025/04/30/googles-gemini-chatbot-gets-upgraded-image-creation-tools/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2169339854.jpg?resize=1200,857"
         },
         {
-            "title": "Robot vacuum cleaner 'could water plants or play with cat' - BBC",
-            "description": "Scientists, including researchers in Bath, have come up with 100 proposed uses for the robots.",
-            "url": "https://www.bbc.com/news/articles/c5yrzyzke8do",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e131/live/e987ead0-24fd-11f0-8f57-b7237f6a66e6.jpg"
+            "title": "New Details Surface on Destiny 1\u2019s Original \u2018Staten Cut\u2019 Story Before the 2013 Reboot - The Game Post",
+            "description": "A new post breaks down Destiny 1\u2019s scrapped \"Staten-cut\" campaign, revealing campaign structure, characters, factions, and a completely different story Bungie originally planned before the 2013 rewrite.",
+            "url": "https://thegamepost.com/new-details-destiny-1-staten-story-2013-reboot/",
+            "image": "https://thegamepost.com/wp-content/uploads/2025/04/new-details-destiny-1-staten-story-2013-reboot-18.webp"
         },
         {
-            "title": "The New 2025 Apple iPad Air with M3 Chip Drops to an All-Time Low on Amazon - IGN",
-            "description": "Lightweight, powerful, and discounted for Mother's Day.",
-            "url": "https://www.ign.com/articles/apple-ipad-air-m3-tablet-deal-mothers-day-2025",
-            "image": "https://assets-prd.ignimgs.com/2025/04/29/appleipadairm2-1745956878889.jpg?width=1280"
+            "title": "Sketchy rumors hint at an iPhone desktop mode - The Verge",
+            "description": "Rumors suggest that Apple is working on Stage Manager for iPhones with external display support, raising the possibility of a desktop mode for iOS.",
+            "url": "https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "DBX S - Aston Martin",
-            "description": "Introducing DBX S with the most power to perform of any SUV on the planet. More power, more attitude, and extreme performance in iconic Aston Martin style.",
-            "url": "https://www.astonmartin.com/en/models/dbx-s",
-            "image": null
+            "title": "Google Just Launched an AI-Powered Duolingo Alternative - Lifehacker",
+            "description": "But does it have a cute animal mascot? (No.)",
+            "url": "https://lifehacker.com/tech/google-launches-an-ai-powered-duolingo-alternative",
+            "image": "https://lifehacker.com/imagery/articles/01JT3ZG59FNYE5C66T8QJHPGJ2/hero-image.fill.size_1200x675.png"
         }
     ]
 }
