@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "The Chromecast is back, but not as we know it - The Verge",
-            "description": "The Cast 150 looks like a Chromecast, and streams like a Chromecast, but it\u2019s not made by Google.",
-            "url": "https://www.theverge.com/news/660028/thomson-cast-150-chromecast-clone-launch",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/thomson-cast-150.jpg?quality=90&strip=all&crop=0%2C10.745114974598%2C100%2C78.509770050803&w=1200"
+            "title": "Oops, Yuji Horii Might May Not Have Leaked Massive Remake News After All - Nintendo Life",
+            "description": "Update: Translator was just having fun with Chrono Trigger",
+            "url": "https://www.nintendolife.com/news/2025/05/oops-yuji-horii-might-may-not-have-leaked-massive-remake-news-after-all",
+            "image": "https://images.nintendolife.com/d9b0c95175ec9/large.jpg"
         },
         {
-            "title": "French President Macron Congratulates Clair Obscur: Expedition 33 Developer For Creating 'One of the Best-Rated Games in History' - IGN",
-            "description": "Clair Obscur: Expedition 33 developer Sandfall Interactive must be used to compliments by now \u2014 its RPG released a little over a week ago and is already universally acclaimed by players and critics alike \u2014 but I don't think anyone had \"a hat tip from French P\u2026",
-            "url": "https://www.ign.com/articles/french-president-macron-congratulates-clair-obscur-expedition-33-developer-for-creating-one-of-the-best-rated-games-in-history",
-            "image": "https://assets-prd.ignimgs.com/2025/05/02/french-president-1746176959797.jpg?width=1280"
+            "title": "Google is going to let kids use its Gemini AI - The Verge",
+            "description": "Google is ready to give kids Gemini AI chatbot access on Androids under Google Family Link.",
+            "url": "https://www.theverge.com/news/660678/google-gemini-ai-children-under-13-family-link-chatbot-access",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "ICYMI: 12 Switch Games Will Receive Free Switch 2 Upgrades - Nintendo Life",
-            "description": "ARMS, Pok\u00e9mon and much more",
-            "url": "https://www.nintendolife.com/news/2025/05/icymi-12-switch-games-will-receive-free-switch-2-upgrades",
-            "image": "https://images.nintendolife.com/f20728c4d8d33/large.jpg"
+            "title": "\u2018Evil Dead: The Game\u2019 Has Been Quietly Delisted From Digital Storefronts - Bloody Disgusting",
+            "description": "Less than three years after it was released, and just over a year since the end of new content, Saber Interactive is pulling their asymmetrical multiplayer title Evil Dead: The Game from digital storefronts. As reported by NME and several outlets, fans had no\u2026",
+            "url": "https://bloody-disgusting.com/video-games/3866738/evil-dead-the-game-has-been-quietly-delisted-from-digital-storefronts/",
+            "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/05/evildead.jpg?resize=900%2C580&ssl=1"
         },
         {
-            "title": "Some Nintendo Switch users impacted by error code 2206-1015 following system update - Nintendo Everything",
-            "description": "Switch users unable to start system due to error code 2206-1015 after new update, and Nintendo responds with a statement.",
-            "url": "https://nintendoeverything.com/some-nintendo-switch-users-impacted-by-error-code-2206-1015-following-system-update/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-error-code-2206-1015.jpg"
+            "title": "Polygon And Giant Bomb Are Being Sacrificed At The Altar Of Slop - aftermath.site",
+            "description": "\"It\u2019s all interchangeable to them. It\u2019s all the same slop\"",
+            "url": "https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet",
+            "image": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/05/gbgon.png"
         },
         {
-            "title": "Billions of iPhone users at risk of dangerous malware attack \u2014 newly-found flaw warning issued - New York Post",
-            "description": "Apple users are being urged to update their devices ASAP.",
-            "url": "https://nypost.com/2025/05/01/lifestyle/iphone-airplay-flaw-lets-hackers-hijack-devices-via-wi-fi/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2025/05/103668502.jpg?quality=75&strip=all&w=1024"
-        },
-        {
-            "title": "Switch 2 GameCube Controller 'Early Purchase' Goes Live Next Week (North America) - Nintendo Life",
-            "description": "Open to paid NSO subscribers a week later",
-            "url": "https://www.nintendolife.com/news/2025/05/switch-2-gamecube-controller-early-purchase-goes-live-next-week-north-america",
-            "image": "https://images.nintendolife.com/e487c1efea788/large.jpg"
+            "title": "Microsoft Raises Xbox Series X|S Console Prices Globally - Anime News Network",
+            "description": "Price increases also affect peripherals, new 1st-party games",
+            "url": "https://www.animenewsnetwork.com/news/2025-05-02/microsoft-raises-xbox-series-x-s-console-prices-globally/.224135",
+            "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/cms/news.8/224135/xbox-series-xs.png.jpg"
         }
     ]
 }
