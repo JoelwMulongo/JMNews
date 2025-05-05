@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Oops, Yuji Horii Might May Not Have Leaked Massive Remake News After All - Nintendo Life",
-            "description": "Update: Translator was just having fun with Chrono Trigger",
-            "url": "https://www.nintendolife.com/news/2025/05/oops-yuji-horii-might-may-not-have-leaked-massive-remake-news-after-all",
-            "image": "https://images.nintendolife.com/d9b0c95175ec9/large.jpg"
+            "title": "This Samsung Galaxy Watch design feature might be returning soon - and it's good news for fans - ZDNET",
+            "description": "Plus, Oura Ring users have found a clever way to customize their smart rings.",
+            "url": "https://www.zdnet.com/article/this-samsung-galaxy-watch-design-feature-might-be-returning-soon-and-its-good-news-for-fans/",
+            "image": "https://www.zdnet.com/a/img/resize/8975cab8a2b88eb3b273a644fcf2f09583586778/2023/07/24/0ae50d5e-27bd-44de-9a42-7a0938ab50fb/samsung-galaxy-watch-6-classic-bezel-4.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Google is going to let kids use its Gemini AI - The Verge",
-            "description": "Google is ready to give kids Gemini AI chatbot access on Androids under Google Family Link.",
-            "url": "https://www.theverge.com/news/660678/google-gemini-ai-children-under-13-family-link-chatbot-access",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Chips aren\u2019t improving like they used to, and it\u2019s killing game console price cuts - Ars Technica",
+            "description": "Op-ed: Slowed manufacturing advancements are upending the way tech progresses.",
+            "url": "https://arstechnica.com/gadgets/2025/05/chips-arent-improving-like-they-used-to-and-its-killing-game-console-price-cuts/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/switch-2-hero-1152x648.jpg"
         },
         {
-            "title": "\u2018Evil Dead: The Game\u2019 Has Been Quietly Delisted From Digital Storefronts - Bloody Disgusting",
-            "description": "Less than three years after it was released, and just over a year since the end of new content, Saber Interactive is pulling their asymmetrical multiplayer title Evil Dead: The Game from digital storefronts. As reported by NME and several outlets, fans had no\u2026",
-            "url": "https://bloody-disgusting.com/video-games/3866738/evil-dead-the-game-has-been-quietly-delisted-from-digital-storefronts/",
-            "image": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2025/05/evildead.jpg?resize=900%2C580&ssl=1"
+            "title": "Microsoft Issues June 1 Warning \u2014 Do Not Wait, Save Your Passwords Now - Forbes",
+            "description": "You won't be able to save new passwords after June 1, Microsoft warns all authenticator app users. Here's what you need to do.",
+            "url": "https://www.forbes.com/sites/daveywinder/2025/05/04/save-all-your-passwords-before-june-1-microsoft-warns-app-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/68148c0e801d145bf8a7a167/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Polygon And Giant Bomb Are Being Sacrificed At The Altar Of Slop - aftermath.site",
-            "description": "\"It\u2019s all interchangeable to them. It\u2019s all the same slop\"",
-            "url": "https://aftermath.site/aftermath-hours-podcast-giant-bomb-polygon-layoffs-valnet",
-            "image": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/05/gbgon.png"
+            "title": "Nintendo details changes to Nintendo 64 Nintendo Classics app on Switch 2 - My Nintendo News",
+            "description": "Nintendo has revealed more about the changes coming to the Nintendo Classics app for Nintendo 64 games on the Nintendo Switch 2. Firstly, a new CRT filter will be added to the app to add a retro feel\u2026",
+            "url": "https://mynintendonews.com/2025/05/04/nintendo-details-changes-to-nintendo-64-nintendo-classics-app-on-switch-2/",
+            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_64_switch_online_nintendo_classics.jpg?fit=950%2C534&ssl=1"
         },
         {
-            "title": "Microsoft Raises Xbox Series X|S Console Prices Globally - Anime News Network",
-            "description": "Price increases also affect peripherals, new 1st-party games",
-            "url": "https://www.animenewsnetwork.com/news/2025-05-02/microsoft-raises-xbox-series-x-s-console-prices-globally/.224135",
-            "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJJ/cms/news.8/224135/xbox-series-xs.png.jpg"
+            "title": "Koei Tecmo details Wild Hearts S differences on Nintendo Switch 2 - Nintendo Everything",
+            "description": "Wild Hearts S differences explained for the Nintendo Switch 2 version of the game compared to the original.",
+            "url": "https://nintendoeverything.com/koei-tecmo-details-wild-hearts-s-differences-on-nintendo-switch-2/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Wild-Hearts-S-differences.jpg"
+        },
+        {
+            "title": "Clair Obscur: Expedition 33: How the 'Game of the Year' was made - BBC",
+            "description": "The makers of a video game that even impressed the French president tell the unusual tale of its development.",
+            "url": "https://www.bbc.com/news/articles/c078j5gd71ro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2f88/live/4660e450-2774-11f0-8f57-b7237f6a66e6.png"
         }
     ]
 }
