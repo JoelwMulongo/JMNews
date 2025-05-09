@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft and Asus\u2019 Xbox handheld appears in leaked photos - The Verge",
-            "description": "The first photos have leaked of the Asus ROG Ally 2, along with an Xbox-branded version that\u2019s likely Microsoft\u2019s rumored \u2018Project Kennan\u2019 handheld.",
-            "url": "https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Apple's Foldable iPhone Display Tech May Set New Industry Standard - MacRumors",
+            "description": "Apple's upcoming foldable iPhone will feature a new type of display panel developed by Samsung that has never been used in a foldable product,...",
+            "url": "https://www.macrumors.com/2025/05/08/apple-foldable-iphone-display-new-tech/",
+            "image": "https://images.macrumors.com/t/7O_4ilWjMpNSXf1pIBM37P_dKgU=/2500x/article-new/2025/03/Foldable-iPhone-2023-Feature-Homescreen.jpg"
         },
         {
-            "title": "Almost 2,500 Top-Notch PS5, PS4 Games Discounted in New PS Store Sale - Push Square",
-            "description": "Diablo 4! Silent Hill 2! Forspoken!",
-            "url": "https://www.pushsquare.com/news/2025/05/almost-2500-top-notch-ps5-ps4-games-discounted-in-new-ps-store-sale",
-            "image": "https://images.pushsquare.com/38acb6aa17ae0/large.jpg"
+            "title": "Lenovo\u2019s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid - The Verge",
+            "description": "The 18-inch Lenovo Legion 9i gaming laptop can be had with Nvidia GeForce RTX 5090 GPU, Intel Arrow Lake CPU, and a 4K 2D / 3D screen with high refresh rate.",
+            "url": "https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/07_Lenovo_Legion_9i_Eclipse_Black_Hero_Rear_white.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Google Mocks iPhone 17 Design Rumors in Pixel 9 Pro Ad - MacRumors",
-            "description": "Google this week targeted the upcoming iPhone 17 in an ad for the Pixel 9 Pro, mocking Apple's design plans and suggesting that Apple often...",
-            "url": "https://www.macrumors.com/2025/05/06/google-mocks-iphone-17-design/",
-            "image": "https://images.macrumors.com/t/_pCGE1Ymr3HIn-JEW9WNVJAbclo=/1600x/article-new/2025/05/google-pixel-9-ad-mocks-iphone-17.jpg"
+            "title": "Palworld developer says Pok\u00e9mon lawsuit will prompt more \"disappointing\" changes, as it continues to \"dispute\" claims - Eurogamer",
+            "description": "Palworld's developer has released a statement regarding changes to its monster catching survival game which were made due to its ongoing Pok\u00e9mon lawsuit.",
+            "url": "https://www.eurogamer.net/palworld-developer-says-pokemon-lawsuit-will-prompt-more-disappointing-changes-as-it-continues-to-dispute-claims",
+            "image": "https://assetsio.gnwcdn.com/A-Palworld-Pal-looks-anxious-as-a-stern-looking-drawing-of-Pikachu-is-overlayed-next-to-it.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Sony Xperia 1 VII: New leak signals international release for Sony's first Snapdragon 8 Elite flagship - Notebookcheck",
-            "description": "The launch of the Xperia 1 VII is seemingly right around the corner. Sony's Xperia 1 VI successor appears destined for an international release too if a new leak is anything to go by.",
-            "url": "https://www.notebookcheck.net/Sony-Xperia-1-VII-New-leak-signals-international-release-for-Sony-s-first-Snapdragon-8-Elite-flagship.1011278.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/xperia-1-VII-camera-rumours-new-april-30-kv1.jpg"
+            "title": "Round Up: Death Stranding 2 PS5 Previews Describe a Metal Gear Glow Up for Kojima Sequel - Push Square",
+            "description": "In Hideo we trust",
+            "url": "https://www.pushsquare.com/news/2025/05/round-up-death-stranding-2-ps5-previews-describe-a-metal-gear-glow-up-for-kojima-sequel",
+            "image": "https://images.pushsquare.com/b51c911c1457c/large.jpg"
         },
         {
-            "title": "Samsung Galaxy Z Flip7 FE's newly leaked specs paint a familiar picture - GSMArena.com news - GSMArena.com",
-            "description": "So familiar, in fact, that it doesn't seem to make a lot of sense. Samsung is rumored to be unveiling the Galaxy Z Fold7 and Galaxy Z Flip7 in early July,...",
-            "url": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fes_newly_leaked_specs_paint_a_familiar_picture-news-67664.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/25/05/galaxy-z-flip7-fe-leaked-specs-price/-952x498w6/gsmarena_000.jpg"
+            "title": "Samsung is bringing One UI 7's 'Now Bar' and 'Now Brief' to Galaxy Watches (APK teardown) - Android Authority",
+            "description": "Samsung is prepping to port over the Now Bar and Now Brief features from One UI 7 to the Galaxy Watch lineup and we have the scoop!",
+            "url": "https://www.androidauthority.com/samsung-galaxy-watch-now-bar-now-brief-galaxy-watch-3555509/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-Watch-Now-Bar.jpg"
+        },
+        {
+            "title": "Walmart\u2019s Chromecast with Google TV replacement will cost $30, listing reveals - 9to5Google",
+            "description": "Walmart has relisted its Onn 4K Plus streaming device powered by Google TV, with the compelling Chromecast replacement coming in...",
+            "url": "http://9to5google.com/2025/05/07/walmart-onn-4k-plus-google-tv-listing-price/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/onn-4k-plus-walmart-google-tv-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
