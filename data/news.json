@@ -1,40 +1,28 @@
 {
     "articles": [
         {
-            "title": "Apple's Foldable iPhone Display Tech May Set New Industry Standard - MacRumors",
-            "description": "Apple's upcoming foldable iPhone will feature a new type of display panel developed by Samsung that has never been used in a foldable product,...",
-            "url": "https://www.macrumors.com/2025/05/08/apple-foldable-iphone-display-new-tech/",
-            "image": "https://images.macrumors.com/t/7O_4ilWjMpNSXf1pIBM37P_dKgU=/2500x/article-new/2025/03/Foldable-iPhone-2023-Feature-Homescreen.jpg"
+            "title": "Nintendo says it could brick Switch systems if users \"bypass, modify, decrypt, defeat, tamper with\" their games in updated agreement - Nintendo Everything",
+            "description": "Following an update to the Nintendo Account User Agreement, the company has warned that it may brick Switch systems by those who \u201cbypass, modify, decrypt, defeat, tamper with\u201d their games. This particular agreement needs to be agreed upon before you can acces\u2026",
+            "url": "https://nintendoeverything.com/nintendo-says-it-could-brick-switch-systems-if-users-bypass-modify-decrypt-defeat-tamper-with-their-games-in-updated-agreement/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Account-agreement-brick-systems.webp"
         },
         {
-            "title": "Lenovo\u2019s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid - The Verge",
-            "description": "The 18-inch Lenovo Legion 9i gaming laptop can be had with Nvidia GeForce RTX 5090 GPU, Intel Arrow Lake CPU, and a 4K 2D / 3D screen with high refresh rate.",
-            "url": "https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/07_Lenovo_Legion_9i_Eclipse_Black_Hero_Rear_white.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Google Messages is starting to roll out \u2018Delete for everyone\u2019 - 9to5Google",
+            "description": "Google Messages for Android is getting the ability to delete a chat message for everyone in a group RCS conversation.",
+            "url": "http://9to5google.com/2025/05/08/google-messages-delete-for-everyone/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/Google-Messages-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Palworld developer says Pok\u00e9mon lawsuit will prompt more \"disappointing\" changes, as it continues to \"dispute\" claims - Eurogamer",
-            "description": "Palworld's developer has released a statement regarding changes to its monster catching survival game which were made due to its ongoing Pok\u00e9mon lawsuit.",
-            "url": "https://www.eurogamer.net/palworld-developer-says-pokemon-lawsuit-will-prompt-more-disappointing-changes-as-it-continues-to-dispute-claims",
-            "image": "https://assetsio.gnwcdn.com/A-Palworld-Pal-looks-anxious-as-a-stern-looking-drawing-of-Pikachu-is-overlayed-next-to-it.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Samsung Galaxy S25 Edge Features New Corning\u00ae Gorilla\u00ae Glass Ceramic 2 for Enhanced Durability - Samsung Newsroom",
+            "description": "With Corning\u2019s leading-edge manufacturing technology, Corning\u00ae Gorilla\u00ae Glass Ceramic 2 offers engineered resilience on Galaxy S25 Edge, the slimmest Galaxy S series yet",
+            "url": "https://news.samsung.com/global/samsung-galaxy-s25-edge-features-new-corning-gorilla-glass-ceramic-2-for-enhanced-durability",
+            "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/05/Samsung-Mobile-Galaxy-S25-Edge-Corning-Incorporated-Corning%C2%AE-Gorilla%C2%AE-Glass-Ceramic-2_Thumb728.jpg"
         },
         {
-            "title": "Round Up: Death Stranding 2 PS5 Previews Describe a Metal Gear Glow Up for Kojima Sequel - Push Square",
-            "description": "In Hideo we trust",
-            "url": "https://www.pushsquare.com/news/2025/05/round-up-death-stranding-2-ps5-previews-describe-a-metal-gear-glow-up-for-kojima-sequel",
-            "image": "https://images.pushsquare.com/b51c911c1457c/large.jpg"
-        },
-        {
-            "title": "Samsung is bringing One UI 7's 'Now Bar' and 'Now Brief' to Galaxy Watches (APK teardown) - Android Authority",
-            "description": "Samsung is prepping to port over the Now Bar and Now Brief features from One UI 7 to the Galaxy Watch lineup and we have the scoop!",
-            "url": "https://www.androidauthority.com/samsung-galaxy-watch-now-bar-now-brief-galaxy-watch-3555509/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-Watch-Now-Bar.jpg"
-        },
-        {
-            "title": "Walmart\u2019s Chromecast with Google TV replacement will cost $30, listing reveals - 9to5Google",
-            "description": "Walmart has relisted its Onn 4K Plus streaming device powered by Google TV, with the compelling Chromecast replacement coming in...",
-            "url": "http://9to5google.com/2025/05/07/walmart-onn-4k-plus-google-tv-listing-price/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/onn-4k-plus-walmart-google-tv-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Apple has a new \u2018Viral\u2019 playlist on Apple Music and Shazam - The Verge",
+            "description": "Apple\u2019s new Viral Chart playlist features the top 50 songs discovered through Shazam.",
+            "url": "https://www.theverge.com/news/663866/apple-music-viral-charts-global-playlist-shazam-top-50",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925979/acastro_STK046_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
     ]
 }
