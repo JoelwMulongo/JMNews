@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Scientists Confirm the Human Species Is the Result of a Fusion Between Two Ancestral Populations - The Daily Galaxy",
-            "description": "Homo sapiens may not have emerged from a single lineage, but rather through an ancient genetic fusion. This new research uncovers surprising connections that reshape our understanding of human ancestry.",
-            "url": "https://dailygalaxy.com/2025/05/scientists-confirm-human-species-is-the-result-of-a-fusion-between-two-ancestral-populations/",
-            "image": "https://dailygalaxy.com/wp-content/uploads/2025/05/Primitive-Prehistoric-Neanderthal-Child-in-Animal-Skin-Draws-Animals-and-Abstracts-on-Walls-at-Night.jpg"
+            "title": "Xbox Game Pass has four games confirmed for June so far - TrueAchievements",
+            "description": "So far, four games have already been confirmed for Xbox Game Pass in June 2025, including Remedy Entertainment's co-op shooter, FBC: Firebreak.",
+            "url": "https://www.trueachievements.com/news/xbox-game-pass-four-games-confirmed-june-2025",
+            "image": "https://www.trueachievements.com/imgs/160017/xbox-game-pass-four-games-confirmed-june-2025.jpg"
         },
         {
-            "title": "I've had T-Mobile for 10 years, but I just canceled my account. Here's why - Android Authority",
-            "description": "My family and I have been T-Mobile customers for the last 10 years. But after the latest price increase, I'm calling it quits.",
-            "url": "https://www.androidauthority.com/canceled-t-mobile-after-10-years-why-3555297/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/t-mobile-logo-android-phone-hero-1-scaled.jpg"
+            "title": "Deals For Today: Pok\u00e9mon TCG Sealed Product, Plus Surprise Gaming Keyboard and Mouse Discounts - IGN",
+            "description": "As of May 12, save on Pok\u00e9mon TCG sealed product, Legend of Zelda books in Amazon\u2019s B2G50 sale, plus surprise discounts on gaming keyboards and mice from Corsair and GravaStar.",
+            "url": "https://www.ign.com/articles/best-deals-for-may-12-2025",
+            "image": "https://assets-prd.ignimgs.com/2025/05/12/pixel-9-2025-05-12t100204-750-1747040529539.jpg?width=1280"
         },
         {
-            "title": "Microsoft Confirms New Free Update Deadline For Windows Users - Forbes",
-            "description": "A huge surprise for PC owners \u2014 what it means for you.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/05/11/microsoft-confirms-new-free-update-deadline-for-windows-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/67e16f26f3e59256a03d32a7/0x0.jpg?format=jpg&crop=1588,892,x1103,y974,safe&height=900&width=1600&fit=bounds"
+            "title": "Samsung Galaxy S25 Edge LIVE: All the big Unpacked news as it's announced - Tom's Guide",
+            "description": "Samsung's about to add a thin phone to its lineup",
+            "url": "https://www.tomsguide.com/phones/live/samsung-galaxy-s25-edge-live-all-the-big-unpacked-news-as-its-announced",
+            "image": "https://cdn.mos.cms.futurecdn.net/5hbdSZYbKS2VPK82nytRSF.jpg"
         },
         {
-            "title": "Nintendo offering three formats for Switch 2 games - My Nintendo News",
-            "description": "One of the more controversial elements of Nintendo Switch 2 titles coming from third party developers is the abundance of Game Key Cards, physical cartridges which contain a key to download an\u2026",
-            "url": "https://mynintendonews.com/2025/05/11/nintendo-offering-three-formats-for-switch-2-games/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_switch_2-1.jpg?fit=1920%2C998&ssl=1"
+            "title": "Google Keep brings text formatting to the web - The Verge",
+            "description": "NGoogle Keep has finally expanded the text formatting options for its web app, almost two years after making them available for Android users.",
+            "url": "https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "What we could see out of a Xenoblade Chronicles 2: Definitive Edition - Nintendo Everything",
-            "description": "We go over a big list of changes and adjustments we'd like to see in a hypothetical Xenoblade Chronicles 2: Definitive Edition.",
-            "url": "https://nintendoeverything.com/what-we-could-see-out-of-a-xenoblade-chronicles-2-definitive-edition/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-Chronicles-2-remake-wish-list-1.jpg"
+            "title": "The Samsung Galaxy S25 Ultra is a fantastic Android phone I hate using - Android Authority",
+            "description": "I've spent a month with the Galaxy S25 Ultra, and by all accounts, it's an excellent phone. I just wish I didn't hate using it.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-25-ultra-great-android-phone-i-hate-using-3552662/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-7-scaled.jpg"
+        },
+        {
+            "title": "Campagnolo makes huge U-turn as new groupset breaks cover at Giro d'Italia - Cyclingnews",
+            "description": "Campagnolo Super Record Wireless goes 13 speed, but Italian brand ditches current shifter design following the controversial removal of the historic thumb shifter",
+            "url": "https://www.cyclingnews.com/news/campagnolo-makes-huge-u-turn-as-new-groupset-breaks-cover-at-giro-ditalia/",
+            "image": "https://cdn.mos.cms.futurecdn.net/Zhz4gHauk9EcK4igq2fbFD.jpg"
         }
     ]
 }
