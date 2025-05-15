@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Xperia 1 VII is a greatest hits of Sony R&D - The Verge",
-            "description": "Sony takes tech from its Bravia TVs, Alpha cameras, and Walkmans to upgrade its flagship Xperia 1 VII phone.",
-            "url": "https://www.theverge.com/news/665068/sony-xperia-1-vii-alpha-bravia-walkman-release-date-price-specs",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Sony-Xperia-1-VII.webp?quality=90&strip=all&crop=0%2C6.8691818323409%2C100%2C86.261636335318&w=1200"
+            "title": "DJI said Mavic 4 Pro wouldn\u2019t launch in US but these stores are selling it anyhow - The Verge",
+            "description": "Apparently DJI isn\u2019t entirely skipping the United States, as its Mavic 4 Pro went on sale at Adorama and possibly B&H.",
+            "url": "https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/dji-mavic-4-pro-3.jpg?quality=90&strip=all&crop=0%2C10.730345912779%2C100%2C78.539308174441&w=1200"
         },
         {
-            "title": "Intel Arc B580 rumored to get custom dual-GPU version with 48GB memory - VideoCardz.com",
-            "description": "Intel Arc B580 graphics card may get a dual-GPU variant with 48GB total memory So here\u2019s something interesting we\u2019ve learned recently, apparently one of the board partners is working on a dual-GPU version of the Arc B580. We won\u2019t name the partner here, but y\u2026",
-            "url": "https://videocardz.com/newz/intel-arc-b580-rumored-to-get-custom-dual-gpu-version-with-48gb-memory",
-            "image": "https://cdn.videocardz.com/1/2025/05/INTEL-ARC-B580-48GB-DUALGPU.jpg"
+            "title": "Microsoft shares its process (and discarded ideas) for redone Windows 11 Start menu - Ars Technica",
+            "description": "Updated Start menu design is currently being tested in Windows Insider previews.",
+            "url": "https://arstechnica.com/gadgets/2025/05/microsoft-shares-its-process-and-discarded-ideas-for-redone-windows-11-start-menu/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/win-11-new-start-1152x648.jpg"
         },
         {
-            "title": "Limited Run's Switch 2 Numbered Releases Will Reportedly Include The \"Full Game On The Cartridge\" - Nintendo Life",
-            "description": "Forever physical, kind of...",
-            "url": "https://www.nintendolife.com/news/2025/05/limited-runs-switch-2-numbered-releases-will-reportedly-include-the-full-game-on-the-cartridge",
-            "image": "https://images.nintendolife.com/21db8df84dcb1/large.jpg"
+            "title": "Google just dropped a new Android 16 beta, but it's not the one you're waiting for - Android Police",
+            "description": "Android 16 Beta 4.1 brings fixes, not Material 3 Expressive",
+            "url": "https://www.androidpolice.com/android-16-beta-41-no-material-3-expressive/",
+            "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/03/android-16-new-hero-jpg.jpg"
         },
         {
-            "title": "Hogwarts Legacy has a Nintendo Switch 2 upgrade for Switch 1 players - Nintendo Everything",
-            "description": "New details have been shared about how Hogwarts Legacy players on Switch 1 can upgrade to Nintendo Switch 2.",
-            "url": "https://nintendoeverything.com/hogwarts-legacy-has-a-nintendo-switch-2-upgrade-for-switch-1-players/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Hogwarts-Legacy-Switch-1-to-Nintendo-Switch-2-upgrade.jpg"
+            "title": "Google is testing AI search on its homepage - CNBC",
+            "description": "Since the launch of ChatGPT in November 2022, Alphabet\u00a0investors have been concerned that OpenAI could take market share from Google in search.",
+            "url": "https://www.cnbc.com/2025/05/13/google-ai-mode-search-home-page.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108097839-1738771465882-gettyimages-2189493210-vcg111536239150.jpeg?v=1738771522&w=1920&h=1080"
         },
         {
-            "title": "Duet Night Abyss second closed beta test recruitment begins - Gematsu",
-            "description": "Publisher Hero Games and developer PAN STUDIO have begun recruitment for the second closed beta test for free-to-play fantasy adventure RPG Duet Night Abyss. Recruitment is available until June 2, \u2026",
-            "url": "https://www.gematsu.com/2025/05/duet-night-abyss-second-closed-beta-test-recruitment-begins",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/05/Duet-Night-Abyss-CBT2_05-12-25.jpg"
+            "title": "Google Pixel 9a gets stern \"do not buy\" warning as teardown reveals questionable design - Notebookcheck",
+            "description": "Despite the Google Pixel 9a performing admirably in his durability tests, JerryRigEverything has officially recommended against buying the mid-range smartphone because of Google's anti-repair design.",
+            "url": "https://www.notebookcheck.net/Google-Pixel-9a-gets-stern-do-not-buy-warning-as-teardown-reveals-questionable-design.1015554.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Google-Pixel-9a-battery-pull-tabs-anti-repair-DIY-replacement.jpg"
         },
         {
-            "title": "Fantasy adventure open-world action RPG Silver Palace announced for console, PC, iOS, and Android - Gematsu",
-            "description": "Publisher Elementa and developer Silver Studio have announced Silver Palace, a fantasy adventure open-world action RPG built on Unreal Engine 5, planned for release across console, PC, iOS, and And\u2026",
-            "url": "https://www.gematsu.com/2025/05/fantasy-adventure-open-world-action-rpg-silver-palace-announced-for-console-pc-ios-and-android",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/05/Silver-Palace-Ann_05-12-25_001.jpg"
+            "title": "Google announces Material 3 Expressive, a colorful evolution of Android design - Ars Technica",
+            "description": "Google\u2019s take on Android is getting brighter and bolder later this year.",
+            "url": "https://arstechnica.com/gadgets/2025/05/google-reveals-vibrant-material-3-expressive-coming-soon-to-a-pixel-near-you/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Material-3-Expressive-11-1152x648.jpg"
         }
     ]
 }
