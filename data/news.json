@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "DJI said Mavic 4 Pro wouldn\u2019t launch in US but these stores are selling it anyhow - The Verge",
-            "description": "Apparently DJI isn\u2019t entirely skipping the United States, as its Mavic 4 Pro went on sale at Adorama and possibly B&H.",
-            "url": "https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/dji-mavic-4-pro-3.jpg?quality=90&strip=all&crop=0%2C10.730345912779%2C100%2C78.539308174441&w=1200"
+            "title": "First look at Kingdom Hearts 4 in three years suggests Mickey Mouse is playable - Eurogamer",
+            "description": "Square Enix has released fresh screenshots of Kingdom Hearts 4, giving us our first look at the game in three years.",
+            "url": "https://www.eurogamer.net/first-look-at-kingdom-hearts-4-in-three-years-suggests-mickey-mouse-is-playable",
+            "image": "https://assetsio.gnwcdn.com/KINGDOM-HEARTS-III-%E2%80%93-Opening-Movie-Trailer-1-23-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Microsoft shares its process (and discarded ideas) for redone Windows 11 Start menu - Ars Technica",
-            "description": "Updated Start menu design is currently being tested in Windows Insider previews.",
-            "url": "https://arstechnica.com/gadgets/2025/05/microsoft-shares-its-process-and-discarded-ideas-for-redone-windows-11-start-menu/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/win-11-new-start-1152x648.jpg"
+            "title": "Apple Vision Pro Price Guessed Incorrectly Multiple Times On \u2018The Price Is Right\u2019 Show For The 256GB Version, Despite The Headset Garnering Massive Attention Worldwide - Wccftech",
+            "description": "The Apple Vision Pro is a product that generated massive hype, but even then, contestants on The Price Is Right show guessed its price incorrectly",
+            "url": "https://wccftech.com/apple-vision-pro-price-guessed-incorrectly-on-the-price-is-right-show/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/05/Apple-Vision-Pro-4.jpg"
         },
         {
-            "title": "Google just dropped a new Android 16 beta, but it's not the one you're waiting for - Android Police",
-            "description": "Android 16 Beta 4.1 brings fixes, not Material 3 Expressive",
-            "url": "https://www.androidpolice.com/android-16-beta-41-no-material-3-expressive/",
-            "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/03/android-16-new-hero-jpg.jpg"
+            "title": "Material 3 Expressive is already making its way to Wear OS Tiles - 9to5Google",
+            "description": "While Material 3 Expressive is not coming to Wear OS 6 until later this year, Google is already updating Tiles with the new design language.",
+            "url": "http://9to5google.com/2025/05/14/material-3-expressive-wear-os-tiles/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Material-3-Expressive-Wear-OS-buttons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Google is testing AI search on its homepage - CNBC",
-            "description": "Since the launch of ChatGPT in November 2022, Alphabet\u00a0investors have been concerned that OpenAI could take market share from Google in search.",
-            "url": "https://www.cnbc.com/2025/05/13/google-ai-mode-search-home-page.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108097839-1738771465882-gettyimages-2189493210-vcg111536239150.jpeg?v=1738771522&w=1920&h=1080"
+            "title": "Mortal Kombat 1 Looks To Be Winding Down Support With The 'Definitive Edition' - Nintendo Life",
+            "description": "That's a wrap",
+            "url": "https://www.nintendolife.com/news/2025/05/mortal-kombat-1-looks-to-be-winding-down-support-with-the-definitive-edition",
+            "image": "https://images.nintendolife.com/2445379fad2a8/large.jpg"
         },
         {
-            "title": "Google Pixel 9a gets stern \"do not buy\" warning as teardown reveals questionable design - Notebookcheck",
-            "description": "Despite the Google Pixel 9a performing admirably in his durability tests, JerryRigEverything has officially recommended against buying the mid-range smartphone because of Google's anti-repair design.",
-            "url": "https://www.notebookcheck.net/Google-Pixel-9a-gets-stern-do-not-buy-warning-as-teardown-reveals-questionable-design.1015554.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/Google-Pixel-9a-battery-pull-tabs-anti-repair-DIY-replacement.jpg"
+            "title": "Apple Intelligence: Three features Apple needs to copy from the competition - 9to5Mac",
+            "description": "To call the Apple Intelligence rollout a blunder is quite the understatement. However, there are three features it could adopt to catch up.",
+            "url": "https://9to5mac.com/ai-features-apple-needs-to-adopt/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Google announces Material 3 Expressive, a colorful evolution of Android design - Ars Technica",
-            "description": "Google\u2019s take on Android is getting brighter and bolder later this year.",
-            "url": "https://arstechnica.com/gadgets/2025/05/google-reveals-vibrant-material-3-expressive-coming-soon-to-a-pixel-near-you/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Material-3-Expressive-11-1152x648.jpg"
+            "title": "The latest Apple Maps update will bring out your bougie side - TechCrunch",
+            "description": "Apple Maps announced a collaboration with the MICHELIN Guide, The Infatuation, and Golf Digest to help users find recommended restaurants and golf courses",
+            "url": "https://techcrunch.com/2025/05/14/the-latest-apple-maps-update-will-bring-out-your-bougie-side/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777"
         }
     ]
 }
