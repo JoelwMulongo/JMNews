@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Nintendo Apologises For \"Error\" With Mention Of Switch 2 VRR TV Support - Nintendo Life",
-            "description": "\"The incorrect information was initially published\"",
-            "url": "https://www.nintendolife.com/news/2025/05/nintendo-apologises-for-error-with-mention-of-switch-2-vrr-tv-support",
-            "image": "https://images.nintendolife.com/e787d79aace6a/large.jpg"
+            "title": "Sierra made the games of my childhood. Are they still fun to play? - Ars Technica",
+            "description": "Get ready for some nostalgia.",
+            "url": "https://arstechnica.com/gaming/2025/05/sierra-made-the-games-of-my-childhood-are-they-still-fun-to-play/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/xenon-1152x648-1747426345.jpg"
         },
         {
-            "title": "Stellar Blade PC release blocked on Steam in over 120 countries, surprising even its developer - Eurogamer",
-            "description": "Stellar Blade will release on PC on 11th June, but its availability on Steam has been blocked in over 120 countries, su\u2026",
-            "url": "https://www.eurogamer.net/stellar-blade-pc-release-blocked-on-steam-in-over-120-countries-surprising-even-its-developer",
-            "image": "https://assetsio.gnwcdn.com/Stellar-Blade---PC-Features-Trailer-_-PC-Games-1-26-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Google I/O will be an AI show - The Verge",
+            "description": "Google\u2019s big developer conference used to feature Android front and center. That\u2019s no longer the case.",
+            "url": "https://www.theverge.com/tech/667872/google-io-android-16-ai",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Zelda Fans Are Concerned About The Free Switch 2 Updates, But Don't Worry - Nintendo Life",
-            "description": "It's likely performance will still be improved",
-            "url": "https://www.nintendolife.com/news/2025/05/zelda-fans-are-concerned-about-the-free-switch-2-updates-but-dont-worry",
-            "image": "https://images.nintendolife.com/993febbfb07cf/large.jpg"
+            "title": "Microsoft Confirms Windows Upgrade Choice\u2014You Must Now Decide - Forbes",
+            "description": "Exciting update or security nightmare \u2014 you decide.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/05/17/microsoft-confirms-windows-upgrade-choice-you-must-now-decide/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/681394bdbf03979062f145d1/0x0.jpg?format=jpg&crop=1995,1122,x331,y297,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Apple blocks Fortnite\u2019s App Store return as downloads fail in Europe - The Verge",
-            "description": "Epic says that Fortnite is \u2018offline\u2019 on iPhones everywhere, including the Epic Games Store in the EU, after Apple rejected its App Store resubmission.",
-            "url": "https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/fortnite-unavailable.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
+            "title": "Apple Denies Blocking \u2018Fortnite\u2019 From EU Stores in Epic Dispute - Bloomberg",
+            "description": "Epic Games Inc. asked a court to force Apple Inc. to approve access to the hit game Fortnite in the US App Store, the latest tussle in a long-running feud over Apple\u2019s control of game distribution revenue.",
+            "url": "https://www.bloomberg.com/news/articles/2025-05-16/apple-denies-blocking-fortnite-from-eu-stores-in-epic-dispute",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivCC5y5C7wno/v0/1200x800.jpg"
         },
         {
-            "title": "Sony Announces WH-1000XM6 Noise-Canceling Headphones With Foldable Design - MacRumors",
-            "description": "Sony has announced its new WH-1000XM6 wireless noise-canceling headphones. The good news is that the company has brought back the foldable design...",
-            "url": "https://www.macrumors.com/2025/05/16/sony-wh-1000xm6-headphones/",
-            "image": "https://images.macrumors.com/t/Xmc6xoixIvqdKQAApRBicA6eqN0=/1920x/article-new/2025/05/sony-wh-1000xm6-headphones.jpg"
+            "title": "Doom: The Dark Ages and the challenges of finding new players - BBC",
+            "description": "Doom is one of the most well-known series in gaming but it still has to work to find new players.",
+            "url": "https://www.bbc.com/news/articles/c4gezq2q911o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/78bb/live/ed7ac1a0-326b-11f0-8947-7d6241f9fce9.png"
         },
         {
-            "title": "Get the Newest Apple iPads (Including 2025 Models) For the Lowest Prices of the Year on Amazon - IGN",
-            "description": "The best tablets for both students and professionals.",
-            "url": "https://www.ign.com/articles/best-apple-ipad-deals-are-on-amazon-right-now-2025",
-            "image": "https://assets-prd.ignimgs.com/2025/05/15/appleipadairm2-1747332889899.jpg?width=1280"
+            "title": "Apple's 20th Anniversary iPhone: What We Know So Far - MacRumors",
+            "description": "2027 will mark the 20th anniversary of the iPhone, and Apple is planning to celebrate with an all-new iPhone design. With the 10th anniversary of the...",
+            "url": "https://www.macrumors.com/guide/20th-anniversary-iphone/",
+            "image": "https://images.macrumors.com/t/JCwkhRRQDfwbPkXYUlc8xuUgQBw=/2500x/article-new/2025/05/All-Screen-iPhone-2027-Feature-1.jpg"
         }
     ]
 }
