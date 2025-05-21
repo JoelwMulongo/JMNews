@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Computex 2025 live \u2014 Nvidia goes big on AI, new laptops and more from the world's largest computing event - Tom's Guide",
-            "description": "Join us, as we see the future of computing in Taiwan.",
-            "url": "https://www.tomsguide.com/news/live/computex-2025",
-            "image": "https://cdn.mos.cms.futurecdn.net/rWdtCuWmEDbrG3XnYWBbZQ.jpg"
+            "title": "Nintendo Turns to Samsung to Make Chips, Ramp Up Switch 2 Output - Bloomberg",
+            "description": "Nintendo Co. has turned to Samsung Electronics Co. to help make the main chips for the Switch 2, a move that may help the Japanese company ramp up production of the gaming console enough to sell a higher-than-projected 20 million units by March 2026.",
+            "url": "https://www.bloomberg.com/news/articles/2025-05-20/nintendo-turns-to-samsung-to-make-chips-ramp-up-switch-2-output",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuuPkqUujtrE/v0/1200x800.jpg"
         },
         {
-            "title": "MSI unveils GeForce RTX 5090 SUPRIM TITANIUM EDITION - VideoCardz.com",
-            "description": "MSI SUPRIM TITANIUM MSI has a new flagship GPU designed for the wealthiest gamers. TechPowerUP gained access to the Computex show floor, where new products are set to be revealed tomorrow (Computex starts on May 20). We\u2019re already used to TPU\u2019s stealthy metho\u2026",
-            "url": "https://videocardz.com/newz/msi-unveils-geforce-rtx-5090-suprim-titanium-edition",
-            "image": "https://cdn.videocardz.com/1/2025/05/MSI-TITANIUM-RTX5090-SUPRIM-1.jpg"
+            "title": "First Elena match footage, combo trials, story and more revealed for Street Fighter 6 - EventHubs",
+            "description": "We're now less than a month away from the release of the last DLC character for Street Fighter 6 Season 2, and now's the time to finally see what she looks like in actual gameplay.A lot of ...",
+            "url": "https://www.eventhubs.com/news/2025/may/19/elena-match-footage-sf6/",
+            "image": "https://media.eventhubs.com/images/2025/05/19-elena-match-footage-sf6t.webp"
         },
         {
-            "title": "Nintendo Renews A Couple Of Metroid Prime Trademarks - Nintendo Life",
-            "description": "But don't get your hopes up",
-            "url": "https://www.nintendolife.com/news/2025/05/nintendo-renews-a-couple-of-metroid-prime-trademarks",
-            "image": "https://images.nintendolife.com/0bbf018762924/large.jpg"
+            "title": "Wizkids Apologizes After Its Dodgy \u2018Baldur\u2019s Gate 3\u2019 Miniatures Hit With Vicious Mockery - gizmodo.com",
+            "description": "'We missed the mark,' a new statement says, after the new 'Dungeons & Dragons' miniatures were torn to shreds online last week.",
+            "url": "https://gizmodo.com/baldurs-gate-3-wizkids-controversy-refunds-apology-2000604424",
+            "image": "https://gizmodo.com/app/uploads/2025/05/wizkids-baldurs-gate-3-icons-of-the-realms-shadowheart-comparison.jpg"
         },
         {
-            "title": "Intel Announces Arc Pro B-Series, \"Project Battlematrix\" Linux Software Improvements - Phoronix",
-            "description": "Intel is using Computex 2025 to showcase their new Arc Pro B-Series graphics cards that will be available in Q3 for professional use-cases as well as focusing on AI inference workstations and edge computing workloads.",
-            "url": "https://www.phoronix.com/review/intel-arc-pro-b-series",
-            "image": "https://www.phoronix.net/image.php?id=intel-arc-pro-b-series&image=intel_arc_pro_b_7"
+            "title": "2025 Lexus IS 500 Ultimate Edition: The Culmination of Greatness - Lexus USA Newsroom",
+            "description": "PLANO, Texas (May 19, 2025) \u2013 Over the past two decades, the Lexus IS has sold approximately 1.3 million units in over 40 countries and regions across the globe. Since its inception in 1999, the model has embodied the true [\u2026]",
+            "url": "https://pressroom.lexus.com/2025-lexus-is-500-ultimate-edition-the-culmination-of-greatness/",
+            "image": "https://lexus-cms-media.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/05/2025_IS_500_Ultimate_Edition_01-HERO-1000x600.jpg"
         },
         {
-            "title": "ASUS Showcases World\u2019s First 610Hz Gaming Monitor: ROG STRIX ACE XG248Q5G Packed With Blazing Fast Super TN Panel - Wccftech",
-            "description": "ASUS has unveiled the world's fastest and the first 610Hz gaming monitor: the ROG STRIX ACE XG248Q5G, which boasts a Super TN panel.",
-            "url": "https://wccftech.com/asus-rog-strix-ace-xg248q5g-610hz-monitor/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/05/ASUS-STRIX-XG248Q5G-Featured.png"
-        },
-        {
-            "title": "GeForce RTX 5060 debuts for desktops and laptops, but proper reviews need to wait - VideoCardz.com",
-            "description": "NVIDIA launches GeForce RTX 5060 at $299 As planned, NVIDIA is launching its entry-level RTX 5060 desktop GPU today, along with a version for laptops. These are the lowest SKUs in the RTX 50 \u201cBlackwell\u201d family and are intended for budget gaming systems. This \u2026",
-            "url": "https://videocardz.com/newz/geforce-rtx-5060-debuts-for-desktops-and-laptops-but-proper-reviews-need-to-wait",
-            "image": "https://cdn.videocardz.com/1/2025/05/RTX5060-HERO.jpg"
+            "title": "MSI Claw A8 packs an AMD Ryzen Z2 Extreme \u2014 the rumors were true - Tom's Guide",
+            "description": "This handheld is looking quite promising",
+            "url": "https://www.tomsguide.com/gaming/handheld-gaming/msi-claw-a8-packs-an-amd-ryzen-z2-extreme-the-rumors-were-true",
+            "image": "https://cdn.mos.cms.futurecdn.net/3NBSw7F3JadH54mtiMFUvY.jpg"
         }
     ]
 }
