@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Fujifilm\u2019s X Half camera is so dedicated to the analog vibes, it can\u2019t shoot RAW - The Verge",
-            "description": "Fujifilm\u2019s X Half is a 1-inch-type digital camera modeled after traditional half-frame film cameras. It has film simulations and filters for vintage looks.",
-            "url": "https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/KV_X-half_street_25.jpg?quality=90&strip=all&crop=0%2C10.736012052906%2C100%2C78.527975894188&w=1200"
+            "title": "Google's new AI video tool floods internet with real-looking clips - Axios",
+            "description": "Many seem to feel this is the moment we stop being able to tell the difference between real and AI.",
+            "url": "https://www.axios.com/2025/05/23/google-ai-videos-veo-3",
+            "image": "https://images.axios.com/47761ou92NwP_LxjgL7hr8tVOWY=/0x153:7218x4213/1366x768/2025/05/22/1747932007778.jpg"
         },
         {
-            "title": "I Tried Out Dyson\u2019s New PencilVac. Here\u2019s What You Need to Know - WIRED",
-            "description": "Dyson\u2019s newest cordless vacuum, which won\u2019t be available in the US until next year, is its thinnest yet with an all-new motor.",
-            "url": "https://www.wired.com/story/dyson-pencilvac-cordless-vacuum-2025/",
-            "image": "https://media.wired.com/photos/682e29e4de92ba7c38319d15/191:100/w_1280,c_limit/Hands-On-With-the-Dyson-PencilVac.png"
+            "title": "Metal Gear Solid Delta: Snake Eater opening movie \u2018Delta Version\u2019 - Gematsu",
+            "description": "Konami has released the opening movie for Metal Gear Solid Delta: Snake Eater, created by Kyle Cooper (Metal Gear Solid 2: Sons of Liberty and Metal Gear Solid 3: Snake Eater opening movie designer\u2026",
+            "url": "https://www.gematsu.com/2025/05/metal-gear-solid-delta-snake-eater-opening-movie-delta-version",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/05/MGS-Snake-Eater-Delta_05-22-25.jpg"
         },
         {
-            "title": "\u2018Buy After Google I/O,\u2019 Says Morgan Stanley About Alphabet Stock - TipRanks",
-            "description": "Alphabet (NASDAQ:GOOGL) stock has been under pressure in recent times, weighed down by mounting antitrust challenges and growing concerns that AI could erode its se...",
-            "url": "https://www.tipranks.com/news/buy-after-google-i-o-says-morgan-stanley-about-alphabet-stock",
-            "image": "https://blog.tipranks.com/wp-content/uploads/2025/05/GOOGL-Brian-Nowak-750x406.jpg"
+            "title": "Anthropic CEO claims AI models hallucinate less than humans - TechCrunch",
+            "description": "Anthropic CEO Dario Amodei claims that AI models hallucinate at a lower rate than humans do, but in more surprising ways.",
+            "url": "https://techcrunch.com/2025/05/22/anthropic-ceo-claims-ai-models-hallucinate-less-than-humans/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?resize=1200,900"
         },
         {
-            "title": "Microsoft's and Google's dueling developer conferences reveal opposite AI strategies\u2014and a big weakness for one company - Fortune",
-            "description": "Microsoft is battling for enterprise customers. Google wants to own consumer AI. In many ways, Microsoft has the easier fight.",
-            "url": "https://fortune.com/2025/05/21/microsoft-build-google-io-conferences-showcase-divergent-consumer-business-ai-strategies/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2025/05/Screenshot-2025-05-21-at-12.38.37\u202fPM.png?resize=1200,600"
+            "title": "In 3.5 years, Notepad.exe has gone from \u201cbarely maintained\u201d to \u201cit writes for you\u201d - Ars Technica",
+            "description": "AI features in Windows are gradually becoming more widespread and inescapable.",
+            "url": "https://arstechnica.com/gadgets/2025/05/in-3-5-years-notepad-exe-has-gone-from-barely-maintained-to-it-writes-for-you/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/notepad-listing-1152x648.png"
         },
         {
-            "title": "CoD Season 4 Release Date, Ana De Armas Operator, Return Of Zombies Grief Mode, And More Revealed - GameSpot",
-            "description": "Here's everything we know and what we've heard so far about Black Ops 6's Season 4 update.",
-            "url": "https://www.gamespot.com/articles/cod-black-ops-6-and-warzone-season-4-start-date-and-details/1100-6531690/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4498803-screenshot2025-05-21at1.07.46pm.png"
+            "title": "Years later, The FTC has finally dropped its fight against Microsoft\u2019s Activision Blizzard deal - Video Games Chronicle",
+            "description": "The body has been locked in a legal battle since the deal completed in 2023",
+            "url": "https://www.videogameschronicle.com/news/years-later-the-ftc-has-finally-dropped-its-fight-against-microsofts-activision-blizzard-deal/",
+            "image": "https://www.videogameschronicle.com/files/2022/10/activision-blizzard-xbox.jpg"
         },
         {
-            "title": "What are the Gemini app\u2019s free, AI Pro, and AI Ultra limits - 9to5Google",
-            "description": "Google AI Pro and AI Ultra were announced yesterday, and the company has a table comparing what the limits for the Gemini app are by tier.",
-            "url": "http://9to5google.com/2025/05/21/gemini-app-limits-may-2025/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Gemini-app-web-I_O-2025-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Bluesky will begin verifying \u2018notable\u2019 users - TechCrunch",
+            "description": "Bluesky on Thursday quietly opened the doors to those who want to become verified on its social networking service. In a post published by the Bluesky Bluesky on Thursday quietly opened the doors to those who want to become verified on its social networking s\u2026",
+            "url": "https://techcrunch.com/2025/05/22/bluesky-will-begin-verifying-notable-users/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800"
         }
     ]
 }
