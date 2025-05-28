@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The first direct comparisons suggests SteamOS destroys Windows 11 for gaming - Windows Central",
-            "description": "The first direct and natively supported comparison between identical Windows 11 and SteamOS gaming hardware is here. And it's pretty much a bloodbath for Microsoft.",
-            "url": "https://www.windowscentral.com/gaming/pc-gaming/in-an-embarrassment-for-microsoft-steamos-seems-to-destroy-windows-11-on-gaming-performance-and-battery-life-as-well-as-usability",
-            "image": "https://cdn.mos.cms.futurecdn.net/u6PkBe64SGMUgVuTjS8hdN.jpg"
+            "title": "PS Plus Essential Games for June 2025 Announced - Push Square",
+            "description": "Four games for the month",
+            "url": "https://www.pushsquare.com/news/2025/05/ps-plus-essential-games-for-june-2025-announced",
+            "image": "https://images.pushsquare.com/0e0655ba583b3/large.jpg"
         },
         {
-            "title": "Rumour: A Nintendo Direct May Drop Around The Switch 2's Launch - Nintendo Life",
-            "description": "A month to remember..?",
-            "url": "https://www.nintendolife.com/news/2025/05/rumour-a-nintendo-direct-may-drop-around-the-switch-2s-launch",
-            "image": "https://images.nintendolife.com/b69c1c3f98a66/large.jpg"
+            "title": "Nothing CEO says Apple no longer creative; smartphone future is a single app - 9to5Mac",
+            "description": "Nothing Technology numbers \u2018father of the iPod\u2018 Tony Fadell among its key investors, but Carl Pei \u2013 CEO of the...",
+            "url": "https://9to5mac.com/2025/05/27/nothing-ceo-says-apple-no-longer-creative-smartphone-future-is-a-single-app/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/Nothing-CEO-says-Apple-no-longer-creative-smartphone-future-is-a-single-app.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Random: Check Out This Enormous LEGO Animal Crossing Island With Hidden Treasure - Nintendo Life",
-            "description": "Everything is actually awesome",
-            "url": "https://www.nintendolife.com/news/2025/05/random-check-out-this-enormous-lego-animal-crossing-island-with-hidden-treasure",
-            "image": "https://images.nintendolife.com/17403f5c08e2b/large.jpg"
+            "title": "Some signs of AI model collapse begin to reveal themselves - theregister.com",
+            "description": "Opinion: Prediction: General-purpose AI could start getting worse",
+            "url": "https://www.theregister.com/2025/05/27/opinion_column_ai_model_collapse/",
+            "image": "https://regmedia.co.uk/2018/03/16/collapse_shutterstock.jpg"
         },
         {
-            "title": "GeForce RTX 5090 prototype with quad 16-Pin power connectors leaks out - VideoCardz.com",
-            "description": "NVIDIA had RTX 5090 design with four power connectors It looks like an early engineering board.\u00a0 One thing that should be noted right away is that this is a prototype. We can clearly see all the USB, pin, and connector headers not intended for a retail produc\u2026",
-            "url": "https://videocardz.com/newz/geforce-rtx-5090-prototype-with-quad-16-pin-power-connectors-leaks-out",
-            "image": "https://cdn.videocardz.com/1/2025/05/RTX5090-PROTOTYPE.jpg"
+            "title": "PopSockets\u2019 new Kick-Out Grip can finally prop your phone up vertically - The Verge",
+            "description": "The latest version of PopSocket\u2019s magnetic MagSafe grip introduces a hinge so it can fold out and better support your smartphone.",
+            "url": "https://www.theverge.com/news/674371/popsockets-kick-out-grip-portrait-stand-vertical-magsafe",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/popsockets5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Curious About iPhone 17 Rumors and Leaks Ahead of WWDC? Here's the Scoop - CNET",
-            "description": "The big question is how much the next iPhone will actually cost. We have a pretty good guess.",
-            "url": "https://www.cnet.com/tech/mobile/curious-about-iphone-17-rumors-and-leaks-ahead-of-wwdc-heres-the-scoop/",
-            "image": "https://www.cnet.com/a/img/resize/caf61ae1f5459fa108830f6e9ad568c15975adac/hub/2024/05/06/4d14c079-68c9-43a1-9416-4efaece51346/iphone-17-rumors-00000.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "SPARKLE to launch Arc Pro B60 with blower, passive and water cooling - VideoCardz.com",
+            "description": "Sparkle has three Arc Pro B60 GPUs scheduled for release All cooling options planned.\u00a0 Last week, Sparkle made an interesting announcement hidden in their press release. As expected, the company will release its own Arc Pro B60 graphics card, featuring a blow\u2026",
+            "url": "https://videocardz.com/newz/sparkle-to-launch-arc-pro-b60-with-blower-passive-and-water-cooling",
+            "image": "https://cdn.videocardz.com/1/2025/05/SPARKLE-FANLESS-BLOWER-ARC-PRO-B60.jpg"
         },
         {
-            "title": "I Am Your Beast now available for PS5 - Gematsu",
-            "description": "Strange Scaffold has released revenge thriller first-person shooter I Am Your Beast for PlayStation 5 via PlayStation Store for $19.99, the developer announced.",
-            "url": "https://www.gematsu.com/2025/05/i-am-your-beast-now-available-for-ps5",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/05/I-Am-Your-Beast_05-26-25.jpg"
+            "title": "184 million records data leak: Google, PayPal and Netflix passwords leaked online - gHacks Technology News",
+            "description": "Security researcher Jeremiah Fowler stumbled upon a large database of login information and passwords containing over 184 million records recently.",
+            "url": "https://www.ghacks.net/2025/05/26/184-million-records-data-leak-google-paypal-and-netflix-passwords-discovered/",
+            "image": "https://www.ghacks.net/wp-content/uploads/2025/05/flyd-ZNOxwCEj5mw-unsplash.jpg"
         }
     ]
 }
