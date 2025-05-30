@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "MindsEye boss claims game's negative reaction ahead of release has been paid for in \"concerted effort\" against studio - Eurogamer",
-            "description": "The co-CEO of MindsEye developer Build a Rocket Boy has claimed there are those who are being paid to talk negatively about the game.",
-            "url": "https://www.eurogamer.net/mindseye-boss-claims-games-negative-reaction-ahead-of-release-has-been-paid-for-in-concerted-effort-against-studio",
-            "image": "https://assetsio.gnwcdn.com/Screenshot-from-MindsEye-showing-a-male-character-taking-aim-with-a-gun.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Review: Elden Ring Nightreign (PS5) - A Ruthless Roguelike Reinvention of the Lands Between - Push Square",
+            "description": "FromSoftware goes all-in on multiplayer",
+            "url": "https://www.pushsquare.com/reviews/ps5/elden-ring-nightreign",
+            "image": "https://images.pushsquare.com/reviews/ps5/elden-ring-nightreign/large.jpg"
         },
         {
-            "title": "Xbox Showcase 2025 preview: What I expect to see from Microsoft's big annual games blowout - Windows Central",
-            "description": "It's that time again. The Xbox Showcase is upon us, set for sail on June 8th. What can we expect to see? I have some ideas \u2014 without hard spoilers.",
-            "url": "https://www.windowscentral.com/gaming/xbox/xbox-showcase-2025-preview-what-i-expect-to-see-from-microsofts-big-annual-games-blowout",
-            "image": "https://cdn.mos.cms.futurecdn.net/qAkRuzpy7whPVEizCZoS6B.jpg"
+            "title": "Windows 11 gets some much-needed HDR improvements - The Verge",
+            "description": "Microsoft is making some HDR updates to Windows 11. You can now stream HDR video even when HDR is turned off elsewhere.",
+            "url": "https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "What I learned from a Bambu Labs A1 3D printer, part 2: Upgrades and mistakes - Ars Technica",
-            "description": "3D-printing new parts for the A1 taught me a lot about plastic, and other things.",
-            "url": "https://arstechnica.com/gadgets/2025/05/what-i-learned-from-a-bambu-labs-a1-3d-printer-part-2-upgrades-and-mistakes/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/IMG_3012-1152x648.jpeg"
+            "title": "Nintendo Switch Online App Undergoes Major Revamp For Switch 2 - Nintendo Life",
+            "description": "Screenshot management is easier than ever",
+            "url": "https://www.nintendolife.com/news/2025/05/nintendo-switch-online-app-undergoes-major-revamp-for-switch-2",
+            "image": "https://images.nintendolife.com/e8311a79ff1b3/large.jpg"
         },
         {
-            "title": "Samsung\u2019s One UI 8 beta arrives on Galaxy S25 phones - The Verge",
-            "description": "Samsung has launched the beta for One UI 8, its version of Android 16, in the UK, US, Germany, and South Korea.",
-            "url": "https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Samsung-Mobile-One-UI-8-Beta-Upgrade-Starting-With-the-New-Galaxy-Foldables_main2.jpg?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602"
+            "title": "Thousands of Asus routers are being hit with stealthy, persistent backdoors - Ars Technica",
+            "description": "Backdoor giving full administrative control can survive reboots and firmware updates.",
+            "url": "https://arstechnica.com/security/2025/05/thousands-of-asus-routers-are-being-hit-with-stealthy-persistent-backdoors/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/asus-router-1024x648.jpg"
         },
         {
-            "title": "Nintendo Switch Online N64 games are getting Rewind \u2014 but only on Switch 2 - The Verge",
-            "description": "Rewind and a CRT filter are coming to N64 games on Switch 2, but won\u2019t be supported on the original Switch, which is only getting customizable controls.",
-            "url": "https://www.theverge.com/news/675429/nintendo-switch-online-n64-games-rewind-crt-filter-controls-switch-2-exclusive",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/nintendo-n64-switch-2-online-compatibility.jpg?quality=90&strip=all&crop=0%2C10.724879645989%2C100%2C78.550240708022&w=1200"
-        },
-        {
-            "title": "Opera\u2019s new browser can code websites and games for you - TechCrunch",
-            "description": "Opera's new browser, called Opera Neon, will focus on AI workflows and performing tasks for you, like shopping, coding and generating reports.",
-            "url": "https://techcrunch.com/2025/05/28/operas-new-browser-can-code-websites-and-games-for-you/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/05/Opera-neon.png?resize=1200,675"
+            "title": "Someone Take Away Randy Pitchford's Phone - Kotaku",
+            "description": "The Gearbox CEO and president probably needs to log off and stop talking about Borderlands 4",
+            "url": "https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855",
+            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0016a9c767d9bedd15f5792ca8cabdc4.jpg"
         }
     ]
 }
