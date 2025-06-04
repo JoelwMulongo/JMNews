@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "AI is remaking \u2014 and breaking \u2014 the web - Axios",
-            "description": "As browsers evolve to keep up with the chatbots, the incentives for human contributions are fading..",
-            "url": "https://www.axios.com/2025/06/02/ai-browsers-open-web",
-            "image": "https://images.axios.com/epcLdRkTA-NvUJT6Mb3H9SWiEm0=/0x0:1554x874/1366x768/2025/06/02/1748826829165.png"
+            "title": "Meta and Yandex are de-anonymizing Android users\u2019 web browsing identifiers - Ars Technica",
+            "description": "Abuse allows Meta and Yandex to attach persistent identifiers to detailed browsing histories.",
+            "url": "https://arstechnica.com/security/2025/06/headline-to-come/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/android-tracking-binoculars-1152x648.jpg"
         },
         {
-            "title": "Rune Factory: Guardians of Azuma Review - RPG Site",
-            "description": "The journey through Azuma is a journey packed with a mish-mash of boring dungeons and weak RPG progression tools, supported by a fun cast of characters and decent story.",
-            "url": "https://www.rpgsite.net/review/17576-rune-factory-guardians-azuma-review",
-            "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/17576/original/rmini.jpg"
+            "title": "Nintendo Prepping For All Switch 2 Eventualities With 'Out Of Stock' Signs - Nintendo Life",
+            "description": "Please try again",
+            "url": "https://www.nintendolife.com/news/2025/06/nintendo-prepping-for-all-switch-2-eventualities-with-out-of-stock-signs",
+            "image": "https://images.nintendolife.com/79ea6205ebe25/large.jpg"
         },
         {
-            "title": "Nintendo Switch 2 Launch Week Restocks - Here's What We Know So Far - GameSpot",
-            "description": "If you weren't able to secure a Switch 2 console preorder, you'll have chances   both in stores and online during launch week.",
-            "url": "https://www.gamespot.com/articles/nintendo-switch-2-restock-launch-week-buying-guide-major-retailers-walmart-target-best-buy/1100-6531967/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4504718-switch-4-thumb.jpg"
+            "title": "I ignored Google's passkey prompts for months, but now I feel silly for waiting - Android Authority",
+            "description": "Passkeys offer a big security advantage over passwords, and in my experience, are far more convenient too. Here's why you should switch too.",
+            "url": "https://www.androidauthority.com/passkeys-vs-passwords-google-account-security-3558854/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-passkey-login-prompt-scaled.jpg"
         },
         {
-            "title": "Analyst Suggests Apple Might be Considering Buying Unity After Legal Defeat to Epic Games - 80 Level",
-            "description": "\"Unity is currently relatively cheap.\"",
-            "url": "https://80.lv/articles/analyst-suggests-apple-might-be-considering-buying-unity-after-legal-defeat-to-epic-games",
-            "image": "https://cdn.80.lv/api/upload/meta/42124/images/683d2014630e7/contain_1200x630.jpg"
+            "title": "Epic Games to include open-source Arm Accuracy Super Resolution (ASR) into Fornite - VideoCardz.com",
+            "description": "Epic Games integrating ASR into Fortnite Open-Source ASR coming to popular game.\u00a0 We definitely haven\u2019t heard much about Arm Accuracy Super Resolution recently, but today Arm and Epic Games have some big news to share: they are adding ASR integration into For\u2026",
+            "url": "https://videocardz.com/newz/epic-games-to-include-open-source-arm-accuracy-super-resolution-asr-into-fornite",
+            "image": "https://cdn.videocardz.com/1/2025/06/ASR-FORTNITE.jpg"
         },
         {
-            "title": "How to take pictures of the Northern Lights with Google Pixel and other Android phones - 9to5Google",
-            "description": "The Northern Lights are the most visible they've been in decades, and you can capture it with a picture from Android or Google Pixel phones.",
-            "url": "http://9to5google.com/2025/06/01/how-to-take-pictures-northern-lights-android-google-pixel/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/Night-Sight-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3.5m players - Eurogamer",
+            "description": "Elden Ring Nightreign has now had 3.5 million players, in less than a week since its release.",
+            "url": "https://www.eurogamer.net/elden-ring-nightreign-two-player-mode-confirmed-as-fromsoftware-celebrates-35m-players",
+            "image": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Official-Launch-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "The World Ends with You Director Tatsuya Kando Leaves Square Enix - Anime News Network",
-            "description": "Kando worked for 29 years on Final Fantasy, Kingdom Hearts, more",
-            "url": "https://www.animenewsnetwork.com/news/2025-06-01/the-world-ends-with-you-director-tatsuya-kando-leaves-square-enix/.224996",
-            "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG2/cms/news.8/224996/tatsuya-kando.png.jpg"
+            "title": "Why You Should Stop Texting On Your iPhone Or Android Phone - Forbes",
+            "description": "New update suddenly gives smartphone users a reason to ditch texts.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/06/03/why-you-should-stop-texting-on-your-iphone-or-android-phone/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/683afabc49521e18ed8a3305/0x0.jpg?format=jpg&crop=1352,761,x464,y300,safe&height=900&width=1600&fit=bounds"
         }
     ]
 }
