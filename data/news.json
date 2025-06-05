@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Meta and Yandex are de-anonymizing Android users\u2019 web browsing identifiers - Ars Technica",
-            "description": "Abuse allows Meta and Yandex to attach persistent identifiers to detailed browsing histories.",
-            "url": "https://arstechnica.com/security/2025/06/headline-to-come/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/android-tracking-binoculars-1152x648.jpg"
+            "title": "Behind the Curtain: Your AI survival kit - Axios",
+            "description": "There are many generative AI models you can use now for free.\u00a0Here's a cheat sheet",
+            "url": "https://www.axios.com/2025/06/04/ai-cheat-sheet-chatgpt-grok-gemini-claude",
+            "image": "https://images.axios.com/H25kE5qdctsEDOgLqCQBeXUhwiE=/0x0:1920x1080/1366x768/2025/06/03/1748969848806.jpg"
         },
         {
-            "title": "Nintendo Prepping For All Switch 2 Eventualities With 'Out Of Stock' Signs - Nintendo Life",
-            "description": "Please try again",
-            "url": "https://www.nintendolife.com/news/2025/06/nintendo-prepping-for-all-switch-2-eventualities-with-out-of-stock-signs",
-            "image": "https://images.nintendolife.com/79ea6205ebe25/large.jpg"
+            "title": "Pok\u00e9mon Violet and Scarlet\u2019s Switch 2 update is as good as it looks - The Verge",
+            "description": "The free Nintendo Switch 2 update for Pok\u00e9mon Scarlet and Violet is a significant improvement to performance that brings out the best in the 2022 games.",
+            "url": "https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Pokemon-Scarlet-and-Pokemon-Violet-Nintendo-Switch-2_Screenshot-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
         },
         {
-            "title": "I ignored Google's passkey prompts for months, but now I feel silly for waiting - Android Authority",
-            "description": "Passkeys offer a big security advantage over passwords, and in my experience, are far more convenient too. Here's why you should switch too.",
-            "url": "https://www.androidauthority.com/passkeys-vs-passwords-google-account-security-3558854/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-passkey-login-prompt-scaled.jpg"
+            "title": "PSA: Switch 2 Updates For Multiple First-Party Switch Games Are Now Available - Nintendo Life",
+            "description": "Updates for Mario Wonder, 3D All-Stars and much more!",
+            "url": "https://www.nintendolife.com/news/2025/06/psa-switch-2-updates-for-multiple-first-party-switch-games-are-now-available",
+            "image": "https://images.nintendolife.com/94e73e5cf06bf/large.jpg"
         },
         {
-            "title": "Epic Games to include open-source Arm Accuracy Super Resolution (ASR) into Fornite - VideoCardz.com",
-            "description": "Epic Games integrating ASR into Fortnite Open-Source ASR coming to popular game.\u00a0 We definitely haven\u2019t heard much about Arm Accuracy Super Resolution recently, but today Arm and Epic Games have some big news to share: they are adding ASR integration into For\u2026",
-            "url": "https://videocardz.com/newz/epic-games-to-include-open-source-arm-accuracy-super-resolution-asr-into-fornite",
-            "image": "https://cdn.videocardz.com/1/2025/06/ASR-FORTNITE.jpg"
+            "title": "WWDC 2025: iOS 26 Rumored Features - MacRumors",
+            "description": "The 2025 Worldwide Developers Conference is coming up quick, with less than a week to go before the big keynote event. We're sharing a series of...",
+            "url": "https://www.macrumors.com/2025/06/03/wwdc-2025-ios-26-rumors/",
+            "image": "https://images.macrumors.com/t/mg2fLmtqQldE8cQ9mv3vC_UejJE=/2500x/article-new/2025/05/iOS-26-Mock-Rainbow-Feature.jpg"
         },
         {
-            "title": "Elden Ring Nightreign two-player mode confirmed, as FromSoftware celebrates 3.5m players - Eurogamer",
-            "description": "Elden Ring Nightreign has now had 3.5 million players, in less than a week since its release.",
-            "url": "https://www.eurogamer.net/elden-ring-nightreign-two-player-mode-confirmed-as-fromsoftware-celebrates-35m-players",
-            "image": "https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-_-Official-Launch-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Meta pauses mobile port tracking tech on Android after researchers cry foul - theregister.com",
+            "description": ": Zuckercorp and Yandex used localhost loophole to tie browser data to app users, say boffins",
+            "url": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/",
+            "image": "https://regmedia.co.uk/2019/04/30/zuck-private.jpg"
         },
         {
-            "title": "Why You Should Stop Texting On Your iPhone Or Android Phone - Forbes",
-            "description": "New update suddenly gives smartphone users a reason to ditch texts.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/06/03/why-you-should-stop-texting-on-your-iphone-or-android-phone/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/683afabc49521e18ed8a3305/0x0.jpg?format=jpg&crop=1352,761,x464,y300,safe&height=900&width=1600&fit=bounds"
+            "title": "Samsung confirms the Galaxy Z Fold 7 will bring bigger cover and foldable displays - SamMobile",
+            "description": "On Tuesday, we reported that Samsung is rolling out a software update to the Galaxy Buds 2 Pro. Well, as it turns out, the South Korean tech giant has released a software update to its sibling as well, the Galaxy Buds 2. According to the change log, the softw\u2026",
+            "url": "https://www.sammobile.com/news/galaxy-buds-2-stability-improving-software-update/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/03/Qualcomm.jpg"
         }
     ]
 }
