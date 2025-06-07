@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Nintendo Switch 2 is here: all of the launch news - theverge.com",
-            "description": "After a long wait filled with leaks, reveals, preorder stress, and hands-on event, the Nintendo Switch 2\u2019s launch has finally arrived.",
-            "url": "https://www.theverge.com/news/676901/nintendo-switch-2-launch-here",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKR001_NINTENDO_SWITCH_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "963 RSP Revealed: Meet Porsche's Street-Legal Le Mans Hypercar - Motor1.com",
+            "description": "Despite niceties like a fully trimmed interior and silver paintwork, the Porsche 963 RSP is an honest road-going race car made for Roger Penske.",
+            "url": "https://www.motor1.com/news/761849/porsche-963-rsp-reveal/",
+            "image": "https://cdn.motor1.com/images/mgl/7Z3GL7/s1/porsche-963-rsp.jpg"
         },
         {
-            "title": "New filament lets you 3D-print parts in authentic 1980s Apple computer color - Ars Technica",
-            "description": "Mac fan paid $900 to color-match iconic Apple beige-gray \u201cPlatinum\u201d plastic for everyone.",
-            "url": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/macfilament-1152x648.jpg"
+            "title": "Nintendo Switch 2 Consoles Are Back In Stock and Available to Buy Today at Target - IGN",
+            "description": "From consoles, to games and accessories, here's everything Switch 2 that's now available to buy.",
+            "url": "https://www.ign.com/articles/nintendo-switch-2-where-to-buy",
+            "image": "https://assets-prd.ignimgs.com/2025/04/02/switch2-blogroll-1743585179093.jpg?width=1280"
         },
         {
-            "title": "James Bond game 007 First Light gets first trailer - theverge.com",
-            "description": "Hitman developer IO Interactive revealed the first look at James Bond game 007 First Light, which launches in 2026.",
-            "url": "https://www.theverge.com/news/679909/007-first-light-trailer-james-bond",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image-1_5bc5e1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "PS5's Brilliant New State of Play Breaks Records for Sony - Push Square",
+            "description": "Mission accomplished",
+            "url": "https://www.pushsquare.com/news/2025/06/ps5s-brilliant-new-state-of-play-breaks-records-for-sony",
+            "image": "https://images.pushsquare.com/77c6e5792f243/large.jpg"
         },
         {
-            "title": "Square Enix surprise announced a Final Fantasy Tactics remaster - theverge.com",
-            "description": "Square Enix has announced an HD2D remake of Final Fantasy Tactics during PlayStation\u2019s June 2025 State of Play.",
-            "url": "https://www.theverge.com/news/679880/final-fantasy-tactics-remake-square-enix-ps5",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Screenshot-2025-06-04-at-5.25.26%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.7684411347056%2C100%2C92.463117730589&w=1200"
+            "title": "Google Messages rolls out big gallery and camera redesign you saw coming - Android Police",
+            "description": "A fresh take on media sharing",
+            "url": "https://www.androidpolice.com/google-messages-new-gallery-camera-interface/",
+            "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/12/google-messages-b-ap24-hero.jpg"
         },
         {
-            "title": "Here is every PC and Xbox game shown during Sony's PlayStation State of Play June 2025 - Windows Central",
-            "description": "Here are all the games from the June 2025 PlayStation State of Play that are also coming to Xbox and PC.",
-            "url": "https://www.windowscentral.com/gaming/every-pc-and-xbox-game-playstation-state-of-play-june-2025",
-            "image": "https://cdn.mos.cms.futurecdn.net/DVCX2ksFkzEh9S2GnAYBCg.jpg"
+            "title": "Switch 2's New GameChat Feature Is Transcribing Bad Words - Nintendo Life",
+            "description": "And it's been labelled an \"accessibility win\"",
+            "url": "https://www.nintendolife.com/news/2025/06/switch-2s-new-gamechat-feature-is-transcribing-bad-words",
+            "image": "https://images.nintendolife.com/eb3c1d3e82b41/large.jpg"
+        },
+        {
+            "title": "Final Fantasy Tactics Physical Switch Release Has A Free Switch 2 Upgrade - Nintendo Life",
+            "description": "The Switch 2 release is a code in a box",
+            "url": "https://www.nintendolife.com/news/2025/06/final-fantasy-tactics-physical-switch-release-has-a-free-switch-2-upgrade",
+            "image": "https://images.nintendolife.com/57218dd439d29/large.jpg"
         }
     ]
 }
