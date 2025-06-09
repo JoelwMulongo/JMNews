@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Nice Hat, Loser - aftermath.site",
-            "description": "Imagine getting up on stage for a presentation that would have cost in the ballpark of $500,000, all to promote your new video game, and instead of having people talk about it, they are instead talking about: a) Your stupid hat b) How your little speech sound\u2026",
-            "url": "https://aftermath.site/splitgate-2-hat-maga-ceo-ian-proulx-elon-musk",
-            "image": "https://lede-admin.aftermath.site/wp-content/uploads/sites/55/2025/06/Screenshot-2025-06-07-103136.png"
+            "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
+            "description": "Microsoft has started showing Xbox console games inside the Xbox PC app. It\u2019s part of Microsoft\u2019s ongoing work to bring Xbox and Windows closer together.",
+            "url": "https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/xboxpcapp.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200"
         },
         {
-            "title": "Summer Game Fest 2025 LIVE: Everything announced during the gaming showcase - Tom's Guide",
-            "description": "The biggest games event of the year",
-            "url": "https://www.tomsguide.com/news/live/summer-game-fest-2025-live",
-            "image": "https://cdn.mos.cms.futurecdn.net/pAgh4TNRRiPZKoPYGrHptS.jpg"
+            "title": "The Mustang\u2019s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
+            "description": "Ford is launching a new appearance package for the 2026 Mustang that takes inspiration from the third-generation Fox Body. See how it looks here.",
+            "url": "https://www.motor1.com/news/761984/2026-ford-mustang-80s-fx-package/",
+            "image": "https://cdn.motor1.com/images/mgl/jl0k07/s1/2026-ford-mustang-fx-package.jpg"
         },
         {
-            "title": "\u2018Resident Evil Requiem\u2019 Sets February 2026 Release From Capcom - Variety",
-            "description": "The ninth installment in the \"Resident Evil\" video game franchise will be released in 2026.",
-            "url": "https://variety.com/2025/gaming/news/resident-evil-9-requiem-trailer-release-date-1236421778/",
-            "image": "https://variety.com/wp-content/uploads/2025/06/Resident-Evil-Requiem.png?w=1000&h=563&crop=1"
+            "title": "Season 3 Perfect Parry change has big implications for C. Viper in Street Fighter 6 - EventHubs",
+            "description": "We spoke before Season 3 came out about how big the changes to the game's Perfect Parry mechanic would be for people who are strong at crossup attacks, and now that this season's DLC character lineup is known ...",
+            "url": "https://www.eventhubs.com/news/2025/jun/07/cviper-perfect-parry-street-fighter6/",
+            "image": "https://media.eventhubs.com/images/2025/06/07_cvipersf6breakdownt.webp"
         },
         {
-            "title": "ILL Is A Survival Horror Game Made By People Who Worked On Longlegs, IT, V/H/S/Beyond, And More - Game Informer",
-            "description": "It's coming to PlayStation 5, Xbox Series X/S, and PC.",
-            "url": "https://www.gameinformer.com/sgf-2025/2025/06/06/ill-is-a-survival-horror-game-made-by-people-who-worked-on-longlegs-it",
-            "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/06/65f31b0a/ill.jpg"
+            "title": "Princess Peach's Voice Actor Has Been Replaced After 18 Years - Nintendo Life",
+            "description": "She was also the voice of Toad",
+            "url": "https://www.nintendolife.com/news/2025/06/princess-peachs-voice-actor-has-been-replaced-after-18-years",
+            "image": "https://images.nintendolife.com/f4e42c306f2f9/large.jpg"
         },
         {
-            "title": "Surprise, 'Lies of P' first DLC Overture is out right now on Xbox and PC. No, it's true! - Windows Central",
-            "description": "The first PC and Xbox shadow drop of the week goes to soulslike Life of P, with its first DLC \"Overture.\"",
-            "url": "https://www.windowscentral.com/gaming/surprise-lies-of-p-first-dlc-overture-is-out-right-now-on-xbox-and-pc-no-its-true",
-            "image": "https://cdn.mos.cms.futurecdn.net/h2iRtgtbFHSHwnKZ9s2tLX.jpg"
-        },
-        {
-            "title": "Killer Inn is Square Enix\u2019s new \u2018murder mystery action\u2019 game - The Verge",
-            "description": "Square Enix just announced Killer Inn, a new \u201cmurder mystery action\u201d game from developer Tactic Studios. It\u2019s getting a closed beta on PC.",
-            "url": "https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/videoframe_64160.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "title": "Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74 - WIRED",
+            "description": "Atkinson\u2019s gleeful brilliance helped people draw on computer screens and access information via links.",
+            "url": "https://www.wired.com/story/bill-atkinson-apple-engineer-dies/",
+            "image": "https://media.wired.com/photos/6844b4c9731f47057b6baa5a/191:100/w_1280,c_limit/956679162"
         }
     ]
 }
