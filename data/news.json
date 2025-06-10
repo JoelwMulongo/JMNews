@@ -1,34 +1,34 @@
 {
     "articles": [
         {
-            "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
-            "description": "Microsoft has started showing Xbox console games inside the Xbox PC app. It\u2019s part of Microsoft\u2019s ongoing work to bring Xbox and Windows closer together.",
-            "url": "https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/xboxpcapp.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200"
+            "title": "Xbox finally reveals handheld console after decade of speculation - BBC",
+            "description": "The ROG Xbox Ally will use Game Pass on-the-go - meaning subscribers start off with hundreds of games.",
+            "url": "https://www.bbc.com/news/articles/c1de113lkdpo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/617c/live/d9381980-4509-11f0-955c-8b8f53c11caf.png"
         },
         {
-            "title": "The Mustang\u2019s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
-            "description": "Ford is launching a new appearance package for the 2026 Mustang that takes inspiration from the third-generation Fox Body. See how it looks here.",
-            "url": "https://www.motor1.com/news/761984/2026-ford-mustang-80s-fx-package/",
-            "image": "https://cdn.motor1.com/images/mgl/jl0k07/s1/2026-ford-mustang-fx-package.jpg"
+            "title": "Apple WWDC 2025 Live: New Updates for iOS, Apple Intelligence, Mac OS - CNET",
+            "description": "From bumping up to iOS 26 to expanding its gaming ambitions, Apple could be debuting a slew of changes at this year's developer conference.",
+            "url": "https://www.cnet.com/news-live/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/",
+            "image": "https://www.cnet.com/a/img/resize/de1f665d23e94f425fa9c5a7446e249a689929ef/hub/2025/06/03/b69e5efd-f160-4cf3-afef-7848ff47dfa9/promo-static.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Season 3 Perfect Parry change has big implications for C. Viper in Street Fighter 6 - EventHubs",
-            "description": "We spoke before Season 3 came out about how big the changes to the game's Perfect Parry mechanic would be for people who are strong at crossup attacks, and now that this season's DLC character lineup is known ...",
-            "url": "https://www.eventhubs.com/news/2025/jun/07/cviper-perfect-parry-street-fighter6/",
-            "image": "https://media.eventhubs.com/images/2025/06/07_cvipersf6breakdownt.webp"
+            "title": "Aston Martin reveals track-day version of Valkyrie Le Mans Hypercar - Motorsport.com",
+            "description": "The British constructor will produce 10 cars that will be tailored for track days",
+            "url": "https://www.motorsport.com/wec/news/Aston-Martin-reveals-track-day-version-of-Valkyrie-Le-Mans-Hypercar/10730801/",
+            "image": "https://cdn-4.motorsport.com/images/amp/254MyeE0/s6/aston-martin-valkyrie-track-da-4.jpg"
         },
         {
-            "title": "Princess Peach's Voice Actor Has Been Replaced After 18 Years - Nintendo Life",
-            "description": "She was also the voice of Toad",
-            "url": "https://www.nintendolife.com/news/2025/06/princess-peachs-voice-actor-has-been-replaced-after-18-years",
-            "image": "https://images.nintendolife.com/f4e42c306f2f9/large.jpg"
+            "title": "Here's a fresh look at Clockwork Revolution, coming \"in due time\" - Eurogamer",
+            "description": "An extended look at Clockwork Revolution was shown at today's Xbox Games Showcase, which is \"coming in due time\".",
+            "url": "https://www.eurogamer.net/heres-a-fresh-look-at-clockwork-revolution-coming-in-due-time",
+            "image": "https://assetsio.gnwcdn.com/Clockwork-Revolution-_-Xbox-Games-Showcase-2025-0-50-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74 - WIRED",
-            "description": "Atkinson\u2019s gleeful brilliance helped people draw on computer screens and access information via links.",
-            "url": "https://www.wired.com/story/bill-atkinson-apple-engineer-dies/",
-            "image": "https://media.wired.com/photos/6844b4c9731f47057b6baa5a/191:100/w_1280,c_limit/956679162"
+            "title": "Samsung Galaxy S26 Ultra to continue trend of disappointing batteries - PhoneArena",
+            "description": "Another Galaxy, another 5,000 mAh battery.",
+            "url": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-to-continue-trend-of-disappointing-batteries_id171118",
+            "image": "https://m-cdn.phonearena.com/images/article/171118-wide-two_1200/Samsung-Galaxy-S26-Ultra-to-continue-trend-of-disappointing-batteries.jpg"
         }
     ]
 }
