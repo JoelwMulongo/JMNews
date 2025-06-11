@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Xbox finally reveals handheld console after decade of speculation - BBC",
-            "description": "The ROG Xbox Ally will use Game Pass on-the-go - meaning subscribers start off with hundreds of games.",
-            "url": "https://www.bbc.com/news/articles/c1de113lkdpo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/617c/live/d9381980-4509-11f0-955c-8b8f53c11caf.png"
+            "title": "WWDC 2025: Everything that Apple \u2018Sherlocked\u2019 this time - TechCrunch",
+            "description": "Just like every year, Apple has once again built in some features into its operating systems that were previously available through third-party apps.",
+            "url": "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2218742646.jpg?resize=1200,800"
         },
         {
-            "title": "Apple WWDC 2025 Live: New Updates for iOS, Apple Intelligence, Mac OS - CNET",
-            "description": "From bumping up to iOS 26 to expanding its gaming ambitions, Apple could be debuting a slew of changes at this year's developer conference.",
-            "url": "https://www.cnet.com/news-live/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/",
-            "image": "https://www.cnet.com/a/img/resize/de1f665d23e94f425fa9c5a7446e249a689929ef/hub/2025/06/03/b69e5efd-f160-4cf3-afef-7848ff47dfa9/promo-static.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Nothing Phone (3) surfaces in leaked render with no visible lights and three cameras - 9to5Google",
+            "description": "The Nothing Phone (3) has finally shown its face in a leaked render, with the new design having three cameras and no visible lights.",
+            "url": "http://9to5google.com/2025/06/10/nothing-phone-3-leak-cameras-design/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/nothing-phone-3-design-leak-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Aston Martin reveals track-day version of Valkyrie Le Mans Hypercar - Motorsport.com",
-            "description": "The British constructor will produce 10 cars that will be tailored for track days",
-            "url": "https://www.motorsport.com/wec/news/Aston-Martin-reveals-track-day-version-of-Valkyrie-Le-Mans-Hypercar/10730801/",
-            "image": "https://cdn-4.motorsport.com/images/amp/254MyeE0/s6/aston-martin-valkyrie-track-da-4.jpg"
+            "title": "Google confirms Android 16 stable release lands today - Android Police",
+            "description": "Your wait is almost over!",
+            "url": "https://www.androidpolice.com/google-confirms-android-16-stable-release-lands-today/",
+            "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/05/android-16-pixel-9-pro-hero-jpg.jpg"
         },
         {
-            "title": "Here's a fresh look at Clockwork Revolution, coming \"in due time\" - Eurogamer",
-            "description": "An extended look at Clockwork Revolution was shown at today's Xbox Games Showcase, which is \"coming in due time\".",
-            "url": "https://www.eurogamer.net/heres-a-fresh-look-at-clockwork-revolution-coming-in-due-time",
-            "image": "https://assetsio.gnwcdn.com/Clockwork-Revolution-_-Xbox-Games-Showcase-2025-0-50-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "CarPlay in iOS 26: Liquid Glass, app widgets, refreshed apps - 9to5Mac",
+            "description": "Turns out you don\u2019t need an Aston Martin to have a new CarPlay experience in 2025. That\u2019s because iOS 26...",
+            "url": "https://9to5mac.com/2025/06/09/carplay-in-ios-26-liquid-glass-app-widgets-refreshed-apps/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-WWDC25-iOS-26-CarPlay-Dark-mode-250609_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Samsung Galaxy S26 Ultra to continue trend of disappointing batteries - PhoneArena",
-            "description": "Another Galaxy, another 5,000 mAh battery.",
-            "url": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-to-continue-trend-of-disappointing-batteries_id171118",
-            "image": "https://m-cdn.phonearena.com/images/article/171118-wide-two_1200/Samsung-Galaxy-S26-Ultra-to-continue-trend-of-disappointing-batteries.jpg"
+            "title": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series - Samsung Newsroom",
+            "description": "While people have long valued smartphones for their power, convenience and usability, they\u2019ve also expected a mobile device that blends versatility with portability. At Samsung Electronics, our drive to deliver the ultimate mobile experience has always been g\u2026",
+            "url": "https://news.samsung.com/us/thin-light-and-built-to-last-the-new-era-of-the-galaxy-z-series",
+            "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/06/09171449/001_Thin_Light_and_Built_to_Last_The_New_Era_of_the_Galaxy_Z_Series%E2%80%8B_Thumbnail.jpg"
+        },
+        {
+            "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
+            "description": "Rosetta app translation features for Intel apps won\u2019t stay around indefinitely.",
+            "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg"
         }
     ]
 }
