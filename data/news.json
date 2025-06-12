@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "WWDC 2025: Everything that Apple \u2018Sherlocked\u2019 this time - TechCrunch",
-            "description": "Just like every year, Apple has once again built in some features into its operating systems that were previously available through third-party apps.",
-            "url": "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2218742646.jpg?resize=1200,800"
+            "title": "HP reveals $24,999 hardware created just for Google Beam - The Verge",
+            "description": "HP has revealed the first third-party hardware built using Google\u2019s 3D video conferencing technology, Beam. The HP Dimension costs $24,999 and features a 65-inch light field display to create a \u201ctrue-to-life\u201d 3D video of your caller.",
+            "url": "https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HP-Dimension-with-Google-Beam.jpg?quality=90&strip=all&crop=0%2C15.120008071403%2C100%2C69.759983857194&w=1200"
         },
         {
-            "title": "Nothing Phone (3) surfaces in leaked render with no visible lights and three cameras - 9to5Google",
-            "description": "The Nothing Phone (3) has finally shown its face in a leaked render, with the new design having three cameras and no visible lights.",
-            "url": "http://9to5google.com/2025/06/10/nothing-phone-3-leak-cameras-design/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/nothing-phone-3-design-leak-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Nintendo\u2019s Switch 2 is the fastest-selling game console of all time - The Verge",
+            "description": "Nintendo is already breaking records with the Switch 2. The console has sold more than 3.5 million units in just four days.",
+            "url": "https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Google confirms Android 16 stable release lands today - Android Police",
-            "description": "Your wait is almost over!",
-            "url": "https://www.androidpolice.com/google-confirms-android-16-stable-release-lands-today/",
-            "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2025/05/android-16-pixel-9-pro-hero-jpg.jpg"
+            "title": "She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world - Ars Technica",
+            "description": "\u201cThe space industry has a ground bottleneck, and the problem is going to get worse.\u201d\u2026",
+            "url": "https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/4am_after_successful_test_oct5-1-1152x648.jpg"
         },
         {
-            "title": "CarPlay in iOS 26: Liquid Glass, app widgets, refreshed apps - 9to5Mac",
-            "description": "Turns out you don\u2019t need an Aston Martin to have a new CarPlay experience in 2025. That\u2019s because iOS 26...",
-            "url": "https://9to5mac.com/2025/06/09/carplay-in-ios-26-liquid-glass-app-widgets-refreshed-apps/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/Apple-WWDC25-iOS-26-CarPlay-Dark-mode-250609_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - Yahoo",
+            "description": "Someone planted more than flowers in her front yard.",
+            "url": "https://www.yahoo.com/news/nyc-woman-found-phone-buried-105000183.html",
+            "image": "https://media.zenfs.com/en/moneywise_327/16c77bf0d6fbd9618dbbf6910077ace5"
         },
         {
-            "title": "Thin, Light and Built to Last: The New Era of the Galaxy Z Series - Samsung Newsroom",
-            "description": "While people have long valued smartphones for their power, convenience and usability, they\u2019ve also expected a mobile device that blends versatility with portability. At Samsung Electronics, our drive to deliver the ultimate mobile experience has always been g\u2026",
-            "url": "https://news.samsung.com/us/thin-light-and-built-to-last-the-new-era-of-the-galaxy-z-series",
-            "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2025/06/09171449/001_Thin_Light_and_Built_to_Last_The_New_Era_of_the_Galaxy_Z_Series%E2%80%8B_Thumbnail.jpg"
+            "title": "Apple updates design resources for iOS 26, iPadOS 26, and macOS Tahoe 26 - 9to5Mac",
+            "description": "Designers and app developers now have access to the Apple's official assets that reflect the new cross-platform Liquid Glass visual overhaul.",
+            "url": "https://9to5mac.com/2025/06/10/apple-updates-design-resources-for-ios-26-ipados-26-and-macos-tahoe-26/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/macos-sketch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Apple details the end of Intel Mac support and a phaseout for Rosetta 2 - Ars Technica",
-            "description": "Rosetta app translation features for Intel apps won\u2019t stay around indefinitely.",
-            "url": "https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/macos-finder-faces-sequoia-1152x648.jpg"
+            "title": "Apple Says Personalized Siri Features Shown at WWDC Last Year Were 'Real' and 'Working' - MacRumors",
+            "description": "Apple's software engineering chief Craig Federighi and marketing chief Greg Joswiak are on a media tour this week, following the WWDC 2025...",
+            "url": "https://www.macrumors.com/2025/06/10/apple-says-personalized-siri-was-working/",
+            "image": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg"
         }
     ]
 }
