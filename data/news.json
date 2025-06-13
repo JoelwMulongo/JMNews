@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "HP reveals $24,999 hardware created just for Google Beam - The Verge",
-            "description": "HP has revealed the first third-party hardware built using Google\u2019s 3D video conferencing technology, Beam. The HP Dimension costs $24,999 and features a 65-inch light field display to create a \u201ctrue-to-life\u201d 3D video of your caller.",
-            "url": "https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/HP-Dimension-with-Google-Beam.jpg?quality=90&strip=all&crop=0%2C15.120008071403%2C100%2C69.759983857194&w=1200"
+            "title": "Google says Android Open Source Project not being \u2018discontinued\u2019 amidst Pixel change impacting custom ROMs - 9to5Google",
+            "description": "With the launch of Android 16 earlier this week, Google did not release the Pixel hardware repos and device trees...",
+            "url": "http://9to5google.com/2025/06/12/android-open-source-project-pixel-change/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-pin-badge-holding-Pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Nintendo\u2019s Switch 2 is the fastest-selling game console of all time - The Verge",
-            "description": "Nintendo is already breaking records with the Switch 2. The console has sold more than 3.5 million units in just four days.",
-            "url": "https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Android 16 QPR1 Beta 2 redesigns viewed notifications, now transparent - 9to5Google",
+            "description": "The first beta release of Android 16 QPR1 rolled out a redesigned lock screen with a \u201cseen notifications\u201d section. That...",
+            "url": "http://9to5google.com/2025/06/11/android-16-qpr1-beta-2-transparent-notifications/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Android-16-QPR-1-Lockscreen-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world - Ars Technica",
-            "description": "\u201cThe space industry has a ground bottleneck, and the problem is going to get worse.\u201d\u2026",
-            "url": "https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/4am_after_successful_test_oct5-1-1152x648.jpg"
+            "title": "Hate iOS 26's Liquid Glass Design? Here's How to Tone It Down - MacRumors",
+            "description": "iOS 26 features a whole new design material that Apple calls Liquid Glass, with a focus on transparency that lets the content on your display shine...",
+            "url": "https://www.macrumors.com/2025/06/11/ios-26-liquid-glass-transparency/",
+            "image": "https://images.macrumors.com/t/TjqV6ecRl1uJlWcYJ1P5CqsMl9s=/2500x/article-new/2025/06/iOS-26-on-Three-iPhones.jpg"
         },
         {
-            "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - Yahoo",
+            "title": "Apple\u2019s Craig Federighi on the long road to the iPad\u2019s Mac-like multitasking - Ars Technica",
+            "description": "Federighi talks to Ars about why the iPad\u2019s Mac-style multitasking took so long.",
+            "url": "https://arstechnica.com/gadgets/2025/06/apples-craig-federighi-on-the-long-road-to-the-ipads-mac-like-multitasking/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Apple-WWDC25-iPadOS-26-hero-250609-1152x648.jpg"
+        },
+        {
+            "title": "How Long Of A Ride Is Mario Kart World? - Kotaku",
+            "description": "With a brand new open-world structure, Mario Kart is bigger than ever",
+            "url": "https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366",
+            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ae661b433333f8517504b149e9d593ac.jpg"
+        },
+        {
+            "title": "NYC woman found a phone buried in her lawn \u2014 and police say it\u2019s a new tactic thieves use to spy on homeowners - AOL.com",
             "description": "Someone planted more than flowers in her front yard.",
-            "url": "https://www.yahoo.com/news/nyc-woman-found-phone-buried-105000183.html",
-            "image": "https://media.zenfs.com/en/moneywise_327/16c77bf0d6fbd9618dbbf6910077ace5"
-        },
-        {
-            "title": "Apple updates design resources for iOS 26, iPadOS 26, and macOS Tahoe 26 - 9to5Mac",
-            "description": "Designers and app developers now have access to the Apple's official assets that reflect the new cross-platform Liquid Glass visual overhaul.",
-            "url": "https://9to5mac.com/2025/06/10/apple-updates-design-resources-for-ios-26-ipados-26-and-macos-tahoe-26/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/macos-sketch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-            "title": "Apple Says Personalized Siri Features Shown at WWDC Last Year Were 'Real' and 'Working' - MacRumors",
-            "description": "Apple's software engineering chief Craig Federighi and marketing chief Greg Joswiak are on a media tour this week, following the WWDC 2025...",
-            "url": "https://www.macrumors.com/2025/06/10/apple-says-personalized-siri-was-working/",
-            "image": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg"
+            "url": "https://www.aol.com/finance/nyc-woman-found-phone-buried-105000591.html",
+            "image": "https://media.zenfs.com/en/aol_moneywise_380/16c77bf0d6fbd9618dbbf6910077ace5"
         }
     ]
 }
