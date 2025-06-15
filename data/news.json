@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Zelda: Tears Of The Kingdom And Breath Of The Wild Updates Now Live, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Download both updates today",
-            "url": "https://www.nintendolife.com/news/2025/06/zelda-tears-of-the-kingdom-and-breath-of-the-wild-updates-now-live-here-are-the-full-patch-notes",
-            "image": "https://images.nintendolife.com/c17f06b833952/large.jpg"
+            "title": "Sonic Racing CrossWorlds Is a Kart Racing Spectacle That Celebrates Sega\u2019s History - IGN",
+            "description": "There's room for another kart racer in 2025 with Sonic Racing: CrossWorlds, which we played for a hands-on preview.",
+            "url": "https://www.ign.com/articles/sonic-racing-crossworlds-hands-on-preview",
+            "image": "https://assets-prd.ignimgs.com/2025/06/14/miku-1749860587726.jpg?width=1280"
         },
         {
-            "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade - 9to5Mac",
-            "description": "Bloomberg\u2019s Mark Gurman is out with a new report offering more details on the delay, including Apple\u2019s internal timeline.",
-            "url": "https://9to5mac.com/2025/06/12/apple-now-targeting-ios-26-4-for-siri-ai-upgrade/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19-white.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "New paper pushes back on Apple\u2019s LLM \u2018reasoning collapse\u2019 study - 9to5Mac",
+            "description": "Apple\u2019s recent AI research paper, \u201cThe Illusion of Thinking\u201d, has been making waves, but not everyone agrees with its conclusion.",
+            "url": "https://9to5mac.com/2025/06/13/new-paper-pushes-back-on-apples-llm-reasoning-collapse-study/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-slash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "iPadOS 26 is perfect for the larger iPad model that\u2019s coming - 9to5Mac",
-            "description": "iPadOS 26\u2019s new app windowing system looks like the perfect match for the new, larger iPad model that Apple has in the works.",
-            "url": "https://9to5mac.com/2025/06/12/ipados-26-is-perfect-for-apples-larger-ipad-thats-coming/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/ipados-26-foldable-ipad-fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Apple Now Selling Refurbished M4 MacBook Air Models - MacRumors",
+            "description": "Apple today added M4 MacBook Air models to its refurbished store in the United States, making the latest MacBook Air devices available at a...",
+            "url": "https://www.macrumors.com/2025/06/13/apple-refurbished-m4-macbook-air/",
+            "image": "https://images.macrumors.com/t/-msxKZYMwSlYjjxY4thm1X5kEKg=/2500x/article-new/2025/05/m4-macbook-air-pink.jpeg"
         },
         {
-            "title": "Google is killing Android Instant Apps, but you probably won't miss them - Android Authority",
-            "description": "Google is killing Android Instant Apps, a feature that lets you try mobile apps without installing them, because nobody used them.",
-            "url": "https://www.androidauthority.com/google-killing-android-instant-apps-3567211/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2022/01/Google-Play-Instant-Apps.jpg"
+            "title": "Nintendo Switch 2 sets U.S. gaming record with over 1.1 million units sold at launch, best-selling physical games revealed - Nintendo Everything",
+            "description": "Another report reveals Nintendo Switch 2 launch hardware data for the United States and the best-selling physical games.",
+            "url": "https://nintendoeverything.com/nintendo-switch-2-launch-sales-us-best-selling-games/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/nintendo-switch-2-launch-sales-us-best-selling-games.jpg"
         },
         {
-            "title": "Resident Evil Requiem \u2013 The First RE Game to Make Me Jump - Anime News Network",
-            "description": "The latest Resident Evil game is the equivalent of an icy hand on your neck when you think you're alone.",
-            "url": "https://www.animenewsnetwork.com/feature/2025-06-12/resident-evil-requiem-the-first-re-game-to-make-me-jump/.225505",
-            "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gC9/cms/feature/225505/resident-evil-requiem-screenshot-12.png.jpg"
+            "title": "Summer Game Fest Viewership Jumps 89% to Record 50 Million Livestreams - Variety",
+            "description": "The 2025 edition of Summer Game Fest saw an 89% year-over-year growth in live peak viewership, according to StreamsCharts.",
+            "url": "https://variety.com/2025/gaming/news/summer-game-fest-viewership-record-50-million-livestreams-1236431017/",
+            "image": "https://variety.com/wp-content/uploads/2025/06/Resident-Evil-Requiem-1.png?w=1000&h=563&crop=1"
         },
         {
-            "title": "The Switch 2 Games To Play When You\u2019re Done With Mario Kart World - Game Informer",
-            "description": "Or at least taking a break from Nintendo's latest kart racer.",
-            "url": "https://www.gameinformer.com/impressions/2025/06/12/the-switch-2-games-to-play-when-youre-done-with-mario-kart-world",
-            "image": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2025/06/12/1cbd698a/yakuza_0_switch_2.jpg"
+            "title": "Your Apple Watch Is Getting a Neat New Feature That You\u2019ll Actually Use - Gear Patrol",
+            "description": "But, unfortunately, not every Apple Watch model will support it.",
+            "url": "https://www.gearpatrol.com/tech/apple-watch-wrist-flick/",
+            "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/03/Apple-Watch-camera-rumors-3-jpg.webp"
         }
     ]
 }
