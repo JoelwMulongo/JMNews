@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Elden Ring Nightreign update brings new challenges and a welcome live service twist - Eurogamer",
-            "description": "A new update for Elden Ring Nightreign has been shadow dropped, bringing stronger Nightlords to defeat on a weekly basis.",
-            "url": "https://www.eurogamer.net/elden-ring-nightreign-update-brings-new-challenges-and-a-welcome-live-service-twist",
-            "image": "https://assetsio.gnwcdn.com/NR-Everdark-img.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Blood Message Is Uncharted Meets Ancient China, and It Looks Phenomenal - Push Square",
+            "description": "Single-player action adventure from NetEase",
+            "url": "https://www.pushsquare.com/news/2025/06/blood-message-is-uncharted-meets-ancient-china-and-it-looks-phenomenal",
+            "image": "https://images.pushsquare.com/57d8816c8ca13/large.jpg"
         },
         {
-            "title": "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions - The Hacker News",
-            "description": "Linux systems face critical local privilege escalation threats via CVE-2025-6018/6019 flaws\u2014users must patch now.",
-            "url": "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXov8Cx_igQW4qij-AsFmuK3PvE_68RZF_35cguvWlQV8pWKAVOOf1DIWk6ZpL8eriWkF1Pdwlkx7GmolL2yQeknbGs1F7QwEdF6Bu3dvIl6t7CatxuL7USxwGjM166GTEcOq-XK3g_bteqdnY27DijtddyJhVZ3M8PVBoXN5cqb7_h9UVwKBs0h1O3omK/s728-rw-e365/Linux-LPE.jpg"
+            "title": "Samsung Galaxy S25 Edge sales are going exactly how you expected - Android Authority",
+            "description": "Samsung recently launched the slim and light Galaxy S25 Edge smartphone, but it turns out that sales aren't exactly great.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-s25-edge-sales-report-3569387/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-S25-Edge-thickness.jpg"
         },
         {
-            "title": "Report: Google's switch to TSMC for Pixel 10 chip was a 'shock' and wake-up call for Samsung - 9to5Google",
-            "description": "According to a report, Google's shift to TSMC for the Pixel 10's Tensor G5 chip was a \"shock\" to Samsung and is serving as a wake-up call.",
-            "url": "http://9to5google.com/2025/06/18/google-tsmc-pixel-10-chip-samsung-shock-report/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-tensor-g4-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "iOS 26 Beta is Hiding a New Ringtone \u2014 Here's What It Sounds Like - MacRumors",
+            "description": "Apple is hiding a new ringtone within iOS 26.   The new ringtone is an alternative version of the existing Reflection ringtone, which has been the...",
+            "url": "https://www.macrumors.com/2025/06/19/ios-26-beta-hidden-new-ringtone/",
+            "image": "https://images.macrumors.com/t/bk6PFdM_vBIQB8ZQnOwZQ3hZDsw=/1600x/article-new/2024/11/ios-26-call-holding.jpg"
         },
         {
-            "title": "Nintendo Switch 2 and Switch update 20.1.5 out now, patch notes - Nintendo Everything",
-            "description": "Nintendo Switch 2 and Switch just received its latest firmware update with version 20.1.5 and you can read the patch notes here.",
-            "url": "https://nintendoeverything.com/nintendo-switch-2-switch-update-20-1-5-out-now-patch-notes/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-update-20.1.5.jpg"
+            "title": "More Switch Titles Get Switch 2 Backwards Compatibility Fixes - Nintendo Life",
+            "description": "Alongside the latest system firmware update",
+            "url": "https://www.nintendolife.com/news/2025/06/more-switch-titles-get-switch-2-backwards-compatibility-fixes",
+            "image": "https://images.nintendolife.com/8bbf56f765b4d/large.jpg"
         },
         {
-            "title": "How to unlock Peter Pan in Disney Dreamlight Valley - Dexerto",
-            "description": "Peter Pan has finally arrived in Disney Dreamlight Valley as part of the Mysteries of Skull Rock update. But, unlocking him isn\u2019t easy.",
-            "url": "https://www.dexerto.com/disney-dreamlight-valley/how-to-unlock-peter-pan-in-disney-dreamlight-valley-3216174/",
-            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/06/18/Peter-joins-the-Valley-in-DDV.jpg"
+            "title": "Metroid Prime 4 ad on London Underground claims the game is \u2018out now\u2019 - Video Games Chronicle",
+            "description": "A likely mistake means a billboard for the game is stating it's already out",
+            "url": "https://www.videogameschronicle.com/news/metroid-prime-4-beyond-ad-on-london-underground-wrongly-claims-the-game-is-out-now/",
+            "image": "https://www.videogameschronicle.com/files/2025/06/WhatsApp-Image-2025-06-20-at-00.08.59_26dfa0de.jpg"
         },
         {
-            "title": "All the New CarPlay Features in iOS 26 - Lifehacker",
-            "description": "It's a lot more than just Liquid Glass.",
-            "url": "https://lifehacker.com/tech/all-the-new-carplay-features-in-ios-26",
-            "image": "https://lifehacker.com/imagery/articles/01JY1ZM9Y5D1MEP8CHQGGYWVG2/hero-image.fill.size_1200x675.jpg"
+            "title": "Xbox Journalist Denies Report About Backwards Compatibility Plans For 2026 - Pure Xbox",
+            "description": "\"This particular scenario isn't on the cards today\"",
+            "url": "https://www.purexbox.com/news/2025/06/xbox-journalist-denies-report-about-backwards-compatibility-plans-for-2026",
+            "image": "https://images.purexbox.com/e1856a6f70b2f/large.jpg"
         }
     ]
 }
