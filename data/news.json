@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Blood Message Is Uncharted Meets Ancient China, and It Looks Phenomenal - Push Square",
-            "description": "Single-player action adventure from NetEase",
-            "url": "https://www.pushsquare.com/news/2025/06/blood-message-is-uncharted-meets-ancient-china-and-it-looks-phenomenal",
-            "image": "https://images.pushsquare.com/57d8816c8ca13/large.jpg"
+            "title": "\u2018She never sleeps\u2019: This platform wants to be OnlyFans for the AI era - CNN",
+            "description": "OhChat is an eight-month-old startup using artificial intelligence to build lifelike digital doubles of public figures, coming amid growing concerns around AI\u2019s role in intimacy and labor.",
+            "url": "https://www.cnn.com/2025/06/21/tech/ohchat-onlyfans-for-the-ai-era-katie-price",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-723499991.jpg?c=16x9&q=w_800,c_fill"
         },
         {
-            "title": "Samsung Galaxy S25 Edge sales are going exactly how you expected - Android Authority",
-            "description": "Samsung recently launched the slim and light Galaxy S25 Edge smartphone, but it turns out that sales aren't exactly great.",
-            "url": "https://www.androidauthority.com/samsung-galaxy-s25-edge-sales-report-3569387/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Samsung-Galaxy-S25-Edge-thickness.jpg"
+            "title": "Day One Highlights at Pro Tour Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - magic.gg",
+            "description": "It was a day of Cori-Steel Cutters and Corey, Steel-Cutter. But who walked away from Day One triumphant?",
+            "url": "https://magic.gg/news/day-one-highlights-at-pro-tour-magic-the-gathering-final-fantasy",
+            "image": "https://images.ctfassets.net/ryplwhabvmmk/0ihzrPft09Kr6jkmtEXqV/a61e9c737f07df96e8738c6cbf8bb2d7/960x540-PTFIN-Day-One-Undefeated-Player-Christian-Baker.jpg"
         },
         {
-            "title": "iOS 26 Beta is Hiding a New Ringtone \u2014 Here's What It Sounds Like - MacRumors",
-            "description": "Apple is hiding a new ringtone within iOS 26.   The new ringtone is an alternative version of the existing Reflection ringtone, which has been the...",
-            "url": "https://www.macrumors.com/2025/06/19/ios-26-beta-hidden-new-ringtone/",
-            "image": "https://images.macrumors.com/t/bk6PFdM_vBIQB8ZQnOwZQ3hZDsw=/1600x/article-new/2024/11/ios-26-call-holding.jpg"
+            "title": "SEGA leaks sales data for Sonic Superstars and Frontiers, Team Sonic Racing, Persona 5 Royal, Shin Megami Tensei 5 - Nintendo Everything",
+            "description": "SEGA accidentally posts sales data for Sonic Superstars and Frontiers, Team Sonic Racing, Persona 5 Royal, and Shin Megami Tensei 5.",
+            "url": "https://nintendoeverything.com/sega-sales-data-sonic-superstars-frontiers-racing-persona-5-royal-shin-megami-tensei-5/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/SEGA-sales-data-Sonic-Superstars-and-Frontiers-Team-Sonic-Racing-Persona-5-Royal-Shin-Megami-Tensei-5.jpg"
         },
         {
-            "title": "More Switch Titles Get Switch 2 Backwards Compatibility Fixes - Nintendo Life",
-            "description": "Alongside the latest system firmware update",
-            "url": "https://www.nintendolife.com/news/2025/06/more-switch-titles-get-switch-2-backwards-compatibility-fixes",
-            "image": "https://images.nintendolife.com/8bbf56f765b4d/large.jpg"
+            "title": "Nintendo Appears To Have Updated Donkey Kong Bananza's Switch 2 File Size - Nintendo Life",
+            "description": "Make some space for DK (and Pauline)",
+            "url": "https://www.nintendolife.com/news/2025/06/nintendo-appears-to-have-updated-donkey-kong-bananzas-switch-2-file-size",
+            "image": "https://images.nintendolife.com/2164e4167da0d/large.jpg"
         },
         {
-            "title": "Metroid Prime 4 ad on London Underground claims the game is \u2018out now\u2019 - Video Games Chronicle",
-            "description": "A likely mistake means a billboard for the game is stating it's already out",
-            "url": "https://www.videogameschronicle.com/news/metroid-prime-4-beyond-ad-on-london-underground-wrongly-claims-the-game-is-out-now/",
-            "image": "https://www.videogameschronicle.com/files/2025/06/WhatsApp-Image-2025-06-20-at-00.08.59_26dfa0de.jpg"
+            "title": "Monster Hunter Wilds' Recent Reviews Drop to Overwhelmingly Negative - 80 Level",
+            "description": "The game's rating and player numbers suggest that the latest Monster Hunter may as well be the most successful fiasco of the year.",
+            "url": "https://80.lv/articles/monster-hunter-wilds-recent-reviews-drop-to-overwhelmingly-negative",
+            "image": "https://cdn.80.lv/api/upload/meta/42507/images/6854db090bd43/contain_1200x630.jpg"
         },
         {
-            "title": "Xbox Journalist Denies Report About Backwards Compatibility Plans For 2026 - Pure Xbox",
-            "description": "\"This particular scenario isn't on the cards today\"",
-            "url": "https://www.purexbox.com/news/2025/06/xbox-journalist-denies-report-about-backwards-compatibility-plans-for-2026",
-            "image": "https://images.purexbox.com/e1856a6f70b2f/large.jpg"
+            "title": "Diablo II: Resurrected Ladder Season 11 Now Live - Blizzard News",
+            "description": "Ladder Season 11 begins on June 20! Muster the might to liberate Sanctuary\u2019s denizens from sinister influences as you race to Level 99.",
+            "url": "https://news.blizzard.com/en-us/article/24208340/diablo-ii-resurrected-ladder-season-11-now-live",
+            "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/n4/N4TWKH95498Y1748883506472.png"
         }
     ]
 }
