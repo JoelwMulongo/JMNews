@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Sega accidentally revealed sales numbers for Sonic, Like A Dragon, Persona, and more - Video Games Chronicle",
-            "description": "Sega mistakenly included sales numbers in a presentation doc",
-            "url": "https://www.videogameschronicle.com/news/sega-accidentally-revealed-sales-numbers-for-sonic-like-a-dragon-persona-and-more/",
-            "image": "https://www.videogameschronicle.com/files/2022/07/persona-5-royale-a.jpg"
+            "title": "\u2018Death Stranding 2\u2019 is Hideo Kojima at the peak of his powers - The Washington Post",
+            "description": "\u201cDeath Stranding 2: On the Beach\u201d is Hideo Kojima\u2019s most complete story in years, set across an ambitious, awe-inspiring open world.",
+            "url": "https://www.washingtonpost.com/entertainment/video-games/2025/06/23/death-stranding-2-on-the-beach-review/",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G5MALB6KMRC4PA5EU5ZTRDMWGE.jpg&w=1440"
         },
         {
-            "title": "Top 8 Players and Decks of Pro Tour Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - magic.gg",
-            "description": "These are the Top 8 players, and their decks, returning for the Sunday showdown at Pro Tour Magic: The Gathering\u2014FINAL FANTASY!",
-            "url": "https://magic.gg/news/top-8-players-and-decks-of-pro-tour-magic-the-gathering-final-fantasy",
-            "image": "https://images.ctfassets.net/ryplwhabvmmk/4BYXkBzsLcjFXesb9sE56n/a38ea9530dc49e12a4a5f9480cb635e0/960x640-PTFIN-Top-8-Stage.jpg"
+            "title": "Nothing Headphone 1 leaks show quirky translucent design - The Verge",
+            "description": "Leaks of the Nothing Headphone 1 show a squircle earcup with the company\u2019s signature transparent elements and support for what looks like a 3.5mm audio cable.",
+            "url": "https://www.theverge.com/news/691010/nothing-headphone-1-design-leak",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Nothing-headphone-1-hero.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408"
         },
         {
-            "title": "Former Nintendo Duo Fear We Might Be Waiting A While For A 3D Mario On Switch 2, Thanks To Donkey Kong - Nintendo Life",
-            "description": "\"They are not fast, they are not prolific, they are not pumping out games\"",
-            "url": "https://www.nintendolife.com/news/2025/06/former-nintendo-duo-fear-we-might-be-waiting-a-while-for-a-3d-mario-on-switch-2-thanks-to-donkey-kong",
-            "image": "https://images.nintendolife.com/2a31a8afd8f7d/large.jpg"
+            "title": "Nintendo's Strict Policy On MiG Carts Is Creating A Problem For Secondhand Switch 2 Buyers - Nintendo Life",
+            "description": "Bricking it",
+            "url": "https://www.nintendolife.com/news/2025/06/nintendos-strict-policy-on-mig-carts-is-creating-a-problem-for-secondhand-switch-2-buyers",
+            "image": "https://images.nintendolife.com/0b279277ed479/large.jpg"
         },
         {
-            "title": "Microsoft\u2019s Free Upgrade Deadline For 400 Million Windows Users - Forbes",
-            "description": "Decision time for most Windows users \u2014 act now.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/06/22/microsofts-free-upgrade-deadline-for-400-million-windows-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/681394bdbf03979062f145d1/0x0.jpg?format=jpg&crop=1732,975,x175,y383,safe&height=900&width=1600&fit=bounds"
+            "title": "Smash Bros. Director Sakurai Laments 'Unsustainable' AAA Game Dev, Discusses AI And Uncertainty - Nintendo Life",
+            "description": "Mysterious dimension",
+            "url": "https://www.nintendolife.com/news/2025/06/smash-bros-director-sakurai-laments-unsustainable-aaa-game-dev-discusses-ai-and-uncertainty",
+            "image": "https://images.nintendolife.com/8ad1f1337a4f7/large.jpg"
         },
         {
-            "title": "Video: Get A \"Bird's Eye View\" Of Pinball Park In Tony Hawk's Pro Skater 3 + 4 - Nintendo Life",
-            "description": "The \"gnarly remake\" adds multiple new parks",
-            "url": "https://www.nintendolife.com/news/2025/06/video-get-a-birds-eye-view-of-pinball-park-in-tony-hawks-pro-skater-3-plus-4",
-            "image": "https://images.nintendolife.com/2c90f1fb303fe/large.jpg"
+            "title": "Nintendo Switch 2 restocks live \u2014 Walmart drop confirm this week and latest update - Tom's Guide",
+            "description": "Walmart is restocking Switch 2 this week",
+            "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-live-updates-and-news",
+            "image": "https://cdn.mos.cms.futurecdn.net/H5XCv25fUwCBV3jkkWsiDZ.jpg"
         },
         {
-            "title": "Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration - Nintendo Life",
-            "description": "SpongeBob and friends join the race",
-            "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-officially-reveals-nickelodeon-collaboration",
-            "image": "https://images.nintendolife.com/7da9d04cce5bf/large.jpg"
+            "title": "Don't Like The New Xbox Game Hubs? Here's How To Turn Them Off - Pure Xbox",
+            "description": "There's an easy way to get rid of them",
+            "url": "https://www.purexbox.com/news/2025/06/dont-like-the-new-xbox-game-hubs-heres-how-to-turn-them-off",
+            "image": "https://images.purexbox.com/b60b8da07d3da/large.jpg"
         }
     ]
 }
