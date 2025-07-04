@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Google Photos sees several app improvements - The Verge",
-            "description": "The Google Photos app has been updated to make it easier to navigate your gallery and view image information.",
-            "url": "https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-Photos-UI-improvements-July-2025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "If You See These Messages On Your PC, You\u2019re Being Hacked - Forbes",
+            "description": "This Microsoft Windows attack just soared 500% \u2014 what to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/07/03/if-you-see-these-messages-on-your-pc-youre-being-hacked/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/68109d074d44aeba90a37640/0x0.jpg?format=jpg&crop=2055,1156,x927,y294,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Brazil: Nintendo is now facing legal action over ability to brick Switch 2 console - My Nintendo News",
-            "description": "Procon-SP, the Sao Paulo branch of Brazil\u2019s Consumer Protection and Defence program, has stated in a press release that it is challenging Nintendo\u2019s ability to brick Nintendo Switch 2 consoles when it\u2026",
-            "url": "https://mynintendonews.com/2025/07/02/brazil-nintendo-is-now-facing-legal-action-over-ability-to-brick-switch-2-console/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/nintendo_switch_2-2.jpg?fit=1548%2C1024&ssl=1"
+            "title": "Google brings Veo 3 to all Gemini app \u2018Pro\u2019 subscribers worldwide - 9to5Google",
+            "description": "Veo 3, Google\u2019s latest video generation model, is now available around the world in the Gemini app for AI Pro subscribers.",
+            "url": "http://9to5google.com/2025/07/02/gemini-veo-3-world/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Veo-3-Google-IO-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Mecha Break Review in Progress - IGN",
-            "description": "No description available.",
-            "url": "https://www.ign.com/articles/mecha-break-review",
-            "image": "https://assets-prd.ignimgs.com/2025/07/01/mechabreak-yt-1751413848420.jpg?width=1280"
+            "title": "Your Roku has secret menus and screens - here's how to unlock them - ZDNET",
+            "description": "Pressing a specific button sequence on your Roku remote can open up a hidden world of features you likely never knew existed.",
+            "url": "https://www.zdnet.com/home-and-office/home-entertainment/your-roku-has-secret-menus-and-screens-heres-how-to-unlock-them/",
+            "image": "https://www.zdnet.com/a/img/resize/2448c10560fddf1136e66368f853d52a3bce554f/2025/07/02/bff35dfc-1143-4f5c-8c7e-e9801462ec1c/9.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Subnautica Co-Creators Removed From Unknown Worlds \"Effective Immediately\" - TheGamer",
-            "description": "Subnautica 2 developer Unknown Worlds&#039; leadership team has been completely replaced by Striking Distance Studios CEO Steve Papoutsis.",
-            "url": "https://www.thegamer.com/subnautica-original-creators-replaced-unknown-worlds-effective-immediately-krafton/",
-            "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/02/a-small-underwater-ship-approaching-several-jellyfish-like-creatures-and-a-larger-shark-like-creature.jpg"
+            "title": "Nintendo Expands Switch 2's GameCube Library This Week - Nintendo Life",
+            "description": "Take to the pitch in Super Mario Strikers",
+            "url": "https://www.nintendolife.com/news/2025/07/nintendo-expands-switch-2s-gamecube-library-this-week",
+            "image": "https://images.nintendolife.com/e1b5a0e24ba3f/large.jpg"
         },
         {
-            "title": "Minecraft Is Updating Copper To \"Make It More Useful\" - Nintendo Life",
-            "description": "With a new mob, equipment tier and more",
-            "url": "https://www.nintendolife.com/news/2025/07/minecraft-is-updating-copper-to-make-it-more-useful",
-            "image": "https://images.nintendolife.com/4d8859994b2db/large.jpg"
+            "title": "Mecha Break Classes Tier List - Best Strikers To Use - GameSpot",
+            "description": "Mecha Break is packed with over a dozen different Strikers to choose from, so which ones are the best to use?",
+            "url": "https://www.gamespot.com/gallery/mecha-break-classes-tier-list-best-strikers-to-use/2900-6732/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1745/17457013/4525188-ss_52c6646c16965801c93ef6b38e96c.jpg"
         },
         {
-            "title": "Best Buy 4th of July Sale Is Live - Save On Video Games, TV, Accessories, & More - GameSpot",
-            "description": "Best Buy's 4th of July Sale runs until Sunday, July 6.",
-            "url": "https://www.gamespot.com/articles/best-buy-4th-of-july-sale-is-live-save-on-video-games-tv-accessories-more/1100-6532894/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4524558-0000.jpg"
+            "title": "Two years in, Apple is now officially on Threads - 9to5Mac",
+            "description": "It took a minute, but Apple has at last activated its official account on Threads, and it instantly picked up nearly 5 million followers.",
+            "url": "https://9to5mac.com/2025/07/02/two-years-in-apple-is-now-officially-on-threads/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/threads-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
