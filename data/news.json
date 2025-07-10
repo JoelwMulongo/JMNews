@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "10 discounted gadgets I use regularly as a handyman (and why they make such a big difference) - ZDNet",
-            "description": "I've rounded up my favorite gizmos and accessories that make life easier. Every one of these picks is discounted for Amazon Prime Day.",
-            "url": "https://www.zdnet.com/home-and-office/my-favorite-gadgets-and-gizmos-that-are-on-sale-on-amazon/",
-            "image": "https://www.zdnet.com/a/img/resize/224cc260e55bb7bf0c62ee449aecef26b43a0b7b/2025/07/07/c265a03f-b472-4a48-8d63-7d4a16d425c4/untitled-design-12.png?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Chatbots ChatGPT and Gemini can be fooled by 'information overload' \u2013 study - Mezha.Media",
+            "description": "No description available.",
+            "url": "https://mezha.media/en/news/doslidzhennya-pokazalo-yak-obmanuti-chatgpt-ta-gemini-303224/",
+            "image": null
         },
         {
-            "title": "Our PC expert found the 9 best Amazon Prime Day laptop and computer deals of 2025 - CNN",
-            "description": "Upgrade for less with these great Prime Day deals on laptops and computers, all hand-selected by our editors that test this stuff for a living.",
-            "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2025-07-08",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/laptop-deals-prime-day-cnnu.jpg?c=16x9&q=w_800,c_fill"
+            "title": "Apple bids for Formula 1 rights in US as Brad Pitt movie becomes hit - Financial Times",
+            "description": "iPhone-maker is challenging Disney\u2019s ESPN to screen racing series",
+            "url": "https://www.ft.com/content/ef6bbb12-1ef5-4fc7-bff5-77d000c36bff",
+            "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F190b7d11-21f3-4be0-a726-a3c87517c07d.jpg?source=next-barrier-page"
         },
         {
-            "title": "\"It Will Have A Chilling Effect On Game Design\" - EU Group Responds To 'Stop Killing Games' - Nintendo Life",
-            "description": "Lobbying group includes Nintendo, Sega, and more in its membership",
-            "url": "https://www.nintendolife.com/news/2025/07/it-will-have-a-chilling-effect-on-game-design-eu-group-responds-to-stop-killing-games",
-            "image": "https://images.nintendolife.com/4b73b9a63f9e1/large.jpg"
+            "title": "Instagram wrongly says some users breached child sex abuse rules - BBC",
+            "description": "It was \"horrible\", \"stressful\" and \"isolating\" those affected tell BBC News.",
+            "url": "https://www.bbc.com/news/articles/cy8kjdz9nr3o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d256/live/e05953e0-5bee-11f0-9584-0dcfb55e8671.jpg"
         },
         {
-            "title": "OnePlus launches five new products, including Buds 4 and smaller Watch 3 for the US - The Verge",
-            "description": "The Nord 5 and Nord CE 5 phones and Pad Lite tablet are all headed to Europe and India.",
-            "url": "https://www.theverge.com/news/700339/oneplus-watch-3-43mm-buds-4-nord-5-ce-5-pad-lite",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/oneplus-nord-5-july-launch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Nintendo's Summer Deals Discounts Multiple Physical Switch Titles, Save Up To $20 (US) - Nintendo Life",
+            "description": "Available at participating retailers",
+            "url": "https://www.nintendolife.com/news/2025/07/nintendos-summer-deals-discounts-multiple-physical-switch-titles-save-up-to-usd20-us",
+            "image": "https://images.nintendolife.com/b36c738964598/large.jpg"
         },
         {
-            "title": "MTG Edge of Eternities Preview Cards Revealed - TechRaptor",
-            "description": "With brand new mechanics and exciting new cards, our Edge of Eternities Preview features the latest exciting releases coming to the new MTG set",
-            "url": "https://techraptor.net/tabletop/features/mtg-edge-of-eternities-preview-cards-revealed",
-            "image": "https://techraptor.net/sites/default/files/styles/image_header/public/2025-07/mtg-edge-of-eternities-preview-cards-header.jpg?itok=kEXb1iQT"
+            "title": "Android is letting Google's AI access WhatsApp, texts, and calls \u2013 unless you change your settings - TechSpot",
+            "description": "Android users have begun receiving vaguely worded emails from Google announcing changes to Gemini's functionality on mobile devices. Preventing the AI assistant from accessing communications, storing information,...",
+            "url": "https://www.techspot.com/news/108602-android-letting-google-ai-access-whatsapp-texts-calls.html",
+            "image": "https://www.techspot.com/images2/news/bigimage/2025/04/2025-04-24-image-12.jpg"
+        },
+        {
+            "title": "This MacBook Air Is Selling at Half the Price of a MacBook Pro, Amazon Clears Out Prime Day Stock - Gizmodo",
+            "description": "We also bought a 2025 MacBook Air during this Prime Day.",
+            "url": "https://gizmodo.com/this-macbook-air-is-selling-at-half-the-price-of-a-macbook-pro-amazon-clears-out-prime-day-stock-2000626255",
+            "image": "https://gizmodo.com/app/uploads/2025/05/2025-Macbook-Air-1200x675.jpg"
         }
     ]
 }
