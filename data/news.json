@@ -1,28 +1,40 @@
 {
     "articles": [
         {
-            "title": "The 65\" LG Evo C4 4K OLED Smart TV Drops to Under $1,200 With This Amazon Prime Day Deal - IGN",
-            "description": "If you have the space, the 77\" size is also down to under $1700.",
-            "url": "https://www.ign.com/articles/lg-evo-c4-4k-oled-is-still-the-best-tv-deal-for-amazon-prime-day",
-            "image": "https://assets-prd.ignimgs.com/2025/07/07/lgc4oled-1751932031201.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Google Pixel 10 series prices leak alongside more expensive Pixel Buds 2a - 9to5Google",
+            "description": "Google's upcoming Pixel 10 series will reportedly carry the same price tags, but the Pixel Buds 2a will be more expensive.",
+            "url": "http://9to5google.com/2025/07/12/google-pixel-10-series-price-leak/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/09/Pixel-9-Pro-XL-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Best Prime Day deals 2025: We found new price drops on Apple, Yeti, and Kindles \u2014 score over 60% off - Mashable",
-            "description": "Prime Day 2025 is on its third day (with only one more to go after this). Shop the best Amazon deals while you still can.",
-            "url": "https://mashable.com/article/best-prime-day-deals-2025-july-11",
-            "image": "https://helios-i.mashable.com/imagery/articles/030hE0ndf6T5b91HeaQHFoV/hero-image.fill.size_1200x675.v1752216494.jpg"
+            "title": "ASUS loses it: $500K RTX 5090 ROG Astral (Real) Gold Edition showcased - VideoCardz.com",
+            "description": "ASUS shows off ROG Astral RTX 5090 with 5kg of pure gold, worth $500K And you thought normal ROG Astral was expensive? We are not sure what is happening at ASUS. Perhaps they are having such a strong year with their ultra-expensive ROG Astral series that they\u2026",
+            "url": "https://videocardz.com/newz/asus-loses-it-500k-rtx-5090-rog-astral-real-gold-edition-showcased",
+            "image": "https://cdn.videocardz.com/1/2025/07/ROG-5090-GOLD-HERO-1.jpg"
         },
         {
-            "title": "Now you can turn a photo into an AI video with this Google tool - The Washington Post",
-            "description": "Google\u2019s Gemini AI app now lets users create short videos from still images using its Veo 3 video generator.",
-            "url": "https://www.washingtonpost.com/technology/2025/07/10/google-gemini-ai-photos-to-videos/",
-            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RB5IGLDIAZDTRUPKXC7LXXX4LU_size-normalized.JPG&w=1440"
+            "title": "Pok\u00e9mon GO Summer Concert: Shiny Chatot, Junichi Masuda music, special Lure Spawns - Pok\u00e9mon GO Hub",
+            "description": "Pok\u00e9mon GO Summer Concert is a global event that runs from\u00a0Saturday, July 19, to Tuesday, July 22, 2025, from 5:00 p.m.at 8:00 p.m. local time each day. During the event, special music composed by Junichi Masuda will play, Lure Modules will play an important \u2026",
+            "url": "https://pokemongohub.net/post/event/summer-concert-2025/",
+            "image": "https://pokemongohub.net/wp-content/uploads/2025/07/unnamed-10.jpg"
         },
         {
-            "title": "Double Your Printing Fun With Dual-Light 3D Printing - Hackaday",
-            "description": "Using light to 3D print liquid resins is hardly a new idea. But researchers at the University of Texas at Austin want to double down on the idea. Specifically, they use a resin with different physi\u2026",
-            "url": "https://hackaday.com/2025/07/10/double-your-printing-fun-with-dual-light-3d-printing/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/07/resub.png"
+            "title": "More Donkey Kong Bananza In-Store Demos Are Releasing Next Week - Nintendo Life",
+            "description": "Available at select retailers in Canada",
+            "url": "https://www.nintendolife.com/news/2025/07/more-donkey-kong-bananza-in-store-demos-are-releasing-next-week",
+            "image": "https://images.nintendolife.com/d763b7f3261a1/large.jpg"
+        },
+        {
+            "title": "Race results: General Tire 200 at Sonoma Raceway - arcaracing.com",
+            "description": "See the results from the General Tire 200 at Sonoma Raceway, the sixth race of the 2025 ARCA Menards Series West season.",
+            "url": "https://www.arcaracing.com/2025/07/11/race-results-general-tire-200-at-sonoma-raceway-4/",
+            "image": ""
+        },
+        {
+            "title": "The Best Jurassic Park Game Is Only $3 Right Now On Steam - Kotaku",
+            "description": "Jurassic World Evolution 1 and 2 are both on sale, as well as all of the DLC for both park sims",
+            "url": "https://kotaku.com/jurassic-park-jurassic-world-evolution-2-sale-steam-pc-1851786154",
+            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a08ddbfb514932ef44952ab13b16c207.jpg"
         }
     ]
 }
