@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Tony Hawk Reiterates Decisions Behind Song Choices In Pro Skater 3 + 4 - Nintendo Life",
-            "description": "And why some classics didn't return",
-            "url": "https://www.nintendolife.com/news/2025/07/tony-hawk-reiterates-decisions-behind-song-choices-in-pro-skater-3-plus-4",
-            "image": "https://images.nintendolife.com/2126468c39a6b/large.jpg"
+            "title": "China Unveils Groundbreaking Lithium Battery Tech That Flags Deadly Failures Seconds Before the Battery Fully Activates - Energy Reporters",
+            "description": "IN A NUTSHELL \ud83d\udd0b Chinese researchers have developed a predictive model that accurately forecasts lithium metal anode failures. \ud83d\udd0d The model uses electrochemical fingerprints from initial battery cycles to identify potential failure mechanisms. \u23f1\ufe0f Machine lear\u2026",
+            "url": "https://www.energy-reporters.com/storage/china-unveils-groundbreaking-lithium-battery-tech-that-flags-deadly-failures-seconds-before-the-battery-fully-activates/",
+            "image": "https://www.energy-reporters.com/wp-content/uploads/2025/07/this-changes-everything-chinas-revolutionary-tech-detects-deadly-lithium-battery-failures-before-they-ignite-saving-lives-and-billions.jpg"
         },
         {
-            "title": "FBI Shares Official Statement After Seizure Of Major Switch ROM Site - Nintendo Life",
-            "description": "Cracking down on piracy",
-            "url": "https://www.nintendolife.com/news/2025/07/fbi-shares-official-statement-after-seizure-of-major-switch-rom-site",
-            "image": "https://images.nintendolife.com/38585bf10eedc/large.jpg"
+            "title": "Where are the iPhone\u2019s WebKit-less browsers? - The Verge",
+            "description": "The Open Web Advocacy (OWA) says that Apple\u2019s restrictions on WebKit-alternative iOS browser engines are effectively stifling competition.",
+            "url": "https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_P.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Video: Digital Foundry Tests Switch 2's GameCube Emulation - Nintendo Life",
-            "description": "Latency, performance and resolution investigated",
-            "url": "https://www.nintendolife.com/news/2025/07/video-digital-foundry-tests-switch-2s-gamecube-emulation",
-            "image": "https://images.nintendolife.com/8b39a7f7cc915/large.jpg"
+            "title": "Now Jack Dorsey has built an app to track your vitamin D - The Verge",
+            "description": "Sun Day is a sunlight-tracking app currently available on TestFlight for iOS, which Dorsey vibe coded using the open-source AI tool Goose.",
+            "url": "https://www.theverge.com/news/706571/jack-dorsey-sun-day-vitamin-d-exposure-tracking-app",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sun-Day-app-Jack-Dorsey.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
         },
         {
-            "title": "Who Owns Ferrari, And Where Does It Build Its Cars? - Jalopnik",
-            "description": "Ferrari is a legendary name, but it's been a long time since Enzo Ferrari started the company. Who owns it now, and where does it make the cars?",
-            "url": "https://www.jalopnik.com/1907619/who-owns-ferrari-where-cars-are-built/",
-            "image": "https://www.jalopnik.com/img/gallery/who-owns-ferrari-and-where-does-it-build-its-cars/l-intro-1752067570.jpg"
+            "title": "A Budget Quasi-Direct-Drive Motor Inpired By MIT\u2019s Mini Cheetah - Hackaday",
+            "description": "It\u2019s an unfortunate fact that when a scientist at MIT describes an exciting new piece of hardware as \u201clow-cost,\u201d it might not mean the same thing as if a hobbyist had said it. [Caden Kraft] e\u2026",
+            "url": "https://hackaday.com/2025/07/14/a-budget-quasi-direct-drive-motor-inpired-by-mits-mini-cheetah/",
+            "image": "https://hackaday.com/wp-content/uploads/2025/07/quasi_direct_drive.png"
         },
         {
-            "title": "New Apple TV Expected Later This Year With These New Features - MacRumors",
-            "description": "A new Apple TV is expected to be released later this year, and a handful of new features and changes have been rumored for the device.   Below, we...",
-            "url": "https://www.macrumors.com/2025/07/12/new-apple-tv-rumors/",
-            "image": "https://images.macrumors.com/t/GAyquGnnVSnhxBeZ-t47PVsJQ04=/2500x/article-new/2024/06/apple-tv-4k-new-orange.jpg"
-        },
-        {
-            "title": "Rumour: Square Enix apparently developing Dragon Quest VII Remake for 2026 - My Nintendo News",
-            "description": "The next Dragon Quest game Square Enix is looking to give the remake treatment is the PlayStation One title Dragon Quest VII. The information comes from mp1st who claim they have seen internal\u2026",
-            "url": "https://mynintendonews.com/2025/07/12/rumour-square-enix-apparently-developing-dragon-quest-vii-remake-for-2026/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/07/dragon_quest_vii.jpg?fit=1600%2C800&ssl=1"
+            "title": "Donkey Kong Bananza Gets Short Clip Celebrating Three Days Until Launch - Nintendo Life",
+            "description": "Not long now!",
+            "url": "https://www.nintendolife.com/news/2025/07/donkey-kong-bananza-gets-short-clip-celebrating-three-days-until-launch",
+            "image": "https://images.nintendolife.com/600746e7211a4/large.jpg"
         }
     ]
 }
