@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "China Unveils Groundbreaking Lithium Battery Tech That Flags Deadly Failures Seconds Before the Battery Fully Activates - Energy Reporters",
-            "description": "IN A NUTSHELL \ud83d\udd0b Chinese researchers have developed a predictive model that accurately forecasts lithium metal anode failures. \ud83d\udd0d The model uses electrochemical fingerprints from initial battery cycles to identify potential failure mechanisms. \u23f1\ufe0f Machine lear\u2026",
-            "url": "https://www.energy-reporters.com/storage/china-unveils-groundbreaking-lithium-battery-tech-that-flags-deadly-failures-seconds-before-the-battery-fully-activates/",
-            "image": "https://www.energy-reporters.com/wp-content/uploads/2025/07/this-changes-everything-chinas-revolutionary-tech-detects-deadly-lithium-battery-failures-before-they-ignite-saving-lives-and-billions.jpg"
+            "title": "BBC Recently Covered The Rise Of Retro Gaming - See If You Can Spot The Problem - Time Extension",
+            "description": "\"To gamers this is as egregious as trying to play a DVD on a record player.\"",
+            "url": "https://www.timeextension.com/news/2025/07/bbc-recently-covered-the-rise-of-retro-gaming-see-if-you-can-spot-the-problem",
+            "image": "https://images.timeextension.com/1a9497c1b4a67/large.jpg"
         },
         {
-            "title": "Where are the iPhone\u2019s WebKit-less browsers? - The Verge",
-            "description": "The Open Web Advocacy (OWA) says that Apple\u2019s restrictions on WebKit-alternative iOS browser engines are effectively stifling competition.",
-            "url": "https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_P.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "July 2025's PS Plus Extra, Premium Games Available to Download Now - Push Square",
+            "description": "Hot selection for a hot month",
+            "url": "https://www.pushsquare.com/news/2025/07/july-2025s-ps-plus-extra-premium-games-available-to-download-now",
+            "image": "https://images.pushsquare.com/c94fb8993968b/large.jpg"
         },
         {
-            "title": "Now Jack Dorsey has built an app to track your vitamin D - The Verge",
-            "description": "Sun Day is a sunlight-tracking app currently available on TestFlight for iOS, which Dorsey vibe coded using the open-source AI tool Goose.",
-            "url": "https://www.theverge.com/news/706571/jack-dorsey-sun-day-vitamin-d-exposure-tracking-app",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Sun-Day-app-Jack-Dorsey.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
+            "title": "S Pen may return to Galaxy Z Fold phones with new Samsung tech - SamMobile",
+            "description": "Samsung\u2019s beta version of Android 16-based One UI 8.0 leaked in April 2025. Since then, we have been testing it on our Galaxy S25 to find new features. Over the last few months, the brand has released a few new beta versions of the software, and we have repor\u2026",
+            "url": "https://www.sammobile.com/news/complete-samsung-one-ui-8-guide-galaxy/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-7-1200x675.jpg"
         },
         {
-            "title": "A Budget Quasi-Direct-Drive Motor Inpired By MIT\u2019s Mini Cheetah - Hackaday",
-            "description": "It\u2019s an unfortunate fact that when a scientist at MIT describes an exciting new piece of hardware as \u201clow-cost,\u201d it might not mean the same thing as if a hobbyist had said it. [Caden Kraft] e\u2026",
-            "url": "https://hackaday.com/2025/07/14/a-budget-quasi-direct-drive-motor-inpired-by-mits-mini-cheetah/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/07/quasi_direct_drive.png"
+            "title": "Nintendo Switch 2 System Update 20.2.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+            "description": "Stability is back, baby",
+            "url": "https://www.nintendolife.com/news/2025/07/nintendo-switch-2-system-update-20-2-0-is-now-live-here-are-the-full-patch-notes",
+            "image": "https://images.nintendolife.com/45a8eb1719156/large.jpg"
         },
         {
-            "title": "Donkey Kong Bananza Gets Short Clip Celebrating Three Days Until Launch - Nintendo Life",
-            "description": "Not long now!",
-            "url": "https://www.nintendolife.com/news/2025/07/donkey-kong-bananza-gets-short-clip-celebrating-three-days-until-launch",
-            "image": "https://images.nintendolife.com/600746e7211a4/large.jpg"
+            "title": "Child of Home Run Derby Thread - Lookout Landing",
+            "description": "More Home Run Derby thread!",
+            "url": "https://www.lookoutlanding.com/2025/7/14/24467992/child-of-home-run-derby-thread",
+            "image": "https://cdn.vox-cdn.com/thumbor/N0wEG6YkJHmMthNP1uYM1tCXrwk=/0x335:4667x2778/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/26057088/usa_today_26642690.jpg"
+        },
+        {
+            "title": "Arc System Works has apparently canceled a new Guilty Gear game - My Nintendo News",
+            "description": "Insider Gaming is reporting this evening that the talented developers over at Arc System Works have decided to cancel a new Guilty Gear video game. Sources have told the publication that the\u2026",
+            "url": "https://mynintendonews.com/2025/07/14/arc-system-works-has-apparently-canceled-a-new-guilty-gear-game/",
+            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/07/guilty_gear_strive.png?fit=2048%2C1152&ssl=1"
         }
     ]
 }
