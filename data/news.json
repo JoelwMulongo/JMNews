@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Perplexity\u2019s Comet is the AI browser Google wants - The Verge",
-            "description": "Perplexity has launched Comet, an AI-powered browser that feels like the agentic experience that Google wants to put inside Chrome.",
-            "url": "https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/verge-comet.png?quality=90&strip=all&crop=0%2C11.33133881825%2C100%2C77.3373223635&w=1200"
+            "title": "Science news this week: 'Anti-aging' magic mushrooms and record-breaking internet speeds - Live Science",
+            "description": "July 19, 2025: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
+            "url": "https://www.livescience.com/planet-earth/science-news-this-week-anti-aging-magic-mushrooms-and-record-breaking-internet-speeds",
+            "image": "https://cdn.mos.cms.futurecdn.net/weUde2d7m9oei4S3W8FyvJ.png"
         },
         {
-            "title": "Nothing Phone 3 review: Nothing ventured, nothing gained - Ars Technica",
-            "description": "The Nothing Phone 3 is the company\u2019s best phone by a wide margin, but is that enough?",
-            "url": "https://arstechnica.com/gadgets/2025/07/nothing-phone-3-review-nothing-ventured-nothing-gained/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Nothing-Phone-3-1-1152x648.jpg"
+            "title": "Why AI is moving from chatbots to the browser - The Verge",
+            "description": "With the release of OpenAI\u2019s ChatGPT Agent and Perplexity\u2019s Comet, generative AI is shifting from chatbots to web browsers. Industry insiders view this as the way to develop AI agents that can perform tasks on behalf of people.",
+            "url": "https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "The Most Interesting Email I Ever Received: Remembering the Incredible Life of DIY Geneticist Jill Viles - ProPublica",
-            "description": "In 2013, ProPublica reporter David Epstein was contacted by a woman with a wild story and a batch of photos she believed were clues to the mystery of her condition. Turns out, she was right.",
-            "url": "https://www.propublica.org/article/remembering-jill-viles-diy-geneticist-muscular-dystrophy-david-espstein",
-            "image": "https://img.assets-d.propublica.org/v5/images/Viles_079.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=ff3fc98be999fa5e14a55a8998b881a3"
+            "title": "Apple Sues the YouTuber Who Leaked iOS 26 - WIRED",
+            "description": "In a lawsuit filed against prominent leaker Jon Prosser, Apple alleges a conspiracy to break into a development device and steal its trade secrets. Prosser insists Apple has it all wrong.",
+            "url": "https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/",
+            "image": "https://media.wired.com/photos/687a7bee93808b4bb00b60b6/191:100/w_1280,c_limit/Apple-WWDC25-iOS-26-hero-250609.jpg"
         },
         {
-            "title": "Apple sues leaker Jon Prosser for stealing iOS secrets - The Verge",
-            "description": "Prosser has been accused, together with Michael Ramacciotti, of secretly accessing an Apple employee\u2019s development iPhone to leak key iOS details.",
-            "url": "https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/image_864192.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "title": "Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99! - Android Authority",
+            "description": "If you're willing to get a new Google Fi plan, and have been thinking of buying a Samsung Galaxy Z Flip 7, this is the best deal around!",
+            "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-widgets-on-cover-display.jpg"
         },
         {
-            "title": "Donkey Kong Bananza's monologuing villains have turned me: It's time Nintendo properly embraces fully voice acted characters - Eurogamer",
-            "description": "DK Bananza has a new rogues' gallery in the form of the VoidCo Kongs - but these villains might be a little better if they spoke a bit of the King's.",
-            "url": "https://www.eurogamer.net/donkey-kong-bananza-voice-acting-villains",
-            "image": "https://assetsio.gnwcdn.com/dk-villains.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-            "title": "Porsche Unveils Type 992.2 GT3 Cup Car - Sportscar365",
-            "description": "Porsche confirms new Type 992.2-based 911 GT3 Cup car for 2026 debut...",
-            "url": "https://sportscar365.com/industry/porsche-unveils-type-992-2-911-gt3-cup-car/",
-            "image": "https://sportscar365.com/wp-content/uploads/2025/07/M25_3524_a3_rgb.jpg"
+            "title": "32\" 6K ProArt Display From ASUS Launching in Late August - MacRumors",
+            "description": "ASUS is planning to release its 32-inch 6K ProArt Display PA32QCV in August, with the device set to compete with Apple's Pro Display XDR and...",
+            "url": "https://www.macrumors.com/2025/07/18/asus-6k-proart-display-august/",
+            "image": "https://images.macrumors.com/t/um519LvHzlzIDp_dp2JdkfaaLqM=/1819x/article-new/2025/07/asus-proart-6k-display.jpg"
         }
     ]
 }
