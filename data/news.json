@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Science news this week: 'Anti-aging' magic mushrooms and record-breaking internet speeds - Live Science",
-            "description": "July 19, 2025: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend.",
-            "url": "https://www.livescience.com/planet-earth/science-news-this-week-anti-aging-magic-mushrooms-and-record-breaking-internet-speeds",
-            "image": "https://cdn.mos.cms.futurecdn.net/weUde2d7m9oei4S3W8FyvJ.png"
+            "title": "Destiny 2: How To Get Whirling Ovation Exotic Rocket Launcher, Perks, Exotic Catalyst \u2013 Complete Guide - The Game Post",
+            "description": "Here\u2019s how you can unlock the new Whirling Ovation exotic rocket launcher in Destiny 2\u2019s Desert Perpetual raid, with all perks, stats, and details on its exotic catalyst.",
+            "url": "https://thegamepost.com/destiny-2-how-to-get-whirling-ovation-exotic-guide/",
+            "image": "https://thegamepost.com/wp-content/uploads/2025/07/destiny-2-how-to-get-whirling-ovation-exotic-guide-2.webp"
         },
         {
-            "title": "Why AI is moving from chatbots to the browser - The Verge",
-            "description": "With the release of OpenAI\u2019s ChatGPT Agent and Perplexity\u2019s Comet, generative AI is shifting from chatbots to web browsers. Industry insiders view this as the way to develop AI agents that can perform tasks on behalf of people.",
-            "url": "https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Ubisoft Thinks Microtransactions Make Premium Games More Fun - Wccftech",
+            "description": "Ubisoft states that microtransactions make premium games more fun by 'allowing players to customize their avatar or progress more quickly'.",
+            "url": "https://wccftech.com/ubisoft-microtransactions-make-games-more-fun/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/07/Assassins-Creed-Shadows-Microtransactions-HD-scaled.jpeg"
         },
         {
-            "title": "Apple Sues the YouTuber Who Leaked iOS 26 - WIRED",
-            "description": "In a lawsuit filed against prominent leaker Jon Prosser, Apple alleges a conspiracy to break into a development device and steal its trade secrets. Prosser insists Apple has it all wrong.",
-            "url": "https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/",
-            "image": "https://media.wired.com/photos/687a7bee93808b4bb00b60b6/191:100/w_1280,c_limit/Apple-WWDC25-iOS-26-hero-250609.jpg"
+            "title": "iPhone 17 And iPhone 17 Air Unprecedented Design Changes Revealed In New Leak - Forbes",
+            "description": "Want to know what this year\u2019s iPhones will look like? A new leak, corroborated by several sources, claims to know more about the design than ever, down to the colors.",
+            "url": "https://www.forbes.com/sites/davidphelan/2025/07/20/apple-iphone-17-pro-definitive-new-leak-confirms-key-design-changes/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/66f5a2f380ad925683dd0582/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Google Fi is offering the Samsung Galaxy Z Flip 7 for just $199.99! - Android Authority",
-            "description": "If you're willing to get a new Google Fi plan, and have been thinking of buying a Samsung Galaxy Z Flip 7, this is the best deal around!",
-            "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-7-google-fi-deal-3579066/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Flip-7-widgets-on-cover-display.jpg"
+            "title": "Apple\u2019s Foldable iPhone Could Feature The Largest Battery Capacity Of Any Of The Company\u2019s Devices, But The Latest Pricing Rumor Means That It Will Also Be The Most Expensive - Wccftech",
+            "description": "A rumor claims that the foldable iPhone expected to launch next year will have the biggest battery size, but customers will also be charged a massive sum for it",
+            "url": "https://wccftech.com/foldable-iphone-biggest-battery-capacity-for-any-iphone/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/07/Foldable-iPhone-4.jpg"
         },
         {
-            "title": "32\" 6K ProArt Display From ASUS Launching in Late August - MacRumors",
-            "description": "ASUS is planning to release its 32-inch 6K ProArt Display PA32QCV in August, with the device set to compete with Apple's Pro Display XDR and...",
-            "url": "https://www.macrumors.com/2025/07/18/asus-6k-proart-display-august/",
-            "image": "https://images.macrumors.com/t/um519LvHzlzIDp_dp2JdkfaaLqM=/1819x/article-new/2025/07/asus-proart-6k-display.jpg"
+            "title": "Video: Switch 2 Vs. Steam Deck System Face-Off, Digital Foundry Investigates - Nintendo Life",
+            "description": "\"We've got two very different systems here\"",
+            "url": "https://www.nintendolife.com/news/2025/07/video-switch-2-vs-steam-deck-system-face-off-digital-foundry-investigates",
+            "image": "https://images.nintendolife.com/f74c61e4b11bc/large.jpg"
+        },
+        {
+            "title": "Nintendo Employee Data reveals low turnover rate, long average employment period - GoNintendo",
+            "description": "Are they hiring?",
+            "url": "https://gonintendo.com/contents/50924-nintendo-employee-data-reveals-low-turnover-rate-long-average-employment-period",
+            "image": "https://gonintendo.com/attachments/image/67810/file/medium-167f2a9ccd15a1b439b99bec2e75995e.png"
         }
     ]
 }
