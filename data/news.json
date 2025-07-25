@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple\u2019s new AppleCare One subscription covers multiple devices at once - The Verge",
-            "description": "Apple\u2019s new AppleCare One subscription lets you cover multiple products with a single plan. Subscribers can also cover products that are up to four years old.",
-            "url": "https://www.theverge.com/news/711972/apple-applecare-one-subscription-multiple-devices",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Apple-AppleCare-One-hero_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C3.4824111300451%2C100%2C93.03517773991&w=1200"
+            "title": "Itch.io follows Steam in removing adult games - The Verge",
+            "description": "The indie-focused gaming marketplace Itch.io has abruptly deindexed adult content from its browse and search pages, bowing to demands from payment providers.",
+            "url": "https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
         },
         {
-            "title": "Metroid Dread studio's recent console and Epic-exclusive action-adventure \"underperformed\" due to \"increasingly selective consumers\", says publisher - Eurogamer",
-            "description": "Blades of Fire, the dark fantasy action-adventure from Metroid Dread studio MercurySteam, has \"underperformed\" following its console and PC release.",
-            "url": "https://www.eurogamer.net/metroid-dread-studios-recent-console-and-epic-exclusive-action-adventure-underperformed-due-to-increasingly-selective-consumers-says-publisher",
-            "image": "https://assetsio.gnwcdn.com/Blades-of-Fire_Key-Art_Final_1x1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Sony Invests in Elden Ring Publisher Bandai Namco, Signs Strategic Partnership - Push Square",
+            "description": "Sony now owns 2.5% of Bandai Namco shares",
+            "url": "https://www.pushsquare.com/news/2025/07/sony-invests-in-elden-ring-publisher-bandai-namco-signs-strategic-partnership",
+            "image": "https://images.pushsquare.com/8c8f8c55181ba/large.jpg"
         },
         {
-            "title": "The Biggest PlayStation Game Of 2025 Is A Four-Year-Old Former Xbox Exclusive - Kotaku",
-            "description": "Forza Horizon 5 is said to have sold 3 million copies, pushing Monster Hunter World into second place",
-            "url": "https://kotaku.com/forza-horizon-5-playstation-ps5-microsoft-xbox-1851786765",
-            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/96222886767e138afdff83eadf748d81.jpg"
+            "title": "All Outfits And Armor In Wuchang: Fallen Feathers - GameSpot",
+            "description": "Here's a showcase of all the armor pieces and costumes in Wuchang: Fallen Feathers.",
+            "url": "https://www.gamespot.com/gallery/wuchang-fallen-feathers-all-armors-costumes-outfits/2900-6793/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4537395-wuchang-fallen-feathers-armors-costumes-outfits-.jpg"
         },
         {
-            "title": "NateTheHate states again that he believes Nintendo Direct happening this month - My Nintendo News",
-            "description": "Prominent video game leaker NateTheHate has doubled down on his statement that he believes a Nintendo Direct presentation is happening this month. He has said this a couple of times now and seem quite\u2026",
-            "url": "https://mynintendonews.com/2025/07/23/natethehate-states-again-that-he-believes-nintendo-direct-happening-this-month/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2024/05/nintendo_logo_4.jpg?fit=1200%2C712&ssl=1"
+            "title": "Google acknowledges Assistant issues with Home, teases \u2018major improvements\u2019 coming - 9to5Google",
+            "description": "Google is teasing some \"major improvements\" for Assistant and Home while acknowledging recent shortcomings.",
+            "url": "http://9to5google.com/2025/07/23/google-home-assistant-tease-major-improvements/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_audio_sage_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "'There were days where I felt I could never leave': Intimate images of 'the real Hotel California' - BBC",
-            "description": "The most iconic stars of the 1970s flocked to Record Plant Studios. A new book offers a glimpse inside \u2013 and argues that The Eagles' time there inspired the US band's most famous song.",
-            "url": "https://www.bbc.com/culture/article/20250721-intimate-images-of-the-real-hotel-california",
-            "image": "https://ychef.files.bbci.co.uk/624x351/p0lrgqml.jpg"
+            "title": "Here is Lego\u2019s official Nintendo Game Boy \u2014 with lenticular display - The Verge",
+            "description": "Lego has revealed a most impressive take on the 1989 Nintendo Game Boy that\u2019ll cost a relatively reasonable $60 in the US.",
+            "url": "https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/72046_Lifestyle_Envr_04_en-gb_cc0848.jpg?quality=90&strip=all&crop=30,29.449278187645,43.2,33.905716087935"
+        },
+        {
+            "title": "Pok\u00e9mon Legends: Z-A Switch 2 And Switch Pre-Order Bonuses Revealed (US) - Nintendo Life",
+            "description": "\"While supplies last\"",
+            "url": "https://www.nintendolife.com/news/2025/07/pokemon-legends-z-a-switch-2-and-switch-pre-order-bonuses-revealed-us",
+            "image": "https://images.nintendolife.com/168938881bf42/large.jpg"
         }
     ]
 }
