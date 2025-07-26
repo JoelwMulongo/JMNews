@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Itch.io follows Steam in removing adult games - The Verge",
-            "description": "The indie-focused gaming marketplace Itch.io has abruptly deindexed adult content from its browse and search pages, bowing to demands from payment providers.",
-            "url": "https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+            "title": "Pok\u00e9mon Legends: Z-A Reveals New Pre-Order Distribution, Available In Two Countries - Nintendo Life",
+            "description": "For trainers located in Japan and Australia",
+            "url": "https://www.nintendolife.com/news/2025/07/pokemon-legends-z-a-reveals-new-pre-order-distribution-available-in-two-countries",
+            "image": "https://images.nintendolife.com/ab368ab488c3a/large.jpg"
         },
         {
-            "title": "Sony Invests in Elden Ring Publisher Bandai Namco, Signs Strategic Partnership - Push Square",
-            "description": "Sony now owns 2.5% of Bandai Namco shares",
-            "url": "https://www.pushsquare.com/news/2025/07/sony-invests-in-elden-ring-publisher-bandai-namco-signs-strategic-partnership",
-            "image": "https://images.pushsquare.com/8c8f8c55181ba/large.jpg"
+            "title": "Marvel's New Beat 'Em Up 'Cosmic Invasion' Reveals Two More Playable Characters - Nintendo Life",
+            "description": "Joining the fight on Switch platforms later this year",
+            "url": "https://www.nintendolife.com/news/2025/07/marvels-new-beat-em-up-cosmic-invasion-reveals-two-more-playable-characters",
+            "image": "https://images.nintendolife.com/6acba124cb932/large.jpg"
         },
         {
-            "title": "All Outfits And Armor In Wuchang: Fallen Feathers - GameSpot",
-            "description": "Here's a showcase of all the armor pieces and costumes in Wuchang: Fallen Feathers.",
-            "url": "https://www.gamespot.com/gallery/wuchang-fallen-feathers-all-armors-costumes-outfits/2900-6793/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4537395-wuchang-fallen-feathers-armors-costumes-outfits-.jpg"
+            "title": "Steam and Itch.io Are Pulling \u2018Porn\u2019 Games. Critics Say It\u2019s a Slippery Slope to More Censorship - WIRED",
+            "description": "A conservative group is targeting payment processors as \u201ca weapon\u201d to get adult games deindexed in storefronts. Even games that have nothing to do with sex or abuse have been caught in the dragnet.",
+            "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
+            "image": "https://media.wired.com/photos/687fcfbfcc34f84ebcc01ab6/191:100/w_1280,c_limit/STEAM-Remove-ornographic-Games-Culture-1659833597.jpg"
         },
         {
-            "title": "Google acknowledges Assistant issues with Home, teases \u2018major improvements\u2019 coming - 9to5Google",
-            "description": "Google is teasing some \"major improvements\" for Assistant and Home while acknowledging recent shortcomings.",
-            "url": "http://9to5google.com/2025/07/23/google-home-assistant-tease-major-improvements/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/10/google_nest_audio_sage_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "\u2018NASCAR 25\u2019 console game set for October 2025 release date - NASCAR.com",
+            "description": "iRacing and NASCAR revealed that 'NASCAR 25' is launching on PS5 and Xbox Series X|S on Oct. 14, 2025, with PC via Steam at a later date.",
+            "url": "https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/",
+            "image": "https://www.nascar.com/wp-content/uploads/sites/7/2025/07/24/nascar-25-release-date-672x372.jpeg"
         },
         {
-            "title": "Here is Lego\u2019s official Nintendo Game Boy \u2014 with lenticular display - The Verge",
-            "description": "Lego has revealed a most impressive take on the 1989 Nintendo Game Boy that\u2019ll cost a relatively reasonable $60 in the US.",
-            "url": "https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/72046_Lifestyle_Envr_04_en-gb_cc0848.jpg?quality=90&strip=all&crop=30,29.449278187645,43.2,33.905716087935"
-        },
-        {
-            "title": "Pok\u00e9mon Legends: Z-A Switch 2 And Switch Pre-Order Bonuses Revealed (US) - Nintendo Life",
-            "description": "\"While supplies last\"",
-            "url": "https://www.nintendolife.com/news/2025/07/pokemon-legends-z-a-switch-2-and-switch-pre-order-bonuses-revealed-us",
-            "image": "https://images.nintendolife.com/168938881bf42/large.jpg"
+            "title": "Google rethinks search results with its new AI-curated \u2018Web Guide\u2019 - The Verge",
+            "description": "Google is testing Web Guide in its Search Labs, a new generative AI feature that users can opt into for Gemini-curated search results.",
+            "url": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/google-web-guide.webp?quality=90&strip=all&crop=0%2C3.579433208423%2C100%2C92.841133583154&w=1200"
         }
     ]
 }
