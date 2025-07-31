@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Warner Bros. Games is working on another live-service game, despite Suicide Squad flop - Eurogamer",
-            "description": "Warner Bros. Games is working on a new live-service game, despite the high profile flop of Suicide Squad last year.",
-            "url": "https://www.eurogamer.net/warner-bros-games-is-working-on-another-live-service-game-despite-suicide-squad-flop",
-            "image": "https://assetsio.gnwcdn.com/Suicide-Squad_-Kill-the-Justice-League-Official-Story-Trailer-%E2%80%93-%E2%80%9CTicking%E2%80%9D-2-5-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Flaw in Gemini CLI coding tool could allow hackers to run nasty commands - Ars Technica",
+            "description": "Beware of coding agents that can access your command window.",
+            "url": "https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini_CLI_Hero-1152x648.png"
         },
         {
-            "title": "Nintendo Announces New Donkey Kong Maximus Cup Event For Tetris 99 - Nintendo Life",
-            "description": "Unlock a new theme next month",
-            "url": "https://www.nintendolife.com/news/2025/07/nintendo-announces-new-donkey-kong-maximus-cup-event-for-tetris-99",
-            "image": "https://images.nintendolife.com/83dd251e11765/large.jpg"
+            "title": "NIS Accidentally Reveals Upcoming Switch 2 Game, Sparking Even More Direct Speculation - Nintendo Life",
+            "description": "Post was quickly removed",
+            "url": "https://www.nintendolife.com/news/2025/07/nis-accidentally-reveals-upcoming-switch-2-game-sparking-even-more-direct-speculation",
+            "image": "https://images.nintendolife.com/e4627021c6556/large.jpg"
         },
         {
-            "title": "Battlefield 6 Maps Leak: All 11 Multiplayer Maps and 4 Remasters Revealed Via Datamine - The Game Post",
-            "description": "Battlefield 6's multiplayer reveal is just days away, and a new datamined leak has just revealed 11 multiplayer maps plus 4 remastered classics.",
-            "url": "https://thegamepost.com/battlefield-6-maps-leak-all-multiplayer-maps-remasters-revealed/",
-            "image": "https://thegamepost.com/wp-content/uploads/2025/07/battlefield-6-maps-leak-all-multiplayer-maps-remasters-revealed-1.webp"
+            "title": "Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Nintendo Life",
+            "description": "Here's what's included",
+            "url": "https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update",
+            "image": "https://images.nintendolife.com/5aa41a55f5409/large.jpg"
         },
         {
-            "title": "First look at the iPhone 17 Pro? These public images confirm big design and camera upgrades - ZDNet",
-            "description": "A series of images on X hint at a redesigned camera bar for the upcoming iPhone 17 series, in line with recent leaks and rumors.",
-            "url": "https://www.zdnet.com/article/first-look-at-the-iphone-17-pro-these-public-images-confirm-big-design-and-camera-upgrades/",
-            "image": "https://www.zdnet.com/a/img/resize/19d7fe360120eb9acac0da50f49375e03ff4f400/2024/09/19/f3d8a991-846b-490c-92a3-fd55efcc4966/dsc02181.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo Life",
+            "description": "Looking good",
+            "url": "https://www.nintendolife.com/news/2025/07/switch-onlines-snes-update-has-apparently-upgraded-the-crt-filter",
+            "image": "https://images.nintendolife.com/0e87727d2e6b8/large.jpg"
         },
         {
-            "title": "Nintendo Switch 2 and Switch update 20.3.0 out now, patch notes - Nintendo Everything",
-            "description": "Nintendo Switch 2 and Switch just received a new version 20.3.0 update, and you can read the official patch notes here.",
-            "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-3-0-out-now-patch-notes/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-Switch-update-20.3.0-.jpg"
+            "title": "Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet - Kotaku",
+            "description": "Three-lap courses get buffed and CPUs get nerfed in ver. 1.2.0",
+            "url": "https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286",
+            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/170a3a61fd181633f0c38f20bbebfc74.jpg"
         },
         {
-            "title": "Mario Paint scribbles into the Super NES collection - Nintendo",
-            "description": "Stir your creativity with Mario Grab your favorite smock and palette, because the Mario Paint\u2122 game is now available to play with a Nintendo Switch Online* membership! Connect a compatible USB mouse (sold separately) to play the game on your Nintend\u2026",
-            "url": "https://www.nintendo.com/us/whatsnew/mario-paint-scribbles-into-the-super-nes-collection/",
-            "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
+            "title": "Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac",
+            "description": "A new leak from Sonny Dickson offers the clearest look yet at the full iPhone 17 lineup colors. Check them out here.",
+            "url": "https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
