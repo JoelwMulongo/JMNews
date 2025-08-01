@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Flaw in Gemini CLI coding tool could allow hackers to run nasty commands - Ars Technica",
-            "description": "Beware of coding agents that can access your command window.",
-            "url": "https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Gemini_CLI_Hero-1152x648.png"
+            "title": "Nintendo Direct Partner Showcase Announced For Today, 31st July 2025 - Nintendo Life",
+            "description": "Finally!",
+            "url": "https://www.nintendolife.com/news/2025/07/nintendo-direct-partner-showcase-announced-for-today-31st-july-2025",
+            "image": "https://images.nintendolife.com/466cab1903e21/large.jpg"
         },
         {
-            "title": "NIS Accidentally Reveals Upcoming Switch 2 Game, Sparking Even More Direct Speculation - Nintendo Life",
-            "description": "Post was quickly removed",
-            "url": "https://www.nintendolife.com/news/2025/07/nis-accidentally-reveals-upcoming-switch-2-game-sparking-even-more-direct-speculation",
-            "image": "https://images.nintendolife.com/e4627021c6556/large.jpg"
+            "title": "6 of the 10 Best-Selling Games on PlayStation Last Quarter in the U.S. Were Published by Microsoft - IGN",
+            "description": "Xbox just had a great Q2...and it might have PlayStation to thank. Or is it PlayStation that should be thanking Xbox?",
+            "url": "https://www.ign.com/articles/6-of-the-10-best-selling-games-on-playstation-last-quarter-in-the-us-were-published-by-microsoft",
+            "image": "https://assets-prd.ignimgs.com/2025/04/25/oblivion-remastered-op-ed-blogroll-1745589159142.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Nintendo Life",
-            "description": "Here's what's included",
-            "url": "https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update",
-            "image": "https://images.nintendolife.com/5aa41a55f5409/large.jpg"
+            "title": "Marvel Rivals Season 3.5 Adds Blade, Resource Rumble Mode, and More in August - IGN",
+            "description": "NetEase has pulled back the curtain on Marvel Rivals Season 3.5, revealing a first look at Blade and many of the other additions coming in August.",
+            "url": "https://www.ign.com/articles/marvel-rivals-season-35-adds-blade-resource-rumble-mode-and-more-in-august",
+            "image": "https://assets-prd.ignimgs.com/2025/07/30/blade-marvel-rivals-season-3-5-1753903944454.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo Life",
-            "description": "Looking good",
-            "url": "https://www.nintendolife.com/news/2025/07/switch-onlines-snes-update-has-apparently-upgraded-the-crt-filter",
-            "image": "https://images.nintendolife.com/0e87727d2e6b8/large.jpg"
+            "title": "Shortcuts in iOS 26: Everything new coming to your iPhone, more - 9to5Mac",
+            "description": "Apple\u2019s Shortcuts app is getting several upgrades in iOS 26 and macOS Tahoe that unlock brand new possibilities for automation.",
+            "url": "https://9to5mac.com/2025/07/30/shortcuts-in-ios-26-everything-new-coming-to-your-iphone-more/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/shortcuts-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update Yet - Kotaku",
-            "description": "Three-lap courses get buffed and CPUs get nerfed in ver. 1.2.0",
-            "url": "https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286",
-            "image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/170a3a61fd181633f0c38f20bbebfc74.jpg"
+            "title": "Reaction: PS Plus Essential Deserves Much More Credit for Its Free PS5, PS4 Games in 2025 - Push Square",
+            "description": "It's been a good year",
+            "url": "https://www.pushsquare.com/features/reaction-ps-plus-essential-deserves-much-more-credit-for-its-free-ps5-ps4-games-in-2025",
+            "image": "https://images.pushsquare.com/9757cd1fa5170/large.jpg"
         },
         {
-            "title": "Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac",
-            "description": "A new leak from Sonny Dickson offers the clearest look yet at the full iPhone 17 lineup colors. Check them out here.",
-            "url": "https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-black-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Intercom's three lessons for creating a sustainable AI advantage - OpenAI",
+            "description": "By experimenting early, measuring rigorously, and building an architecture that evolves with each model, Intercom created a scalable AI platform that ships new capabilities in days, not quarters.",
+            "url": "https://openai.com/index/intercom/",
+            "image": "https://images.ctfassets.net/kftzwdyauwt9/6ZwKqWTkku8fG7PXnfa9Oq/19d298aafe27ded057b862135e1a9544/oai_Intercom_SEO.png?w=1600&h=900&fit=fill"
         }
     ]
 }
