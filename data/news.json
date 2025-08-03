@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Battlefield 6 Preorders Are Live For $70 With Exclusive Bonuses - GameSpot",
-            "description": "Battlefield 6 launches October 10, and preorders include exclusive in-game cosmetics and even a $10 Best Buy gift card.",
-            "url": "https://www.gamespot.com/articles/battlefield-6-preorder-guide-ps5-xbox-physical-edition-retailer-bonuses/1100-6533616/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4541675-bf6hed.jpg"
+            "title": "Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
+            "description": "<p>Halo Infinite\u2019s Fall Update introduces a new vehicle, a new weapon, two limited-time playlists, exciting sandbox additions, Forge features, and a Premium Operation Pass loaded with four full armor sets!</p>",
+            "url": "https://www.halowaypoint.com/news/fall-update-2025-halo-infinite",
+            "image": "https://wpassets.halowaypoint.com/wp-content/2025/08/AST_OperationPass_Shadows_4k_Clean-min.png"
         },
         {
-            "title": "Clock in and Lock in for Double Rewards on Odd Jobs - Rockstar Games",
-            "description": "Supplement your GTA Online criminal endeavors by moonlighting with Odd Jobs \u2014 legal and legitimate ways of earning money that keep Los Santos\u2019 economy humming, and they\u2019re all paying out Double Rewards through August 6.",
-            "url": "https://www.rockstargames.com/newswire/article/513ok7k5aa315o/clock-in-and-lock-in-for-double-rewards-on-odd-jobs",
-            "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/513ok7k5aa315o/4a7cc078177211989c324c2011bf495f04a22983.jpg"
+            "title": "iOS 26: 10+ Features Coming to the Phone App - MacRumors",
+            "description": "The Phone app doesn't often get a lot of attention with iOS updates, but that's changing in iOS 26. There are multiple new features to...",
+            "url": "https://www.macrumors.com/guide/ios-26-phone-app/",
+            "image": "https://images.macrumors.com/t/hJoY7WDSUt3DPcwrtEoO1DK7Poo=/2500x/article-new/2025/07/iOS-26-Phone-App-Features.jpg"
         },
         {
-            "title": "Your public ChatGPT queries are getting indexed by Google and other search engines - TechCrunch",
-            "description": "Search engines are indexing links to ChatGPT conversations that have been made sharable with a link.",
-            "url": "https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/04/Search-in-ChatGPT.jpg?resize=1200,675"
+            "title": "Anthropic Revokes OpenAI's Access to Claude - WIRED",
+            "description": "OpenAI lost access to the Claude API this week after Anthropic claimed the company was violating its terms of service.",
+            "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
+            "image": "https://media.wired.com/photos/688cf574e0a07815d4cc7190/191:100/w_1280,c_limit/anthropic-openai-biz-2216956964.jpg"
         },
         {
-            "title": "Hideo Kojima Refuses To Play Konami's Metal Gear Solid 3 Remake - GameSpot",
-            "description": "The creator of Metal Gear Solid, Hideo Kojima, laughingly dismisses the idea of ever playing Metal Gear Solid Delta: Snake Eater.",
-            "url": "https://www.gamespot.com/articles/hideo-kojima-refuses-to-play-konamis-metal-gear-solid-3-remake/1100-6533601/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4541444-metalgearsoliddeltasnakeeater.jpg"
+            "title": "EA Shutting Down Four Games Forever in October - ComicBook.com",
+            "description": "EA, aka Electronic Arts, is set to shut down four different games in October across PC, Xbox, PlayStation, and Nintendo devices.",
+            "url": "http://comicbook.com/gaming/news/ea-electronic-arts-games-delistings/",
+            "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/e-l-e-c-t-r-o-n-i-c-a-r-t-s.png?resize=2000,1125"
         },
         {
-            "title": "EA Entertainment President on \u2018Battlefield 6\u2019 Release Date, \u2018Sims\u2019 Movie and Multiplayer Game Update, and Balancing Owned IP With \u2018Star Wars\u2019 and Marvel Titles (EXCLUSIVE) - Variety",
-            "description": "Electronic Arts revealed Thursday that its eagerly anticipated \"Battlefield 6\" will be released Oct. 10.",
-            "url": "https://variety.com/2025/gaming/news/battlefield-6-release-date-sims-movie-ea-laura-miele-interview-1236475794/",
-            "image": "https://variety.com/wp-content/uploads/2025/07/EA-Entertainment-President-Laura-Miele.png?w=1000&h=563&crop=1"
-        },
-        {
-            "title": "More than 14,000 total entrants, 16 represented games across both lineups and a whole lot of big names \u2014 EventHubs' Evo 2025 preview - EventHubs",
-            "description": "Evo 2025 is about to be upon us once more and while it may not hit the record-breaking heights of last year's events, it's hard to not be impressed at the massive 14,000 total signups across the ...",
-            "url": "https://www.eventhubs.com/news/2025/jul/31/evo-2025-tournament-preview/",
-            "image": "https://media.eventhubs.com/images/2025/07/31_evopreviewbannert.webp"
+            "title": "Darksiders 4, New SpongeBob Game, And More Revealed During THQ Showcase - GameSpot",
+            "description": "If you've been playing video games for over 20 years, THQ Nordic might have something for you.",
+            "url": "https://www.gamespot.com/gallery/darksiders-4-new-spongebob-game-and-more-revealed-during-thq-showcase/2900-6836/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4542180-darksiders_4_teaser_shot4.jpg"
         }
     ]
 }
