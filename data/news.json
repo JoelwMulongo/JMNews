@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
-            "description": "<p>Halo Infinite\u2019s Fall Update introduces a new vehicle, a new weapon, two limited-time playlists, exciting sandbox additions, Forge features, and a Premium Operation Pass loaded with four full armor sets!</p>",
-            "url": "https://www.halowaypoint.com/news/fall-update-2025-halo-infinite",
-            "image": "https://wpassets.halowaypoint.com/wp-content/2025/08/AST_OperationPass_Shadows_4k_Clean-min.png"
+            "title": "\"This Is The Future Of VR Tech\" Breakthrough 0.1 Inch Display Delivers Lifelike 3D Images Using Mind-Blowing Holography - Rude Baguette",
+            "description": "IN A NUTSHELL \ud83c\udfa8 Stanford and Meta Reality Labs have developed a groundbreaking VR display using holography, waveguides, and AI. \ud83d\udc53 The new 3D display is as thin as 0.12 inches and aims to integrate immersive experiences into everyday wearables. \ud83d\udd0d AI-driven \u2026",
+            "url": "https://www.rudebaguette.com/en/2025/08/this-is-the-future-of-vr-tech-breakthrough-0-1-inch-display-delivers-lifelike-3d-images-using-mind-blowing-holography/",
+            "image": "https://www.rudebaguette.com/wp-content/uploads/2025/08/game-changer-or-tech-nightmare-new-0.12-inch-vr-display-claims-to-revolutionize-3d-holography-but-critics-warn-of-dire-privacy-risks.jpg"
         },
         {
-            "title": "iOS 26: 10+ Features Coming to the Phone App - MacRumors",
-            "description": "The Phone app doesn't often get a lot of attention with iOS updates, but that's changing in iOS 26. There are multiple new features to...",
-            "url": "https://www.macrumors.com/guide/ios-26-phone-app/",
-            "image": "https://images.macrumors.com/t/hJoY7WDSUt3DPcwrtEoO1DK7Poo=/2500x/article-new/2025/07/iOS-26-Phone-App-Features.jpg"
+            "title": "More Switch Games Reportedly Receive Switch 2 Compatibility Fixes - Nintendo Life",
+            "description": "Update: Another batch of games have been fixed",
+            "url": "https://www.nintendolife.com/news/2025/08/more-switch-games-reportedly-receive-switch-2-compatibility-fixes",
+            "image": "https://images.nintendolife.com/6c490f92aa648/large.jpg"
         },
         {
-            "title": "Anthropic Revokes OpenAI's Access to Claude - WIRED",
-            "description": "OpenAI lost access to the Claude API this week after Anthropic claimed the company was violating its terms of service.",
-            "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
-            "image": "https://media.wired.com/photos/688cf574e0a07815d4cc7190/191:100/w_1280,c_limit/anthropic-openai-biz-2216956964.jpg"
+            "title": "Capcom Fighting Collection 2 Free Title Update Announced, Out Next Week - Nintendo Life",
+            "description": "Four additional characters and much more",
+            "url": "https://www.nintendolife.com/news/2025/08/capcom-fighting-collection-2-free-title-update-announced-out-next-week",
+            "image": "https://images.nintendolife.com/9be54a9e694e2/large.jpg"
         },
         {
-            "title": "EA Shutting Down Four Games Forever in October - ComicBook.com",
-            "description": "EA, aka Electronic Arts, is set to shut down four different games in October across PC, Xbox, PlayStation, and Nintendo devices.",
-            "url": "http://comicbook.com/gaming/news/ea-electronic-arts-games-delistings/",
-            "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/e-l-e-c-t-r-o-n-i-c-a-r-t-s.png?resize=2000,1125"
+            "title": "These are the best new MacBook deals for August: offerings as low as $599 - 9to5Mac",
+            "description": "In the Apple Silicon era, MacBooks have become more affordable than ever \u2013 with brand new models starting as low...",
+            "url": "https://9to5mac.com/2025/08/02/best-new-macbook-deals-august-2025/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/MacBook-Pro-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Darksiders 4, New SpongeBob Game, And More Revealed During THQ Showcase - GameSpot",
-            "description": "If you've been playing video games for over 20 years, THQ Nordic might have something for you.",
-            "url": "https://www.gamespot.com/gallery/darksiders-4-new-spongebob-game-and-more-revealed-during-thq-showcase/2900-6836/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4542180-darksiders_4_teaser_shot4.jpg"
+            "title": "Faster charging speeds for some iPhone 17 models hinted at in new photos - PhoneArena",
+            "description": "These photos could indicate that faster battery charging is coming to the iPhone 17 Pro, iPhone 17 Pro Max, and maybe the iPhone 17 Air.",
+            "url": "https://www.phonearena.com/news/photos-of-the-iphone-17-pro-battery-case-might-hint-at-faster-charging-speeds_id172842",
+            "image": "https://m-cdn.phonearena.com/images/article/172842-wide-two_1200/Faster-charging-speeds-for-some-iPhone-17-models-hinted-at-in-new-photos.jpg"
+        },
+        {
+            "title": "BioShock 4 fails to impress at internal 2K review resulting in leadership shake-up and revamped narrative - Eurogamer",
+            "description": "Cloud Chamber, the studio tasked with reviving the decade-dormant BioShock series, has reportedly failed an internal re\u2026",
+            "url": "https://www.eurogamer.net/bioshock-4-fails-to-impress-at-internal-2k-review-resulting-in-leadership-shake-up-and-revamped-narrartive",
+            "image": "https://assetsio.gnwcdn.com/bioshock-switch-ports-listed-by-taiwanese-ratings-board-1579009312458.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
     ]
 }
