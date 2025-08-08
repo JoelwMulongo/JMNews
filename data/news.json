@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Here\u2019s the Pixel Watch 4 in all colors from even more angles [Gallery] - 9to5Google",
-            "description": "The Pixel Watch 4 may have leaked multiple times already, but some high-quality renders show us all the details of...",
-            "url": "http://9to5google.com/2025/08/06/heres-the-pixel-watch-4-in-all-colors-from-even-more-angles-gallery/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-Watch-4-colors-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Booth - Nintendo Life",
+            "description": "Plus many more!",
+            "url": "https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth",
+            "image": "https://images.nintendolife.com/2a117fca78a6d/large.jpg"
         },
         {
-            "title": "AirPods 4 now starting within $10 of Prime Day low at $99 shipped via Amazon, more - 9to5Toys",
-            "description": "Last month\u2019s Prime Day festivities delivered some notable discounts on the latest AirPods 4, as well as a new all-time low on AirPods Pro 2. While pricing isn\u2019t quite as low now, Amazon is currently offering the most affordable of the current-generation model\u2026",
-            "url": "http://9to5toys.com/2025/08/06/airpods-4-amazon-deals-summer/",
-            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/09/AirPods-4-trade-in-deals.jpg?resize=1200%2C628&ssl=1"
+            "title": "Sony CFO says its live service shift is \u2018not entirely going smoothly\u2019 but pledges to carry on and learn from mistakes - Video Games Chronicle",
+            "description": "Lin Tao says progress has been made despite \"somewhat negative news\" caused by Concord and Marathon",
+            "url": "https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/",
+            "image": "https://www.videogameschronicle.com/files/2024/06/concord-character-art.webp"
         },
         {
-            "title": "Evo 2025 featured a ridiculous amount of announcements, so here's everything you may have missed over the long weekend - EventHubs",
-            "description": "Evo 2025 has officially wrapped after bringing together thousands of fighting game fans from all over the world and crowning new champions that'll go down in the history books.Beyond the tournament action, however, Evo 2025 also featured potentially ...",
-            "url": "https://www.eventhubs.com/news/2025/aug/05/every-evo-2025-announcement/",
-            "image": "https://media.eventhubs.com/images/2025/08/05-every-evo-2025-announcementt.webp"
+            "title": "Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Enable Secure Boot \u2014 and Call of Duty: Black Ops 7 Is Next - IGN",
+            "description": "If you\u2019re trying to play the Battlefield 6 Open Beta on PC, you might have run into a problem: \u2018Secure Boot is not enabled.\u2019 You're not alone.",
+            "url": "https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next",
+            "image": "https://assets-prd.ignimgs.com/2025/08/07/screenshot-2025-08-06-214819-1754556150175.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Google is rolling out a fix for Pixel back button issues - The Verge",
-            "description": "Google\u2019s August Pixel update for devices running Android 16 includes a fix for the three-button navigation and gesture navigation systems becoming unresponsive.",
-            "url": "https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25582591/DSC08073.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+            "title": "Sony CFO says Marathon is expected to release before March, and Bungie\u2019s independence is \u2018getting lighter\u2019 - Video Games Chronicle",
+            "description": "\"We are now fixing the problems, so we believe this launch will happen\"",
+            "url": "https://www.videogameschronicle.com/news/sony-cfo-says-marathon-is-expected-to-release-before-march-and-bungies-independence-is-getting-lighter/",
+            "image": "https://www.videogameschronicle.com/files/2023/10/marathon-a.jpg"
         },
         {
-            "title": "Sagat can whiff punish from near full-screen with his charged Tiger Uppercut in Street Fighter 6 - EventHubs",
-            "description": "Sagat just became available for players of Street Fighter 6, and with him came a number of changes to the roster so that his Tiger Shots would behave properly against some of the cast members.In Street Fighter 6, Sagat ...",
-            "url": "https://www.eventhubs.com/news/2025/aug/05/sagat-whiff-punish-street-fighter6/",
-            "image": "https://media.eventhubs.com/images/2025/08/05_sagatwhiffpunisht.webp"
+            "title": "Microsoft warns of high-severity flaw in hybrid Exchange deployments - BleepingComputer",
+            "description": "Microsoft has warned customers to mitigate a high-severity vulnerability in Exchange Server hybrid deployments that could allow attackers to escalate privileges in Exchange Online cloud environments undetected.",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/",
+            "image": "https://www.bleepstatic.com/content/hl-images/2025/08/07/Microsoft.jpg"
         },
         {
-            "title": "A YouTuber Tested The Galaxy Z Fold 7's Durability - Here's What Happened After 200,000 Folds - bgr.com",
-            "description": "Samsung says the Galaxy Z Fold 7 is rated for 500,000 folds, but a fascinating durability test recorded on YouTube suggests otherwise.",
-            "url": "https://www.bgr.com/1932232/galaxy-z-fold-7-durability-test-200000-folds-video/",
-            "image": "https://www.bgr.com/img/gallery/a-youtuber-tested-the-galaxy-z-fold-7s-durability-heres-how-it-handled-200000-folds/l-intro-1754433749.jpg"
+            "title": "Still live: One of the best prices ever on 24GB M4 Mac mini at $699 + 48GB and 64GB models at $200 off - 9to5Toys",
+            "description": "After seeing a notable B&H deal on the M4 Max Mac Studio this morning, the authorized Apple dealer has some particularly interesting deals on the much more affordable M4 Mac mini lineup today as well. One of the ways B&H manages to separate itself from the li\u2026",
+            "url": "http://9to5toys.com/2025/08/06/best-price-ever-24gb-m4-mac-mini/",
+            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/03/M4-Mac-mini-deal.jpg?resize=1200%2C628&ssl=1"
         }
     ]
 }
