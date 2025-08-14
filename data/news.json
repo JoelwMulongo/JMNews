@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft releases lightweight Office taskbar apps for Windows 11 - The Verge",
-            "description": "Microsoft is releasing new companion apps for the Windows 11 taskbar. These lightweight Office apps automatically launch at startup.",
-            "url": "https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/m365companionapps.png?quality=90&strip=all&crop=0%2C9.942793301684%2C100%2C80.114413396632&w=1200"
+            "title": "Your Windows PC has a secretly useful backup tool - here's how to access it - ZDNET",
+            "description": "Looking for a traditional yet flexible program to back up your personal files? Windows has a built-in tool that you can take advantage of.",
+            "url": "https://www.zdnet.com/article/your-windows-pc-has-a-secretly-useful-backup-tool-heres-how-to-access-it/",
+            "image": "https://www.zdnet.com/a/img/resize/f29c1127b7aa0b3bf995d0f7b0227b87baf6e2c9/2025/05/08/786e5565-c138-4df9-a5ff-8aafc2d7eaaf/lenovo-yoga-9-2-in-1-aura-edition-hero.png?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Column | Can\u2019t put solar panels on your roof? Plug-in \u2018balcony solar\u2019 may be for you. - The Washington Post",
+            "title": "Every rumored iPhone 17, iPhone 17 Air, and iPhone 17 Pro color - 9to5Mac",
+            "description": "Apple\u2019s next iPhone lineup is getting closer to launch, and color may be one of the most exciting changes this...",
+            "url": "https://9to5mac.com/2025/08/12/iphone-17-color-options-2025/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-max-vs-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "Grand Theft Auto Trilogy Appears To Now Have A Proper Physical Switch Release - Nintendo Life",
+            "description": "No \"download required\" banner in sight",
+            "url": "https://www.nintendolife.com/news/2025/08/new-grand-theft-auto-trilogy-physical-switch-release-spotted",
+            "image": "https://images.nintendolife.com/77f6ad186cef6/large.jpg"
+        },
+        {
+            "title": "Overflow thread: Cubs vs. Blue Jays, Tuesday 8/12, 6:07 CT - Bleed Cubbie Blue",
             "description": "No description available.",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RGMDFHblluTzVZSHlMdXFsRlpweXZ4Xzh5X0ZEbWlTaGNVcndjOXJ3Nzh5ZHVBRUFhRjNuRlpvbG44di0tUVA0UmlJNXFicmtXd1lQQ0dpbGhZR1hfUnRsMUNzYksxWUVGcjZSRVFLYnROOEZCMUNqb2MzYUxqXzRrdjN2S0V1RDNnV3dpOW00LXhQdFpN?oc=5",
-            "image": null
+            "url": "https://www.bleedcubbieblue.com/chicago-cubs-game-threads/190604/overflow-thread-cubs-vs-blue-jays-tuesday-8-12-607-ct",
+            "image": "https://platform.bleedcubbieblue.com/wp-content/uploads/sites/35/2025/08/imagn-26822434.jpg?quality=90&strip=all&crop=0%2C10.735996722477%2C100%2C78.528006555046&w=1200"
         },
         {
-            "title": "Random: Oh Jeez, Now Palworld Has Its Own Rip-Off On The Switch eShop - Nintendo Life",
-            "description": "And it looks terrible",
-            "url": "https://www.nintendolife.com/news/2025/08/random-oh-jeez-now-palworld-has-its-own-rip-off-on-the-switch-eshop",
-            "image": "https://images.nintendolife.com/b14bc65cf2564/large.jpg"
+            "title": "Insight Into NASA\u2019s Contractor RIF Plans - NASA Watch",
+            "description": "This is the internal RIF planning chart circulating within NASA the Human Health and Performance Contract community.",
+            "url": "https://nasawatch.com/personnel-news/insight-into-nasas-contractor-rif-plans/",
+            "image": "https://nasawatch.com/wp-content/uploads/2025/08/NASAs-Contractor-RIF-Plans.png"
         },
         {
-            "title": "Monster Hunter Wilds Endgame Update Certainly Won't Please Everyone as Patch Notes Are Revealed - Push Square",
-            "description": "Patch 1.021 is hit and miss",
-            "url": "https://www.pushsquare.com/news/2025/08/monster-hunter-wilds-endgame-update-certainly-wont-please-everyone-as-patch-notes-are-revealed",
-            "image": "https://images.pushsquare.com/5055d8eb2e500/large.jpg"
-        },
-        {
-            "title": "Madden NFL 26 Review in Progress - IGN",
-            "description": "So far the changes to this year's game are pretty impressive.",
-            "url": "https://www.ign.com/articles/madden-nfl-26-review",
-            "image": "https://assets-prd.ignimgs.com/2025/08/07/madden26review-blogroll-1754588370110.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-            "title": "High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica",
-            "description": "Exploits allow for persistent backdooring when targets open booby-trapped archive.",
-            "url": "https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg"
+            "title": "Microsoft's Patch Tuesday gives sys admins a baker's dozen - theregister.com",
+            "description": ": None under active exploit\u2026yet",
+            "url": "https://www.theregister.com/2025/08/12/august_patch_tuesday/",
+            "image": "https://regmedia.co.uk/2016/01/07/shutterstock_doughnuts.jpg"
         }
     ]
 }
