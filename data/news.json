@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Your Windows PC has a secretly useful backup tool - here's how to access it - ZDNET",
-            "description": "Looking for a traditional yet flexible program to back up your personal files? Windows has a built-in tool that you can take advantage of.",
-            "url": "https://www.zdnet.com/article/your-windows-pc-has-a-secretly-useful-backup-tool-heres-how-to-access-it/",
-            "image": "https://www.zdnet.com/a/img/resize/f29c1127b7aa0b3bf995d0f7b0227b87baf6e2c9/2025/05/08/786e5565-c138-4df9-a5ff-8aafc2d7eaaf/lenovo-yoga-9-2-in-1-aura-edition-hero.png?auto=webp&fit=crop&height=675&width=1200"
+            "title": "I converted this Windows 11 mini PC into a Linux work station - and didn't regret it - ZDNET",
+            "description": "For a small-form-factor PC that still delivers impressive performance, the Geekom IT15 is a great choice.",
+            "url": "https://www.zdnet.com/article/i-converted-this-windows-11-mini-pc-into-a-linux-work-station-and-didnt-regret-it/",
+            "image": "https://www.zdnet.com/a/img/resize/2f01b42e20f6fad25066557e9bd521a3acd79f92/2025/08/12/721d835f-c24d-42d5-8239-21ca3e01be25/it15hero.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Every rumored iPhone 17, iPhone 17 Air, and iPhone 17 Pro color - 9to5Mac",
-            "description": "Apple\u2019s next iPhone lineup is getting closer to launch, and color may be one of the most exciting changes this...",
-            "url": "https://9to5mac.com/2025/08/12/iphone-17-color-options-2025/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iphone-17-pro-max-vs-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "ASUS increases price of ROG NUC 2025 with U9 275HX and RTX 5080 to $3,199 - VideoCardz.com",
+            "description": "ASUS ROG NUC 2025 now costs $3,199 ASUS today confirmed new pricing for the ROG NUC 2025. The system, first listed in June, has now received an official price for the European market. A quick check on the US website shows that the price has also changed in th\u2026",
+            "url": "https://videocardz.com/newz/asus-increases-price-of-rog-nuc-2025-with-u9-275hx-and-rtx-5080-to-3199",
+            "image": "https://cdn.videocardz.com/1/2025/04/ASUS-ROG-NUC-2025-HERO.jpg"
         },
         {
-            "title": "Grand Theft Auto Trilogy Appears To Now Have A Proper Physical Switch Release - Nintendo Life",
-            "description": "No \"download required\" banner in sight",
-            "url": "https://www.nintendolife.com/news/2025/08/new-grand-theft-auto-trilogy-physical-switch-release-spotted",
-            "image": "https://images.nintendolife.com/77f6ad186cef6/large.jpg"
+            "title": "Battlefield 6 Dev Confirms Playlist Changes, Custom Search, and Start Time for Open Beta Weekend 2 - IGN",
+            "description": "Following the hugely popular Battlefield 6 Open Beta Weekend 1, developer DICE has outlined the changes and additions fans can expect for the upcoming Weekend 2, and confirmed its start time.",
+            "url": "https://www.ign.com/articles/battlefield-6-dev-confirms-playlist-changes-custom-search-and-start-time-for-open-beta-weekend-2",
+            "image": "https://assets-prd.ignimgs.com/2025/08/14/bf6-1755154255612.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Overflow thread: Cubs vs. Blue Jays, Tuesday 8/12, 6:07 CT - Bleed Cubbie Blue",
-            "description": "No description available.",
-            "url": "https://www.bleedcubbieblue.com/chicago-cubs-game-threads/190604/overflow-thread-cubs-vs-blue-jays-tuesday-8-12-607-ct",
-            "image": "https://platform.bleedcubbieblue.com/wp-content/uploads/sites/35/2025/08/imagn-26822434.jpg?quality=90&strip=all&crop=0%2C10.735996722477%2C100%2C78.528006555046&w=1200"
+            "title": "Shelby Finally Gives The Super Snake The R It Deserves - HotCars",
+            "description": "First-ever Super Snake-R prototype breaks cover in Monterey, promising 850+ hp and track-hungry handling.",
+            "url": "https://www.hotcars.com/introducing-shelby-ford-mustang-super-snake-r-prototype/",
+            "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/shelby-american-2026-wide-body-super-snake-r-press-photos-3.jpg"
         },
         {
-            "title": "Insight Into NASA\u2019s Contractor RIF Plans - NASA Watch",
-            "description": "This is the internal RIF planning chart circulating within NASA the Human Health and Performance Contract community.",
-            "url": "https://nasawatch.com/personnel-news/insight-into-nasas-contractor-rif-plans/",
-            "image": "https://nasawatch.com/wp-content/uploads/2025/08/NASAs-Contractor-RIF-Plans.png"
-        },
-        {
-            "title": "Microsoft's Patch Tuesday gives sys admins a baker's dozen - theregister.com",
-            "description": ": None under active exploit\u2026yet",
-            "url": "https://www.theregister.com/2025/08/12/august_patch_tuesday/",
-            "image": "https://regmedia.co.uk/2016/01/07/shutterstock_doughnuts.jpg"
+            "title": "New Apple TV Coming Later This Year With A17 Pro Chip - MacRumors",
+            "description": "Rumors suggest that Apple is working on an updated version of the Apple TV that's slated for launch later this year. Information about the...",
+            "url": "https://www.macrumors.com/2025/08/13/new-apple-tv-coming-later-this-year-with-a17-pro-chip/",
+            "image": "https://images.macrumors.com/t/KZHYx9oir1hzafdUcDlVpvmjIxY=/2100x/article-new/2025/07/Apple-TV-2025-Thumb-2.jpg"
         }
     ]
 }
