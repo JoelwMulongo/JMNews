@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "I converted this Windows 11 mini PC into a Linux work station - and didn't regret it - ZDNET",
-            "description": "For a small-form-factor PC that still delivers impressive performance, the Geekom IT15 is a great choice.",
-            "url": "https://www.zdnet.com/article/i-converted-this-windows-11-mini-pc-into-a-linux-work-station-and-didnt-regret-it/",
-            "image": "https://www.zdnet.com/a/img/resize/2f01b42e20f6fad25066557e9bd521a3acd79f92/2025/08/12/721d835f-c24d-42d5-8239-21ca3e01be25/it15hero.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Pok\u00e9mon Scarlet & Violet 2025 Pok\u00e9mon World Championships Distribution Live - Nintendo Life",
+            "description": "Taking place in Anaheim, California this weekend",
+            "url": "https://www.nintendolife.com/news/2025/08/pokemon-scarlet-and-violet-2025-pokemon-world-championships-distribution-live",
+            "image": "https://images.nintendolife.com/8cd6fd020d19b/large.jpg"
         },
         {
-            "title": "ASUS increases price of ROG NUC 2025 with U9 275HX and RTX 5080 to $3,199 - VideoCardz.com",
-            "description": "ASUS ROG NUC 2025 now costs $3,199 ASUS today confirmed new pricing for the ROG NUC 2025. The system, first listed in June, has now received an official price for the European market. A quick check on the US website shows that the price has also changed in th\u2026",
-            "url": "https://videocardz.com/newz/asus-increases-price-of-rog-nuc-2025-with-u9-275hx-and-rtx-5080-to-3199",
-            "image": "https://cdn.videocardz.com/1/2025/04/ASUS-ROG-NUC-2025-HERO.jpg"
+            "title": "Black Ops 7\u2019s campaign reportedly ends with 32-person multiplayer extraction mission - Dexerto",
+            "description": "Black Ops 7 could end its campaign with a 32-player multiplayer extraction mission, marking a first for the series.",
+            "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-campaign-reportedly-ends-with-32-person-multiplayer-extraction-mission-3238339/",
+            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/08/14/Black-Ops-7.jpg"
         },
         {
-            "title": "Battlefield 6 Dev Confirms Playlist Changes, Custom Search, and Start Time for Open Beta Weekend 2 - IGN",
-            "description": "Following the hugely popular Battlefield 6 Open Beta Weekend 1, developer DICE has outlined the changes and additions fans can expect for the upcoming Weekend 2, and confirmed its start time.",
-            "url": "https://www.ign.com/articles/battlefield-6-dev-confirms-playlist-changes-custom-search-and-start-time-for-open-beta-weekend-2",
-            "image": "https://assets-prd.ignimgs.com/2025/08/14/bf6-1755154255612.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "PS5 Stunner Neo Berlin 2087 Walks the Uncanny Valley with New Gameplay Trailer - Push Square",
+            "description": "It's a third and first-person shooter",
+            "url": "https://www.pushsquare.com/news/2025/08/ps5-stunner-neo-berlin-2087-walks-the-uncanny-valley-with-new-gameplay-trailer",
+            "image": "https://images.pushsquare.com/1784bf5582732/large.jpg"
         },
         {
-            "title": "Shelby Finally Gives The Super Snake The R It Deserves - HotCars",
-            "description": "First-ever Super Snake-R prototype breaks cover in Monterey, promising 850+ hp and track-hungry handling.",
-            "url": "https://www.hotcars.com/introducing-shelby-ford-mustang-super-snake-r-prototype/",
-            "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2025/08/shelby-american-2026-wide-body-super-snake-r-press-photos-3.jpg"
+            "title": "Wuchang: Fallen Feathers Accused Of Censorship In Controversial Update - Kotaku",
+            "description": "The summer Soulslike no longer lets you kill certain bosses following an apparent backlash among some Chinese players",
+            "url": "https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865",
+            "image": "https://kotaku.com/app/uploads/2025/07/52f4008371eafeaaf7656c6fb1c68ed7-1200x675.jpg"
         },
         {
-            "title": "New Apple TV Coming Later This Year With A17 Pro Chip - MacRumors",
-            "description": "Rumors suggest that Apple is working on an updated version of the Apple TV that's slated for launch later this year. Information about the...",
-            "url": "https://www.macrumors.com/2025/08/13/new-apple-tv-coming-later-this-year-with-a17-pro-chip/",
-            "image": "https://images.macrumors.com/t/KZHYx9oir1hzafdUcDlVpvmjIxY=/2100x/article-new/2025/07/Apple-TV-2025-Thumb-2.jpg"
+            "title": "Kanye West\u2019s Former Malibu Beach House Gets a Price Cut - Mansion Global",
+            "description": "The listing just got a price cut as a potential deal for the gutted house by starchitect Tadao Ando drags out",
+            "url": "https://www.mansionglobal.com/articles/revival-of-kanye-wests-abandoned-malibu-beach-mansion-hits-a-snag-c66bce37",
+            "image": "https://images.mansionglobal.com/im-39347710/social"
+        },
+        {
+            "title": "Google Home finally adds full temperature scheduling for older Nest thermostats - Android Authority",
+            "description": "You can finally ditch the old Nest app, as temperature scheduling for old Nest thermostats is rolling out in Google Home.",
+            "url": "https://www.androidauthority.com/older-nest-thermostat-scheduling-google-home-3587493/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2020/11/google-nest-thermostat-review-google-home-app-temperature-dial-2.jpg"
         }
     ]
 }
