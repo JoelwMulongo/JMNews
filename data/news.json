@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple accidentally leaks some of its upcoming products - PhoneArena",
-            "description": "Apple reveals some of the new products it expects to release as early as this year.",
-            "url": "https://www.phonearena.com/news/apple-accidentally-leaks-some-upcoming-products_id173267",
-            "image": "https://m-cdn.phonearena.com/images/article/173267-wide-two_1200/Apple-accidentally-leaks-some-of-its-upcoming-products.jpg"
+            "title": "Bride wants to refuse $100,000 wedding gift because it comes with strings attached. Ramsey show gives advice - yahoo.com",
+            "description": "How to talk about money with difficult family members.",
+            "url": "https://www.yahoo.com/lifestyle/articles/bride-wants-refuse-100-000-113000024.html",
+            "image": "https://media.zenfs.com/en/moneywise_327/2d72f4469a919ff1b9bb2d41da427cdd"
         },
         {
-            "title": "Star-studded Pixel 10 keynote will have Fallon, Curry, Norris, and Jonas Brothers - 9to5Google",
-            "description": "The Pixel 10 keynote next week will have a ton of stars, while Google is amping up the event as a way to \u201ccelebrate 10 generations of Pixel.\u201d",
-            "url": "http://9to5google.com/2025/08/15/pixel-10-keynote-stars/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Made-by-Google-2025-lineup-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "5 password managers you should use instead of LastPass - Android Authority",
+            "description": "LastPass should be the last thing on your list \u2014 here are better password managers that actually keep your most sensitive data safe.",
+            "url": "https://www.androidauthority.com/lastpass-password-manager-alternatives-3587020/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2020/10/LastPass-1.jpg"
         },
         {
-            "title": "Apple\u2019s Wallet app just made Amazon returns easy, and more is coming - 9to5Mac",
-            "description": "Apple\u2019s Wallet app recently became supported for saving Amazon return codes, and in iOS 26 there\u2019s another Amazon-Wallet integration coming.",
-            "url": "https://9to5mac.com/2025/08/15/apples-wallet-app-just-made-amazon-returns-easy-and-more-is-coming/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Google\u2019s Gmail Warning\u2014Hackers Gain Access To User Accounts - Forbes",
+            "description": "Do not lose your account \u2014 what you need to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/08/17/google-warns-gmail-users-hackers-gain-access-to-accounts/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=902,508,x248,y77,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Inside Travis Hunter's $3.3 Million Florida Home as He Joins Notable Two-Way Players in NFL History - Realtor.com",
-            "description": "No description available.",
-            "url": "https://www.realtor.com/news/trends/travis-hunter-home-jacksonville-florida-nfl/",
-            "image": null
+            "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum - NBC News",
+            "description": "Recent smartphone sales and shipment figures signal that the Apple-Samsung fight has returned. And once again, it\u2019s all about the screen.",
+            "url": "https://www.nbcnews.com/business/media/samsung-taking-market-share-apple-us-foldable-phones-gain-momentum-rcna225435",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/25817-samsung-folding-phone-rc-109a-32aaa3.jpg"
         },
         {
-            "title": "Tiny, removable \u201cmini SSD\u201d could eventually be a big deal for gaming handhelds - Ars Technica",
-            "description": "Fast, removable storage could be one way to address soaring game install sizes.",
-            "url": "https://arstechnica.com/gadgets/2025/08/tiny-removable-mini-ssd-could-eventually-be-a-big-deal-for-gaming-handhelds/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2-advantages-of-biwin-mini-ssd-1152x648-1755280480.jpg"
+            "title": "Video: Pok\u00e9mon Legends: Z-A - Nintendo Switch 2 Edition Full Gameplay Demo - Nintendo Life",
+            "description": "Playable at the World Championships",
+            "url": "https://www.nintendolife.com/news/2025/08/video-pokemon-legends-z-a-nintendo-switch-2-edition-full-gameplay-demo",
+            "image": "https://images.nintendolife.com/704266fba9387/large.jpg"
+        },
+        {
+            "title": "How Nintendo could fix Mario & Luigi: Brothership - Nintendo Everything",
+            "description": "Today, we're looking at some simple changes Nintendo could make to Mario & Luigi: Brothership to make it more fun to play.",
+            "url": "https://nintendoeverything.com/how-nintendo-could-fix-mario-and-luigi-brothership/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Luigi-Brothership-fixes.jpg"
         }
     ]
 }
