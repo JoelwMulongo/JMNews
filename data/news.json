@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Gamescom Opening Night Live 2025: Start Time, How To Watch, And What To Expect - GameSpot",
-            "description": "Europe's largest video game convention will soon kick off with Geoff Keighley's next big presentation.",
-            "url": "https://www.gamespot.com/articles/gamescom-opening-night-live-2025-start-time-how-to-watch-and-what-to-expect/1100-6534003/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4550302-gamescom-opening-night-live.jpeg"
+            "title": "Microsoft Confirms Emergency Windows Update\u2014Your PC \u2018Might Fail\u2019 - Forbes",
+            "description": "This is critical \u2014 update your device now.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2025/08/20/microsoft-confirms-windows-is-broken-emergency-update-on-way/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/68109d074d44aeba90a37640/0x0.jpg?format=jpg&crop=2077,1169,x863,y125,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Pok\u00e9mon GO Events This Week (August 18 \u2013 August 24, 2025): Eternatus Debut, GO Fest Finale, Gigantamax and Dynamax Battles and more! - Pok\u00e9mon GO Hub",
-            "description": "Pok\u00e9mon GO\u2019s August 18 - August 24 schedule brings the end of GO Fest season! Enjoy the Dark Skies event, the debut of Eternatus, and the GO Fest Finale! A truly bumper week of GO. Plus weekly Spotlight Hour, daily Raid/ Hours, Dynamax Battles, Mega Raids, GO\u2026",
-            "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-august-18-august-24-2025-eternatus-debut-go-fest-finale-gigantamax-and-dynamax-battles-and-more/",
-            "image": "https://pokemongohub.net/wp-content/uploads/2025/08/eternatus-pokemon-go.jpg"
+            "title": "Hollow Knight: Silksong Offers Buttery Smooth Performance On Switch 2 - Nintendo Life",
+            "description": "No Quirrels from us",
+            "url": "https://www.nintendolife.com/news/2025/08/hollow-knight-silksong-offers-buttery-smooth-performance-on-switch-2",
+            "image": "https://images.nintendolife.com/2dda7621ffb38/large.jpg"
         },
         {
-            "title": "Mario Kart World Has Been Updated To Version 1.2.1, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Download this update on Switch 2 now",
-            "url": "https://www.nintendolife.com/news/2025/08/mario-kart-world-has-been-updated-to-version-1-2-1-here-are-the-full-patch-notes",
-            "image": "https://images.nintendolife.com/bac07c3f2b59f/large.jpg"
+            "title": "Prices leak for the rest of Google\u2019s new Pixel products - The Verge",
+            "description": "The latest leak covers phones, watches, earbuds, and charging accessories.",
+            "url": "https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/videoframe_26531.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
         },
         {
-            "title": "Xbox sale round-up August 19, 2025 - TrueAchievements",
-            "description": "New Xbox sales are now live, with big discounts on Halo Infinite, Halo 5: Guardians, Battlefield 1, Star Wars Jedi: Fallen Order, State of Decay 2: Juggernaut Edition, Titanfall 2, Call of Duty: Black Ops III and more",
-            "url": "https://www.trueachievements.com/n59974/xbox-sale-roundup-august-19-2025",
-            "image": "https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg"
+            "title": "Vampire: The Masquerade - Bloodlines 2 sticks two bloodsucker clans, including the sexy one, behind paid day-one DLC - Rock Paper Shotgun",
+            "description": "No description available.",
+            "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2-sticks-two-bloodsucker-clans-including-the-sexy-one-behind-paid-day-one-dlc",
+            "image": null
         },
         {
-            "title": "How Google\u2019s Pixel 10 Pro Will Change Smartphones Forever - Forbes",
-            "description": "Google is set to launch the Pixel 10 and Pixel 10 Pro smartphones this week. It's a chance to build on the success of the Pixel 9 family and shape the smartphone future.",
-            "url": "https://www.forbes.com/sites/ewanspence/2025/08/18/google-pixel-10-pro-secrets-android-16-tensor-ai-apple-iphone-17-pro/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/66c7bf2f9eecea6b0c81ad45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        },
-        {
-            "title": "What to Expect From the Next Mac Mini - MacRumors",
-            "description": "AppleInsider's Marko Zivkovic today said that he has discovered a device identifier for what is \"almost certainly\" a Mac mini with an M5...",
-            "url": "https://www.macrumors.com/2025/08/18/what-to-expect-from-next-mac-mini/",
-            "image": "https://images.macrumors.com/t/0Vwchqz1DjfJymbee--3kNExfos=/2500x/article-new/2024/10/M4-mini-Glowing-Teal.jpg"
+            "title": "Google Gemini can now read your Docs aloud - The Verge",
+            "description": "Google Docs is rolling out a feature that will let you generate audio versions of your documents using its AI assistant, Gemini.",
+            "url": "https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK459_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
     ]
 }
