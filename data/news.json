@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "We Have Two Beloved Visitors in Brooklyn This Week - Cup of Jo",
-            "description": "Last night, Anton and I sat on the stoop waiting impatiently for\u2026",
-            "url": "https://cupofjo.com/2025/08/26/nyc-best-activities-for-preteens/",
-            "image": "https://cupofjo.com/wp-content/uploads/2025/08/IMG_6732-1.jpeg"
+            "title": "Daily Crossword: The Magical Puzzle \u2014 August 28 - Vulture",
+            "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 2-Down, Five Letters: Diana Ross to Ashlee Simpson, e.g.",
+            "url": "http://www.vulture.com/article/daily-crossword-puzzle-august-28-2025.html",
+            "image": "https://pyxis.nymag.com/v1/imgs/835/926/88cfda170a4295e96d54af064192817c54-crossword-8-28-2025.1x.rsocial.w1200.jpg"
         },
         {
-            "title": "ICYMI: Nintendo Highlights 'Super NES - Nintendo Classics' Features Update - Nintendo Life",
-            "description": "Have you tried out these features yet?",
-            "url": "https://www.nintendolife.com/news/2025/08/icymi-nintendo-highlights-super-nes-nintendo-classics-features-update",
-            "image": "https://images.nintendolife.com/f114c30d32542/large.jpg"
+            "title": "Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iPad, more [Updated] - 9to5Toys",
+            "description": "Amazon has now launched its 2025 Labor Day sale, and joining the ongoing rare discounts over at B&H, there a host of notable Apple Labor Day deals up for grabs. While some of the offers below are hangovers from the past couple weeks that have either made a tr\u2026",
+            "url": "http://9to5toys.com/2025/08/27/early-labor-day-apple-deals-live/",
+            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/08/Apple-weekend-sale.jpg?resize=1200%2C628&ssl=1"
         },
         {
-            "title": "Yes, you can buy a MacBook Air for just $142 right now - here's what's included - ZDNET",
-            "description": "Back Market is offering a refurbished 13-inch MacBook Air for as low as $142 - one of the lowest prices I've ever seen - ahead of Labor Day.",
-            "url": "https://www.zdnet.com/article/yes-you-can-buy-a-macbook-air-for-just-116-right-now-heres-whats-included/",
-            "image": "https://www.zdnet.com/a/img/resize/a8e78fc2fcb9f06acea2ab897eedb8038993ffc3/2025/08/25/ff301151-059f-43e1-9b80-a0ad6cfbbbcd/untitled-design-17.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Google tells all 2.5 billion Gmail users: \"Change your password now!\" - PhoneArena",
+            "description": "Those using the Gmail app should change their password for security reasons, says Google",
+            "url": "https://www.phonearena.com/news/google-tells-gmail-users-change-your-password_id173619",
+            "image": "https://m-cdn.phonearena.com/images/article/173619-wide-two_1200/Google-tells-all-2.5-billion-Gmail-users-Change-your-password-now.jpg"
         },
         {
-            "title": "Google Will Require Developer Verification Even For Sideloading - Hackaday",
-            "description": "Do you like writing software for Android, perhaps even sideload the occasional APK onto your Android device? In that case some big changes are heading your way, with Google announcing that they wil\u2026",
-            "url": "https://hackaday.com/2025/08/26/google-will-require-developer-verification-even-for-sideloading/",
-            "image": "https://hackaday.com/wp-content/uploads/2017/04/security.jpg"
+            "title": "Nintendo Alarmo Is Getting A Kirby-Themed Update - Nintendo Life",
+            "description": "Wake up to the sounds of Kirby",
+            "url": "https://www.nintendolife.com/news/2025/08/nintendo-alarmo-is-getting-a-kirby-themed-update",
+            "image": "https://images.nintendolife.com/59f192b121d9e/large.jpg"
         },
         {
-            "title": "Google Messages Material 3 Expressive redesign comes to chat screen - 9to5Google",
-            "description": "The Google Messages redesign started rolling out last week, and Material 3 Expressive is now available for the actual chat screen.",
-            "url": "http://9to5google.com/2025/08/26/google-messages-chat-redesign/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/Google-Messages-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Samsung teases September 4 event for Galaxy Tab S11 and Galaxy S25 FE - 9to5Google",
+            "description": "Samsung is teasing a \"Galaxy Event\" for Thursday, September 4th, to be livestreamed on the company's YouTube channel at 5:30 AM ET.",
+            "url": "http://9to5google.com/2025/08/27/samsung-september-4-2025-event-tease-galaxy-tab-s11-galaxy-s25-fe/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/galaxy-event-sept-25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "Apple Music just made leaving Spotify a whole lot easier - AV Club",
+            "description": "Apple Music just made leaving Spotify a whole lot easier",
+            "url": "https://www.avclub.com/apple-music-import-spotify-playlists",
+            "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/09/06200522/Spotify-Logo-Feature.jpg"
         }
     ]
 }
