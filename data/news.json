@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Nintendo Switch 2 System Update 20.4.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Available for Switch, too",
-            "url": "https://www.nintendolife.com/news/2025/09/nintendo-switch-2-system-update-20-4-0-is-now-live-here-are-the-full-patch-notes",
-            "image": "https://images.nintendolife.com/8ed61a132151c/large.jpg"
+            "title": "Remarkable\u2019s new digital notepad is smaller than a paperback - The Verge",
+            "description": "The Move is a pocket-friendly version of Remarkable\u2019s Paper Pro tablet with an advanced color screen and a wirelessly charged stylus.",
+            "url": "https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/remarkable_paperpromove1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200"
         },
         {
-            "title": "Pixel 10 Pro XL proves its got the strength to match its software update promise - Android Authority",
-            "description": "A new durability test shows that the Pixel 10 Pro XL may be Google's toughest device yet, with only a few weak spots.",
-            "url": "https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/Pixel-10-Pro-XL-Jade-back-scaled.jpg"
+            "title": "Samsung\u2019s new party speakers are less subtle than ever - The Verge",
+            "description": "The two new Sound Towers each have five different lighting zones.",
+            "url": "https://www.theverge.com/news/769896/samsungs-new-party-speakers-are-less-subtle-than-ever",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Samsung-TVs-and-Displays-Sound-Tower-IFA-2025-All-New-Sound-Tower_dl2.jpg?quality=90&strip=all&crop=0%2C2.4036173250833%2C100%2C95.192765349833&w=1200"
         },
         {
-            "title": "Still live: Lenovo\u2019s compact yet powerful Legion Tab Gen 3 Android tablet down at $399 all-time low - 9to5Toys",
-            "description": "As part of its ongoing Labor Day sale, Lenovo is offering its 2025 Legion Tab Gen 3 for $398.99 shipped. Don\u2019t forget to enter promo code EXTRAFIVE during checkout to see the discounted price. The tablet debuted at $500 earlier this year, with its price jumpi\u2026",
-            "url": "http://9to5toys.com/2025/09/01/lenovo-legion-tab-gen-3-android-tablet-new-all-time-low-at-399/",
-            "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/08/Lenovo-Legion-Tab-Gen-3.jpg?resize=1200%2C628&ssl=1"
+            "title": "Google will reveal its Gemini smart home plans (and hardware) next month - The Verge",
+            "description": "An official teaser points to a new Nest Cam and more Gemini for Home announcements in October.",
+            "url": "https://www.theverge.com/news/769848/google-teases-new-nest-cam-gemini-home",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/google-gemini-home-nest-cam-teaser.jpg?quality=90&strip=all&crop=0%2C10.70159579143%2C100%2C78.596808417141&w=1200"
         },
         {
-            "title": "Common Pesticide Linked to Widespread Brain Abnormalities in Children - ScienceAlert",
-            "description": "The insecticide chlorpyrifos is a powerful tool for controlling various pests, making it one of the most widely used pesticides during the latter half of the 20th century.",
-            "url": "https://www.sciencealert.com/common-pesticide-linked-to-widespread-brain-abnormalities-in-children",
-            "image": "https://www.sciencealert.com/images/2025/09/child_eating_apple_header.jpg"
+            "title": "Hotfixes: September 2, 2025 \u2014 World of Warcraft - Blizzard News",
+            "description": "Here you will find a list of hotfixes that address various issues related to World of Warcraft: The War Within, Mists of Pandaria Classic, Season of Discovery, WoW Classic Era, and Hardcore.",
+            "url": "https://news.blizzard.com/en-us/article/24223774/hotfixes-september-2-2025",
+            "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/fr/FRZABH69Q7KH1754513329332.png"
         },
         {
-            "title": "What\u2019s new in Android\u2019s September 2025 Google System Updates - 9to5Google",
-            "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
-            "url": "http://9to5google.com/2025/09/01/september-2025-google-system-updates/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-            "title": "Xbox sale round-up September 2, 2025 - TrueAchievements",
-            "description": "New Xbox sales are now live, with big discounts on Destiny 2, Batman: Arkham Knight, Far Cry 5, Assassin's Creed Odyssey, Assassin's Creed IV: Black Flag, Watch_Dogs, Cyberpunk 2077 and more",
-            "url": "https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025",
-            "image": "https://www.trueachievements.com/imgs/113479/xbox-weekly-sales.jpg"
+            "title": "Samsung updates One UI software rollout roadmap - Sammy Fans",
+            "description": "Samsung has unveiled the September 2025 One UI software rollout roadmap for its Galaxy devices. The September 2025 part is now official, alongside the patch details, and it doesn\u2019t have any notable differences from the August chart. The eligibility roadmap is\u2026",
+            "url": "https://www.sammyfans.com/2025/09/03/samsung-software-roadmap-september-2025/",
+            "image": "https://www.sammyfans.com/wp-content/uploads/2023/03/Samsung-Software-update-1-1000x576.jpg"
         }
     ]
 }
