@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority",
-            "description": "The Google Pixel 10 Pro is a really, really good phone. But before you buy it, here are five other Android phones that may be a better fit.",
-            "url": "https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-10-pro-jade-back-hero-scaled.jpg"
+            "title": "NASA Briefed Employees This Morning (Audio) - NASA Watch",
+            "description": "NASA held an internal all hands briefing this morning",
+            "url": "https://nasawatch.com/ask-the-administrator/nasa-briefed-employees-this-morning-audio/",
+            "image": "https://nasawatch.com/wp-content/uploads/2025/09/NASA-Briefed.png"
         },
         {
-            "title": "Huawei\u2019s second trifold adds stylus support and purple pleather - The Verge",
-            "description": "The Huawei Mate XTs arrives in China for $2,500 \u2014 before Samsung has even announced its first trifold.",
-            "url": "https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/huawei-mate-xts-purple.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Ubisoft's Snowdrop engine dev explains why Star Wars Outlaws on Nintendo Switch 2 is a game-key card - Nintendo Everything",
+            "description": "A developer behind Ubisoft's Snowdrop engine has now explained why Star Wars Outlaws on Nintendo Switch 2 is a game-key card.",
+            "url": "https://nintendoeverything.com/star-wars-outlaws-switch-2-game-key-card/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Star-Wars-Outlaws-Switch-2-game-key-card.jpg"
         },
         {
-            "title": "Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Premium Tablet - Samsung Newsroom",
-            "description": "Galaxy Tab S11 series delivers the latest Galaxy AI features and a more powerful Samsung DeX experience \u2014 thin and light tablets designed for effortless productivity",
-            "url": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet",
-            "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/09/Samsung-Mobile-Galaxy-Tab-S11-series-Premium-Tablet-Galaxy-AI-DeX-One-UI-8_thumb728.jpg"
+            "title": "Legion Go 2 official: Lenovo\u2019s new flagship handheld costs $1,099 \u2014 and up - The Verge",
+            "description": "The new Lenovo Legion Go 2 is the company\u2019s flagship handheld with improved screen and battery \u2014 but slightly bigger, heavier, and more costly.",
+            "url": "https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Inside Philips Hue\u2019s plans to make all your lights motion sensors - The Verge",
-            "description": "With a firmware upgrade and the new Bridge Pro, your Hue lighting system gets a \u201cmagical\u201d new feature.",
-            "url": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_6100.jpeg?quality=90&strip=all&crop=0%2C27.214320999332%2C100%2C69.808027923211&w=1200"
+            "title": "Lenovo updates its beefiest and bulkiest laptops - The Verge",
+            "description": "Lenovo has updated its bulky Thinkpad P16 and P1 workstations with the latest Arrow Lake processors.",
+            "url": "https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257935_Lenovo_IFA__CVirginia.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Switch Online's Mature N64 App Expands With Another Title This Week - Nintendo Life",
-            "description": "Update: Forsaken 64 is now available",
-            "url": "https://www.nintendolife.com/news/2025/09/switch-onlines-mature-n64-app-expands-with-another-title-this-week",
-            "image": "https://images.nintendolife.com/87c9cb94425d3/large.jpg"
+            "title": "The 4 coolest gadgets I've seen at IFA 2025 (including ones you can actually buy) - ZDNET",
+            "description": "IFA features new tech innovations, and these are the ones that thoroughly impressed me (and they're not all AI slop.)",
+            "url": "https://www.zdnet.com/article/the-4-coolest-gadgets-ive-seen-at-ifa-2025-including-ones-you-can-actually-buy/",
+            "image": "https://www.zdnet.com/a/img/resize/dd7785372b76a7a78aa3729d68f92400e2ddbed3/2025/09/04/0d17ce45-726d-4a43-801d-8ef1fae38ef9/img-5876.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+            "title": "Two Chronograph Icons May Have Just Changed the Watch Industry Forever - Gear Patrol",
+            "description": "After a decade of development, TAG Heuer's revolutionary carbon hairspring makes its way to market in the brand's two most iconic watches.",
+            "url": "https://www.gearpatrol.com/watches/tag-heuer-th-carbonspring/",
+            "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/09/tag-heuer-TH-Carbonspring-lead.webp"
         }
     ]
 }
