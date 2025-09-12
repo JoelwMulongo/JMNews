@@ -1,28 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
-            "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 series, which starts at $799, Apple Watch Series 11, AirPods Pro 3, and more.",
-            "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
-            "image": "https://www.zdnet.com/a/img/resize/f1d469c721e25a192a169f6d3f22eaa3f15c2a02/2025/09/09/80954138-b402-4af5-ba58-786eeb0fb785/17pro-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "AirPods Pro 3 don\u2019t include a USB-C charging cable in the box - 9to5Mac",
+            "description": "If you\u2019re buying the new AirPods Pro 3, make sure you have a USB-C cable or a wireless charger handy. Here are the details.",
+            "url": "https://9to5mac.com/2025/09/10/airpods-pro-3-dont-include-a-usb-c-charging-cable-in-the-box/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge",
-            "description": "iPhone 14 and iPhone 15 users are getting an additional year of free access to satellite connectivity features, according to Apple\u2019s iPhone 17 press releases.",
-            "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_4174.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "How to turn off autoplay on your social media feeds - TechCrunch",
+            "description": "Here's how you can turn off autoplaying videos and GIFs on Facebook, Instagram, X, Twitter, and Threads.",
+            "url": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789"
         },
         {
-            "title": "Apple reveals iPadOS 26 release date - The Verge",
-            "description": "Apple has announced the release date for iPadOS 26, which comes with the Liquid Glass design language and new windowing features for better multitasking.",
-            "url": "https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/CleanShot-2025-06-09-at-13.36.29%402x.png?quality=90&strip=all&crop=0%2C14.053309813293%2C100%2C71.893380373415&w=1200"
+            "title": "Tim Cook and Apple\u2019s Design Team Explain the \u2018Shockingly Thin\u2019 iPhone Air - The Wall Street Journal",
+            "description": "No description available.",
+            "url": "https://www.wsj.com/tech/apple-iphone-air-tim-cook-design-thin-case-b67d5d8b",
+            "image": null
         },
         {
-            "title": "Apple Watch SE 3 announced, with S10 chip and always-on display - 9to5Mac",
-            "description": "The Apple Watch SE 3 has been announced alongside the Series 11 and Ultra 3. The SE was long due...",
-            "url": "https://9to5mac.com/2025/09/09/apple-watch-se-3-announced-with-s10-chip-and-always-on-display/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.24.17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac",
+            "description": "Battery life is one of the most important Apple Watch features: here\u2019s how Apple Watch Ultra 3 battery compares to Series 11 and Ultra 2.",
+            "url": "https://9to5mac.com/2025/09/10/apple-watch-ultra-3-vs-series-11-ultra-2-battery-life-big-upgrades/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-watch-ultra-3-series-11-se-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
+            "description": "Renders show a stark resemblance to the Galaxy S25 base model.",
+            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup",
+            "image": "https://cdn.mos.cms.futurecdn.net/vfdeGuDnjLPcDdkqgma7YK.jpg"
+        },
+        {
+            "title": "Is It Actually Worth Preordering Borderlands 4 or Should You Wait? - IGN",
+            "description": "Here's what you need to know.",
+            "url": "https://www.ign.com/articles/is-it-actually-worth-preordering-borderlands-4-or-should-you-wait",
+            "image": "https://assets-prd.ignimgs.com/2025/06/16/borderlands-preorders-1750115260085.png?width=1280&format=jpg&auto=webp&quality=80"
         }
     ]
 }
