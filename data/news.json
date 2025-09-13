@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "AirPods Pro 3 don\u2019t include a USB-C charging cable in the box - 9to5Mac",
-            "description": "If you\u2019re buying the new AirPods Pro 3, make sure you have a USB-C cable or a wireless charger handy. Here are the details.",
-            "url": "https://9to5mac.com/2025/09/10/airpods-pro-3-dont-include-a-usb-c-charging-cable-in-the-box/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
+            "description": "The blood pressure monitor arrives with watchOS 26 next week.",
+            "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200"
         },
         {
-            "title": "How to turn off autoplay on your social media feeds - TechCrunch",
-            "description": "Here's how you can turn off autoplaying videos and GIFs on Facebook, Instagram, X, Twitter, and Threads.",
-            "url": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
-            "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789"
+            "title": "Borderlands 4 is off to a 'Mixed' start on Steam \u2014 here's why - Windows Central",
+            "description": "Borderlands 4 is off to a strong start on Steam in terms of player count, but serious issues with its PC performance are ruining the fun for many.",
+            "url": "https://www.windowscentral.com/gaming/borderlands-4-falls-to-mixed-steam-rating-at-launch-as-reviews-hammer-poor-pc-performance",
+            "image": "https://cdn.mos.cms.futurecdn.net/5vk46tCksCPVuXtPqvfEEE.jpg"
         },
         {
-            "title": "Tim Cook and Apple\u2019s Design Team Explain the \u2018Shockingly Thin\u2019 iPhone Air - The Wall Street Journal",
-            "description": "No description available.",
-            "url": "https://www.wsj.com/tech/apple-iphone-air-tim-cook-design-thin-case-b67d5d8b",
-            "image": null
+            "title": "Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET",
+            "description": "ZDNET rounded up all the news surrounding this week's Apple event, including the iPhone 17 series, which starts at $799, Apple Watch Ultra 3, AirPods Pro 3, and more.",
+            "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/",
+            "image": "https://www.zdnet.com/a/img/resize/1c7616d3db525c9aa8ba1fa76efdd9a49124444a/2025/09/10/9b895ec9-b6e5-4b7a-8288-366b818f390b/tim-cook-apple-event-2025-01.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac",
-            "description": "Battery life is one of the most important Apple Watch features: here\u2019s how Apple Watch Ultra 3 battery compares to Series 11 and Ultra 2.",
-            "url": "https://9to5mac.com/2025/09/10/apple-watch-ultra-3-vs-series-11-ultra-2-battery-life-big-upgrades/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-watch-ultra-3-series-11-se-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "\"We Fully Agree\": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels \"Way Off,\" Promises Immediate Fixes and Reward Buffs - The Game Post",
+            "description": "Bungie admits Destiny 2\u2019s Ash & Iron power progression is broken. The studio is rolling out immediate reward buffs, score changes, and Prime drop boosts, starting this week.",
+            "url": "https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/",
+            "image": "https://thegamepost.com/wp-content/uploads/2025/09/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs-1.webp"
         },
         {
-            "title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
-            "description": "Renders show a stark resemblance to the Galaxy S25 base model.",
-            "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup",
-            "image": "https://cdn.mos.cms.futurecdn.net/vfdeGuDnjLPcDdkqgma7YK.jpg"
-        },
-        {
-            "title": "Is It Actually Worth Preordering Borderlands 4 or Should You Wait? - IGN",
-            "description": "Here's what you need to know.",
-            "url": "https://www.ign.com/articles/is-it-actually-worth-preordering-borderlands-4-or-should-you-wait",
-            "image": "https://assets-prd.ignimgs.com/2025/06/16/borderlands-preorders-1750115260085.png?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Google pokes Apple over its struggles with AI intelligence on the iPhone 17 - Android Central",
+            "description": "After Apple's latest event, Google's having some fun of its own, poking fun at the competition over its AI struggles.",
+            "url": "https://www.androidcentral.com/apps-software/ai/google-pokes-fun-at-apples-iphone-17-ai-capabilities",
+            "image": "https://cdn.mos.cms.futurecdn.net/czVPiHXu86SYmJXWjacavR.jpg"
         }
     ]
 }
