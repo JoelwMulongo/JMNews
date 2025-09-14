@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple Watch hypertension alerts cleared by FDA for new and old watches - The Verge",
-            "description": "The blood pressure monitor arrives with watchOS 26 next week.",
-            "url": "https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/vee5_f2deaa.jpg?quality=90&strip=all&crop=0%2C10.336347770903%2C100%2C79.327304458195&w=1200"
+            "title": "Tips on stepping back from screens and starting a new hobby - AP News",
+            "description": "A lot of us want to reduce our time spent on screens. Experts say picking up a new hobby can help do that and offer a range of other health benefits. But finding a screen-free hobby that sticks can be easier said than done. Experts advise trying small enjoyab\u2026",
+            "url": "https://apnews.com/article/finding-a-hobby-screen-alternatives-ef4c9320e1ede4a0b3ce04f5f4b149dd",
+            "image": "https://dims.apnews.com/dims4/default/1fbf253/2147483647/strip/true/crop/1920x1080+0+100/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2Fd2%2F50c72710912147b65bf6d3bdd1dd%2F09059482c81041f0821781afb6183538"
         },
         {
-            "title": "Borderlands 4 is off to a 'Mixed' start on Steam \u2014 here's why - Windows Central",
-            "description": "Borderlands 4 is off to a strong start on Steam in terms of player count, but serious issues with its PC performance are ruining the fun for many.",
-            "url": "https://www.windowscentral.com/gaming/borderlands-4-falls-to-mixed-steam-rating-at-launch-as-reviews-hammer-poor-pc-performance",
-            "image": "https://cdn.mos.cms.futurecdn.net/5vk46tCksCPVuXtPqvfEEE.jpg"
+            "title": "Metroid Prime 4 Game And Samus Amiibo Preorders Available Now - GameSpot",
+            "description": "Metroid Prime 4: Beyond launches December 4 on Switch and Switch 2, and fans can also preorder three new Amiibo, an official retrospective book, and more.",
+            "url": "https://www.gamespot.com/articles/metroid-prime-4-beyond-game-amiibo-preorder-buying-guide-nintendo-switch-2/1100-6530754/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4567269-prime4beyondandamiibo.jpg"
         },
         {
-            "title": "Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods Pro 3, more - ZDNET",
-            "description": "ZDNET rounded up all the news surrounding this week's Apple event, including the iPhone 17 series, which starts at $799, Apple Watch Ultra 3, AirPods Pro 3, and more.",
-            "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/",
-            "image": "https://www.zdnet.com/a/img/resize/1c7616d3db525c9aa8ba1fa76efdd9a49124444a/2025/09/10/9b895ec9-b6e5-4b7a-8288-366b818f390b/tim-cook-apple-event-2025-01.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "I tried Apple's 2 big AI features announced at the iPhone 17 event - and both are game changers - ZDNET",
+            "description": "Apple focused on its cutting edge hardware for the iPhone 17 launch, but also unveiled a couple groundbreaking AI features. Both could make a big difference in daily use.",
+            "url": "https://www.zdnet.com/article/i-tried-apples-2-big-ai-features-announced-at-the-iphone-17-event-and-both-are-game-changers/",
+            "image": "https://www.zdnet.com/a/img/resize/83029cb1cfc462ba07b4fb2659eaa641f05980b1/2025/09/09/d50124ef-8024-4991-80e3-0d9a61bab5fd/17-air.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "\"We Fully Agree\": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels \"Way Off,\" Promises Immediate Fixes and Reward Buffs - The Game Post",
-            "description": "Bungie admits Destiny 2\u2019s Ash & Iron power progression is broken. The studio is rolling out immediate reward buffs, score changes, and Prime drop boosts, starting this week.",
-            "url": "https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/",
-            "image": "https://thegamepost.com/wp-content/uploads/2025/09/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs-1.webp"
+            "title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
+            "description": "ZDNET has rounded up everything announced at this week's Apple event - from iPhone 17 preorder deals to the Apple Watch Ultra 3, AirPods Pro 3, and more.",
+            "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
+            "image": "https://www.zdnet.com/a/img/resize/7f16e5c64a86d26d550098934a2d09bcf18d5392/2025/09/10/dee94d50-5e0e-4742-85d7-c1adf655fb46/iphone-17-pro-max-blue.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Google pokes Apple over its struggles with AI intelligence on the iPhone 17 - Android Central",
-            "description": "After Apple's latest event, Google's having some fun of its own, poking fun at the competition over its AI struggles.",
-            "url": "https://www.androidcentral.com/apps-software/ai/google-pokes-fun-at-apples-iphone-17-ai-capabilities",
-            "image": "https://cdn.mos.cms.futurecdn.net/czVPiHXu86SYmJXWjacavR.jpg"
+            "title": "Ever wanted to play a Pok\u00e9mon Animal Crossing meets Minecraft? Pok\u00e9mon Pokopia might be just that game - Eurogamer",
+            "description": "A new Minecraft meets Animal Crossing inspired Pok\u00e9mon game is coming to Switch 2 in 2026.",
+            "url": "https://www.eurogamer.net/ever-wanted-to-play-a-pokemon-animal-crossing-meets-minecraft-pokemon-pokopia-might-be-just-that-game",
+            "image": "https://assetsio.gnwcdn.com/Pokopia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+            "title": "Final Fantasy 7 Remake gets Xbox Series X|S release date - Windows Central",
+            "description": "Final Fantasy 7 Remake launches on Xbox Series X|S on Jan. 22, 2025, and the whole trilogy is on the way.",
+            "url": "https://www.windowscentral.com/gaming/final-fantasy-7-remake-xbox-release-date",
+            "image": "https://cdn.mos.cms.futurecdn.net/BfR9i8Zr4Augmq6Rc2zivX.jpg"
         }
     ]
 }
