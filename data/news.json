@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "HP\u2019s new 49-inch curved ultrawide monitor has a pop-up webcam - The Verge",
-            "description": "The HP Series 5 Pro 49-inch Conferencing Monitor is a massive monitor for office work.",
-            "url": "https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/093025_HP_Series_5_Pro_49_inch_Conferencing_Monitor_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
+            "description": "\"We understand price increases are never fun for anybody,\" says firm's director of gaming and platform communications",
+            "url": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value",
+            "image": "https://assetsio.gnwcdn.com/Xbox-Game-Pass_vnC85s1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "GameStop Says It Will Continue to Sell Xbox Game Pass Ultimate for $19.99 a Month Despite New Price Hike - IGN",
-            "description": "GameStop has announced that it will continue to sell Game Pass Ultimate at the pre-hike price of $19.99 per month, both in-store and online. However, it's not the only retailer doing so.",
-            "url": "https://www.ign.com/articles/gamestop-says-it-will-keep-selling-xbox-game-pass-ultimate-at-pre-hiked-price",
-            "image": "https://assets-prd.ignimgs.com/2025/10/02/xbox-game-pass-deal-ign-new-2025-gamestop-1759394483402.png?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "It looks like Windows 11 is about to get a new dedicated OneDrive app \u2014 here's your first look - Windows Central",
+            "description": "OneDrive is getting its own dedicated app experience on Windows 11, complete with new Copilot features, a gallery view, and modern interface.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/new-onedrive-dedicated-app-windows-11-2025-leak",
+            "image": "https://cdn.mos.cms.futurecdn.net/Sc4RAY4bQdEHpRpwb6CLbF-2560-80.jpg"
         },
         {
-            "title": "Meta Ray-Ban Display Sells Out As Early Adopters Struggle To Buy - UploadVR",
-            "description": "Meta Ray-Ban Display is now sold out in almost every store it was available in.\n\nRestocks are \"coming\", Meta says, and the company is doubling the number of stores offering the glasses.",
-            "url": "https://www.uploadvr.com/meta-ray-ban-display-sold-out-early-adopters-struggle/",
-            "image": "https://www.uploadvr.com/content/images/2025/10/Meta-Ray-Ban-Display-with-case.png"
+            "title": "Every October 2025 Game Release From Battlefield 6 To Pok\u00e9mon Legends - Kotaku",
+            "description": "Pok\u00e9mon Legends: Z-A, Battlefield 6, and more are crammed into the most packed month of the year",
+            "url": "https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373",
+            "image": "https://kotaku.com/app/uploads/2025/10/fallgames-1200x675.jpg"
         },
         {
-            "title": "Black Ops 7 Multiplayer Avoids The CoD Fatigue, But Warzone Falls A Step Back - GameSpot",
-            "description": "The futuristic multiplayer setting reduces any Black Ops fatigue, but Warzone's integration feels like an afterthought.",
-            "url": "https://www.gamespot.com/articles/black-ops-7-multiplayer-avoids-cod-fatigue-but-warzone-falters/1100-6535156/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4578516-call-of-duty-black-ops-7-vault-edition-bn-1280x1024.jpg"
+            "title": "New Borderlands 4 Update Buffs Vault Hunters - GameSpot",
+            "description": "The looter-shooter's latest patch adjusts the Vault Hunters' various skills to make them stronger.",
+            "url": "https://www.gamespot.com/articles/new-borderlands-4-update-buffs-vault-hunters/1100-6535180/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789366/4578906-borderlands4image.jpeg"
         },
         {
-            "title": "Super Mario Bros.: The Lost Levels Minus World levels found four decades later - Nintendo Everything",
-            "description": "It\u2019s been about four decades since Super Mario Bros.: The Lost Levels launched, but one fan has now managed to uncover new Minus World levels. Dedicated Nintendo fans are very likely aware of the Minus World glitch. By having Mario move a certain way in Super\u2026",
-            "url": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Bros-Lost-Levels-Minus-World.jpg"
-        },
-        {
-            "title": "Pok\u00e9mon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers - Kotaku",
-            "description": "If you\u2019ve been avoiding spoilers this past year, you might want to keep your head down",
-            "url": "https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717",
-            "image": "https://kotaku.com/app/uploads/2025/08/pokemonsfds-1200x675.jpg"
+            "title": "Inside the Vault \u2013 Burning Springs Public Test Server Release Notes - Bethesda.net",
+            "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it\u2019s available for you to play on our Public Test Server right now!",
+            "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
+            "image": "https://images.ctfassets.net/rporu91m20dc/6jF7DI7zI1mVSFCtyGaiJQ/35dc0452311d784b12b9c17e34e20af7/LHERO_BS.jpg?fit=fill&w=1200&h=600"
         }
     ]
 }
