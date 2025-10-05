@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
-            "description": "\"We understand price increases are never fun for anybody,\" says firm's director of gaming and platform communications",
-            "url": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value",
-            "image": "https://assetsio.gnwcdn.com/Xbox-Game-Pass_vnC85s1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Scientists race to make 'living' computers powered by human cells - BBC",
+            "description": "BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.",
+            "url": "https://www.bbc.com/news/articles/cy7p1lzvxjro",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"
         },
         {
-            "title": "It looks like Windows 11 is about to get a new dedicated OneDrive app \u2014 here's your first look - Windows Central",
-            "description": "OneDrive is getting its own dedicated app experience on Windows 11, complete with new Copilot features, a gallery view, and modern interface.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/new-onedrive-dedicated-app-windows-11-2025-leak",
-            "image": "https://cdn.mos.cms.futurecdn.net/Sc4RAY4bQdEHpRpwb6CLbF-2560-80.jpg"
+            "title": "\u2018Smiling Friends\u2019 Team Launches New L.A.-Based Animation Studio - Deadline",
+            "description": "Smiling Friends creators Michael Cusack and Zach Hadel and producer Aron Fromm have launched Zam Studios, a new LA-based independent animation studio.",
+            "url": "http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-studio-1236570049/",
+            "image": "https://deadline.com/wp-content/uploads/2025/10/Michael-CusackZach-Hadel-Aron-Fromm.jpg?w=1000"
         },
         {
-            "title": "Every October 2025 Game Release From Battlefield 6 To Pok\u00e9mon Legends - Kotaku",
-            "description": "Pok\u00e9mon Legends: Z-A, Battlefield 6, and more are crammed into the most packed month of the year",
-            "url": "https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373",
-            "image": "https://kotaku.com/app/uploads/2025/10/fallgames-1200x675.jpg"
+            "title": "Google reportedly testing MediaTek modem for Tensor G6 and Pixel 11 - 9to5Google",
+            "description": "The Tensor G6 for the Pixel 11 is rumored to switch to a MediaTek modem. With the Pixel 10 just over a month old...",
+            "url": "http://9to5google.com/2025/10/03/pixel-11-tensor-g6-modem/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "New Borderlands 4 Update Buffs Vault Hunters - GameSpot",
-            "description": "The looter-shooter's latest patch adjusts the Vault Hunters' various skills to make them stronger.",
-            "url": "https://www.gamespot.com/articles/new-borderlands-4-update-buffs-vault-hunters/1100-6535180/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789366/4578906-borderlands4image.jpeg"
+            "title": "Xbox\u2019s Hike on Game Pass Shows Cost of Lost \u2018Call of Duty\u2019 Sales - Bloomberg.com",
+            "description": "Microsoft Corp.\u2019s Xbox division surprised many video game enthusiasts this week when the company announced a 50% price hike, to $30 a month, for the highest level tier in its Game Pass subscription service.",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-03/xbox-s-game-pass-hike-shows-cost-of-lost-call-of-duty-sales",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGBO384Z0Gbk/v0/1200x800.jpg"
         },
         {
-            "title": "Inside the Vault \u2013 Burning Springs Public Test Server Release Notes - Bethesda.net",
-            "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it\u2019s available for you to play on our Public Test Server right now!",
-            "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
-            "image": "https://images.ctfassets.net/rporu91m20dc/6jF7DI7zI1mVSFCtyGaiJQ/35dc0452311d784b12b9c17e34e20af7/LHERO_BS.jpg?fit=fill&w=1200&h=600"
+            "title": "How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot, and More - Consumer Reports",
+            "description": "AI features are crowding into Google search, Gmail, iPhones, Windows laptops, and other products. If you're suffering from AI overload, these settings can help.",
+            "url": "https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/",
+            "image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1759505708/prod/content/dam/CRO-Images-2025/Electronics/CR-Tech-Inlinehero-how-to-turn-off-ai-1025"
+        },
+        {
+            "title": "5 Things To Know Before Starting Digimon Story: Time Stranger - Kotaku",
+            "description": "Here are a few tips before you head into the Digital World",
+            "url": "https://kotaku.com/digimon-story-time-stranger-tips-guides-side-quests-2000631593",
+            "image": "https://kotaku.com/app/uploads/2025/06/cffd6054f11e2cd6ac8f4aa794847815-1200x675.jpg"
         }
     ]
 }
