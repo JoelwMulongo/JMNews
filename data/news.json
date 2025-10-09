@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The trendiest TVs are tiny, old and in your kitchen - The Washington Post",
-            "description": "Nostalgia for the aesthetics and phone-free days of the \u201990s is driving the mini trend.",
-            "url": "https://www.washingtonpost.com/home/2025/10/07/kitchen-tv-makes-a-comeback/",
-            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3T7WVPLENRDVNKYZD5SVEMF2UE.jpg&w=1440"
+            "title": "Microsoft Confirms Xbox Game Pass Ultimate Price Increase Delay in Some Countries \u2014 but Not the U.S. or UK - IGN",
+            "description": "Microsoft has delayed its controversial Xbox Game Pass Ultimate price increase in some countries \u2014 but not the U.S. or UK.",
+            "url": "https://www.ign.com/articles/microsoft-confirms-xbox-game-pass-ultimate-price-increase-delay-in-some-countries-but-not-the-us-or-uk",
+            "image": "https://assets-prd.ignimgs.com/2025/10/08/game-pass-1759912996298.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "I've covered every Amazon AU sale \u2013 these are the 117 best deals on Day 1 of October's Prime Day event - TechRadar",
-            "description": "Save on headphones, cameras, PC accessories, appliances and a lot more ahead of Black Friday",
-            "url": "https://www.techradar.com/live/news/amazon-prime-big-deal-days-2025-australia",
-            "image": "https://cdn.mos.cms.futurecdn.net/ELvbKaN3jJt898aQVoazNh-2000-80.jpg"
+            "title": "30+ October Prime Day Apple deals 2025: AirPods, iPads, MacBooks on sale - Mashable",
+            "description": "The new Apple Watch Series 11 and SE 3 just came out, and they're already on sale.",
+            "url": "https://mashable.com/article/best-october-prime-day-apple-deals-2025-day-2",
+            "image": "https://helios-i.mashable.com/imagery/articles/01O5Ktn5ncM5qKtFBLUkH94/hero-image.fill.size_1200x675.v1759900718.png"
         },
         {
-            "title": "Best Buy's weeklong Techtober Sale is competing with October Prime Day - Mashable",
-            "description": "You didn't think Best Buy would let Amazon run a sale all by itself, did you?",
-            "url": "https://mashable.com/article/best-buy-techtober-sale-october-prime-day-2025-day-1",
-            "image": "https://helios-i.mashable.com/imagery/articles/04oLr5HcNqlN7TNppjlyu8V/hero-image.fill.size_1200x675.v1759819389.png"
+            "title": "Amazon Big Deal Days hi-fi deals live: all the top headphone, vinyl and speaker savings picked by our experts - What Hi-Fi?",
+            "description": "If you need new headphones, speakers, stereo amps or a turntable, but don\u2019t fancy paying full price, then you\u2019re in the right place",
+            "url": "https://www.whathifi.com/hi-fi/live/amazon-big-deal-days-hi-fi-deals-live-all-the-top-headphone-vinyl-and-speaker-savings-picked-by-our-experts",
+            "image": "https://cdn.mos.cms.futurecdn.net/j5WR7ijgzzMZZXHkLGTsuR-1674-80.jpg"
         },
         {
-            "title": "Jony Ive Says He Wants His OpenAI Devices to \u2018Make Us Happy\u2019 - WIRED",
-            "description": "\u201cI don\u2019t think we have an easy relationship with our technology at the moment,\u201d the former Apple designer said at OpenAI's developer conference in San Francisco on Monday.",
-            "url": "https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/",
-            "image": "https://media.wired.com/photos/68e408a2089e9a406fb333fb/191:100/w_1280,c_limit/gear-jony-ive-openai-AP25141660380307.jpg"
+            "title": "Prime Big Deal Days TV deals: Insignia 75-inch QLED down to $399.99 - Mashable",
+            "description": "Compared to the deals we saw in July, Amazon is easily out-pricing itself with some cheap QLEDs.",
+            "url": "https://mashable.com/article/best-oct-prime-day-tv-deals-2025-day-2",
+            "image": "https://helios-i.mashable.com/imagery/articles/02LecI5KDAj7iWmw5206JGR/hero-image.fill.size_1200x675.v1759904306.png"
         },
         {
-            "title": "The Official Meta Store on eBay Has Refurb Meta Quest VR Headsets at Outrageously Low Prices - IGN",
-            "description": "These units are shipped directly from Meta and include an extended 2 year warranty.",
-            "url": "https://www.ign.com/articles/official-meta-store-on-ebay-has-refurb-meta-quest-3-and-3s-vr-headsets-at-outrageously-low-prices",
-            "image": "https://assets-prd.ignimgs.com/2025/10/07/metaquest-1759796856033.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "I Found Huge Prime Day Savings on Anker Headphones, Speakers, Projectors and More - CNET",
+            "description": "Anker's reputation for reliable, affordable tech makes these Amazon Big Deal Days discounts worth jumping on.",
+            "url": "https://www.cnet.com/deals/best-prime-day-anker-deals-2025-10-08/",
+            "image": "https://www.cnet.com/a/img/resize/1c072e9890f789f6010566520a1c76d774cc5954/hub/2025/10/07/4a1488d5-a001-4019-b7c9-36705d86e500/cnet-prime-bdd-header-anker.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+            "title": "Intel\u2019s Next-Gen Panther Lake Lineup Features 30% Higher Power Efficiency Compared to Lunar Lake, Driven By 18A Adoption - Wccftech",
+            "description": "Details around Intel's Panther Lake have started to surface and the mobile platform will feature impressive performance per watt figures.",
+            "url": "https://wccftech.com/intel-panther-lake-lineup-features-30-higher-power-efficiency-compared-to-lunar-lake/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2024/10/Intel-Panther-Lake-18A-CPU-_1.png"
         }
     ]
 }
