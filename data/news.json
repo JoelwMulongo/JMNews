@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Fascinating Waveguide Technology Inside Meta\u2019s Ray-Ban Display Glasses - Hackaday",
-            "description": "Recently the avid teardown folk over at iFixit got their paws on Meta\u2019s Ray-Ban Display glasses, for a literal in-depth look at these smart glasses. Along the way they came across the fascina\u2026",
-            "url": "https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/10/ifixit_Meta_Glasses_119.jpg"
+            "title": "Plants Vs. Zombies: Replanted Supports Local Co-Op And PvP Via GameShare - Nintendo Life",
+            "description": "Return to the garden later this month",
+            "url": "https://www.nintendolife.com/news/2025/10/plants-vs-zombies-replanted-supports-local-co-op-and-pvp-via-gameshare",
+            "image": "https://images.nintendolife.com/5b4736719262f/large.jpg"
         },
         {
-            "title": "Battlefield 6: Can EA's big-budget gamble pay off? - BBC",
-            "description": "The latest in the military shooter series is a pivotal release for publisher Electronic Arts.",
-            "url": "https://www.bbc.com/news/articles/c8xrkxdkkrno",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8a49/live/f4d6e500-a50c-11f0-ba60-dd95d022a9f0.jpg"
+            "title": "TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo",
+            "description": "AI art really has become the aesthetic of grifters and fascists.",
+            "url": "https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309",
+            "image": "https://gizmodo.com/app/uploads/2025/10/trumprx-website-e1760140421440-1200x675.jpg"
         },
         {
-            "title": "First Look at Tesla's New 3D Buildings and Maps in Update 2025.38 [VIDEO] - Not a Tesla App",
-            "description": "Tesla has added new 3D buildings to their maps in update 2025.38. We take a look at the new feature.",
-            "url": "https://www.notateslaapp.com/news/3222/first-look-at-teslas-new-3d-buildings-and-maps-in-update-202538-video",
-            "image": "https://www.notateslaapp.com/img/containers/article_images/2025/3d-buildings.webp/d078d2d6f84f29c5aab3e0115f07824f/3d-buildings.jpg"
+            "title": "Google Maps gets a brain upgrade as Gemini takes the wheel - Digital Trends",
+            "description": "Replacing the Google Assistant, Gemini can now reroute your trip, dodge tolls, check the weather, and answer questions mid-drive.",
+            "url": "https://www.digitaltrends.com/phones/google-maps-gets-a-brain-upgrade-as-gemini-takes-the-wheel/",
+            "image": "https://www.digitaltrends.com/wp-content/uploads/2025/05/Android-Auto-Carplay-second-screen-integration-chevy-equinox-2025-suv-1.jpg?resize=1200%2C630&p=1"
         },
         {
-            "title": "The Vision Pro is getting its first live \u2018immersive\u2019 sports - The Verge",
-            "description": "The Apple Vision Pro is getting a \u201cselection\u201d of live Los Angeles Lakers games that will be available to watch in the Apple Immersive format.",
-            "url": "https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/246965_vision_pro_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Apple reportedly acquiring computer vision startup Prompt AI\u2019s team and technology - 9to5Mac",
+            "description": "According to CNBC, Apple is nearing a deal to acquire \u201ctalent and technology\u201d of computer vision startup Prompt AI. Here are the details.",
+            "url": "https://9to5mac.com/2025/10/10/apple-reportedly-acquiring-computer-vision-startup-prompt-ais-team-and-technology/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-macos-26-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Apple and Google reluctantly comply with Texas age verification law - Ars Technica",
-            "description": "Texas requires sensitive info just to check weather and sports scores, Apple says.",
-            "url": "https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/getty-texas-flag-1152x648.jpg"
+            "title": "Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate - Kotaku",
+            "description": "A Reddit user decided to science the heck out of loot RNG",
+            "url": "https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114",
+            "image": "https://kotaku.com/app/uploads/2024/12/67716c5284ac31bad67a3833640cd656-1200x675.jpg"
+        },
+        {
+            "title": "Samsung\u2019s Rumored Ray-Ban Smart Glasses Killer May Arrive Sooner Than You Think - Gizmodo",
+            "description": "New reports suggest Samsung's first-ever smart glasses might be around the corner.",
+            "url": "https://gizmodo.com/samsungs-rumored-ray-ban-smart-glasses-killer-may-arrive-sooner-than-you-think-2000671078",
+            "image": "https://gizmodo.com/app/uploads/2025/09/oakley-meta-hstn-smart-glasses-08-1200x675.jpg"
         }
     ]
 }
