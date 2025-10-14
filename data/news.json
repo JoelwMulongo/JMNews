@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Are deepfakes of dead people rewriting the past? - NBC News",
-            "description": "While Sora has some guardrails around the likenesses of living people, protections around the likenesses of those who have died appear to be an afterthought.",
-            "url": "https://www.nbcnews.com/tech/tech-news/are-deepfakes-dead-people-rewriting-rcna235982",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251006-Sora-2-openai-aa-237-1e9e42.jpg"
+            "title": "Massive Black Myth Wukong Update Is Going Live Today, Introducing Performance Optimizations - Wccftech",
+            "description": "A new Black Myth Wukong patch is launching today, introducing performance optimizations. The patch size, however, will be massive on PS5.",
+            "url": "https://wccftech.com/massive-black-myth-wukong-update-is-going-live-today-introducing-performance-optimizations/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/10/Black-Myth-Wukong-October-13-patch-Performance-optimizations.jpeg"
         },
         {
-            "title": "The 7 best smartwatches of 2025 include some surprises - Mashable",
-            "description": "Whether you're team Apple or team Android, you're spoiled for choice this year.",
-            "url": "https://mashable.com/article/best-smartwatches-tested",
-            "image": "https://helios-i.mashable.com/imagery/articles/07alvWf1kHxNG9AfTZDrwKx/hero-image.fill.size_1200x675.v1760125754.jpg"
+            "title": "Why some Atlantans are saying \u2018Hello\u2019 again, or for first time, to landlines - AJC.com",
+            "description": "Whether it\u2019s a parent restricting a child\u2019s access to social media or a young adult avoiding doom scrolling, a new generation of landlines is trending.",
+            "url": "https://www.ajc.com/things-to-do/2025/10/why-some-atlantans-are-saying-hello-again-or-for-first-time-to-landlines/",
+            "image": "https://www.ajc.com/resizer/v2/JWGO7RVVQBAFZNDHZRN7BT7CA4.png?auth=19752d96370d47b826dc94485e8225969c022be16cfb952d0afdbee50542c2f4&width=1200&height=630&smart=true"
         },
         {
-            "title": "Apple's former CEO says the company has its 'first real competitor' in decades - Business Insider",
-            "description": "\"AI has not been a particular strength for the business,\" Apple's former CEO John Sculley said of the company.",
-            "url": "https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-rivals-apple-2025-10",
-            "image": "https://i.insider.com/68e9336bcc993f9955cffa1f?width=1200&format=jpeg"
+            "title": "Takashi Iizuka Explains Why Sonic Racing: CrossWorlds Was Delayed On Switch 2 - Nintendo Life",
+            "description": "It's pretty much why you think",
+            "url": "https://www.nintendolife.com/news/2025/10/takashi-iizuka-explains-why-sonic-racing-crossworlds-was-delayed-on-switch-2",
+            "image": "https://images.nintendolife.com/0e189b19842ec/large.jpg"
         },
         {
-            "title": "Save Your USB-C Plugs From Oblivion - Hackaday",
-            "description": "USB-C as the \u201cOne Cable To Rule Them All\u201d has certainly been a success. While USB-A is still around for now, most of us have breathed a hefty sigh of relief with the passing of micro-US\u2026",
-            "url": "https://hackaday.com/2025/10/11/save-your-usb-c-plugs-from-oblivion/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/10/strain-relief-featured.jpg"
+            "title": "New Rules Could Force Tesla to Redesign Its Door Handles. That\u2019s Harder Than It Sounds - WIRED",
+            "description": "Proposed regulations in China would mean the end of flush handles on car doors, with precious little time to roll out the changes.",
+            "url": "https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/",
+            "image": "https://media.wired.com/photos/68e4035668d91f2b22fd4f9c/191:100/w_1280,c_limit/gear-telsa-door-handle-shutterstock_2679655353.jpg"
         },
         {
-            "title": "Sonic Racing: CrossWorlds will use the \"full capability of Nintendo Switch 2\" - Nintendo Everything",
-            "description": "Nintendo Switch 2 missed out on the recent launch of Sonic Racing: CrossWorlds, but Sonic series producer Takashi Iizuka says that the game will use the \u201cfull capability\u201d of the system. Technically, you can play the title on Nintendo\u2019s latest console through \u2026",
-            "url": "https://nintendoeverything.com/sonic-racing-crossworlds-will-use-the-full-capability-of-nintendo-switch-2/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-Switch-2-Iizuka.jpg"
-        },
-        {
-            "title": "\u201cBuild a stronger body for life\u201d: A coach shares her 30-minute full-body dumbbell workout to help boost functional strength - Tom's Guide",
-            "description": "Grab a pair of dumbbells and prepare to begin",
-            "url": "https://www.tomsguide.com/wellness/workouts/build-a-stronger-body-for-life-a-coach-shares-her-30-minute-full-body-dumbbell-workout-to-help-boost-functional-strength",
-            "image": "https://cdn.mos.cms.futurecdn.net/2VFEVcNYu4bbVwP3uRAaSA-1920-80.jpg"
+            "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor - The Hacker News",
+            "description": "Microsoft restricts IE Mode in Edge after threat actors exploited Chakra engine flaws for remote access.",
+            "url": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtO_KAfNCOTqs2JcWLrUFXMVfDeVWtB8zvcN3nIR4i2wPde7J5FxNBOzLU2sYynj2wNmZXPYs60s9-kf4tIlrEEu4ZrxLnqLOdGyMjBVR0AbCBP5WG9pNZEq7Img77ZoIqGquYFGeG0HPzHbhiSgHjLn_2f_gi_4sZnQawhSUT9qTELXPk_DagHbugCM2y/s790-rw-e365/edge.jpg"
         }
     ]
 }
