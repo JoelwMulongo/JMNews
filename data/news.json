@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 - Nova Crystallis",
-            "description": "Square Enix has announced Dissidia Duellum Final Fantasy, a new 3-versus-3 team boss battle arena game for iOS and Android smartphones. It will be developed in partnership NHN PlayArt. It will be a \u201cfree to play game with in-app purchases.\u201d In the gameplay fo\u2026",
-            "url": "https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/",
-            "image": "https://novacrystallis.com/wp-content/uploads/2025/10/ddff-1024x540.png"
+            "title": "These are the Office icons Microsoft rejected - The Verge",
+            "description": "Microsoft explored some designs that closely resembled its older Office for Mac icons.",
+            "url": "https://www.theverge.com/news/799736/microsoft-office-icons-test-versions",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/officeicondesignexplorations.jpg?quality=90&strip=all&crop=0%2C10.694144515047%2C100%2C78.611710969907&w=1200"
         },
         {
-            "title": "Another devastating Pok\u00e9mon leak reveals plans for future games, but it's the reported development budgets that have left players stunned - Eurogamer",
-            "description": "Pok\u00e9mon developer Game Freak has suffered another huge leak of data, revealing the studio's purported planned projects until 2030.",
-            "url": "https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned",
-            "image": "https://assetsio.gnwcdn.com/pokemon-leek.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "MANGO beats FAANG in battle for tech supremacy - Axios",
+            "description": "The companies commanding attention today are the ones leading the AI revolution.",
+            "url": "https://www.axios.com/2025/10/15/mango-faang-ai-tech-companies",
+            "image": "https://images.axios.com/BsUzcOEDhWvA2uCbnARzE78rIAU=/0x0:1920x1080/1366x768/2025/10/14/1760464291049.jpeg"
         },
         {
-            "title": "Exclusive: The web is still mostly written by humans, study finds - Axios",
-            "description": "New data shows AI-written content is plateauing \u2014 and doesn't perform well in search.",
-            "url": "https://www.axios.com/2025/10/14/ai-generated-writing-humans",
-            "image": "https://images.axios.com/3y-o-N9CCYC3jMfyTVQleWTrHZQ=/0x0:1344x756/1366x768/2025/10/09/1760031680598.png"
+            "title": "Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pok\u00e9mon GO Hub",
+            "description": "On Wednesday, October 15, 2025, a brand new journey is coming in Pok\u00e9mon GO, the adventure to level 80! Get ready for a brand new leveling experience with new rewards, new cosmetics, the new Daily Adventure Egg, and more. Pok\u00e9mon GO has clarified that the lev\u2026",
+            "url": "https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/",
+            "image": "https://pokemongohub.net/wp-content/uploads/2025/10/levelling-up-level-80.jpg"
         },
         {
-            "title": "Borderlands 4 Already Selling For 20% Off On Steam, Suggesting Sales Failed To Meet Internal Expectations - Tech4Gamers",
-            "description": "Borderlands 4 is on a massive sale a month after launch, slashing its price by 20%. The offer implies it failed to sell as well as expected.",
-            "url": "https://tech4gamers.com/borderlands-20-off-steam-sale/",
-            "image": "https://tech4gamers.com/wp-content/uploads/2025/10/Borderlands-4.jpg"
+            "title": "Apple SVP On Why They Dropped The \"Plus\" From Apple TV & Hints At Subscriber Numbers - Deadline",
+            "description": "Eddy Cue, Senior Vice President of Services at Apple, is giving insight into the rebrand of Apple TV+ into simply Apple TV.",
+            "url": "http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/",
+            "image": "https://deadline.com/wp-content/uploads/2025/10/apple-tv-logo.jpg?w=1024"
         },
         {
-            "title": "macOS 26.1 beta 3 changes polarizing Macintosh HD icon - 9to5Mac",
-            "description": "It turns out Apple TV isn\u2019t the only new icon in today\u2019s 26.1 beta 3 OS releases. Remember the controversial...",
-            "url": "https://9to5mac.com/2025/10/13/macos-26-1-beta-3-changes-polarizing-macintosh-hd-icon/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-            "title": "Pok\u00e9mon TCG Pocket Announces \"New And Updated\" Features For First Anniversary - Nintendo Life",
-            "description": "Get ready, trainers",
-            "url": "https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary",
-            "image": "https://images.nintendolife.com/40eb17ac2e531/large.jpg"
+            "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition - Krebs on Security",
+            "description": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Micro\u2026",
+            "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+            "image": "https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png"
         }
     ]
 }
