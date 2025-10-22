@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Marathon's disastrous beta test was \"a very great A/B test\" for Arc Raiders, according to technical director - Eurogamer",
-            "description": "Marathon's disastrous beta test was \"a very great A/B test\" for Arc Raiders, according to technical director.",
-            "url": "https://www.eurogamer.net/marathons-disastrous-beta-test-was-a-very-great-ab-test-for-arc-raiders-according-to-technical-director",
-            "image": "https://assetsio.gnwcdn.com/arc-raiders-forst.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 - I'm near-incompetent yet having an absolute blast with Xbox's hack 'n' slash - Eurogamer",
+            "description": "Ninja Gaiden 4 is hard, but don't let that put you off from playing it.",
+            "url": "https://www.eurogamer.net/dont-let-anyone-tell-you-youre-not-skilled-enough-to-enjoy-ninja-gaiden-4-im-near-incompetent-yet-having-an-absolute-blast-with-xboxs-hack-n-slash",
+            "image": "https://assetsio.gnwcdn.com/Ninja_Gaiden_4_Xbox_screenshot_009.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Microsoft triples down on Xbox hardware commitment, while also teasing first-party gaming handhelds \u2014 will it actually happen? - Windows Central",
-            "description": "Rumors of Xbox's first-imposed demise have been greatly exaggerated, after Xbox president took to Variety to reiterate the firm's commitment to gaming hardware.",
-            "url": "https://www.windowscentral.com/gaming/xbox/microsoft-triples-down-on-xbox-hardware-commitment-while-also-teasing-first-party-gaming-handhelds-too-what-will-it-look-like-in-practice",
-            "image": "https://cdn.mos.cms.futurecdn.net/g9GGXXdCqPk56P546onSpA-1920-80.jpg"
+            "title": "Claude Code comes to iOS and web as research preview - 9to5Mac",
+            "description": "Today, Anthropic rolled out Claude Code on the web and iOS, launching it as a research preview to subscribers on its Pro and Max plans.",
+            "url": "https://9to5mac.com/2025/10/20/claude-code-preview-ios-iphone/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "UK Charts: Pok\u00e9mon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2 - Nintendo Life",
-            "description": "Launch sales 40% lower than Arceus",
-            "url": "https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2",
-            "image": "https://images.nintendolife.com/114e7f97b9333/large.jpg"
+            "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option - TechCrunch",
+            "description": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users more control over interface opacity after complaints that Liq\u2026",
+            "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?resize=1200,694"
         },
         {
-            "title": "Apple TV, Apple Music and App Store are down as Apple services suffer major outage - 9to5Mac",
-            "description": "Update: The Apple system status now says Apple TV, Apple Music and App Store issues are now resolved. Apple online...",
-            "url": "https://9to5mac.com/2025/10/19/apple-tv-music-down-apple-services-outage/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-content-is-down-error.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Apple Watch Ultra 3 after one month: The feature I can\u2019t give up - 9to5Mac",
+            "description": "Apple Watch Ultra 3 after one month: Here\u2019s what my experience has been like as someone new to the Ultra line.",
+            "url": "https://9to5mac.com/2025/10/20/apple-watch-ultra-3-after-one-month-feature-cant-give-up/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-ultra-3-photo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Nintendo Today 2.0.10 update out now, patch notes - Nintendo Everything",
-            "description": "Nintendo Today now has a new version 2.0.10 update - check out the official patch notes here.",
-            "url": "https://nintendoeverything.com/nintendo-today-2-0-10-update-out-now-patch-notes/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Today-2.0.10-update.jpg"
-        },
-        {
-            "title": "Game Of Theseus Gets Graphics Upgrade, Force Feedback 30 Years On - Hackaday",
-            "description": "Indycar Racing 2 was a good game, back in 1995; in some ways, it was the Crysis of the Clinton years, in that most mortals could not run it to its full potential when it was new. Still, that potent\u2026",
-            "url": "https://hackaday.com/2025/10/19/game-of-theseus-gets-graphics-upgrade-force-feedback-30-years-on/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/10/indycar2.png"
+            "title": "Google reportedly searching for 15 Pixel \u201cSuperfans\u201d to test unreleased phones - Ars Technica",
+            "description": "Selected testers will have to sign an NDA and use a disguised case.",
+            "url": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg"
         }
     ]
 }
