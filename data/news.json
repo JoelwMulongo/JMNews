@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 - I'm near-incompetent yet having an absolute blast with Xbox's hack 'n' slash - Eurogamer",
-            "description": "Ninja Gaiden 4 is hard, but don't let that put you off from playing it.",
-            "url": "https://www.eurogamer.net/dont-let-anyone-tell-you-youre-not-skilled-enough-to-enjoy-ninja-gaiden-4-im-near-incompetent-yet-having-an-absolute-blast-with-xboxs-hack-n-slash",
-            "image": "https://assetsio.gnwcdn.com/Ninja_Gaiden_4_Xbox_screenshot_009.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
+            "description": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Explorer updates, and general quality of life improvements, which is now in the final testing stages before general availability.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
+            "image": "https://cdn.mos.cms.futurecdn.net/xhVcK68PshXPbNM4ZVwdYe-2560-80.jpg"
         },
         {
-            "title": "Claude Code comes to iOS and web as research preview - 9to5Mac",
-            "description": "Today, Anthropic rolled out Claude Code on the web and iOS, launching it as a research preview to subscribers on its Pro and Max plans.",
-            "url": "https://9to5mac.com/2025/10/20/claude-code-preview-ios-iphone/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "AI chatbots fail at accurate news, major study reveals - DW",
+            "description": "AI chatbots such as ChatGPT and Copilot routinely distort the news and struggle to distinguish facts from opinion. That's according to a major new study from 22 international public broadcasters, including DW.",
+            "url": "https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921",
+            "image": "https://static.dw.com/image/74390458_6.jpg"
         },
         {
-            "title": "Apple will let users roll back the Liquid Glass look with new \u2018tinted\u2019 option - TechCrunch",
-            "description": "Apple is responding to user feedback on its new Liquid Glass design with a setting that lets users choose between Clear and Tinted appearances. Introduced in iOS 26.1 beta 4, the option gives users more control over interface opacity after complaints that Liq\u2026",
-            "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?resize=1200,694"
+            "title": "Apple slashes iPhone Air production plans, boosts other 17 models: sources - Nikkei Asia",
+            "description": "Overall sales of new lineup defies weak market and tariff war",
+            "url": "https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources",
+            "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F5%2F2%2F2%2F11592258-1-eng-GB%2F95a145e8d1b1-bb.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630"
         },
         {
-            "title": "Apple Watch Ultra 3 after one month: The feature I can\u2019t give up - 9to5Mac",
-            "description": "Apple Watch Ultra 3 after one month: Here\u2019s what my experience has been like as someone new to the Ultra line.",
-            "url": "https://9to5mac.com/2025/10/20/apple-watch-ultra-3-after-one-month-feature-cant-give-up/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-ultra-3-photo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "OpenAI launches browser to rival Google Chrome - DW",
+            "description": "Atlas, OpenAI's new ChatGPT-powered browser, launched on Tuesday looking to \"rethink what a browser can be about\" and challenge the hegemony of Google Chrome. But how accurate are AI browsers?",
+            "url": "https://www.dw.com/en/openai-launches-browser-to-rival-google-chrome/a-74452151",
+            "image": "https://static.dw.com/image/74452225_6.jpg"
         },
         {
-            "title": "Google reportedly searching for 15 Pixel \u201cSuperfans\u201d to test unreleased phones - Ars Technica",
-            "description": "Selected testers will have to sign an NDA and use a disguised case.",
-            "url": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg"
+            "title": "GameCube Classic Luigi's Mansion Hits Nintendo Switch 2 Just in Time for Halloween - IGN",
+            "description": "Luigi's Mansion is finally coming to the Nintendo Switch Online library. Debuting on October 30, the GameCube classic arrives just in time for Halloween, and means the entire trilogy, along with Luigi's Mansion 2 and Luigi's Mansion 3, is now playable on Nint\u2026",
+            "url": "https://www.ign.com/articles/gamecube-classic-luigis-mansion-hits-nintendo-switch-2-just-in-time-for-halloween",
+            "image": "https://assets-prd.ignimgs.com/2025/10/22/switch2-nso-gcn-luigis-mansion-3-1761123227988.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+            "title": "The first major OnePlus 15 price leak has encouraging news - Android Authority",
+            "description": "The OnePlus 15 is around the corner, and a price leak by a prominent tipster has some encouraging news for us.",
+            "url": "https://www.androidauthority.com/oneplus-15-price-leak-3609107/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/OnePlus-15-in-hand-taking-a-photo.jpg"
         }
     ]
 }
