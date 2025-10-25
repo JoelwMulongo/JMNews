@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "CS2 skin update \u2018rug pulls\u2019 collectors as $1 billion wiped from market cap - Dexerto",
-            "description": "Counter-Strike 2\u2019s October 23 update has sent shockwaves through the skin trading community, with the market cap plummeting by over $1 billion.",
-            "url": "https://www.dexerto.com/counter-strike-2/cs2-skin-update-rug-pulls-collectors-as-1-billion-wiped-from-market-cap-3273322/",
-            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/11/07/cs2-knives.jpg"
+            "title": "Apple decries \u2018intense lobbying,\u2019 threatens to turn off App Tracking Transparency in Europe - 9to5Mac",
+            "description": "In a statement to the German Press Agency, Apple claimed that it may have to turn off App Tracking Transparency...",
+            "url": "https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/04/apple-app-tracking-transparency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Mysterious OnePlus phone with Qualcomm Snapdragon 8 Gen 5 and 8,000mAh+ battery leaks with release timeline - Notebookcheck",
-            "description": "A new OnePlus smartphone has leaked online with high-end specifications. The device will feature the Qualcomm Snapdragon 8 Gen 5 processor and a large battery capacity exceeding current OnePlus models. The tipster has not revealed the phone's name or exact se\u2026",
-            "url": "https://www.notebookcheck.net/Mysterious-OnePlus-phone-with-Qualcomm-Snapdragon-8-Gen-5-and-8-000mAh-battery-leaks-with-release-timeline.1144658.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Snapdragon-8-Gen-5-Qualcomm-News-OnePlus-Ace-6-Pro.png"
+            "title": "Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable",
+            "description": "There's a big gulf in price, but what about everything else?",
+            "url": "https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price",
+            "image": "https://helios-i.mashable.com/imagery/articles/04vZj68QchmBWfIivIErr0j/hero-image.fill.size_1200x675.v1761246219.jpg"
         },
         {
-            "title": "BIND warns of bugs that could bring DNS cache attack back from the dead - Ars Technica",
-            "description": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-            "url": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg"
+            "title": "Microsoft Edge\u2019s new Copilot Mode turns on more AI features - The Verge",
+            "description": "Microsoft is launching Copilot Mode in Edge, making its AI assistant your portal to the web. The company is also previewing agentic Copilot Actions and Journeys.",
+            "url": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "'Sean Dummy': Elon Musk goes after acting NASA chief after reopening of moon-landing contract - Space",
-            "description": "\"Should someone whose biggest claim to fame is climbing trees be running America's space program?\"",
-            "url": "https://www.space.com/space-exploration/sean-dummy-why-is-elon-musk-attacking-the-acting-nasa-chief",
-            "image": "https://cdn.mos.cms.futurecdn.net/3rSGifSfbks25MTRBF7kjK-1920-80.jpg"
+            "title": "Nintendo\u2019s chips let this Lego Game Boy upgrade kit play real cartridges - The Verge",
+            "description": "Natalie the Nerd, who modded the Lego Game Boy to play actual carts, will sell her mod as a drop-in kit as well as DIY versions.",
+            "url": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/bafkreian7lid7oqvf4wrsjj73ustwnhucknnehdpgseuzrosro2pqrxdxy.jpg?quality=90&strip=all&crop=0%2C12.387915989649%2C100%2C75.224168020702&w=1200"
         },
         {
-            "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
-            "description": "Starting in January, new comic book variant covers will feature character artwork from 'MARVEL Cosmic Invasion,' the upcoming game from Dotemu and Tribute Games, made in collaboration with Marvel Games.",
-            "url": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers",
-            "image": "https://cdn.marvel.com/content/1x/storm2026001_cosmic_var4x5.jpg"
+            "title": "Amazon (AMZN) Sees Another Senior VP Exit from Devices Unit This Month - TipRanks",
+            "description": "Amazon ($AMZN) is facing its second high-level departure from the devices division this month. Lindo St. Angel, a 15-year veteran and vice president (VP) of hardwar...",
+            "url": "https://www.tipranks.com/news/amazon-amzn-sees-another-senior-vp-exit-from-devices-unit-this-month",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2025/10/shutterstock_2624967797-750x406.jpg"
+        },
+        {
+            "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
+            "description": "OpenAI has acquired Software Applications, Inc., the startup behind Sky \u2014 an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
+            "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_16_9.webp?resize=1200,677"
         }
     ]
 }
