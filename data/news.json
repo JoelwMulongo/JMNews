@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft's Halo series heading to rival PlayStation - BBC",
-            "description": "Microsoft is taking one of its most popular and recognisable game series to a rival console for the first time.",
-            "url": "https://www.bbc.com/news/articles/ckg14442r73o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5c84/live/f564b960-b17e-11f0-a628-fdce540967b8.jpg"
+            "title": "AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Slashdot",
+            "description": "\"OpenAI's o3 model sabotaged a shutdown mechanism to prevent itself from being turned off,\" warned Palisade Research, a nonprofit investigating cyber offensive AI capabilities.   \"It did this even when explicitly instructed: allow yourself to be shut down.\"  \u2026",
+            "url": "https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say",
+            "image": "https://a.fsdn.com/sd/topics/ai_64.png"
         },
         {
-            "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
-            "description": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an emergency update. Here\u2019s what you need to know.",
-            "url": "https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/68fc877d881b796e82ab5188/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "The Strange Lawsuit That Put A Chevy Beretta Inside Beretta's Headquarters - Jalopnik",
+            "description": "The strange lawsuit that put a Chevy Beretta inside the U.S. headquarters of the Italian gun brand involved GM's illegal use of the gunmaker's family name.",
+            "url": "https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/",
+            "image": "https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg"
         },
         {
-            "title": "Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life",
-            "description": "Launching this November",
-            "url": "https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2",
-            "image": "https://images.nintendolife.com/1468b58183fc9/large.jpg"
+            "title": "Samsung Galaxy XR Has Easy Sideloading & An Open Bootloader - UploadVR",
+            "description": "Samsung Galaxy XR supports sideloading APKs by default, without needing a PC or developer mode, and has an open bootloader too.",
+            "url": "https://www.uploadvr.com/samsung-galaxy-xr-has-easy-sideloading-and-open-bootloader/",
+            "image": "https://www.uploadvr.com/content/images/size/w1200/2025/10/Galaxy-XR-powered-by-Android-XR.png"
         },
         {
-            "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
-            "description": "In the fourth iOS 26.1 beta, Apple added a \"Tinted\" option that reduces the translucency of Liquid Glass for those who prefer a more opaque...",
-            "url": "https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/",
-            "image": "https://images.macrumors.com/t/qVCjBM-27aNBlCHzdqUNSfBV7js=/2500x/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg"
+            "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
+            "description": "OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.",
+            "url": "https://www.bbc.com/news/articles/c20pdy1exxvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg"
         },
         {
-            "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital - Ars Technica",
-            "description": "The 61-year-old had wounds all over, a bacterial infection, and needed intensive care.",
-            "url": "https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg"
+            "title": "Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint",
+            "description": "<p>Earlier in the summer we announced that Year 4 would be the final year for Official HCS competition on Halo Infinite, and today at HaloWC we announced some more information about what competitors can expect in 2026. Competitive Halo is important to you, th\u2026",
+            "url": "https://www.halowaypoint.com/news/halo-esports-2026-update",
+            "image": "https://wpassets.halowaypoint.com/wp-content/2024/01/HCS-Hall-Of-Champions.png"
         },
         {
-            "title": "Wordle has achievements now - The Verge",
-            "description": "Spelling Bee and Connections have them, too.",
-            "url": "https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-24-at-2.26.00%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C6.5252100560815%2C100%2C86.949579887837&w=1200"
+            "title": "Pokemon Legends: Z-A glitch found to duplicate shiny Pokemon - Nintendo Everything",
+            "description": "Brand new Pokemon Legends: Z-A glitch found to duplicate and clone shiny Pokemon - here's how it works and all of the steps.",
+            "url": "https://nintendoeverything.com/pokemon-legends-z-a-glitch-found-to-duplicate-shiny-pokemon/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-shiny-duplication-glitch.jpg"
         }
     ]
 }
