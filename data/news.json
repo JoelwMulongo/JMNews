@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Slashdot",
-            "description": "\"OpenAI's o3 model sabotaged a shutdown mechanism to prevent itself from being turned off,\" warned Palisade Research, a nonprofit investigating cyber offensive AI capabilities.   \"It did this even when explicitly instructed: allow yourself to be shut down.\"  \u2026",
-            "url": "https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say",
-            "image": "https://a.fsdn.com/sd/topics/ai_64.png"
+            "title": "Battlefield 6's next patch will address the game's most frustrating problem ahead of Season One's release - Eurogamer",
+            "description": "Battlefield 6's next patch will address the game's most frustrating problem ahead of Season One's release.",
+            "url": "https://www.eurogamer.net/battlefield-6s-next-patch-will-address-the-games-most-frustrating-problem-ahead-of-season-ones-release",
+            "image": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "The Strange Lawsuit That Put A Chevy Beretta Inside Beretta's Headquarters - Jalopnik",
-            "description": "The strange lawsuit that put a Chevy Beretta inside the U.S. headquarters of the Italian gun brand involved GM's illegal use of the gunmaker's family name.",
-            "url": "https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/",
-            "image": "https://www.jalopnik.com/img/gallery/the-strange-lawsuit-that-put-a-chevy-beretta-inside-berettas-headquarters/l-intro-1761155017.jpg"
+            "title": "It's 2025, and Pixels still don't seem to deliver notifications on time - Android Authority",
+            "description": "Pixel 10 owners are no reporting that notifications on their phones are severely delayed, but this isn't a new problem for Google's phones.",
+            "url": "https://www.androidauthority.com/google-pixel-notification-delay-3610210/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Android-bots-standing-over-a-Pixel-phone-with-various-notifications.jpg"
         },
         {
-            "title": "Samsung Galaxy XR Has Easy Sideloading & An Open Bootloader - UploadVR",
-            "description": "Samsung Galaxy XR supports sideloading APKs by default, without needing a PC or developer mode, and has an open bootloader too.",
-            "url": "https://www.uploadvr.com/samsung-galaxy-xr-has-easy-sideloading-and-open-bootloader/",
-            "image": "https://www.uploadvr.com/content/images/size/w1200/2025/10/Galaxy-XR-powered-by-Android-XR.png"
+            "title": "This Week\u2019s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales of Xillia Remastered, more - Gematsu",
+            "description": "Dragon Quest I & II HD-2D Remake for PlayStation 5, Xbox Series, Switch 2, Switch, and PC, and Tales of Xillia Remastered for PlayStation 5, Xbox Series, Switch, and PC are the highlights of th\u2026",
+            "url": "https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more",
+            "image": "https://www.gematsu.com/wp-content/uploads/2025/10/Japanese-Game-Releases_10-26-25.jpg"
         },
         {
-            "title": "I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC",
-            "description": "OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.",
-            "url": "https://www.bbc.com/news/articles/c20pdy1exxvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg"
+            "title": "Cancelled God of War PS5 Game Leaks in Screenshots - Push Square",
+            "description": "Here's what Bluepoint was making",
+            "url": "https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots",
+            "image": "https://images.pushsquare.com/1c7b3f18785c4/large.jpg"
         },
         {
-            "title": "Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint",
-            "description": "<p>Earlier in the summer we announced that Year 4 would be the final year for Official HCS competition on Halo Infinite, and today at HaloWC we announced some more information about what competitors can expect in 2026. Competitive Halo is important to you, th\u2026",
-            "url": "https://www.halowaypoint.com/news/halo-esports-2026-update",
-            "image": "https://wpassets.halowaypoint.com/wp-content/2024/01/HCS-Hall-Of-Champions.png"
-        },
-        {
-            "title": "Pokemon Legends: Z-A glitch found to duplicate shiny Pokemon - Nintendo Everything",
-            "description": "Brand new Pokemon Legends: Z-A glitch found to duplicate and clone shiny Pokemon - here's how it works and all of the steps.",
-            "url": "https://nintendoeverything.com/pokemon-legends-z-a-glitch-found-to-duplicate-shiny-pokemon/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Legends-Z-A-shiny-duplication-glitch.jpg"
+            "title": "Sony Rules Out Acquiring Batman, Mortal Kombat Maker Warner Bros - Push Square",
+            "description": "Doesn't want a \"big Hollywood M&A deal\" right now",
+            "url": "https://www.pushsquare.com/news/2025/10/sony-rules-out-acquiring-batman-mortal-kombat-maker-warner-bros",
+            "image": "https://images.pushsquare.com/a576e49459fac/large.jpg"
         }
     ]
 }
