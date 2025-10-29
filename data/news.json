@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Battlefield 6's next patch will address the game's most frustrating problem ahead of Season One's release - Eurogamer",
-            "description": "Battlefield 6's next patch will address the game's most frustrating problem ahead of Season One's release.",
-            "url": "https://www.eurogamer.net/battlefield-6s-next-patch-will-address-the-games-most-frustrating-problem-ahead-of-season-ones-release",
-            "image": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and Battle Pass Progression Later Today - IGN",
+            "description": "No description available.",
+            "url": "https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today",
+            "image": null
         },
         {
-            "title": "It's 2025, and Pixels still don't seem to deliver notifications on time - Android Authority",
-            "description": "Pixel 10 owners are no reporting that notifications on their phones are severely delayed, but this isn't a new problem for Google's phones.",
-            "url": "https://www.androidauthority.com/google-pixel-notification-delay-3610210/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Android-bots-standing-over-a-Pixel-phone-with-various-notifications.jpg"
+            "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware - The Hacker News",
+            "description": "Kaspersky reveals Chrome zero-day CVE-2025-2783 exploited to deploy Memento Labs\u2019 LeetAgent spyware.",
+            "url": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s790-rw-e365/chrome-exploit.png"
         },
         {
-            "title": "This Week\u2019s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales of Xillia Remastered, more - Gematsu",
-            "description": "Dragon Quest I & II HD-2D Remake for PlayStation 5, Xbox Series, Switch 2, Switch, and PC, and Tales of Xillia Remastered for PlayStation 5, Xbox Series, Switch, and PC are the highlights of th\u2026",
-            "url": "https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more",
-            "image": "https://www.gematsu.com/wp-content/uploads/2025/10/Japanese-Game-Releases_10-26-25.jpg"
+            "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
+            "description": "You can do better",
+            "url": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting",
+            "image": "https://images.pushsquare.com/01b8fb4d7dc90/large.jpg"
         },
         {
-            "title": "Cancelled God of War PS5 Game Leaks in Screenshots - Push Square",
-            "description": "Here's what Bluepoint was making",
-            "url": "https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots",
-            "image": "https://images.pushsquare.com/1c7b3f18785c4/large.jpg"
+            "title": "BREAKING: This is the Galaxy Z TriFold! - SamMobile",
+            "description": "After years of reports and rumors, the day is finally here. Samsung is finally ready to launch its first tri-folding smartphone. The first official look of the Galaxy Z TriFold has been revealed ahead of the APEC 2025 summit that is happening this week in Sou\u2026",
+            "url": "https://www.sammobile.com/news/galaxy-z-trifold-showcased-officially/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-Galaxy-Z-TriFold-1200x675.jpeg"
         },
         {
-            "title": "Sony Rules Out Acquiring Batman, Mortal Kombat Maker Warner Bros - Push Square",
-            "description": "Doesn't want a \"big Hollywood M&A deal\" right now",
-            "url": "https://www.pushsquare.com/news/2025/10/sony-rules-out-acquiring-batman-mortal-kombat-maker-warner-bros",
-            "image": "https://images.pushsquare.com/a576e49459fac/large.jpg"
+            "title": "Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square",
+            "description": "Ashes to ashes",
+            "url": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive",
+            "image": "https://images.pushsquare.com/f72477409aef4/large.jpg"
+        },
+        {
+            "title": "Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintendo Life",
+            "description": "Out on Switch 2 next week",
+            "url": "https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment",
+            "image": "https://images.nintendolife.com/d3bc1b6a38cf6/large.jpg"
         }
     ]
 }
