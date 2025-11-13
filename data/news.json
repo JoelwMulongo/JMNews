@@ -1,40 +1,28 @@
 {
     "articles": [
         {
-            "title": "Sony Speaks on Bungie Acquisition Disaster, Takes an 'Impairment Loss' - Push Square",
-            "description": "Sales, user engagement fallen short of expectations",
-            "url": "https://www.pushsquare.com/news/2025/11/sony-speaks-on-bungie-acquisition-disaster-takes-an-impairment-loss",
-            "image": "https://images.pushsquare.com/8aa631075e14b/large.jpg"
+            "title": "BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - EventHubs",
+            "description": "Sony's latest State of Play event today had some exciting reveals for fighting game fans including Marvel Tokon: Fighting Souls' second beta test, but that wasn't technically all they had to offer.BlazBlue was also announced to be ...",
+            "url": "https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/",
+            "image": "https://media.eventhubs.com/images/2025/11/11-blazblue-console-returnt.webp"
         },
         {
-            "title": "PlayStation experiences H1 sales increase, PS5 reaches 84m in lifetime sales - GamesIndustry.biz",
-            "description": "Sony increases full-year forecast for games revenue, Ghost of Y\u014dtei sells 3.3 million copies in launch month",
-            "url": "https://www.gamesindustry.biz/playstation-experiences-h1-sales-increase-ps5-reaches-84m-in-lifetime-sales",
-            "image": "https://assetsio.gnwcdn.com/ghost-of-yotei-trailer-HD-scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "OCTOPATH TRAVELER 0 demo now available - Square Enix",
+            "description": "Welcome to the official SQUARE ENIX website. Find all the latest news and updates about your favourite games and upcoming releases.",
+            "url": "https://www.square-enix-games.com/news/octopath-traveler-0-demo",
+            "image": null
         },
         {
-            "title": "Pok\u00e9mon GO Wild Area 2025 Global Preparation Guide - Pok\u00e9mon GO Hub",
-            "description": "With Wild Area 2025 Global looming (November 15 - 16), now is the time to prep! Preparation is key to making sure you can optimise your time, items, and enjoyment at events like these, and there can be a lot more to think about that you might initially realis\u2026",
-            "url": "https://pokemongohub.net/post/guide/pokemon-go-wild-area-2025-global-preparation-guide/",
-            "image": "https://pokemongohub.net/wp-content/uploads/2025/08/GOWA2025_Global_Blog_1920x1080_sku.jpeg"
+            "title": "Windows president says platform is \"evolving into an agentic OS,\" gets cooked in the replies \u2014 \"Straight up, nobody wants this\" - Windows Central",
+            "description": "Microsoft's current Windows lead Pavan Davuluri has tweeted that the future of Windows will be one that evolves into an agentic OS, but has received significant pushback online.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online",
+            "image": "https://cdn.mos.cms.futurecdn.net/QCmJiX2rsmHfLyCFYvMBMR-1200-80.jpg"
         },
         {
-            "title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple",
-            "description": "ISSEY MIYAKE and Apple today unveiled iPhone Pocket, designed to fit any iPhone as well as all pocketable items.",
-            "url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
-            "image": "https://www.apple.com/newsroom/images/2025/11/introducing-iphone-pocket-a-beautiful-and-wearable-carrier-for-iphone/tile/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-hero-lp.jpg.og.jpg?202511110901"
-        },
-        {
-            "title": "November Pixel update isn't here yet, but Verizon just spilled the details - Android Authority",
-            "description": "Verizon has already detailed the November Pixel update even though Google has not started rolling it out officially.",
-            "url": "https://www.androidauthority.com/pixel-november-update-verizon-3614531/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-pixel-update-screen-android-16-scaled.jpg"
-        },
-        {
-            "title": "Nintendo Switch 2 System Update 21.0.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Also available for Switch",
-            "url": "https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-0-is-now-live-here-are-the-full-patch-notes",
-            "image": "https://images.nintendolife.com/fa9dba6717b51/large.jpg"
+            "title": "Latest Switch 2 firmware update appears to be killing select third party docks - GoNintendo",
+            "description": "Docked, rocked and clocked",
+            "url": "https://www.gonintendo.com/contents/54866-latest-switch-2-firmware-update-appears-to-be-killing-select-third-party-docks",
+            "image": "https://gonintendo.com/attachments/image/73081/file/medium-dc13bab171844a127fed56ef31b6bd4e.jpg"
         }
     ]
 }
