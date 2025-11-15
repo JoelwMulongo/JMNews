@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC",
-            "description": "The Steam Machine is a console designed to allow gamers to play PC games on their TV.",
-            "url": "https://www.bbc.com/news/articles/cd679n9lnx5o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/199d/live/01953e30-c075-11f0-bdd8-53dc2d8e9355.png"
+            "title": "Arc Raiders Dev Drops Cosmetic Prices, Offers Refunds, and Reveals It 'Silently' Enabled Duo Prioritized Matchmaking - IGN",
+            "description": "Surprise! Arc Raiders is cutting the prices of its store cosmetics, and will refund anyone who snapped them up before the new price goes into effect tomorrow, November 13.",
+            "url": "https://www.ign.com/articles/arc-raiders-dev-drops-cosmetic-prices-offers-refunds-and-reveals-it-silently-enabled-duo-prioritized-matchmaking",
+            "image": "https://assets-prd.ignimgs.com/2025/04/28/arcraiders-blogroll-1745884275664.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Samsung\u2019s trifold gets a name and \u2018confirmed\u2019 specs - The Verge",
-            "description": "The Galaxy Z TriFold could launch on December 5th.",
-            "url": "https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2243325129.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200"
+            "title": "Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life",
+            "description": "Join in on the fun this weekend",
+            "url": "https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes",
+            "image": "https://images.nintendolife.com/d5cc7d4d9aed9/large.jpg"
         },
         {
-            "title": "The Next Horizon Game Is an MMO for Mobile and PC, Prompting Fury from PS5 Fans - Push Square",
-            "description": "Watch the first gameplay footage",
-            "url": "https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-for-mobile-and-pc-prompting-fury-from-ps5-fans",
-            "image": "https://images.pushsquare.com/87654cc5282ce/large.jpg"
+            "title": "OnePlus 15 vs OnePlus 13: Sample Photos Comparison - PhoneArena",
+            "description": "OnePlus has cut ties with Hasselblad, so how has image quality changed as a result?",
+            "url": "https://www.phonearena.com/news/OnePlus-15-vs-OnePlus-13-Sample-Photos-Comparison_id175623",
+            "image": "https://m-cdn.phonearena.com/images/article/175623-wide-two_1200/OnePlus-15-vs-OnePlus-13-Sample-Photos-Comparison.jpg"
         },
         {
-            "title": "Android will let \u2018experienced users\u2019 sideload unverified apps as Google makes case for verification - 9to5Google",
-            "description": "In August, Google announced that it will require developer verification to install Android apps, including through sideloading. That\u2019s continuing, but Google is working on a solution for \u201cexperienced users.\u201d",
-            "url": "http://9to5google.com/2025/11/12/android-sideload-unverified-apps/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-2_ef6ffb.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here\u2019s Everything Coming in December and Beyond - The Game Post",
+            "description": "Bungie has finally released the long-awaited Destiny 2: Renegades roadmap after months of silence.",
+            "url": "https://thegamepost.com/bungie-destiny-2-renegades-roadmap/",
+            "image": "https://thegamepost.com/wp-content/uploads/2025/11/destiny-2-renegades-roadmap-74.jpg"
         },
         {
-            "title": "Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto",
-            "description": "Ahead of the game\u2019s launch, devs have revealed the full Black Ops 7 Day One patch notes. Here\u2019s the rundown.",
-            "url": "https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/",
-            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/10/21/Black-Ops-7-early-release-date-leak.jpg"
+            "title": "Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Morning America",
+            "description": "Apple's new accessory offers a stylish way to carry your iPhone.",
+            "url": "https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542",
+            "image": "https://i.abcnewsfe.com/a/03e200cc-b18f-41bc-b452-89aaf08866ac/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-short-strap-colors_1763060184851_hpMain_16x9.jpg?w=992"
+        },
+        {
+            "title": "Firefox adds AI Window, users want AI wall to keep it out - theregister.com",
+            "description": ": Browser maker scolds AI objectors, \"The web is changing, and sitting it out doesn\u2019t help anyone\"",
+            "url": "https://www.theregister.com/2025/11/13/firefox_adds_ai_window/",
+            "image": "https://regmedia.co.uk/2023/08/30/shutterstock_firefox.jpg"
         }
     ]
 }
