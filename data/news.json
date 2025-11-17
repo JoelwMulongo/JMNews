@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "100 CNET Reader-Approved Tech Products Best for Holiday Shopping - CNET",
-            "description": "Keep your holiday stockings stuffed and family and friends happy with these incredible and affordable gift ideas.",
-            "url": "https://www.cnet.com/deals/100-cnet-reader-approved-tech-products-best-for-holiday-shopping/",
-            "image": "https://www.cnet.com/a/img/resize/d9b6189deee3dc7a1976d63ce78b71aaa7e6a421/hub/2025/11/05/6b81eceb-a543-4631-93e4-188896f5bdb8/6-top-100-readers-choice-early.png?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Multiple Switch Games Get Switch 2 Compatibility Fixes - Nintendo Life",
+            "description": "Nintendo released a new system update this week",
+            "url": "https://www.nintendolife.com/news/2025/11/multiple-switch-games-get-switch-2-compatibility-fixes",
+            "image": "https://images.nintendolife.com/fd114d839bdc8/large.jpg"
         },
         {
-            "title": "Sony cracks down on Concord custom servers, issues DMCA takedowns on gameplay videos - The Game Post",
-            "description": "Sony has started removing YouTube videos showing Concord running on fan-made custom servers, raising new questions about how far the company will go to shut down the community revival.",
-            "url": "https://thegamepost.com/sony-cracks-down-concord-custom-servers-dmca-takedowns/",
-            "image": "https://thegamepost.com/wp-content/uploads/2025/11/sony-cracks-down-concord-custom-servers-dmca-takedowns-6.jpg"
+            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDNET",
+            "description": "Which phone deserves your hard-earned money this holiday season? Here's how to decide.",
+            "url": "https://www.zdnet.com/article/oneplus-15-vs-samsung-galaxy-s25-ultra-ive-used-both-android-flagships-and-heres-who-wins/",
+            "image": "https://www.zdnet.com/a/img/resize/8ff136a6d5c6e04a8ededca41f30f7e97fbdc552/2025/11/13/49f3caca-801d-4a38-9afd-193d4800ff67/comparison-2.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Black Ops 7 Ashes of the Damned main quest easter egg guide - PCGamesN",
-            "description": "The Black Ops 7 Zombies Ashes of the Damned main quest is our first of the 2025 CoD release, and takes us on a wild zombie-fuelled joy ride.",
-            "url": "https://www.pcgamesn.com/call-of-duty-black-ops-7/ashes-of-the-damned-main-quest-easter-egg",
-            "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/11/ashes-of-the-damned-main-quest.jpg"
+            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kotaku",
+            "description": "Dell's Vostro packs 32GB RAM with 1TB SSD and 120Hz display.",
+            "url": "https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605",
+            "image": "https://kotaku.com/app/uploads/2025/11/vostro-dell.jpg"
         },
         {
-            "title": "Apple\u2019s $230 Cloth iPhone Pouch Is Already Sold Out \u2014 Here\u2019s What It\u2019s Like - Bloomberg.com",
-            "description": "Early Friday, a crowd of people lined up outside Apple Inc.\u2019s SoHo location in New York to be among the first to get their hands on a new, limited-edition product: an up to $230 iPhone pouch the company said is \u201cinspired by the concept of a piece of cloth.\u201d",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-14/apple-issey-miyake-iphone-pocket-price-colors-review-where-to-buy-sold-out",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iG541O1RqASA/v0/1200x800.jpg"
+            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+            "description": "It did not comply with current platform guidelines",
+            "url": "https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled",
+            "image": "https://images.nintendolife.com/2ebe43bb32338/large.jpg"
         },
         {
-            "title": "Garmin Fenix 8 is $250 off, and All The Best Garmin Deals! - DC Rainmaker",
-            "description": "Garmin has kicked off its Holiday 2025 sales, with the Fenix 8 at $250 off, the Venu X1 at $200 off, and a slate of other watches at $100-$150 off. The way Garmin structures its sales, these will be the",
-            "url": "https://www.dcrainmaker.com/2025/11/garmin-best-black-friday-deals-holidays-2025.html",
-            "image": "https://media.dcrainmaker.com/images/2025/11/GarminDeals-1.jpg"
+            "title": "Windows president addresses current state of Windows 11 after AI backlash \u2014 \"We know we have a lot of work to do\" - Windows Central",
+            "description": "Pavan Davuluri has addressed recent negative feedback about the future of Windows becoming an agentic OS, and says the team is listening and wants the platform to be great for developers and power users too.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-president-addresses-current-state-of-windows-11-after-ai-backlash-we-know-we-have-a-lot-of-work-to-do",
+            "image": "https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-80.jpg"
+        },
+        {
+            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
+            "description": "The festival season is fast approaching, and here are some unique tech gift ideas for the techies around you -- like instant printers, hand massagers, and more.",
+            "url": "https://www.bgr.com/2027318/tech-gifts-for-people-have-everything/",
+            "image": "https://www.bgr.com/img/gallery/tech-gifts-for-people-who-already-have-everything/l-intro-1763226122.jpg"
         }
     ]
 }
