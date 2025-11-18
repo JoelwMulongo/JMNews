@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Multiple Switch Games Get Switch 2 Compatibility Fixes - Nintendo Life",
-            "description": "Nintendo released a new system update this week",
-            "url": "https://www.nintendolife.com/news/2025/11/multiple-switch-games-get-switch-2-compatibility-fixes",
-            "image": "https://images.nintendolife.com/fd114d839bdc8/large.jpg"
+            "title": "I\u2019ve already been using a \u201cSteam Machine\u201d for months, and I think it\u2019s great - Ars Technica",
+            "description": "With a little know-how, you can get yourself a Steam Machine right this minute.",
+            "url": "https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3549-1152x648.jpeg"
         },
         {
-            "title": "OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, and here's who wins - ZDNET",
-            "description": "Which phone deserves your hard-earned money this holiday season? Here's how to decide.",
-            "url": "https://www.zdnet.com/article/oneplus-15-vs-samsung-galaxy-s25-ultra-ive-used-both-android-flagships-and-heres-who-wins/",
-            "image": "https://www.zdnet.com/a/img/resize/8ff136a6d5c6e04a8ededca41f30f7e97fbdc552/2025/11/13/49f3caca-801d-4a38-9afd-193d4800ff67/comparison-2.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Even members of the US Congress are pushing back against Call of Duty: Black Ops 7's AI use - Eurogamer",
+            "description": "Even members of the US Congress are pushing back against Call of Duty: Black Ops 7's AI use.",
+            "url": "https://www.eurogamer.net/even-members-of-the-us-congress-are-pushing-back-against-call-of-duty-black-ops-7s-ai-use",
+            "image": "https://assetsio.gnwcdn.com/black-ops-7-best-loadouts-launch-00.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Budget Laptops Cost - Kotaku",
-            "description": "Dell's Vostro packs 32GB RAM with 1TB SSD and 120Hz display.",
-            "url": "https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605",
-            "image": "https://kotaku.com/app/uploads/2025/11/vostro-dell.jpg"
+            "title": "Guest column | 4 common mistakes grandparents make, according to a pediatrician - The Washington Post",
+            "description": "Tension over parenting decisions happens often. Here\u2019s how to stop the fights and get along.",
+            "url": "https://www.washingtonpost.com/wellness/2025/11/17/grandparents-parents-tension/",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LKGJSFYR6JDRRBLJVLXOTLCSUA.jpg&w=1440"
         },
         {
-            "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
-            "description": "It did not comply with current platform guidelines",
-            "url": "https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled",
-            "image": "https://images.nintendolife.com/2ebe43bb32338/large.jpg"
+            "title": "Xbox Game Pass loses another five games in November 2025 - TrueAchievements",
+            "description": "Another five games, including Octopath Traveler and Lords of the Fallen, will leave Xbox Game Pass and PC Game Pass at the end of November 2025.",
+            "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-november-2025-wave-2",
+            "image": "https://www.trueachievements.com/imgs/166790/xbox-game-pass-loses-another-five-games-in-november-2025.jpg"
         },
         {
-            "title": "Windows president addresses current state of Windows 11 after AI backlash \u2014 \"We know we have a lot of work to do\" - Windows Central",
-            "description": "Pavan Davuluri has addressed recent negative feedback about the future of Windows becoming an agentic OS, and says the team is listening and wants the platform to be great for developers and power users too.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-president-addresses-current-state-of-windows-11-after-ai-backlash-we-know-we-have-a-lot-of-work-to-do",
-            "image": "https://cdn.mos.cms.futurecdn.net/7kZUkvTX3qs2LE52ZBteaN-2560-80.jpg"
+            "title": "Israeli-founded app preloaded on Samsung phones is attracting controversy - SamMobile",
+            "description": "For years, Samsung has shipped its Galaxy M, F, and A series smartphones in India with a little-known app called AppCloud. Despite its name, AppCloud isn\u2019t a cloud storage service. It\u2019s essentially an app-installer that surfaces third-party app recommendation\u2026",
+            "url": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/09/Samsung-logo-2-1200x675.jpg"
         },
         {
-            "title": "Tech Gifts For People Who Already Have Everything - bgr.com",
-            "description": "The festival season is fast approaching, and here are some unique tech gift ideas for the techies around you -- like instant printers, hand massagers, and more.",
-            "url": "https://www.bgr.com/2027318/tech-gifts-for-people-have-everything/",
-            "image": "https://www.bgr.com/img/gallery/tech-gifts-for-people-who-already-have-everything/l-intro-1763226122.jpg"
+            "title": "Exclusive: Meet Samsung's Galaxy Buds 4 Pro with a powerful new feature - Android Authority",
+            "description": "We've found several animations confirming the new design and features of the upcoming Samsung Galaxy Buds 4 Pro.",
+            "url": "https://www.androidauthority.com/samsung-galaxy-buds-4-pro-design-features-leak-3616254/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/Galaxy-Buds-4-Pro-New-Design-2-main.jpg"
         }
     ]
 }
