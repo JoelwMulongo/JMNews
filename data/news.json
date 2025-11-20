@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "November 2025 PS Plus Extra, Premium Games Available to Download Now - Push Square",
-            "description": "9 more PS5, PS4, and Classic titles added",
-            "url": "https://www.pushsquare.com/news/2025/11/november-2025-ps-plus-extra-premium-games-available-to-download-now",
-            "image": "https://images.pushsquare.com/5fc9a6f05631c/large.jpg"
+            "title": "Fortnite is getting Unity games - The Verge",
+            "description": "Epic Games is teaming up with Unity to bring games made using Unity\u2019s engine into Fortnite.",
+            "url": "https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258122_Fortnite_is_getting_Unity_games_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life",
-            "description": "Go on, tell us",
-            "url": "https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders",
-            "image": "https://images.nintendolife.com/28a2f612615e8/large.jpg"
+            "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
+            "description": "Black Friday is still more than a week away, but the Apple deals are already trickling in. Here, we\u2019ve rounded up the best discounts on everything from AirPods to iPads.",
+            "url": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22461476/vpavic_4547_20210421_0131.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Android Authority",
-            "description": "Google's Pixel 10 Pro recorded the fastest global median Wi-Fi download speeds, beating Apple's new iPhone 17 family.",
-            "url": "https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/iPhone-17-Pro-vs-Pixel-10-Pro-XL-cameras-2.jpg"
+            "title": "Goodbye, \u2018Halo Infinite\u2019 (2021-2025) - Gizmodo",
+            "description": "Despite the odds being stacked against it and a rough launch, 'Halo Infinite' grew into its own good thing over time.",
+            "url": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712",
+            "image": "https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1200x675.jpg"
         },
         {
-            "title": "Lenovo's 1TB Laptop Is Almost Free (Ryzen 5, 24GB RAM, Windows 11), Amazon Cuts 62% to Clear Stock - Gizmodo",
-            "description": "This laptop costs what you'd typically pay for a no-name mid-range model.",
-            "url": "https://gizmodo.com/lenovos-1tb-laptop-is-almost-free-ryzen-5-24gb-ram-windows-11-amazon-cuts-62-to-clear-stock-2000686895",
-            "image": "https://gizmodo.com/app/uploads/2025/11/lenovo-ryzen-5-1200x675.jpg"
+            "title": "Deals for Today: The Best Early Black Friday Discounts and Restocks on Pok\u00e9mon TCG and MTG - IGN",
+            "description": "Massive early Black Friday savings on Pok\u00e9mon TCG and MTG Avatar\u2014restocks, free bundles, and huge Amazon and TCGPlayer discounts.",
+            "url": "https://www.ign.com/articles/deals-for-today-the-best-early-black-friday-discounts-and-restocks-on-pokmon-tcg-and-mtg",
+            "image": "https://assets-prd.ignimgs.com/2025/11/18/feature-image-44-1763491416437.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
-            "description": "The Apple Inc. designer who helped develop the iPhone Air \u2014 and even starred in its introduction video \u2014 has left, marking the latest setback for the company\u2019s design group.",
-            "url": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwfM2kUH0G9Q/v1/1200x800.jpg"
-        },
-        {
-            "title": "Amazon Resale Has Upgraded \"Like New\" Apple iPad Pro M4 Tablets on Sale for Black Friday - IGN",
-            "description": "Get double the storage and 5G cellular connectivity for less than a base model iPad Pro.",
-            "url": "https://www.ign.com/articles/apple-ipad-pro-deals-amazon-early-black-friday-sale",
-            "image": "https://assets-prd.ignimgs.com/2025/11/17/appleipadpro2-1763420964355.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "\"Trailblazing\" Interplay co-founder Rebecca Heineman dies aged 62 - GamesIndustry.biz",
+            "description": "\"Trailblazing\" Interplay co-founder Rebecca Heineman has died of cancer aged 62.",
+            "url": "https://www.gamesindustry.biz/trailblazing-interplay-co-founder-rebecca-heineman-dies-aged-62",
+            "image": "https://assetsio.gnwcdn.com/95340983_1759594331266761_r.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
     ]
 }
