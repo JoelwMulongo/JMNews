@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Fortnite is getting Unity games - The Verge",
-            "description": "Epic Games is teaming up with Unity to bring games made using Unity\u2019s engine into Fortnite.",
-            "url": "https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258122_Fortnite_is_getting_Unity_games_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Windows on Arm is now ready for gaming thanks to some big changes - The Verge",
+            "description": "Microsoft and Qualcomm have made a lot of improvements to gaming on Windows on Arm. A new Snapdragon Control Panel includes drivers and optimizations.",
+            "url": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25501065/DSCF7721.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
-            "description": "Black Friday is still more than a week away, but the Apple deals are already trickling in. Here, we\u2019ve rounded up the best discounts on everything from AirPods to iPads.",
-            "url": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22461476/vpavic_4547_20210421_0131.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Experts Told Us Why Our Home LED Lights Die Out So Fast - CNET",
+            "description": "If your LED bulbs aren't living up to promises, we found out what may be going wrong -- and how to fix it.",
+            "url": "https://www.cnet.com/home/smart-home/experts-told-us-why-our-home-led-lights-die-out-so-fast/",
+            "image": "https://www.cnet.com/a/img/resize/30e4c336bef0bd5f232a2571e74b40a3a997b62f/hub/2025/11/19/ece34f01-6620-45ff-b25b-0b9499fad7e0/gettyimages-2049505272.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Goodbye, \u2018Halo Infinite\u2019 (2021-2025) - Gizmodo",
-            "description": "Despite the odds being stacked against it and a rough launch, 'Halo Infinite' grew into its own good thing over time.",
-            "url": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712",
-            "image": "https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1200x675.jpg"
+            "title": "Sakurai Is Keen To Live An \"Unassuming Life\", Despite His Fame And Prestige - Nintendo Life",
+            "description": "\"it's best to just play games, instead of looking at who made them\"",
+            "url": "https://www.nintendolife.com/news/2025/11/sakurai-is-keen-to-live-an-unassuming-life-despite-his-fame-and-prestige",
+            "image": "https://images.nintendolife.com/d823b56f5f84d/large.jpg"
         },
         {
-            "title": "Deals for Today: The Best Early Black Friday Discounts and Restocks on Pok\u00e9mon TCG and MTG - IGN",
-            "description": "Massive early Black Friday savings on Pok\u00e9mon TCG and MTG Avatar\u2014restocks, free bundles, and huge Amazon and TCGPlayer discounts.",
-            "url": "https://www.ign.com/articles/deals-for-today-the-best-early-black-friday-discounts-and-restocks-on-pokmon-tcg-and-mtg",
-            "image": "https://assets-prd.ignimgs.com/2025/11/18/feature-image-44-1763491416437.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Valve's Steam Machine May Not Be As Affordable As a PS5 - Push Square",
+            "description": "\"The energy in the room wasn\u2019t great\"",
+            "url": "https://www.pushsquare.com/news/2025/11/valves-steam-machine-may-not-be-as-affordable-as-a-ps5",
+            "image": "https://images.pushsquare.com/7cc9c1d016be8/large.jpg"
         },
         {
-            "title": "\"Trailblazing\" Interplay co-founder Rebecca Heineman dies aged 62 - GamesIndustry.biz",
-            "description": "\"Trailblazing\" Interplay co-founder Rebecca Heineman has died of cancer aged 62.",
-            "url": "https://www.gamesindustry.biz/trailblazing-interplay-co-founder-rebecca-heineman-dies-aged-62",
-            "image": "https://assetsio.gnwcdn.com/95340983_1759594331266761_r.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "24 Jobs That Existed 30 Years Ago But Don't Exist Today - BuzzFeed",
+            "description": "\"I worked at Napster right out of college. Those were the days. They were gearing up to become the first subscription-based streaming service.\"",
+            "url": "https://www.buzzfeed.com/jake_farrington/jobs-that-no-longer-exist-reddit",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/12/20/thumb/Npw16RW6k.jpg?crop=2999:1570;0,0%26downsize=1250:*"
+        },
+        {
+            "title": "PlayStation Black Friday Sale 2025: Massive price cuts on PS5, consoles and games \u2014 full list of discounts - livemint.com",
+            "description": "PlayStation India\u2019s 2025 Black Friday Sale is offering major discounts on PS5 consoles, DualSense controllers, PS VR2, accessories, and games from November 21 to December 4. The sale features some of the biggest price cuts. Here is the full list of discounted\u2026",
+            "url": "https://www.livemint.com/technology/gadgets/playstation-india-black-friday-sale-2025-massive-price-cuts-on-ps5-consoles-and-games-full-list-of-discounts-11763602909168.html",
+            "image": "https://www.livemint.com/lm-img/img/2025/11/20/1600x900/logo/fvvvvvvvvvvvvvvvvvvvvvv_1763603249011_1763603254597.webp"
         }
     ]
 }
