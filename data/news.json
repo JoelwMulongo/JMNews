@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Best Apple Black Friday deals live now \u2014 AirPods, MacBooks, iPads and more from $17 - Tom's Guide",
-            "description": "The best Apple Black Friday deals happening right now",
-            "url": "https://www.tomsguide.com/live/news/black-friday-apple-deals-2025",
-            "image": "https://cdn.mos.cms.futurecdn.net/sgS7A4ihiCsrLSF67nBP9Q-2000-80.jpg"
+            "title": "Every iPad Apple sells hit a new all-time low price for Black Friday - Macworld",
+            "description": "If you're looking for a new iPad, iPad Air, iPad mini or iPad Pro we can help you find a bargain this Black Friday.",
+            "url": "https://www.macworld.com/article/1374180/best-ipad-black-friday-week-deals-2025.html",
+            "image": "https://www.macworld.com/wp-content/uploads/2025/11/mw-bf-ipad-deals-primary-14.jpg?quality=50&strip=all&w=1024"
         },
         {
-            "title": "Expensive Batteries Hide Cheap Tricks - Hackaday",
-            "description": "In our modern world full of planned obsolescence helping to fuel cycles of consumerism, the thing that really lets companies dial this up to the max is locked-down electronics and software. We all \u2026",
-            "url": "https://hackaday.com/2025/11/23/expensive-batteries-hide-cheap-tricks/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/11/battery-balance-main.png"
+            "title": "I'm a laptop expert and these 53+ Black Friday deals are the ones I\u2019d recommend to friends and family without hesitation - Tom's Guide",
+            "description": "Now's the best time to upgrade if you don\u2019t want to pay full price for a new laptop",
+            "url": "https://www.tomsguide.com/live/news/black-friday-laptop-deals",
+            "image": "https://cdn.mos.cms.futurecdn.net/L5YNtrRwwCLjacLqGKXoic-2560-80.jpg"
         },
         {
-            "title": "YouTuber exposes the most censored and surveilled Android phones in the world - Android Authority",
-            "description": "YouTuber Mrwhosetheboss tested two North Korean smartphones, revealing extreme levels of censorship, surveillance, and propaganda.",
-            "url": "https://www.androidauthority.com/north-korean-smartphones-3618863/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/North-Korean-Phones-Mrwhosetheboss-2.jpg"
+            "title": "Google is looking to take over the desktop with Aluminium OS - Android Police",
+            "description": "A bold new move to redefine the desktop",
+            "url": "https://www.androidpolice.com/google-is-looking-to-take-over-the-desktop-with-aluminium-os/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/12/chromeos-android-feature-01.jpg?w=1600&h=900&fit=crop"
         },
         {
-            "title": "A Couple Of New DOS PCs Appear - Hackaday",
-            "description": "An interesting trend over the last year or two has been the emergence of modern retrocomputer PCs, recreations of classic PC hardware from back in the day taking advantage of modern parts alongside\u2026",
-            "url": "https://hackaday.com/2025/11/23/a-couple-of-new-dos-pcs-appear/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/11/pocket-86-featured.jpg"
+            "title": "Nintendo Switch 2 System Update 21.0.1 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+            "description": "Also available for Switch",
+            "url": "https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-1-is-now-live-here-are-the-full-patch-notes",
+            "image": "https://images.nintendolife.com/fbae21f0730cd/large.jpg"
         },
         {
-            "title": "Save Up To 70% On Atlus RPGs - Metaphor ReFantazio, Persona, SMT & more - GameSpot",
-            "description": "Get Metaphor ReFantazio and several other great Atlus games at a discount during Black Friday.",
-            "url": "https://www.gamespot.com/articles/save-up-to-70-on-atlus-rpgs-metaphor-refantazio-persona-smt-more/1100-6536255/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4603068-metaphor-main.jpg"
+            "title": "Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale - GameSpot",
+            "description": "Nintendo's official Black Friday Sale includes Paper Mario: The Thousand-Year Door, Super Mario Odyssey, Zelda: Echoes of Wisdom, and more great Switch exclusives.",
+            "url": "https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4609492-nintendoswitchblackfridaysale.jpg"
         },
         {
-            "title": "This free audio tool made my cheap speakers sound dramatically better - MakeUseOf",
-            "description": "Why didn't I try this sooner?",
-            "url": "https://www.makeuseof.com/free-audio-tool-made-my-cheap-speakers-sound-dramatically-better/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/11/a-laptop-screen-displaying-the-fxsound-interface.jpeg?w=1600&h=900&fit=crop"
+            "title": "RAM prices are so out of control that stores are selling it like lobster - The Verge",
+            "description": "The RAM shortage is forcing stores like Central Computer and Micro Center to sell PC memory at market prices instead of advertising prices.",
+            "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DOMINATOR_PLAT_RGB_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
     ]
 }
