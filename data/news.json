@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Every iPad Apple sells hit a new all-time low price for Black Friday - Macworld",
-            "description": "If you're looking for a new iPad, iPad Air, iPad mini or iPad Pro we can help you find a bargain this Black Friday.",
-            "url": "https://www.macworld.com/article/1374180/best-ipad-black-friday-week-deals-2025.html",
-            "image": "https://www.macworld.com/wp-content/uploads/2025/11/mw-bf-ipad-deals-primary-14.jpg?quality=50&strip=all&w=1024"
+            "title": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5 - The Verge",
+            "description": "The first Qualcomm Snapdragon 8 Gen 5 phones will come from OnePlus, Motorola, and Vivo within weeks.",
+            "url": "https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Snapdragon-8-gen-5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "I'm a laptop expert and these 53+ Black Friday deals are the ones I\u2019d recommend to friends and family without hesitation - Tom's Guide",
-            "description": "Now's the best time to upgrade if you don\u2019t want to pay full price for a new laptop",
-            "url": "https://www.tomsguide.com/live/news/black-friday-laptop-deals",
-            "image": "https://cdn.mos.cms.futurecdn.net/L5YNtrRwwCLjacLqGKXoic-2560-80.jpg"
+            "title": "Destiny 3 in \"Extremely Early Development\" at Bungie, Leaker Claims - The Game Post",
+            "description": "A well-known Destiny leaker claims Destiny 3 has entered extremely early development, giving fans hope after years of waiting.",
+            "url": "https://thegamepost.com/destiny-3-in-early-development-at-bungie-leaker/",
+            "image": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-3-in-early-development-at-bungie-leaker-14.jpg"
         },
         {
-            "title": "Google is looking to take over the desktop with Aluminium OS - Android Police",
-            "description": "A bold new move to redefine the desktop",
-            "url": "https://www.androidpolice.com/google-is-looking-to-take-over-the-desktop-with-aluminium-os/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2024/12/chromeos-android-feature-01.jpg?w=1600&h=900&fit=crop"
+            "title": "Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titles - Nintendo Life",
+            "description": "Battletoads, Kid Icarus and more!",
+            "url": "https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles",
+            "image": "https://images.nintendolife.com/147d64c01a50e/large.jpg"
         },
         {
-            "title": "Nintendo Switch 2 System Update 21.0.1 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-            "description": "Also available for Switch",
-            "url": "https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-1-is-now-live-here-are-the-full-patch-notes",
-            "image": "https://images.nintendolife.com/fbae21f0730cd/large.jpg"
+            "title": "Early Black Friday Deals Today: Gaming Deals Across Nintendo Switch, PlayStation 5 and Xbox - IGN",
+            "description": "Early Black Friday deals are live with big discounts on PS5, Nintendo Switch/Switch 2 and Xbox games, hardware and accessories. Plus Walmart tech bargains, $25 Pok\u00e9mon plushies and huge streaming service offers.",
+            "url": "https://www.ign.com/articles/early-black-friday-deals-november-25",
+            "image": "https://assets-prd.ignimgs.com/2025/11/25/feature-image-64-1764094207822.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale - GameSpot",
-            "description": "Nintendo's official Black Friday Sale includes Paper Mario: The Thousand-Year Door, Super Mario Odyssey, Zelda: Echoes of Wisdom, and more great Switch exclusives.",
-            "url": "https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/",
-            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4609492-nintendoswitchblackfridaysale.jpg"
+            "title": "Modder who first put Thomas the Tank Engine into Skyrim flips the bird at the lawyers, does it again in Morrowind: \"I fundamentally do not view toy company CEOs or media CEOs as people\" - GamesRadar+",
+            "description": "\"I sometimes feel like I need to milk a particular joke until its inevitable demise\"",
+            "url": "https://www.gamesradar.com/games/the-elder-scrolls/modder-who-first-put-thomas-the-tank-engine-into-skyrim-flips-the-bird-at-the-lawyers-does-it-again-in-morrowind-i-fundamentally-do-not-view-toy-company-ceos-or-media-ceos-as-people/",
+            "image": "https://cdn.mos.cms.futurecdn.net/xbQBVAHwjCiKA5PhAoDkNf-1920-80.jpg"
         },
         {
-            "title": "RAM prices are so out of control that stores are selling it like lobster - The Verge",
-            "description": "The RAM shortage is forcing stores like Central Computer and Micro Center to sell PC memory at market prices instead of advertising prices.",
-            "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DOMINATOR_PLAT_RGB_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Apple Quietly Liquidates Millions of Mac Mini M4 on Amazon, Compact Desktop Now Selling for Pennies - kotaku.com",
+            "description": "Process AI tasks locally with 10-core M4 power in a five-inch desktop footprint.",
+            "url": "https://kotaku.com/apple-quietly-liquidates-millions-of-mac-mini-m4-on-amazon-compact-desktop-now-selling-for-pennies-2000647379",
+            "image": "https://kotaku.com/app/uploads/2025/09/Mac-Mini.jpg"
         }
     ]
 }
