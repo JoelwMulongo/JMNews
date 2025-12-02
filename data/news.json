@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Pok\u00e9mon TCG Mega Venusaur ex Premium Collection Box is at market value in the Amazon Black Friday sale - Mashable",
-            "description": "Four Journey Together, Two Destined Rivals, and Two Mega Evolution boosters alongside a Mega Venusaur ex promo and giant lenticular Mega Venusaur ex promo card.",
-            "url": "https://mashable.com/article/black-friday-deal-2025-pokemon-mega-venusaur-ex-preorder",
-            "image": "https://helios-i.mashable.com/imagery/articles/04qJC5p8tx8tQjXBVcN7OEu/hero-image.fill.size_1200x675.v1764422020.jpg"
-        },
-        {
-            "title": "These Are The Best TV Deals This Black Friday Weekend - WIRED",
+            "title": "These Are The Best TV Deals This Cyber Monday - WIRED",
             "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday.",
-            "url": "https://www.wired.com/story/black-friday-tv-deals-2025-1/",
+            "url": "https://www.wired.com/story/cyber-monday-tv-deals-2025/",
             "image": "https://media.wired.com/photos/6923e421c68e1875e6bc3d18/191:100/w_1280,c_limit/Best%20Black%20Friday%20TV%20Deals.png"
         },
         {
-            "title": "Being hot is now a job requirement - Business Insider",
-            "description": "The beauty tax for getting ahead at work is getting more expensive: 'I have to reverse age to stay here.'",
-            "url": "https://www.businessinsider.com/getting-hot-job-requirement-ozempic-botox-looksmaxxing-2025-11",
-            "image": "https://i.insider.com/6924a58b89026fbb4d0e4a77?width=1200&format=jpeg"
+            "title": "Netflix kills casting from phones - The Verge",
+            "description": "Netflix has removed the ability to cast shows and movies from phones to TVs, unless subscribers are using older casting devices.",
+            "url": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Google Starts Sharing All Your Text Messages With Your Employer - Forbes",
-            "description": "Warning \u2014 what happens on your Android phone, doesn\u2019t stay on your Android phone.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2025/11/30/google-starts-sharing-all-your-text-messages-with-your-employer/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/973347862/0x0.jpg?format=jpg&crop=4535,2552,x1798,y1786,safe&height=900&width=1600&fit=bounds"
+            "title": "Best Cyber Monday iPad deals LIVE \u2014 iPad, iPad Air, iPad Pro and more - Tom's Guide",
+            "description": "The best iPad sales are going strong with huge discounts",
+            "url": "https://www.tomsguide.com/live/news/cyber-monday-apple-ipad-deals-2025",
+            "image": "https://cdn.mos.cms.futurecdn.net/QWHqyUtY3GwQs3yuaNH65-2000-80.jpg"
         },
         {
-            "title": "AMD Confirms Ryzen 7 9850X3D 3D V-Cache CPU: An Even Faster 8-Core X3D For Gamers - Wccftech",
-            "description": "AMD's Ryzen 7 9850X3D CPU has been confirmed by the chipmaker itself, which means that we are indeed getting a faster 3D V-Cache chip.",
-            "url": "https://wccftech.com/amd-confirms-ryzen-7-9850x3d-3d-v-cache-cpu-faster-8-core-x3d-for-gamers/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2025/11/AMD-Ryzen-7-9850X3D-3D-V-Cache-CPU.jpg"
+            "title": "Best Cyber Monday Pok\u00e9mon deals 2025: Trading cards, games, collectibles, and more - Mashable",
+            "description": "Catch discounts on trading cards, games, collectibles, and much more.",
+            "url": "https://mashable.com/article/best-cyber-monday-pokemon-deals-2025",
+            "image": "https://helios-i.mashable.com/imagery/articles/00bh5CwmlHu306baFns3kCP/hero-image.fill.size_1200x675.v1764577420.jpg"
+        },
+        {
+            "title": "MKBHD's Panels wallpaper app is shutting down, here's what's next - Android Authority",
+            "description": "MKBHD is shutting down the Panels app this week. Users will get automatic refunds, and there are plans to open-source the code. Read on!",
+            "url": "https://www.androidauthority.com/mkbhd-panels-shutdown-3620792/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2024/09/MKBHD-Panels-app-scaled.jpg"
+        },
+        {
+            "title": "These 13+ PS5, PS4, and PS Plus Games Are Coming Out This Week (1st-7th December) - Push Square",
+            "description": "Marvel Cosmic Invasion! Red Dead Redemption!",
+            "url": "https://www.pushsquare.com/guides/these-13plus-ps5-ps4-and-ps-plus-games-are-coming-out-this-week-1st-7th-december",
+            "image": "https://images.pushsquare.com/b71982cc93d49/large.jpg"
         }
     ]
 }
