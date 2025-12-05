@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday - The Verge",
-            "description": "The Switch 2 is still relatively new, so deals are rare. However, you can still get Nintendo\u2019s latest console with a free copy of Mario Kart World for a limited time.",
-            "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Random: Samus Is Joined By Doom Slayer's Voice Actor In Metroid Prime 4 - Nintendo Life",
+            "description": "The collab some fans have been waiting for",
+            "url": "https://www.nintendolife.com/news/2025/12/random-samus-is-joined-by-doom-slayers-voice-actor-in-metroid-prime-4",
+            "image": "https://images.nintendolife.com/f2098453b26d0/large.jpg"
         },
         {
-            "title": "Android\u2019s new \u2018Call Reason\u2019 flags important calls before you even pick up - The Verge",
-            "description": "Android\u2019s Call Reason feature will allow you to flag calls as \u201curgent\u201d on the receiving person\u2019s incoming call screen and in their call history.",
-            "url": "https://www.theverge.com/news/836838/android-beta-call-reason",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/call-reason-android-beta-feature.jpg?quality=90&strip=all&crop=0%2C10.903494809209%2C100%2C66.506296872789&w=1200"
+            "title": "Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling at Record Low - Kotaku",
+            "description": "Swap stick caps and reprogram back buttons without tools between gaming sessions.",
+            "url": "https://kotaku.com/amazon-liquidates-playstations-elite-pro-controllers-dualsense-edge-selling-at-record-low-2000650140",
+            "image": "https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller.jpg"
         },
         {
-            "title": "Epic Games Store decides \"at the last minute\" not to distribute Horses - GamesIndustry.biz",
-            "description": "Epic Games Store is the latest online storefront to withdraw support for the provocative indie game, Horses.",
-            "url": "https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses",
-            "image": "https://assetsio.gnwcdn.com/HORSES-Thumbnail-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
+            "description": "Dye led Apple's user interface team for the last decade.",
+            "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675"
         },
         {
-            "title": "The 15 Best Gaming Deals Still Live After Black Friday and Cyber Monday - IGN",
-            "description": "Here's the best gaming deals you can still pick after the Black Friday and Cyber Monday sales weekend concluded, including discounts on Switch 2 consoles, Xbox Game Pass, PS5 games, and more.",
-            "url": "https://www.ign.com/articles/the-best-gaming-deals-still-live-after-black-friday-and-cyber-monday-2025",
-            "image": "https://assets-prd.ignimgs.com/2025/12/02/best-gaming-deals-still-live-after-cyber-monday-and-black-friday-2025-ign-2-1764676874106.png?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "iOS 26.2 release date: Here\u2019s when new iPhone features are coming - 9to5Mac",
+            "description": "New iPhone features are coming in iOS 26.2, the next major software update that\u2019s almost ready for launch, here\u2019s the expected release date.",
+            "url": "https://9to5mac.com/2025/12/03/ios-26-2-release-date-heres-when-new-iphone-features-are-coming/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Netflix launches a mobile-friendly version of Red Dead Redemption - TechCrunch",
-            "description": "Players with a Netflix subscription can now download the game, which features mobile-friendly controls, including touch-screen shooting and navigation. It's important to note that the game does not feature a multiplayer mode and players must be connected to t\u2026",
-            "url": "https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/12/RedDeadRedemption.jpg?w=1200"
+            "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
+            "description": "Here are all of the weapon buffs and nerfs in Warzone and Black Ops 7\u2019s Season 1 update, which are set to completely change the meta.",
+            "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/",
+            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/weapons-buffs-nerfs-warzone-black-ops-7-season-1.jpg"
+        },
+        {
+            "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
+            "description": "Marvel Cosmic InvasionReleased: December 1st, 2025Developer:\u00a0Tribute GamesPublisher:\u00a0DotEmuSystems:\u00a0PC, PS4/5, Switch (reviewed), Switch 2 (reviewed), Xbox One/X/SI love a good brawler, and that can only mean one thing when it comes to Marvel Cosmic Invasion \u2026",
+            "url": "https://www.thejimquisition.com/post/marvel-cosmic-invasion-shitomatic-universe-review",
+            "image": "https://static.wixstatic.com/media/a511ef_d8461c39dd41454db6f839c6914f911a~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_d8461c39dd41454db6f839c6914f911a~mv2.jpg"
         }
     ]
 }
