@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Former Nintendo staffers explain why Nintendo ditched the \"Nindies\" name - Nintendo Everything",
-            "description": "Do you remember the \u201cNindies\u201d term that Nintendo used to bring up on a regular basis? It was very prominent in the Wii U / 3DS era, and even the very early Nintendo Switch days. You probably don\u2019t need us to tell you what it was for, but essentially it was an\u2026",
-            "url": "https://nintendoeverything.com/former-nintendo-staffers-explain-why-nintendo-ditched-the-nindies-name/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Why-Nintendo-ditched-Nindies.jpg"
+            "title": "Here's your first look at the slick animation for Android\u2019s NameDrop-style contact sharing feature - Android Authority",
+            "description": "Here's an exclusive first look at the new animation for Google's upcoming NameDrop-style contact-sharing feature for Android.",
+            "url": "https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Google-NameDrop-Contact-exchange-animation.jpg"
         },
         {
-            "title": "60 People Who Straight-Up Gave No F*cks - BuzzFeed",
-            "description": "Why do so many Christmas designs look phallic? WHY?!",
-            "url": "https://www.buzzfeed.com/crystalro/funny-wtf-images",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/04/19/thumb/NI_5ePyso.jpg?crop=1250:654;0,102%26downsize=1250:*"
+            "title": "Block all AI browsers for the foreseeable future: Gartner - theregister.com",
+            "description": ": Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things",
+            "url": "https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
+            "image": "https://regmedia.co.uk/2024/04/01/ban_shutterstock.jpg"
         },
         {
-            "title": "Why do Gen Z have a growing appetite for retro tech? - BBC",
-            "description": "Gen Z are going retro, with studies showing a resurgence in people buying tech in the modern age that can be dated back decades.",
-            "url": "https://www.bbc.com/news/articles/ckgl8nj8nvzo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e332/live/f751f750-d123-11f0-9d18-614b3678ebf8.jpg"
+            "title": "I tried OpenAI staff's 6 tips to get more out of ChatGPT \u2014 and the model felt far more useful - Business Insider",
+            "description": "OpenAI staff shared six tips for using ChatGPT better. I tested them, and several noticeably improved my experience.",
+            "url": "https://www.businessinsider.com/openai-staff-6-tips-chatgpt-model-smarter-2025-12",
+            "image": "https://i.insider.com/69329bd77ecd1d1da662fc63?width=1200&format=jpeg"
         },
         {
-            "title": "Lessons Learned After Trying MeshCore For Off-grid Text Messaging - Hackaday",
-            "description": "[Michael Lynch] recently decided to delve into the world of off-grid, decentralized communications with MeshCore, because being able to communicate wirelessly with others in a way that does not dep\u2026",
-            "url": "https://hackaday.com/2025/12/06/lessons-learned-after-trying-meshcore-for-off-grid-text-messaging/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/12/t1000-and-lilygo-banner.png"
+            "title": "Wavebird Controller Soars Once More With Open Source Adapter - Hackaday",
+            "description": "After scouring the second-hand shops and the endless pages of eBay for original video game hardware, a pattern emerges. The size of the accessory matters. If a relatively big controller originally \u2026",
+            "url": "https://hackaday.com/2025/12/07/wavebird-controller-soars-once-more-with-open-source-adapter/",
+            "image": "https://hackaday.com/wp-content/uploads/2025/11/Wave-Phoenix-Receiver.png"
         },
         {
-            "title": "This AI Model Can Intuit How the Physical World Works - WIRED",
-            "description": "The V-JEPA system uses ordinary videos to understand the physics of the real world.",
-            "url": "https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/",
-            "image": "https://media.wired.com/photos/69316737bae73f21e0de4542/191:100/w_1280,c_limit/AIIntuitsPhysics-crKristinaArmitage-Lede-scaled.jpeg"
+            "title": "A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert",
+            "description": "Scientists looking to tackle our ongoing obesity crisis have made an important discovery: Intermittent calorie restriction leads to significant changes both in the gut and the brain, which may open up new options for maintaining a healthy weight.",
+            "url": "https://www.sciencealert.com/a-fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brains",
+            "image": "https://www.sciencealert.com/images/2025/11/Clock-Inside-Human-Brain-Illustration-.jpg"
         },
         {
-            "title": "These 5 free apps make any smart TV way more useful (and none are streaming) - MakeUseOf",
-            "description": "Unlock the full potential of your smart TV with these five game-changing free apps.",
-            "url": "https://www.makeuseof.com/free-apps-make-any-smart-tv-way-more-useful/",
-            "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/09/kodi-home-screen.png?w=1600&h=900&fit=crop"
+            "title": "The Most Scientifically Accurate Sci-Fi Movies, According To NASA - bgr.com",
+            "description": "Not all sci-fi movies are like \"2012.\" According to NASA scientists, films like Gattaca and even Jurassic Park are surprisingly accurate scientifically.",
+            "url": "https://www.bgr.com/2044102/most-scientifically-accurate-sci-fi-movies-nasa/",
+            "image": "https://www.bgr.com/img/gallery/the-most-scientifically-accurate-sci-fi-movies-according-to-nasa/l-intro-1764953910.jpg"
         }
     ]
 }
