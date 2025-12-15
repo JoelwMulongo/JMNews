@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life",
-            "description": "See what it's all about",
-            "url": "https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom",
-            "image": "https://images.nintendolife.com/671178ecc6294/large.jpg"
+            "title": "Galaxy S26 series' trump card has finally leaked - PhoneArena",
+            "description": "The best AI features might be exclusive to the Galaxy S26.",
+            "url": "https://www.phonearena.com/news/galaxy-s26-gauss-model-ai_id176600",
+            "image": "https://m-cdn.phonearena.com/images/article/176600-wide-two_1200/Galaxy-S26-series-trump-card-has-finally-leaked.jpg"
         },
         {
-            "title": "How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica",
-            "description": "\u201cThe vast majority of Codex is built by Codex,\u201d OpenAI told us about its new AI coding agent.",
-            "url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg"
+            "title": "He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind - BBC",
+            "description": "A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.",
+            "url": "https://www.bbc.com/news/articles/c2epm9z9kkvo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6cf0/live/e4840b20-d75b-11f0-9fb5-5f3a3703a365.jpg"
         },
         {
-            "title": "Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET",
-            "description": "Google is rolling out a beta version of the Translate app with support for more than 70 languages.",
-            "url": "https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/",
-            "image": "https://www.cnet.com/a/img/resize/01aca5156ad8a5d6b5fe244096615355de8fe2c5/hub/2025/12/12/e798cf5f-5e98-4fa3-b815-97f10550642f/translate.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "I used the Galaxy Z TriFold and it has some catching up to do - PhoneArena",
+            "description": "Samsung's first tri-folding would have been super-impressive, if it wasn't for Huawei's Mate XT.",
+            "url": "https://www.phonearena.com/news/i-used-the-galaxy-z-trifold-and-it-has-some-catching-up-to-do_id176584",
+            "image": "https://m-cdn.phonearena.com/images/article/176584-wide-two_1200/I-used-the-Galaxy-Z-TriFold-and-it-has-some-catching-up-to-do.jpg"
         },
         {
-            "title": "Amazon Pulls AI Recap Video After \u2018Fallout\u2019 Mess - Gizmodo",
-            "description": "Amazon is being forced to repeatedly learn a lesson: use AI slop, and get people yelling at you until you don't.",
-            "url": "https://gizmodo.com/fallout-ai-recap-amazon-prime-video-anime-2000699210",
-            "image": "https://gizmodo.com/app/uploads/2025/12/Fallout-Prime-Video-1200x675.jpg"
+            "title": "A Kinect for kids is outselling Xbox to become the hot toy this holiday - The Verge",
+            "description": "The Nex Playground is basically Kinect for kids, and it\u2019s outselling Microsoft\u2019s Xbox, shaking up the console market this holiday.",
+            "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/nexplaygroundbundle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Porsche Just Unveiled a New 911 GT3 Inspired by Ferdinand Alexander Porsche Himself - Robb Report",
-            "description": "The new 911 GT3 90 F.A. Porsche will be limited to just 90 examples.",
-            "url": "http://robbreport.com/motors/cars/porsche-911-gt3-ferdinand-alexander-porsche-1237410568/",
-            "image": "https://robbreport.com/wp-content/uploads/2025/12/porsche-911-gt3-fa-porsche-7-e1765554011100.jpg?w=681&h=383&crop=1"
+            "title": "This Insanely Long Ribbon Worm Turns Out to Be The Oldest on Record - ScienceAlert",
+            "description": "Biologist Jon Allen is the proud owner of the world's oldest ribbon worm on record.",
+            "url": "https://www.sciencealert.com/this-insanely-long-ribbon-worm-turns-out-to-be-the-oldest-on-record",
+            "image": "https://www.sciencealert.com/images/2025/12/RibbonWorm.jpg"
         },
         {
-            "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen - TechCrunch",
-            "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
-            "url": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air.jpg?resize=1200,669"
+            "title": "Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post",
+            "description": "Here's our full Destiny 2 Equilibrium loot table, including all dungeon weapons, armor, cosmetics, and more.",
+            "url": "https://thegamepost.com/destiny-2-equilibrium-loot-table-dungeon/",
+            "image": "https://thegamepost.com/wp-content/uploads/2025/12/destiny-2-equilibrium-dungeon-weapons-icon-5524.jpg"
         }
     ]
 }
