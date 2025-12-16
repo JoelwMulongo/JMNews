@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Galaxy S26 series' trump card has finally leaked - PhoneArena",
-            "description": "The best AI features might be exclusive to the Galaxy S26.",
-            "url": "https://www.phonearena.com/news/galaxy-s26-gauss-model-ai_id176600",
-            "image": "https://m-cdn.phonearena.com/images/article/176600-wide-two_1200/Galaxy-S26-series-trump-card-has-finally-leaked.jpg"
+            "title": "Microsoft: December security updates cause Message Queuing failures - BleepingComputer",
+            "description": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
+            "image": "https://www.bleepstatic.com/content/hl-images/2025/08/20/Windows.jpg"
         },
         {
-            "title": "He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind - BBC",
-            "description": "A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rogue.",
-            "url": "https://www.bbc.com/news/articles/c2epm9z9kkvo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6cf0/live/e4840b20-d75b-11f0-9fb5-5f3a3703a365.jpg"
+            "title": "MSI MEG X870E Godlike X Edition Review - TechPowerUp",
+            "description": "MSI aims for the AMD motherboard crown with one of the most over the top halo tier models we've seen yet. You get a crazy specification with cutting edge features and an equally mad price. But has MSI done enough to beat the competition?",
+            "url": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/",
+            "image": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/images/title.jpg"
         },
         {
-            "title": "I used the Galaxy Z TriFold and it has some catching up to do - PhoneArena",
-            "description": "Samsung's first tri-folding would have been super-impressive, if it wasn't for Huawei's Mate XT.",
-            "url": "https://www.phonearena.com/news/i-used-the-galaxy-z-trifold-and-it-has-some-catching-up-to-do_id176584",
-            "image": "https://m-cdn.phonearena.com/images/article/176584-wide-two_1200/I-used-the-Galaxy-Z-TriFold-and-it-has-some-catching-up-to-do.jpg"
+            "title": "New Galaxy S23 update makes it more secure - SamMobile",
+            "description": "After the Galaxy S25 and the Galaxy S24, Samsung has now released the December 2025 security patch for the Galaxy S23 series, making the three devices in the lineup more secure. Currently, Samsung is rolling out the update in its home country, South Korea. Th\u2026",
+            "url": "https://www.sammobile.com/news/new-galaxy-s23-update-makes-it-more-secure/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S23-Ultra-update-1200x675.jpg"
         },
         {
-            "title": "A Kinect for kids is outselling Xbox to become the hot toy this holiday - The Verge",
-            "description": "The Nex Playground is basically Kinect for kids, and it\u2019s outselling Microsoft\u2019s Xbox, shaking up the console market this holiday.",
-            "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/nexplaygroundbundle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Pokemon TCG Mega Charizard Ultra-Premium Collection Restocked With $50 Price Cut At Amazon - GameSpot",
+            "description": "Amazon also has a few of the new Pokemon Trading Card Game Premium Collections and Mega ex Boxes in stock.",
+            "url": "https://www.gamespot.com/articles/pokemon-trading-card-game-mega-charizard-x-ultra-premium-collection-amazon-best-price/1100-6536074/",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4622644-4600144-megacharizardpokemontcgthumbnail.jpg"
         },
         {
-            "title": "This Insanely Long Ribbon Worm Turns Out to Be The Oldest on Record - ScienceAlert",
-            "description": "Biologist Jon Allen is the proud owner of the world's oldest ribbon worm on record.",
-            "url": "https://www.sciencealert.com/this-insanely-long-ribbon-worm-turns-out-to-be-the-oldest-on-record",
-            "image": "https://www.sciencealert.com/images/2025/12/RibbonWorm.jpg"
+            "title": "Mortal Kombat: Legacy Kollection Switch 1 & 2 Physical Release Does Not Include Mortal Kombat 4 On The Game Card - Nintendo Life",
+            "description": "Digital Eclipse and Atari confirm you'll need to \"download\" it",
+            "url": "https://www.nintendolife.com/news/2025/12/mortal-kombat-legacy-kollection-switch-1-and-2-physical-release-does-not-include-mortal-kombat-4-on-the-game-card",
+            "image": "https://images.nintendolife.com/4cfdac97e000f/large.jpg"
         },
         {
-            "title": "Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post",
-            "description": "Here's our full Destiny 2 Equilibrium loot table, including all dungeon weapons, armor, cosmetics, and more.",
-            "url": "https://thegamepost.com/destiny-2-equilibrium-loot-table-dungeon/",
-            "image": "https://thegamepost.com/wp-content/uploads/2025/12/destiny-2-equilibrium-dungeon-weapons-icon-5524.jpg"
+            "title": "The Opt-In Proactive & Crash Time Data Collection On Valve's Steam Deck - Phoronix",
+            "description": "Valve's Steam Deck with SteamOS features built-in crash data collection as well as for logging other system events worth having knowledge about like the split-lock detection and other events",
+            "url": "https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect",
+            "image": "https://www.phoronix.net/image.php?id=2025&image=steam_deck_data_collect"
         }
     ]
 }
