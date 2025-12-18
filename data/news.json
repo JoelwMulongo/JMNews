@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Arc Raiders developer finally addresses theories over matchmaking, confirms player behaviour is a factor in who you're playing against - Eurogamer",
-            "description": "Arc Raiders art director Robert Sammelin confirms that player behavior is one factor in a \"complex\" process that determines which games you're matched into.",
-            "url": "https://www.eurogamer.net/arc-raiders-developer-confirms-player-behaviour-is-factor-in-matchmaking",
-            "image": "https://assetsio.gnwcdn.com/ARC-Raiders_16-9_13_GiDXO7z.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Product of the Year Nominees - Pinkbike",
+            "description": "The products that raised the bar the highest in their own categories.",
+            "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-product-of-the-year-nominees.html",
+            "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg"
         },
         {
-            "title": "Hollow Knight: Silksong sells over 7m copies in three months - GamesIndustry.biz",
-            "description": "Team Cherry announces Sea of Sorrow expansion for Silksong and Hollow Knight: Nintendo Switch 2 Edition",
-            "url": "https://www.gamesindustry.biz/hollow-knight-silksong-sells-over-7m-copies-in-three-months",
-            "image": "https://assetsio.gnwcdn.com/silksong-dlc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Steam Replay 2025 shows that only 14% of all user playtime was spent playing new PC games - TweakTown",
+            "description": "Steam Replay 2025 is here, and in addition to seeing all of your PC gaming stats for the year we learn some interesting things about PC gaming in 2025.",
+            "url": "https://www.tweaktown.com/news/109388/steam-replay-2025-shows-that-only-14-percent-of-all-user-playtime-was-spent-playing-new-pc-games/index.html",
+            "image": "https://static.tweaktown.com/news/1/0/109388_1_steam-replay-2025-is-here-so-you-can-see-what-youve-been-playing-throughout-the-year_full.jpg"
         },
         {
-            "title": "Google rolling out update for original Pixel Buds Pro - 9to5Google",
-            "description": "Google on Monday evening announced a new firmware update for the original Pixel Buds Pro. This OTA introduces...",
-            "url": "http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-pixel-buds-pro-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Google swaps Pixel Launcher search for something worse - Android Police",
+            "description": "All to push AI mode",
+            "url": "https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-launcher-home-screen.jpg?w=1600&h=900&fit=crop"
         },
         {
-            "title": "Nikon Makes the Z9\u2019s Autofocus and Subject Detection Even Better - PetaPixel",
-            "description": "Nikon says the Z9's latest firmware update makes the camera even better for sports photographers.",
-            "url": "https://petapixel.com/2025/12/15/nikon-makes-the-z9s-autofocus-and-subject-detection-even-better/",
-            "image": "https://petapixel.com/assets/uploads/2025/12/nikon-z9-firmware-update-featured.jpg"
+            "title": "Arcade1Up isn\u2019t dead, maybe - The Verge",
+            "description": "Toy company Basic Fun is acquiring \u201cselect assets\u201d of Arcade1Up, according to a statement. Last week, a rumor surfaced that Arcade1Up would be \u201cclosing operations.\u201d",
+            "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/1000013524.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
         },
         {
-            "title": "Games Leaving PS Plus in January 2026 Confirmed - PlayStation LifeStyle",
-            "description": "PS Store has revealed the initial list of games leaving PS Plus Extra and Premium in January 2026 as the December 2025 lineup is rolling out.",
-            "url": "https://www.playstationlifestyle.net/2025/12/15/games-leaving-ps-plus-extra-premium-january-2026/",
-            "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/08/games-leaving-ps-plus-last-chance-to-play.jpg?resize=1200,630"
+            "title": "Apple's 2026 and 2027 Product Roadmap: Foldable iPhone, iPhone 18 Pro, M5 Macs, and More - MacRumors",
+            "description": "There has been a whirlwind of rumors over the last few days, sourced from leaked internal software designed for the iPhone and the Mac, and news...",
+            "url": "https://www.macrumors.com/2025/12/16/apple-product-roadmap-2026/",
+            "image": "https://images.macrumors.com/t/UrX3EJ-eB5hMT9fNxaS9N4ln1Gg=/2000x/article-new/2025/06/apple-beta-26-lineup.jpg"
+        },
+        {
+            "title": "Where To Find Candleberries In \u2018Arc Raiders\u2019 During The Cold Snap Event And What They\u2019re Used For - Forbes",
+            "description": "Everything you need to know about candleberries in Arc Raiders during the Cold Snap event.",
+            "url": "https://www.forbes.com/sites/erikkain/2025/12/16/arc-raiders-cold-snap-candleberries-guide/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6941f0a4b9cd4755963b3a7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         }
     ]
 }
