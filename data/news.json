@@ -1,40 +1,28 @@
 {
     "articles": [
         {
-            "title": "Sony\u2019s legal battle against Tencent\u2019s Horizon \u2018clone\u2019 is already over - The Verge",
-            "description": "Sony has reached a settlement with Tencent in its lawsuit over Light of Motiram, a game Sony alleged was a \u201cclone\u201d of its Horizon series.",
-            "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/ss_853b741d2ebd0e13f1a735c8c934064532978e1c.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "title": "Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire",
+            "description": "Picking up a new ROG Xbox Ally or ROG Xbox Ally X? To help you hit the ground running, we\u2019ve pulled together some must-know tips to make the most out of your new handheld.",
+            "url": "https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/",
+            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/ROG-Xbox-Ally-Reveal-Dual-Device-c1c12539215c0138853f.jpg"
         },
         {
-            "title": "Google Pixel gets a slick new folder animation, other launcher UI tweaks - 9to5Google",
-            "description": "Android 16 QPR3 launched today for Google Pixel devices, bringing some interesting tweaks to round out the later stages of...",
-            "url": "http://9to5google.com/2025/12/17/android-16-qpr3-new-folder-animations/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Pixel-10-Pro-XL-camera-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Breaking: Exynos 2600 goes official as world's first 2nm smartphone chip - SamMobile",
+            "description": "Samsung has announced the Exynos 2600 chip. It is not only the company's but the world's first 2nm mobile chip, made using Samsung Foundry's 2nm GAA process. With its innovative heat transfer technology, Samsung is promising much better sustained performance \u2026",
+            "url": "https://www.sammobile.com/news/exynos-2600-chip-official-specs-better-sustained-performance/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-2600-Processor-1200x675.jpg"
         },
         {
-            "title": "LG's First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere - CNET",
-            "description": "The company unveiled its surround system which lets you add speakers to any TV if you buy the soundbar.",
-            "url": "https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/",
-            "image": "https://www.cnet.com/a/img/resize/452138a488d5ed37ac250074aa922d6e4e4e64bc/hub/2025/12/17/ba95c983-faa6-48f8-b5d8-3e62fc06f211/sound-suite-2026-pr-02.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Oh snap, I have a new favorite phone grip - The Verge",
+            "description": "In the war of double-sided magnetic phone grips, Syncwire and OhSnap Snap Grip 5 are the best I\u2019ve tried.",
+            "url": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DJI_20251218130832_0158_D.jpg?quality=90&strip=all&crop=4%2C5.3228621291448%2C96%2C89.35427574171&w=1200"
         },
         {
-            "title": "LinkedIn \u2018Wrapped\u2019 is reminding people just how crummy the job market is - CNN",
-            "description": "It\u2019s been a rough year for job seekers.",
-            "url": "https://www.cnn.com/2025/12/17/business/linkedin-wrapped-job-market",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap23289641933315.jpg?c=16x9&q=w_800,c_fill"
-        },
-        {
-            "title": "Stardew Valley Creator Says 1.7 Update Will Contain 'More Character/Social Stuff' and a New Farm Type - IGN",
-            "description": "As Stardew Valley fans continue to wait patiently for the previously announced 1.7 update, creator Eric Barone (ConcernedApe) has dropped a couple small, vague, yet exciting hints about what said mysterious update might entail: a new farm type, and \"more char\u2026",
-            "url": "https://www.ign.com/articles/stardew-valley-creator-says-17-update-will-contain-more-charactersocial-stuff-and-a-new-farm-type",
-            "image": "https://assets-prd.ignimgs.com/2024/03/12/sv-1710252992459.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-            "title": "Don't look now, but your Pixel may be getting a surprise update - Android Authority",
-            "description": "Midway through the month, Google's dropping an unexpected new system update on Pixel users.",
-            "url": "https://www.androidauthority.com/second-december-pixel-update-3626186/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/google-pixel-update-screen-android-16-scaled.jpg"
+            "title": "Waterfox browser goes AI-free, targets the Firefox faithful - theregister.com",
+            "description": ": Even if Mozilla is going to add an AI kill switch, that may not be enough to reassure many.",
+            "url": "https://www.theregister.com/2025/12/18/firefox_no_ai_alternative_waterfox/",
+            "image": "https://regmedia.co.uk/2025/12/18/shutterstock_2479078249.jpg"
         }
     ]
 }
