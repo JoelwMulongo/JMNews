@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker",
-            "description": "IP Check tells you if your address is involved in malicious scanning.",
-            "url": "https://lifehacker.com/tech/tool-checks-for-compromised-home-internet",
-            "image": "https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.fill.size_1200x675.png"
+            "title": "Nintendo Fans Might Get The Entire Tomb Raider Survivor Trilogy Thanks To Their \"Passionate Response\" - Nintendo Life",
+            "description": "But Aspyr \"can't announce anything at the moment\"",
+            "url": "https://www.nintendolife.com/news/2025/12/nintendo-fans-might-get-the-entire-tomb-raider-survivor-trilogy-thanks-to-their-passionate-response",
+            "image": "https://images.nintendolife.com/563f12a46789a/large.jpg"
         },
         {
-            "title": "Google releases factory, OTA images for second Pixel December 2025 update - 9to5Google",
-            "description": "On Wednesday, Google started rolling out a second December 2025 update for Pixel phones, with factory and OTA images now available.",
-            "url": "http://9to5google.com/2025/12/19/second-pixel-december-2025-update/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-7-Pro-and-9-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "PSA: Skyrim's 'Anniversary Edition' Bundle Is Currently 60% Off, Includes Free Switch 2 Upgrade (Europe) - Nintendo Life",
+            "description": "Must resist...",
+            "url": "https://www.nintendolife.com/news/2025/12/psa-skyrims-anniversary-edition-bundle-is-currently-60percent-off-includes-free-switch-2-upgrade-europe",
+            "image": "https://images.nintendolife.com/b44c514125efb/large.jpg"
         },
         {
-            "title": "NotebookLM now uses Gemini 3, adds new \u2018Data Tables\u2019 output - 9to5Google",
-            "description": "NotebookLM is getting in a few more features before the holidays, including an upgrade to Gemini 3 and Data Tables.",
-            "url": "http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/NotebookLM-Data-Tables-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "I\u2019ve been doing this standing exercise for six months and it\u2019s transformed my core strength - Fit&Well",
+            "description": "Swap sit-ups for this functional move",
+            "url": "https://www.fitandwell.com/exercise/strength-workouts/ive-been-doing-this-standing-exercise-for-six-months-and-its-transformed-my-core-strength",
+            "image": "https://cdn.mos.cms.futurecdn.net/T4hDRXz2R2Y2hk3hF4LrPR-2560-80.jpg"
         },
         {
-            "title": "Steam Drops Early Free Slice of Stunning 2026 RPG, Play Now - GAMINGbible",
-            "description": "The Legend of Heroes: Trails beyond the Horizon is an upcoming RPG that has just dropped a free demo for players to try on Steam.",
-            "url": "https://www.gamingbible.com/news/platform/steam/legend-of-heroes-demo-pc-047715-20251219",
-            "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blte23aada9c50f8949/69455322b53df8d9ce1d13f4/The_Legend_of_Heroes_Trails_beyond_the_Horizon.png"
+            "title": "Month and location of Galaxy S26 series' unveiling leaked - PhoneArena",
+            "description": "You might be surprised by the leaked date of Samsung's next Unpacked event for its flagship phone line.",
+            "url": "https://www.phonearena.com/news/month-location-galaxy-s26-series-unveiling-leaked_id176774",
+            "image": "https://m-cdn.phonearena.com/images/article/176774-wide-two_1200/Month-and-location-of-Galaxy-S26-series-unveiling-leaked.jpg"
         },
         {
-            "title": "Gemini isn\u2019t replacing Google Assistant on Android just yet - The Verge",
-            "description": "Google is pushing back its timeline for replacing Google Assistant with Gemini on Android, as it now says it will continue upgrading devices into 2026, rather than by the end of 2025.",
-            "url": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DSC09345_processed.webp?quality=90&strip=all&crop=0%2C11.11593343362%2C100%2C77.76813313276&w=1200"
-        },
-        {
-            "title": "Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options - Ars Technica",
-            "description": "Inin suggests new low-cost options allowed it to \u201crecalculate production\u201d for full cartridge.",
-            "url": "https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/switch2gkc-1152x648-1766176952.png"
+            "title": "The Best Deals Today: Nintendo Switch 2 + Mario Kart World Bundle, PS5 Pro, and More - IGN",
+            "description": "No description available.",
+            "url": "https://www.ign.com/articles/best-deals-for-december-20-2025",
+            "image": "https://assets-prd.ignimgs.com/2025/12/03/best-nintendo-switch-2-console-deal-ign-2-1764771799037.png?width=1280&format=jpg&auto=webp&quality=80"
         }
     ]
 }
