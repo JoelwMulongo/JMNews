@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Game of the Year: Aaron's Top 5 PS5 Games of 2025 - Push Square",
-            "description": "Character ARC",
-            "url": "https://www.pushsquare.com/features/game-of-the-year-aarons-top-5-ps5-games-of-2025",
-            "image": "https://images.pushsquare.com/f5fbccbd15803/large.jpg"
+            "title": "The latest Android figure is this awesome little 3D maze [Gallery] - 9to5Google",
+            "description": "Google just released a really cool new Android figure on its merch store that has a built-in 3D maze game....",
+            "url": "http://9to5google.com/2025/12/22/android-maze-figure-collectible/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/android-maze-figure-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "The Beloved Octopath Traveler series surpasses 6m lifetime sales, shortly after Octopath Traveler 0's launch - Eurogamer",
-            "description": "Official Octopath Traveler accounts have announced the series has surpassed 6m lifetime sales.",
-            "url": "https://www.eurogamer.net/octopath-traveler-series-surpasses-6-million-sales",
-            "image": "https://assetsio.gnwcdn.com/octopath_traveller_e3_deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC",
+            "description": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles.",
+            "url": "https://www.bbc.com/news/articles/cx25rled0ylo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09cf/live/c3c06b50-df84-11f0-b89f-11674143d4d8.jpg"
         },
         {
-            "title": "CORSAIR finally ships 0x12F BIOS update for Vengeance i8200 Z790 systems - VideoCardz.com",
-            "description": "Corsair finally releases new BIOS for Raptor Lake, half a year late CORSAIR has finally pushed a new BIOS for the Vengeance i8200, and it is the update",
-            "url": "https://videocardz.com/newz/corsair-finally-ships-0x12f-bios-update-for-vengeance-i8200-z790-systems",
-            "image": "https://cdn.videocardz.com/1/2025/12/CORSAIR-0x12F-BIOS.jpg"
+            "title": "What\u2019s new in Android\u2019s December 2025 Google System Updates [U] - 9to5Google",
+            "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
+            "url": "http://9to5google.com/2025/12/22/december-2025-google-system-updates/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Origami On Another Level With 3D Printing - Hackaday",
-            "description": "Origami has become known as a miracle technique for designers. Elegant compliant mechanisms can leverage the material properties of a single geometry in ways that are sometimes stronger than those \u2026",
-            "url": "https://hackaday.com/2025/12/21/origami-on-another-level-with-3d-printing/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/12/3D-Printed-Origami-5-11-screenshot.png"
+            "title": "Final Google Store 2025 Pixel deals, boosted trade-ins end this week - 9to5Google",
+            "description": "After ending their Black Friday/Cyber Monday sales, the Google Store has posted its final offers for the 2025 holiday season on Pixel devices.",
+            "url": "http://9to5google.com/2025/12/22/google-store-holiday-2025/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Store-Pixel-holiday-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Samsung's wide foldable leak hints at a pre-emptive strike on Apple - Android Authority",
-            "description": "Details about Samsung's wide foldable phone have leaked, revealing display specs in comparison to Apple's foldable iPhone, and more.",
-            "url": "https://www.androidauthority.com/samsung-wide-foldable-design-specs-leak-3627018/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/PXL_20251211_125725724-scaled.jpg"
-        },
-        {
-            "title": "I wore 10 fitness watches for 10,000 steps. This brand was the most accurate. - Android Central",
-            "description": "I took my Amazfit, Apple, Coros, Google, Garmin, OnePlus, Polar, Samsung, Suunto, and Withings watches for a step test to see which you can trust.",
-            "url": "https://www.androidcentral.com/wearables/i-wore-10-fitness-watches-for-10000-steps-these-are-the-brands-you-can-trust",
-            "image": "https://cdn.mos.cms.futurecdn.net/8yiHGR5i4piw5LQxnWxMHM-2560-80.jpg"
+            "title": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot - The Verge",
+            "description": "ChatGPT is rolling out a new \u201cYear in Review\u201d feature that will give you a rundown of how you used the app this year.",
+            "url": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
         }
     ]
 }
