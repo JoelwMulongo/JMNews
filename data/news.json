@@ -1,34 +1,34 @@
 {
     "articles": [
         {
-            "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
-            "description": ": Plans move to Rust, with help from AI",
-            "url": "https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/",
-            "image": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg"
+            "title": "AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full list of games affected | Hindustan Times - Hindustan Times",
+            "description": "An Amazon Web Services (AWS) outage is disrupting multiple online gaming services, including ARC Raiders, Fortnite, Rocket League",
+            "url": "https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/AWS_down_1766634077321_1766634077491.JPG"
         },
         {
-            "title": "UploadVR's Best of VR 2025 Awards \u2013 Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR",
-            "description": "And finally, here are UploadVR's Best of VR 2025 Awards, featuring our picks for Game of the Year, New Hardware, and Most Anticipated.\n\nFind all of our winners here.",
-            "url": "https://www.uploadvr.com/best-of-vr-2025-awards/",
-            "image": "https://www.uploadvr.com/content/images/size/w1200/2025/12/ss_268a72678199155abea2581049788e88cdc82557.1920x1080-1.jpg"
+            "title": "Nintendo bringing back various icons for 2025 releases - Nintendo Everything",
+            "description": "Nintendo has announced a new promotion for Switch Online in which it\u2019s bringing back a series of icons that were released throughout the year. Eight games will be featured in total. Super Mario Galaxy + Super Mario Galaxy 2, F-Zero 99, Kirby and the Forgotten\u2026",
+            "url": "https://nintendoeverything.com/nintendo-bringing-back-various-icons-for-2025-releases/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-Online-icon-return.jpg"
         },
         {
-            "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
-            "description": "IO Interactive has pushed the release date of the James Bond video game\u00a0007: First Light\u00a0back by two months.",
-            "url": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/",
-            "image": "https://deadline.com/wp-content/uploads/2025/12/james-bond-007-first-light-delayed.jpg?w=1024"
+            "title": "26 Totally Bonkers Language Facts We Learned In 2025 That Feel Made Up - BuzzFeed",
+            "description": "And now I'm obsessed with the word \"napkin\"",
+            "url": "https://www.buzzfeed.com/mjs538/2025-dictionary-facts",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/24/20/thumb/1wZrmTt8a.jpg?crop=2999:1570;0,2%26downsize=1250:*"
         },
         {
-            "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
-            "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
-            "url": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg"
+            "title": "Sony in 2025: Sony Demonstrated its Engineering Excellence This Year - PetaPixel",
+            "description": "Sony's engineering excellence was on full display in 2025.",
+            "url": "https://petapixel.com/2025/12/24/sony-in-2025-sony-demonstrated-its-engineering-excellence-this-year/",
+            "image": "https://petapixel.com/assets/uploads/2025/12/sony-recap-2025-featured.jpg"
         },
         {
-            "title": "iPad Pro Vs iPad Air: 3 Differences Most Users Don't Know About - SlashGear",
-            "description": "Key differences between the iPad Pro and iPad Air include OLED vs LCD displays, Thunderbolt support, and upgraded speakers and microphones.",
-            "url": "https://www.slashgear.com/2055816/ipad-pro-vs-air-little-known-differences/",
-            "image": "https://www.slashgear.com/img/gallery/ipad-pro-vs-ipad-air-3-differences-most-users-dont-know-about/l-intro-1766091073.jpg"
+            "title": "Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google",
+            "description": "With the Pixel 9, Google introduced a new Panorama mode, and the latest Camera update brought it to the Pixel 8 series.",
+            "url": "http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Pixel-Camera-Panorama-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
