@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full list of games affected | Hindustan Times - Hindustan Times",
-            "description": "An Amazon Web Services (AWS) outage is disrupting multiple online gaming services, including ARC Raiders, Fortnite, Rocket League",
-            "url": "https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/AWS_down_1766634077321_1766634077491.JPG"
+            "title": "Google is rolling out a new feature allowing users to change their Gmail address - CNBC",
+            "description": "Google says it is rolling out a feature that lets users change their Gmail addresses in a long-requested update to their email policy.",
+            "url": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
+            "image": "https://image.cnbcfm.com/api/v1/image/108231458-1764050689057-gettyimages-2246202362-3h4a0159_jgqqwm01.jpeg?v=1766735037&w=1920&h=1080"
         },
         {
-            "title": "Nintendo bringing back various icons for 2025 releases - Nintendo Everything",
-            "description": "Nintendo has announced a new promotion for Switch Online in which it\u2019s bringing back a series of icons that were released throughout the year. Eight games will be featured in total. Super Mario Galaxy + Super Mario Galaxy 2, F-Zero 99, Kirby and the Forgotten\u2026",
-            "url": "https://nintendoeverything.com/nintendo-bringing-back-various-icons-for-2025-releases/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-Online-icon-return.jpg"
+            "title": "Surprise! Stardew Valley - Nintendo Switch 2 Edition Is Now Available - Nintendo Life",
+            "description": "A free update for existing Switch players",
+            "url": "https://www.nintendolife.com/news/2025/12/surprise-stardew-valley-nintendo-switch-2-edition-is-now-available",
+            "image": "https://images.nintendolife.com/c313fa1ca82e6/large.jpg"
         },
         {
-            "title": "26 Totally Bonkers Language Facts We Learned In 2025 That Feel Made Up - BuzzFeed",
-            "description": "And now I'm obsessed with the word \"napkin\"",
-            "url": "https://www.buzzfeed.com/mjs538/2025-dictionary-facts",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/24/20/thumb/1wZrmTt8a.jpg?crop=2999:1570;0,2%26downsize=1250:*"
+            "title": "How Does Android's New AirDrop-Style Feature Actually Work? - SlashGear",
+            "description": "Android's new AirDrop feature is built in Rust for better security, stems from an EU ruling that required Apple to open up AirDrop to third-party devices.",
+            "url": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/",
+            "image": "https://www.slashgear.com/img/gallery/how-does-androids-new-airdrop-style-feature-actually-work/l-intro-1766379334.jpg"
         },
         {
-            "title": "Sony in 2025: Sony Demonstrated its Engineering Excellence This Year - PetaPixel",
-            "description": "Sony's engineering excellence was on full display in 2025.",
-            "url": "https://petapixel.com/2025/12/24/sony-in-2025-sony-demonstrated-its-engineering-excellence-this-year/",
-            "image": "https://petapixel.com/assets/uploads/2025/12/sony-recap-2025-featured.jpg"
+            "title": "5 Of The Best Electric Vehicles Under $50k, According To Consumer Reports - bgr.com",
+            "description": "Cars like the Hyundai Ioniq 6, Mustang Mach\u2011E, and Nissan Ariya are among the best electric vehicles under $50,000, as shown by reviews from Consumer Reports.",
+            "url": "https://www.bgr.com/2056354/best-electric-vehicles-under-50000-according-consumer-reports-2025/",
+            "image": "https://www.bgr.com/img/gallery/5-of-the-best-electric-vehicles-under-50k-according-to-consumer-reports/l-intro-1766165944.jpg"
         },
         {
-            "title": "Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google",
-            "description": "With the Pixel 9, Google introduced a new Panorama mode, and the latest Camera update brought it to the Pixel 8 series.",
-            "url": "http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Pixel-Camera-Panorama-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
+            "description": "Yes, it's only $10.",
+            "url": "https://mashable.com/article/dec-25-microsoft-windows-11-pro",
+            "image": "https://helios-i.mashable.com/imagery/articles/00jevOyHALEc78yV2PmK12b/hero-image.fill.size_1200x675.v1765805954.jpg"
+        },
+        {
+            "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
+            "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months \u2026",
+            "url": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html",
+            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg"
         }
     ]
 }
