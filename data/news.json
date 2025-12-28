@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Google is rolling out a new feature allowing users to change their Gmail address - CNBC",
-            "description": "Google says it is rolling out a feature that lets users change their Gmail addresses in a long-requested update to their email policy.",
-            "url": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108231458-1764050689057-gettyimages-2246202362-3h4a0159_jgqqwm01.jpeg?v=1766735037&w=1920&h=1080"
+            "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop - Phoronix",
+            "description": "Announced earlier in December but flying under the radar until now is the initial reoease of a QNX Self-Hosted Developer Desktop",
+            "url": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop",
+            "image": "https://www.phoronix.net/image.php?id=2025&image=qnx_desktop_os"
         },
         {
-            "title": "Surprise! Stardew Valley - Nintendo Switch 2 Edition Is Now Available - Nintendo Life",
-            "description": "A free update for existing Switch players",
-            "url": "https://www.nintendolife.com/news/2025/12/surprise-stardew-valley-nintendo-switch-2-edition-is-now-available",
-            "image": "https://images.nintendolife.com/c313fa1ca82e6/large.jpg"
+            "title": "Motorola teases its first flagship slab smartphone in almost two years - PhoneArena",
+            "description": "Motorola Signature is coming soon, and it\u2019s most likely getting a flagship chipset.",
+            "url": "https://www.phonearena.com/news/motorola-teases-its-first-flagship-slab-smartphone-in-almost-two-years_id176890",
+            "image": "https://m-cdn.phonearena.com/images/article/176890-wide-two_1200/Motorola-teases-its-first-flagship-slab-smartphone-in-almost-two-years.jpg"
         },
         {
-            "title": "How Does Android's New AirDrop-Style Feature Actually Work? - SlashGear",
-            "description": "Android's new AirDrop feature is built in Rust for better security, stems from an EU ruling that required Apple to open up AirDrop to third-party devices.",
-            "url": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/",
-            "image": "https://www.slashgear.com/img/gallery/how-does-androids-new-airdrop-style-feature-actually-work/l-intro-1766379334.jpg"
+            "title": "Switch Online's 'Missions And Rewards' Brings Back Previous 2025 Icons - Nintendo Life",
+            "description": "Get them while you can!",
+            "url": "https://www.nintendolife.com/news/2025/12/switch-onlines-missions-and-rewards-brings-back-previous-2025-icons",
+            "image": "https://images.nintendolife.com/243eef77e0dca/large.jpg"
         },
         {
-            "title": "5 Of The Best Electric Vehicles Under $50k, According To Consumer Reports - bgr.com",
-            "description": "Cars like the Hyundai Ioniq 6, Mustang Mach\u2011E, and Nissan Ariya are among the best electric vehicles under $50,000, as shown by reviews from Consumer Reports.",
-            "url": "https://www.bgr.com/2056354/best-electric-vehicles-under-50000-according-consumer-reports-2025/",
-            "image": "https://www.bgr.com/img/gallery/5-of-the-best-electric-vehicles-under-50k-according-to-consumer-reports/l-intro-1766165944.jpg"
+            "title": "It's time to stock up on chargers - Android Police",
+            "description": "Can't go wrong with this price",
+            "url": "https://www.androidpolice.com/it-might-be-time-to-stock-up-on-chargers/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/copy-of-169-19.png?w=1600&h=900&fit=crop"
         },
         {
-            "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
-            "description": "Yes, it's only $10.",
-            "url": "https://mashable.com/article/dec-25-microsoft-windows-11-pro",
-            "image": "https://helios-i.mashable.com/imagery/articles/00jevOyHALEc78yV2PmK12b/hero-image.fill.size_1200x675.v1765805954.jpg"
+            "title": "Scientists Make Material That Can Morph Into Anything With the Pull of a String - Gizmodo",
+            "description": "Inspired by kirigami, a type of Japanese paper art, researchers have created a new material that transforms from a grid into any 3D structure you'd like.",
+            "url": "https://gizmodo.com/scientists-make-material-that-can-morph-into-anything-with-the-pull-of-a-string-2000703588",
+            "image": "https://gizmodo.com/app/uploads/2025/12/MIT-one-string-01-press-3d-structures-1200x675.jpg"
         },
         {
-            "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
-            "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months \u2026",
-            "url": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg"
+            "title": "Uh Oh: Male Mosquitoes Can Feed on Our Blood, Too - Gizmodo",
+            "description": "The findings might overturn a widely held belief that only females pose a disease risk to people, though more research is needed.",
+            "url": "https://gizmodo.com/uh-oh-male-mosquitoes-can-feed-on-our-blood-too-study-finds-2000703485",
+            "image": "https://gizmodo.com/app/uploads/2025/12/mosquitobloodfeeding-1200x675.jpg"
         }
     ]
 }
