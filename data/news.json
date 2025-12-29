@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop - Phoronix",
-            "description": "Announced earlier in December but flying under the radar until now is the initial reoease of a QNX Self-Hosted Developer Desktop",
-            "url": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop",
-            "image": "https://www.phoronix.net/image.php?id=2025&image=qnx_desktop_os"
+            "title": "Behold the Manifold, the Concept that Changed How Mathematicians View Space - WIRED",
+            "description": "In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.",
+            "url": "https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/",
+            "image": "https://media.wired.com/photos/693fddfac50190c987e8c8fc/191:100/w_1280,c_limit/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg"
         },
         {
-            "title": "Motorola teases its first flagship slab smartphone in almost two years - PhoneArena",
-            "description": "Motorola Signature is coming soon, and it\u2019s most likely getting a flagship chipset.",
-            "url": "https://www.phonearena.com/news/motorola-teases-its-first-flagship-slab-smartphone-in-almost-two-years_id176890",
-            "image": "https://m-cdn.phonearena.com/images/article/176890-wide-two_1200/Motorola-teases-its-first-flagship-slab-smartphone-in-almost-two-years.jpg"
+            "title": "AEW Star Wears The Wrong Ring Gear At AEW Worlds End - Wrestlezone",
+            "description": "Speedball Mike Bailey looked a bit different at AEW Worlds End, as he was wearing his partner Kevin Knight's ring gear.",
+            "url": "https://www.wrestlezone.com/news/1599578-aew-star-wears-the-wrong-ring-gear-aew-worlds-end",
+            "image": "https://www.wrestlezone.com/wp-content/uploads/sites/8/2025/12/jetspeed-speedball-mike-bailey-kevin-knight.jpg?resize=1200,630"
         },
         {
-            "title": "Switch Online's 'Missions And Rewards' Brings Back Previous 2025 Icons - Nintendo Life",
-            "description": "Get them while you can!",
-            "url": "https://www.nintendolife.com/news/2025/12/switch-onlines-missions-and-rewards-brings-back-previous-2025-icons",
-            "image": "https://images.nintendolife.com/243eef77e0dca/large.jpg"
+            "title": "Square Enix Teases More For Dragon Quest, NieR and Final Fantasy In 2026 - Nintendo Life",
+            "description": "But try not to get \u201ctoo excited\u201d",
+            "url": "https://www.nintendolife.com/news/2025/12/square-enix-teases-more-for-dragon-quest-nier-and-final-fantasy-in-2026",
+            "image": "https://images.nintendolife.com/a03cd58198f12/large.jpg"
         },
         {
-            "title": "It's time to stock up on chargers - Android Police",
-            "description": "Can't go wrong with this price",
-            "url": "https://www.androidpolice.com/it-might-be-time-to-stock-up-on-chargers/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/copy-of-169-19.png?w=1600&h=900&fit=crop"
+            "title": "ICYMI: Stardew Valley - Nintendo Switch 2 Edition Is Now Available, Will You Be Getting It? - Nintendo Life",
+            "description": "The new version is now live",
+            "url": "https://www.nintendolife.com/news/2025/12/icymi-stardew-valley-nintendo-switch-2-edition-is-now-available-will-you-be-getting-it",
+            "image": "https://images.nintendolife.com/39688a9ce35de/large.jpg"
         },
         {
-            "title": "Scientists Make Material That Can Morph Into Anything With the Pull of a String - Gizmodo",
-            "description": "Inspired by kirigami, a type of Japanese paper art, researchers have created a new material that transforms from a grid into any 3D structure you'd like.",
-            "url": "https://gizmodo.com/scientists-make-material-that-can-morph-into-anything-with-the-pull-of-a-string-2000703588",
-            "image": "https://gizmodo.com/app/uploads/2025/12/MIT-one-string-01-press-3d-structures-1200x675.jpg"
+            "title": "Blender 5.0 Benchmarks Since Blender 3.0 For CPU Rendering Performance - Phoronix",
+            "description": "As part of the many different year-end benchmarks on Phoronix, over the holidays I was curious about how far the Blender 3D modeling software's performance has evolved over the past few years",
+            "url": "https://www.phoronix.com/news/Blender-5.0-Benchmarks-To-3.0",
+            "image": "https://www.phoronix.net/image.php?id=2025&image=blender_5_benchmark"
         },
         {
-            "title": "Uh Oh: Male Mosquitoes Can Feed on Our Blood, Too - Gizmodo",
-            "description": "The findings might overturn a widely held belief that only females pose a disease risk to people, though more research is needed.",
-            "url": "https://gizmodo.com/uh-oh-male-mosquitoes-can-feed-on-our-blood-too-study-finds-2000703485",
-            "image": "https://gizmodo.com/app/uploads/2025/12/mosquitobloodfeeding-1200x675.jpg"
+            "title": "Seeing Sound For Under $200 - Hackaday",
+            "description": "There are five general senses: touch for feels, taste for food, smell for avoiding trash, hearing for sounds, and, of course, eyesight for visualizing the very waves making up that sound. [Plasmatr\u2026",
+            "url": "https://hackaday.com/2025/12/27/seeing-sound-for-under-200/",
+            "image": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-a-Camera-That-Sees-Sound-8-23-screenshot.png"
         }
     ]
 }
