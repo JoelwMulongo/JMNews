@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Behold the Manifold, the Concept that Changed How Mathematicians View Space - WIRED",
-            "description": "In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.",
-            "url": "https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/",
-            "image": "https://media.wired.com/photos/693fddfac50190c987e8c8fc/191:100/w_1280,c_limit/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg"
+            "title": "James Bond game 007 First Light delayed to May 2026 - BBC",
+            "description": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May.",
+            "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b1f5/live/f6b281d0-e491-11f0-a06d-4903df3f724c.png"
         },
         {
-            "title": "AEW Star Wears The Wrong Ring Gear At AEW Worlds End - Wrestlezone",
-            "description": "Speedball Mike Bailey looked a bit different at AEW Worlds End, as he was wearing his partner Kevin Knight's ring gear.",
-            "url": "https://www.wrestlezone.com/news/1599578-aew-star-wears-the-wrong-ring-gear-aew-worlds-end",
-            "image": "https://www.wrestlezone.com/wp-content/uploads/sites/8/2025/12/jetspeed-speedball-mike-bailey-kevin-knight.jpg?resize=1200,630"
+            "title": "Silent Hill Producer Aims to Release One New Game Per Year - Push Square",
+            "description": "Series back with a bang",
+            "url": "https://www.pushsquare.com/news/2025/12/silent-hill-producer-aims-to-release-one-new-game-per-year",
+            "image": "https://images.pushsquare.com/613d48c60c7ae/large.jpg"
         },
         {
-            "title": "Square Enix Teases More For Dragon Quest, NieR and Final Fantasy In 2026 - Nintendo Life",
-            "description": "But try not to get \u201ctoo excited\u201d",
-            "url": "https://www.nintendolife.com/news/2025/12/square-enix-teases-more-for-dragon-quest-nier-and-final-fantasy-in-2026",
-            "image": "https://images.nintendolife.com/a03cd58198f12/large.jpg"
+            "title": "Dell confirms Ryzen 7 9850X3D update for Alienware Area-51 PC set to launch in February 2026 - VideoCardz.com",
+            "description": "Dell Alienware PC gets confirmation on AMD unannounced CPU option Dell has published a press release confirming an AMD Ryzen 7 9850X3D CPU option for its",
+            "url": "https://videocardz.com/newz/dell-confirms-ryzen-7-9850x3d-update-for-alienware-area-51-pc-set-to-launch-in-february-2026",
+            "image": "https://cdn.videocardz.com/1/2025/12/DELL-ALIENWARE51-RYZEN-9850X3D-HERO.jpg"
         },
         {
-            "title": "ICYMI: Stardew Valley - Nintendo Switch 2 Edition Is Now Available, Will You Be Getting It? - Nintendo Life",
-            "description": "The new version is now live",
-            "url": "https://www.nintendolife.com/news/2025/12/icymi-stardew-valley-nintendo-switch-2-edition-is-now-available-will-you-be-getting-it",
-            "image": "https://images.nintendolife.com/39688a9ce35de/large.jpg"
+            "title": "Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com",
+            "description": "After building his own iPhone 17, YouTube tech guru Strange Parts has now built his own DIY Apple Watch from scratch in China's tech marketplace",
+            "url": "https://supercarblondie.com/man-builds-diy-apple-watch-from-scratch/",
+            "image": "https://supercarblondie.com/wp-content/uploads/Apple-Watch-Fake-China.webp"
         },
         {
-            "title": "Blender 5.0 Benchmarks Since Blender 3.0 For CPU Rendering Performance - Phoronix",
-            "description": "As part of the many different year-end benchmarks on Phoronix, over the holidays I was curious about how far the Blender 3D modeling software's performance has evolved over the past few years",
-            "url": "https://www.phoronix.com/news/Blender-5.0-Benchmarks-To-3.0",
-            "image": "https://www.phoronix.net/image.php?id=2025&image=blender_5_benchmark"
+            "title": "Japan\u2019s Viral Horse-Racing Video Game Has Players Flocking to Real-Life Stables - Bloomberg.com",
+            "description": "With more than 30 million downloads, Umamusume: Pretty Derby has generated anime adaptations, live concerts and a new legion of racetrack fans.",
+            "url": "https://www.bloomberg.com/news/articles/2025-12-29/-umamusume-pretty-derby-horse-racing-video-game-sends-players-to-stables",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOVx7Mct3FFc/v0/1200x630.jpg"
         },
         {
-            "title": "Seeing Sound For Under $200 - Hackaday",
-            "description": "There are five general senses: touch for feels, taste for food, smell for avoiding trash, hearing for sounds, and, of course, eyesight for visualizing the very waves making up that sound. [Plasmatr\u2026",
-            "url": "https://hackaday.com/2025/12/27/seeing-sound-for-under-200/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-a-Camera-That-Sees-Sound-8-23-screenshot.png"
+            "title": "Streaming Music To Cassette - Hackaday",
+            "description": "In almost every measurable way, a lossless digital audio file is superior to any analog media. This doesn\u2019t mean that analog audio isn\u2019t valuable though; plenty of people appreciate the\u2026",
+            "url": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/",
+            "image": "https://hackaday.com/wp-content/uploads/2025/12/streaming-tape-main.jpg"
         }
     ]
 }
