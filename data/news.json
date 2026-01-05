@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday",
-            "description": "Despite faster CPUs, RAM and storage, today\u2019s Windows experience doesn\u2019t feel noticeably different from back in the 2000s when XP and later Windows 7 ruled the roost. To quantify this f\u2026",
-            "url": "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/",
-            "image": "https://hackaday.com/wp-content/uploads/2025/12/windows_versions_benchmark_TrigrZolt_youtube.jpg"
+            "title": "LEAK: The Sims 4 Royalty & Legacy is The Next Expansion Pack Title - Sims Community",
+            "description": "All the rumors about the last Sims 4 Expansion Pack are coming true. The official title of the next, and alleged last Expansion Pack is The Sims 4 Royalty",
+            "url": "https://simscommunity.info/2026/01/04/leak-the-sims-4-royalty-legacy-expansion/",
+            "image": "https://simscommunity.info/wp-content/uploads/2026/01/SIMS-4-Royalty-Legacy-EP.jpg"
         },
         {
-            "title": "MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCardz.com",
-            "description": "MSI teases flagship MEG X QD-OLED monitor with \"AI gaming\" branding ahead of CES 2026 MSI has posted a teaser for a new \"flagship MEG X\" monitor. The",
-            "url": "https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026",
-            "image": "https://cdn.videocardz.com/1/2026/01/MSI-MEG-X-QD-OLED-MONITOR-CES-2026.jpg"
+            "title": "ASUS launches ROG Swift 4th Gen Tandem OLED PG27UCWM and QD-OLED PG34WCDN monitors - VideoCardz.com",
+            "description": "ASUS reveals two ROG Swift OLED monitors for CES 2026: PG34WCDN and PG27UCWM ASUS is expanding its ROG Swift OLED lineup ahead of CES 2026 with two new",
+            "url": "https://videocardz.com/newz/asus-launches-rog-swift-4th-gen-tandem-oled-pg27ucwm-and-qd-oled-pg34wcdn-monitors",
+            "image": "https://cdn.videocardz.com/1/2026/01/ASUS-ROG-SWIFT-OLED-CES-2026.jpg"
         },
         {
-            "title": "Seller of Caribbean Mansion From \u2018Too Hot to Handle\u2019 Accepting $35 Million in Crypto - Mansion Global",
-            "description": "The peninsular property, which comes with three private beaches, featured in seasons 2 and 3 of the Netflix reality dating show",
-            "url": "https://www.mansionglobal.com/articles/seller-of-caribbean-mansion-from-too-hot-to-handle-accepting-35-million-in-crypto-121feaf8",
-            "image": "https://images.mansionglobal.com/im-85302952/social"
+            "title": "These are the best new MacBook Air and MacBook Pro deals in January so far - 9to5Mac",
+            "description": "If you\u2019re looking to kick off the new year with a new MacBook, now\u2019s a fantastic time to buy. In...",
+            "url": "https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-hello-m2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Can You Use An Amazon Fire TV Stick Without Internet? - bgr.com",
-            "description": "To use an Amazon Fire TV Stick without an internet connection, you'll need to go online to install an alternative launcher that replaces Amazon's interface.",
-            "url": "https://www.bgr.com/2062805/can-you-use-amazon-fire-stick-without-internet/",
-            "image": "https://www.bgr.com/img/gallery/can-you-use-an-amazon-fire-tv-stick-without-internet/l-intro-1767024869.jpg"
+            "title": "The Rare British Roadster That Helped Inspire The Mazda Miata - Jalopnik",
+            "description": "Modestly powered and fun to drive, the Lotus Elan was the inspiration behind the Mazda Miata, and it came to life because of automotive journalist Bob Hall.",
+            "url": "https://www.jalopnik.com/2058949/rare-british-roadster-that-inspired-mazda-miata/",
+            "image": "https://www.jalopnik.com/img/gallery/the-rare-british-roadster-that-helped-inspire-the-mazda-miata/l-intro-1765905456.jpg"
         },
         {
-            "title": "Microsoft CEO Satya Nadella calls for consensus about AI - theregister.com",
-            "description": ": Exec argues we need a new metaphor focused on AI as a lever rather than a job killer",
-            "url": "https://www.theregister.com/2026/01/02/microsoft_ceo_satya_nadella_calls/",
-            "image": "https://regmedia.co.uk/2024/03/19/shutterstock_nadella.jpg"
+            "title": "Alleged First Look at The Sims Project X Character Design - Sims Community",
+            "description": "The rumors about The Sims Project X keep spreading like wildfire. First we got some talks spreading that The Sims 4 will be getting its last Expansion Pack",
+            "url": "https://simscommunity.info/2026/01/04/the-sims-project-x-character-leak/",
+            "image": "https://simscommunity.info/wp-content/uploads/2026/01/sims-project-x-rumor-first-look.jpg"
+        },
+        {
+            "title": "Can You Use Apple CarPlay Without Cell Service? - bgr.com",
+            "description": "Apple CarPlay comes in handy during your travels, but will it work when you don't have cell service? Here's everything you need to know.",
+            "url": "https://www.bgr.com/2063902/use-apple-carplay-without-cell-service/",
+            "image": "https://www.bgr.com/img/gallery/can-you-use-apple-carplay-without-cell-service/l-intro-1766761419.jpg"
         }
     ]
 }
