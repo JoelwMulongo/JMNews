@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the Biggest Splash - CNET",
-            "description": "From unprecedented levels of brightness to micro-LED backlights, here are the features we'll be looking for at this year's CES expo.",
-            "url": "https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/",
-            "image": "https://www.cnet.com/a/img/resize/7d0cd989813038e6714dd56ba0854ba975f4b5a0/hub/2025/11/05/56993639-b34c-4e78-b4bd-1066e5745983/tv.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps - The Verge",
+            "description": "Nvidia is launching new GeForce Now apps for Linux and Amazon\u2019s Fire TV devices. It\u2019s also adding flight control support to its streaming service.",
+            "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com",
-            "description": "MSI announces Stealth 16 AI+ with Intel Panther Lake and NVIDIA RTX 50 graphics MSI is rolling out the Stealth 16 AI+, a 16-inch notebook built around a",
-            "url": "https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu",
-            "image": "https://cdn.videocardz.com/1/2026/01/MSI-STEALTH-16-AI-PLUS-PANTHER-LAKE-RTX-50.jpg"
+            "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica",
+            "description": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
+            "url": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Intel_CES_-1152x648.jpeg"
         },
         {
-            "title": "\u2018Project Blackbird Was the Game I Had Waited My Entire Career to Create, and Having it Canceled Led to my Resignation\u2019, Confirms Ex ZOS Founder - Wccftech",
-            "description": "Former ZeniMax Online Studios founder Matt Firor confirmed that the cancellation of Project Blackbird directly caused his resignation.",
-            "url": "https://wccftech.com/project-blackbird-was-the-game-i-had-waited-my-entire-career-to-create-says-ex-zos-founder/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/matt-firor-zenimax-online-HD-scaled.jpeg"
+            "title": "Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks - theregister.com",
+            "description": ": Notebook updates and enterprise tools also inbound from IT giant",
+            "url": "https://www.theregister.com/2026/01/06/hp_keyboard_pc/",
+            "image": "https://regmedia.co.uk/2026/01/02/hp0.jpg"
         },
         {
-            "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
-            "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS is bringing XREAL-branded AR gaming glasses to CES with",
-            "url": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles",
-            "image": "https://cdn.videocardz.com/1/2026/01/ROG-XREAL-GLASSES.jpg"
+            "title": "AMD unveils new AI PC processors for general use and gaming at CES - TechCrunch",
+            "description": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
+            "url": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/01/Ryzen-AI-Blog-1200x675-1.jpg?w=960"
         },
         {
-            "title": "This robot companion is a cameraman for your pet - The Verge",
-            "description": "\ufeffThe Vex plays with your pet and films it too, even editing the video itself.",
-            "url": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/frontier-x-aura-vex-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+            "title": "AMD\u2019s new Ryzen 7 9850X3D makes the best gaming CPU even faster - The Verge",
+            "description": "AMD is launching an improved version of its 9800X3D processor. The new Ryzen 7 9850X3D has a better boost clock to offer improved frame rates in certain games.",
+            "url": "https://www.theverge.com/tech/855188/amd-ryzen-7-9850x3d-processor-boost-clock-announcement",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+            "title": "Yes, the Google app icon is now bigger on Android - 9to5Google",
+            "description": "The year in Google updates is well underway today with beta version 17.0 of the Google app on Android increasing the size of the app icon.",
+            "url": "http://9to5google.com/2026/01/05/google-app-icon-size-tweak/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-app-icon-size-tweak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
