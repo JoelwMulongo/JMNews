@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple sits out AI arms race to play kingmaker between Google and OpenAI - Financial Times",
-            "description": "Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending",
-            "url": "https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a",
-            "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F832845f6-4490-4e6d-a8b6-1072406191f4.jpg?source=next-barrier-page"
+            "title": "Casting is dead. Long live casting! - The Verge",
+            "description": "Netflix laid the groundwork for casting. Now, it\u2019s pulled the plug on the technology. Is there still life left in second-screen playback control?",
+            "url": "https://www.theverge.com/column/861948/casting-netflix-dead",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregister.com",
-            "description": ": Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance",
-            "url": "https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/",
-            "image": "https://regmedia.co.uk/2022/03/03/shutterstock_cut_red_wire.jpg"
+            "title": "Public Statement to Clarify Recent Reports Regarding the ASUS GeForce RTX\u2122 5070 Ti and RTX\u2122 5060 Ti 16 GB - ASUS Press",
+            "description": "ASUS clarifies reports on GeForce RTX 5070 Ti & RTX 5060 Ti 16 GB: Not discontinued! Supply fluctuations due to memory constraints. ASUS will continue support.",
+            "url": "https://press.asus.com/news/statements/asus-rtx-5070ti-5060ti-statement/",
+            "image": "https://press.asus.com/assets/w_1200,h_630/6fb54641-00a1-42c6-bfc9-7cb3e4961bd7/defaultImg.bb7db14%20(1).jpg"
         },
         {
-            "title": "Android 16 QPR3 Beta 2 takes a big leap forward - Android Police",
-            "description": "This is a big step up",
-            "url": "https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1498.jpg?w=1600&h=900&fit=crop"
+            "title": "The Hundred Line: Last Defense Academy officially a \u20181&2 Pack\u2019 - Gematsu",
+            "description": "The Hundred Line: Last Defense Academy is actually two games in one, publisher Aniplex and developers Too Kyo Games and Media.Vision announced. The Hundred Line: Last Defense Academy depicts the fi\u2026",
+            "url": "https://www.gematsu.com/2026/01/the-hundred-line-last-defense-academy-officially-a-12-pack",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/01/Hundred-Line-2-Ann_01-15-26_Top.jpg"
         },
         {
-            "title": "The Stream Deck Plus is back to its lowest price - The Verge",
-            "description": "The Stream Deck Plus builds upon the standard model with four dials. It\u2019s on sale for $159.99 ($40 off) at multiple retailers, which matches its best price.",
-            "url": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24198362/Stream_Deck___Lifestyle_Shot_17.jpg?quality=90&strip=all&crop=0%2C5.2218241939928%2C100%2C89.556351612014&w=1200"
+            "title": "Video: Animal Crossing: New Horizons Nintendo Switch 2 Edition vs. Switch comparison - Nintendo Everything",
+            "description": "A new video comparison has come in for the new Nintendo Switch 2 Edition of Animal Crossing: New Horizons and its Switch original. Probably the biggest here is load time improvements. On Nintendo Switch 2, loading is reduced by about half. Elsewhere, things a\u2026",
+            "url": "https://nintendoeverything.com/video-animal-crossing-new-horizons-nintendo-switch-2-edition-vs-switch-comparison/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Animal-Crossing-New-Horizons-Switch-2-vs.-Switch-2-comparison.jpg"
         },
         {
-            "title": "A new form of graphene-derived material could unlock next-generation printed electronics - Phys.org",
-            "description": "Graphene has long been hailed as a \"wonder material.\" It is incredibly strong, highly conductive and almost impossibly thin\u2014just one atom thick. These properties make it a promising candidate for next-generation technologies such as flexible electronics, wear\u2026",
-            "url": "https://phys.org/news/2026-01-graphene-derived-material-generation-electronics.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/2026/a-new-form-of-graphene.jpg"
+            "title": "Leon Kennedy Can Finally Use A Chainsaw In Resident Evil Requiem - Game Informer",
+            "description": "From Grace's new gun to Leon's new hatchet, here's everything you need to know about today's showcase.",
+            "url": "https://gameinformer.com/2026/01/15/leon-kennedy-can-finally-use-a-chainsaw-in-resident-evil-requiem",
+            "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/01/15/c21f6037/resident_evil_showcase_january_15_2026_3-57_screenshot_1.jpg.webp"
         },
         {
-            "title": "Amazon\u2019s bestselling MP3 player is on sale for $29, and it\u2019s giving us major nostalgia - thestreet.com",
-            "description": "Say goodbye to music with ads and streaming subscriptions.",
-            "url": "https://www.thestreet.com/deals/aimoonsa-mp3-layer-amazon-sale",
-            "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE3NjM0OTE1OTUxMzIyMjUw/online-retailer-amazon-pharmacy-subscription-0212c9ec3dc9433a0cec8c6f4d203eb66b893a6f-2034992.jpg"
+            "title": "Lovish launches February 5 - Gematsu",
+            "description": "8-bit side-scrolling action adventure game Lovish will launch for PlayStation 5, Xbox Series, Xbox One, Switch, and PC via Steam, GOG, Humble Store, and itch.io on February 5, publisher DANGEN Ente\u2026",
+            "url": "https://www.gematsu.com/2026/01/lovish-launches-february-5",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/01/Lovish-Release-Date_01-14-26.jpg"
         }
     ]
 }
