@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Reminder: Final Fantasy VII Remake Intergrade 'Limited Early Purchase Edition' Offer Ends Next Week - Nintendo Life",
-            "description": "Get a bonus copy of FFVII while you can",
-            "url": "https://www.nintendolife.com/news/2026/01/reminder-final-fantasy-vii-remake-intergrade-limited-early-purchase-edition-offer-ends-next-week",
-            "image": "https://images.nintendolife.com/66478b97e6395/large.jpg"
-        },
-        {
-            "title": "iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors",
-            "description": "For now, rumors have settled on the iPhone 18 Pro and iPhone 18 Pro Max featuring a smaller Dynamic Island, and now a leaker has revealed its alleged...",
-            "url": "https://www.macrumors.com/2026/01/23/iphone-18-pro-alleged-dynamic-island-size/",
-            "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg"
-        },
-        {
-            "title": "Google and Epic Games struck a secretive $800 million deal, 'helping Google market Android' - 9to5Google",
-            "description": "As revealed in the ongoing court saga, Google and Epic Games have apparently struck a new deal that involves Android,...",
-            "url": "http://9to5google.com/2026/01/22/google-epic-games-deal-court-reveal/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-23-fortnite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable",
+            "description": "I've been an iPhone user for a long time, but these features could make me defect from Apple-land.",
+            "url": "https://mashable.com/article/samsung-galaxy-s26-features-switch-from-iphone",
+            "image": "https://helios-i.mashable.com/imagery/articles/03EeeQ6bslarPLfMwpVrVI6/hero-image.fill.size_1200x675.v1769188390.jpg"
         },
         {
             "title": "PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update - Nintendo Life",
-            "description": "Visual quality upgrades, improved resolution and more!",
+            "description": "Update: Here's a look at this latest update",
             "url": "https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update",
             "image": "https://images.nintendolife.com/b8276f833efed/large.jpg"
         },
         {
-            "title": "Winapp is Microsoft\u2019s new command line utility for developers. - The Verge",
-            "description": "No description available.",
-            "url": "https://www.theverge.com/news/865976/winapp-is-microsofts-new-command-line-utility-for-developers",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/winapp.png?quality=90&strip=all&crop=0%2C10.747289216948%2C100%2C78.505421566103&w=1200"
+            "title": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years - Nintendo Everything",
+            "description": "It\u2019s been revealed that longtime Nintendo designer Hideki Konno has left the company after about forty years. Konno joined Nintendo way back in 1986. His first game was Super Mario Bros. 2, but he\u2019s had quite the resume since. For a long time, he was the prod\u2026",
+            "url": "https://nintendoeverything.com/hideki-konno-nintendo-retirement/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Hideki-Konno-Nintendo-retirement.jpg"
         },
         {
-            "title": "Beast of Reincarnation Game Director Answers All Our Burning Questions About the Pokemon Developer's Upcoming Action Game - IGN",
-            "description": "Today, Game Freak's upcoming action game Beast of Reincarnation reemerged at the Xbox Developer Direct. So I sat down with Kota Furushima, game director of Beast of Reincarnation, to chat about what we saw, as well as get some further details on what exactly \u2026",
-            "url": "https://www.ign.com/articles/beast-of-reincarnation-game-director-answers-all-our-burning-questions-about-the-pokemon-developers-upcoming-action-game",
-            "image": "https://assets-prd.ignimgs.com/2026/01/22/beast-of-reincarnation-heroart-1769104786513.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Sims 4 Sex Mod Used Hundreds Of Thousands Of Times A Day - Kotaku",
+            "description": "What a wicked game to play, to make me feel this way",
+            "url": "https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724",
+            "image": "https://kotaku.com/app/uploads/2026/01/image-2-2.jpg"
+        },
+        {
+            "title": "Massive data breach exposes 149 million accounts across Facebook, Gmail, and others - Android Police",
+            "description": "Keep an eye out going forward",
+            "url": "https://www.androidpolice.com/big-data-leak-exposes-149-million-accounts-across-facebook-gmail/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/copy-of-169-1-6.png?w=1600&h=900&fit=crop"
+        },
+        {
+            "title": "Surrender as a service: Microsoft unlocks BitLocker for feds - theregister.com",
+            "description": "updated: If you're serious about encryption, keep control of your encryption keys",
+            "url": "https://www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/",
+            "image": "https://regmedia.co.uk/2021/05/11/cryptography_keys_shutterstock.jpg"
         }
     ]
 }
