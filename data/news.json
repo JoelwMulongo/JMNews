@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable",
-            "description": "I've been an iPhone user for a long time, but these features could make me defect from Apple-land.",
-            "url": "https://mashable.com/article/samsung-galaxy-s26-features-switch-from-iphone",
-            "image": "https://helios-i.mashable.com/imagery/articles/03EeeQ6bslarPLfMwpVrVI6/hero-image.fill.size_1200x675.v1769188390.jpg"
+            "title": "Google\u2019s Gmail Upgrade\u2014Millions Of Accounts Now At Risk - Forbes",
+            "description": "Millions of Gmail users do not know these changes are coming \u2014 are you affected?",
+            "url": "https://www.forbes.com/sites/zakdoffman/2026/01/25/google-starts-upgrading-gmail-millions-of-accounts-now-at-risk/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=728,409,x293,y99,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update - Nintendo Life",
-            "description": "Update: Here's a look at this latest update",
-            "url": "https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update",
-            "image": "https://images.nintendolife.com/b8276f833efed/large.jpg"
+            "title": "iPhone users begin to receive payouts from $95 million Siri privacy settlement - 9to5Mac",
+            "description": "Early last year, Apple agreed to settle a class action lawsuit regarding \u2018unlawful and intentional recording\u2019 of conversations with Siri....",
+            "url": "https://9to5mac.com/2026/01/24/apple-siri-settlement-95-million-payouts-begin/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Siri-Screen-Recording-iOS-16.5-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years - Nintendo Everything",
-            "description": "It\u2019s been revealed that longtime Nintendo designer Hideki Konno has left the company after about forty years. Konno joined Nintendo way back in 1986. His first game was Super Mario Bros. 2, but he\u2019s had quite the resume since. For a long time, he was the prod\u2026",
-            "url": "https://nintendoeverything.com/hideki-konno-nintendo-retirement/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Hideki-Konno-Nintendo-retirement.jpg"
+            "title": "Ubisoft Has Reportedly Killed One of Its Biggest Franchises for Good - ComicBook.com",
+            "description": "Ubisoft has reportedly killed one of its biggest franchises for good, only a decade after it debuted with great promise on PS4 and Xbox One.",
+            "url": "http://comicbook.com/gaming/news/ubisoft-has-reportedly-killed-one-of-its-biggest-franchises-for-good/",
+            "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125"
         },
         {
-            "title": "Sims 4 Sex Mod Used Hundreds Of Thousands Of Times A Day - Kotaku",
-            "description": "What a wicked game to play, to make me feel this way",
-            "url": "https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724",
-            "image": "https://kotaku.com/app/uploads/2026/01/image-2-2.jpg"
+            "title": "What's The Biggest Difference Between Ford's Coyote And GM's LS Engines? - Jalopnik",
+            "description": "The biggest differences between Ford's Coyote and GM's LS engines are their camshaft locations and their sizes. The Ford engines also produce more horsepower.",
+            "url": "https://www.jalopnik.com/2080807/whats-difference-between-fords-coyote-and-gms-ls-engines/",
+            "image": "https://www.jalopnik.com/img/gallery/whats-the-biggest-difference-between-fords-coyote-and-gms-ls-engines/l-intro-1768944054.jpg"
         },
         {
-            "title": "Massive data breach exposes 149 million accounts across Facebook, Gmail, and others - Android Police",
-            "description": "Keep an eye out going forward",
-            "url": "https://www.androidpolice.com/big-data-leak-exposes-149-million-accounts-across-facebook-gmail/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/copy-of-169-1-6.png?w=1600&h=900&fit=crop"
+            "title": "Microsoft just issued a second emergency OS update for Windows 11 this month - Windows Central",
+            "description": "Another out of band update has been issued to Windows 11 users to address a major bug that caused Outlook to become inoperable after January's disastrous Patch Tuesday updates.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
+            "image": "https://cdn.mos.cms.futurecdn.net/vV9qZsEjjQzM3p2vDiyXUQ-2560-80.jpg"
         },
         {
-            "title": "Surrender as a service: Microsoft unlocks BitLocker for feds - theregister.com",
-            "description": "updated: If you're serious about encryption, keep control of your encryption keys",
-            "url": "https://www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/",
-            "image": "https://regmedia.co.uk/2021/05/11/cryptography_keys_shutterstock.jpg"
+            "title": "A $40 ad blocker is protecting families for life - Mashable",
+            "description": "Never see another ad.",
+            "url": "https://mashable.com/article/jan-24-adguard-family-plan-lifetime-subscription",
+            "image": "https://helios-i.mashable.com/imagery/articles/070Ifb9GSH3qCyCzo1vNLzT/hero-image.fill.size_1200x675.v1769168597.jpg"
         }
     ]
 }
