@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Google\u2019s Gmail Upgrade\u2014Millions Of Accounts Now At Risk - Forbes",
-            "description": "Millions of Gmail users do not know these changes are coming \u2014 are you affected?",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/01/25/google-starts-upgrading-gmail-millions-of-accounts-now-at-risk/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=728,409,x293,y99,safe&height=900&width=1600&fit=bounds"
+            "title": "Microsoft said my Windows 10 PC no longer supported updates - but this software saved it - ZDNET",
+            "description": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Here's my verdict after months of use.",
+            "url": "https://www.zdnet.com/article/0patch-review/",
+            "image": "https://www.zdnet.com/a/img/resize/7dc83b932ed72e220517ba6de32b7e78cf1ad669/2024/09/18/1fcabcc1-08eb-425c-aa9e-d2ddc4d54fa9/microsoft-surface-laptop-4.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "iPhone users begin to receive payouts from $95 million Siri privacy settlement - 9to5Mac",
-            "description": "Early last year, Apple agreed to settle a class action lawsuit regarding \u2018unlawful and intentional recording\u2019 of conversations with Siri....",
-            "url": "https://9to5mac.com/2026/01/24/apple-siri-settlement-95-million-payouts-begin/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Siri-Screen-Recording-iOS-16.5-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "If You Inherited The \u201cI Need A Little Treat\u201d Gene, These 16 Under-$10 Impulse Buys Won\u2019t Break The Bank - BuzzFeed",
+            "description": "\"I can't help it. It's in my DNA.\" \u2014You adding goodies to your cart",
+            "url": "https://www.buzzfeed.com/melanie_aman/little-treats-under-10-impulse-buys-an",
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/07/19/thumb/BmoRLqfTK.jpg?crop=1245:830;3,0&resize=1250:830"
         },
         {
-            "title": "Ubisoft Has Reportedly Killed One of Its Biggest Franchises for Good - ComicBook.com",
-            "description": "Ubisoft has reportedly killed one of its biggest franchises for good, only a decade after it debuted with great promise on PS4 and Xbox One.",
-            "url": "http://comicbook.com/gaming/news/ubisoft-has-reportedly-killed-one-of-its-biggest-franchises-for-good/",
-            "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125"
+            "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70 - thestreet.com",
+            "description": "Shoppers say \"the functionality is great.\"",
+            "url": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026",
+            "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjA5NzUzMjE2MDk3NzIzODU3/amazon-sale-9.jpg"
         },
         {
-            "title": "What's The Biggest Difference Between Ford's Coyote And GM's LS Engines? - Jalopnik",
-            "description": "The biggest differences between Ford's Coyote and GM's LS engines are their camshaft locations and their sizes. The Ford engines also produce more horsepower.",
-            "url": "https://www.jalopnik.com/2080807/whats-difference-between-fords-coyote-and-gms-ls-engines/",
-            "image": "https://www.jalopnik.com/img/gallery/whats-the-biggest-difference-between-fords-coyote-and-gms-ls-engines/l-intro-1768944054.jpg"
+            "title": "Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes - Phoronix",
+            "description": "The Linux 6.19 kernel remains on track for its official release two weeks from today, with the extra RC being baked in due to the end of year holidays",
+            "url": "https://www.phoronix.com/news/Linux-6.19-rc7-Released",
+            "image": "https://www.phoronix.net/image.php?id=2026&image=linux_619_rc7"
         },
         {
-            "title": "Microsoft just issued a second emergency OS update for Windows 11 this month - Windows Central",
-            "description": "Another out of band update has been issued to Windows 11 users to address a major bug that caused Outlook to become inoperable after January's disastrous Patch Tuesday updates.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs",
-            "image": "https://cdn.mos.cms.futurecdn.net/vV9qZsEjjQzM3p2vDiyXUQ-2560-80.jpg"
-        },
-        {
-            "title": "A $40 ad blocker is protecting families for life - Mashable",
-            "description": "Never see another ad.",
-            "url": "https://mashable.com/article/jan-24-adguard-family-plan-lifetime-subscription",
-            "image": "https://helios-i.mashable.com/imagery/articles/070Ifb9GSH3qCyCzo1vNLzT/hero-image.fill.size_1200x675.v1769168597.jpg"
+            "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
+            "description": "While most professional-grade apps lock premium features behind a paywall, apps like VLC, DaVinci Resolve, Bitwarden, etc., are completely free yet useful.",
+            "url": "https://www.bgr.com/2079999/free-apps-better-premium-alternatives/",
+            "image": "https://www.bgr.com/img/gallery/5-free-apps-actually-better-than-premium-alternatives/l-intro-1768906389.jpg"
         }
     ]
 }
