@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Pok\u00e9mon Pokopia Switch 2 Pre-Order Bonus Revealed (North America) - Nintendo Life",
-            "description": "Fancy a plant?",
-            "url": "https://www.nintendolife.com/news/2026/02/pokemon-pokopia-switch-2-pre-order-bonus-revealed-north-america",
-            "image": "https://images.nintendolife.com/7e5dc3a4fbd30/large.jpg"
+            "title": "Indie critical darling Cairn climbs Steam charts, reaches 200k copies sold on PC and PS5 in first weekend - Eurogamer",
+            "description": "Mountain-climbing indie game Cairn has already sold over 200,000 copies across PC and PS5, studio The Game Bakers has announced.",
+            "url": "https://www.eurogamer.net/indie-climbing-sim-cairn-sells-200k-copies",
+            "image": "https://assetsio.gnwcdn.com/Cairn_climb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Top 8 Players and Decks of Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
-            "description": "Meet the Top 8 players that will face off in the Sunday showdown at Pro Tour Lorwyn Eclipsed!",
-            "url": "https://magic.gg/news/top-8-players-and-decks-of-pro-tour-lorwyn-eclipsed",
-            "image": "https://images.ctfassets.net/ryplwhabvmmk/6YB2ni1ve2WLQIcDR8Z6rn/e1018fd03f388b187e3e91809fc1ef54/Pro-Tour-Lorwyn-Eclipsed-Top-8-Group-Stage-1920x1280.jpg"
+            "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
+            "description": "While we\u2019re waiting for Samsung to announce its next flagship phones, the company has unveiled a killer new feature. Here\u2019s what it is and why it\u2019s so ground-breaking.",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/697fea496f30aaafda4a4ea0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Octopath Traveler 0 Receives Another Update On Switch And Switch 2 - Nintendo Life",
-            "description": "Download it now",
-            "url": "https://www.nintendolife.com/news/2026/02/octopath-traveler-0-receives-another-update-on-switch-and-switch-2",
-            "image": "https://images.nintendolife.com/1c85c61b12b33/large.jpg"
+            "title": "Ditch app subscriptions with this Microsoft Office lifetime license - Mashable",
+            "description": "Get Microsoft Office apps for life for less than $5 each.",
+            "url": "https://mashable.com/article/feb-1-microsoft-office-professional-2021-for-windows",
+            "image": "https://helios-i.mashable.com/imagery/articles/031Qi6jtx4Nf7UtuNU22hS2/hero-image.fill.size_1200x675.v1769582259.jpg"
         },
         {
-            "title": "These 10+ Games Are Coming To Xbox Next Week (February 2-6) - Pure Xbox",
-            "description": "Including three new Game Pass titles!",
-            "url": "https://www.purexbox.com/features/these-10plus-games-are-coming-to-xbox-next-week-february-2-6",
-            "image": "https://images.purexbox.com/30ec9670f6a78/large.jpg"
+            "title": "The Top 8 of Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
+            "description": "An eclectic mix of decks made up the Top 8 of Pro Tour Lorwyn Eclipsed. Follow the action on the way to the finals!",
+            "url": "https://magic.gg/news/the-top-8-of-pro-tour-lorwyn-eclipsed",
+            "image": "https://images.ctfassets.net/ryplwhabvmmk/6XUc5O56Yv4anV0m1ZGVZg/c83c7adf5d2b54ee660e220076de313a/Pro-Tour-Lorwyn-Eclipsed-Top-8-Matches-960x640.jpg"
         },
         {
-            "title": "4 Devices Compatible With Your Car's USB Port That You Need To Know About - bgr.com",
-            "description": "The variety of gadgets that are compatible with your car's USB port is vast, but mini fridges and portable humidifiers should be on everyone's short list.",
-            "url": "https://www.bgr.com/2084887/devices-compatible-car-usb-port/",
-            "image": "https://www.bgr.com/img/gallery/4-devices-compatible-with-your-cars-usb-port-that-you-need-to-know-about/l-intro-1769435676.jpg"
-        },
-        {
-            "title": "PlayStation Plus Users Have 72 Hours to Get $170 Worth of PS5 Games for Free - ComicBook.com",
-            "description": "PlayStation Plus users have roughly 72 hours to get $170 worth of PS5 games for free before each game reverts back to its normal price.",
-            "url": "http://comicbook.com/gaming/news/playstation-plus-users-have-72-hours-to-get-170-worth-of-ps5-games-for-free/",
-            "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/p-l-a-y-s-t-a-t-i-o-n-p-l-u-s_b23358.png?resize=2000,1125"
+            "title": "Studio Display refresh looms with three key upgrades - 9to5Mac",
+            "description": "Studio Display shipping times are sliding into late February and early March, adding to mounting signs Apple\u2019s long-rumored refresh is close.",
+            "url": "https://9to5mac.com/2026/02/01/studio-display-refresh-looms-with-three-key-upgrades/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Mac-mini-Sequoia-Studio-Display-FI-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
