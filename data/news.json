@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The biggest app in the whole wide world - The Verge",
-            "description": "Out of the millions of apps in the Apple App Store, only a few hundred have ever topped its free charts. Developers have learned the tricks to get there.",
-            "url": "https://www.theverge.com/tech/876196/top-app-store-apps-developers",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268297_app_store_data_A_KRALES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Pok\u00e9mon FireRed & LeafGreen Is Getting A Stunning 'Special Edition' Release In Japan - Nintendo Life",
+            "description": "Still just a download code, mind",
+            "url": "https://www.nintendolife.com/news/2026/02/pokemon-firered-and-leafgreen-is-getting-a-stunning-special-edition-release-in-japan",
+            "image": "https://images.nintendolife.com/c88ac9c0dca4c/large.jpg"
         },
         {
-            "title": "'You'll Hear About What We're Doing in Late Summer': Kratos Actor Spills Next PS5 God of War's Reveal Plans - Push Square",
-            "description": "Whoops",
-            "url": "https://www.pushsquare.com/news/2026/02/youll-hear-about-what-were-doing-in-late-summer-kratos-actor-spills-next-ps5-god-of-wars-reveal-plans",
-            "image": "https://images.pushsquare.com/3b5bb7a7d8707/large.jpg"
+            "title": "Former Firaxis Games creative director announces closure of Midsummer Studios - GamesIndustry.biz",
+            "description": "\"We built a studio, we made a game, and I'm really proud of both,\" says CEO",
+            "url": "https://www.gamesindustry.biz/former-firaxis-games-creative-director-announces-closure-of-midsummer-studios",
+            "image": "https://assetsio.gnwcdn.com/midsummer-studios.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Vivo V70 is officially here with impressive Zeiss cameras: you're invited to the flagship party! - PhoneArena",
-            "description": "Spending a ton of cash on Ultras and Pros is not the only way to enjoy mobile photography.",
-            "url": "https://www.phonearena.com/news/vivo-v70-is-officially-here_id178311",
-            "image": "https://m-cdn.phonearena.com/images/article/178311-wide-two_1200/Vivo-V70-is-officially-here-with-impressive-Zeiss-cameras-youre-invited-to-the-flagship-party.jpg"
+            "title": "Rivian Adds A Sport Mode To All R1 EVs On The Road - InsideEVs",
+            "description": "Plus, there\u2019s a dedicated Apple Watch app that allows Gen 1 owners to leave their car key and smartphone at home.",
+            "url": "https://insideevs.com/news/787692/rivian-sport-mode-all-r1-evs-apple-watch-app/",
+            "image": "https://cdn.motor1.com/images/mgl/OoMXrY/s1/rivian-r1t-software-update-version-2026.03.jpg"
         },
         {
-            "title": "Bandai Namco Unleashes A New Dragon Ball: Sparking! ZERO Update For Switch And Switch 2 - Nintendo Life",
-            "description": "And there's more on the way",
-            "url": "https://www.nintendolife.com/news/2026/02/bandai-namco-unleashes-a-new-dragon-ball-sparking-zero-update-for-switch-and-switch-2",
-            "image": "https://images.nintendolife.com/2ec82e9d47fb4/large.jpg"
+            "title": "Your Halo Story: Chapter 2 | Halo - Official Site (en) - Halo Waypoint",
+            "description": "<p>We asked for your Halo memories, and you shared stories of triumph, tribulation, and truly sweet sticks. This chapter of Your Halo Story features\u00a050\u00a0fan submissions from the annals of Halo history, with many more to come!</p>",
+            "url": "https://www.halowaypoint.com/news/your-halo-story-chapter-02",
+            "image": "https://wpassets.halowaypoint.com/wp-content/2026/02/Lachiebuzzx.jpg"
         },
         {
-            "title": "New Details Confirm Samsung Galaxy S26 Ultra\u2019s Powerful Upgrade - Forbes",
-            "description": "New Geekbench scores for the Galaxy S26 Ultra reveal the power of Snapdragon 8 Elite Gen 5. See how it stacks up before the Feb 23 Galaxy Unpacked event.",
-            "url": "https://www.forbes.com/sites/ewanspence/2026/02/18/samsung-galaxy-s26-ultra-snapdragon-specs-launch/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/679139dc2bb99d030330c676/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "Samsung reveals Bixby reboot with device controls, AI, arrives in One UI 8.5 [Gallery] - 9to5Google",
+            "description": "After a false start back in January, Samsung has re-announced its Bixby reboot, which delivers more AI and will go...",
+            "url": "http://9to5google.com/2026/02/19/samsung-bixby-reboot/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/samsung-new-bixby-reboot-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Apple aims to make the iPhone irreplaceable with its wearables and Android needs to be ready - Android Authority",
-            "description": "A new report offers new details regarding Apple's plans for its upcoming AI wearables and the progress it has made so far.",
-            "url": "https://www.androidauthority.com/apple-smart-glasses-airpods-pendant-3642185/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-Logo-Apple-Store-BKC-scaled.jpg"
+            "title": "\u2018This Time It\u2019s Different,\u2019 Says Daniel Ives About Apple Stock (AAPL) - TipRanks",
+            "description": "Apple (NASDAQ:AAPL) investors have been wondering for a while now when the tech giant will get its AI game in order, but that moment could be coming soon. So says",
+            "url": "https://www.tipranks.com/news/this-time-its-different-says-daniel-ives-about-apple-stock",
+            "image": "https://blog.tipranks.com/wp-content/uploads/2026/02/AAPL-Daniel-Ives-750x406.jpg"
         }
     ]
 }
