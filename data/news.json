@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Anker\u2019s X1 Pro shouldn\u2019t exist, but I\u2019m so glad it does - The Verge",
-            "description": "Anker\u2019s Soundcore Nebula X1 Pro is a 400W Dolby Atmos party speaker combined with a very bright 4K, nearly-silent projector running Google TV.",
-            "url": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_5329.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+            "title": "Gallery: Here's A Look At Pok\u00e9mon FireRed And LeafGreen On Switch - Nintendo Life",
+            "description": "\"Shades of your journey await!\"",
+            "url": "https://www.nintendolife.com/news/2026/02/gallery-heres-a-look-at-pokemon-firered-and-leafgreen-on-switch",
+            "image": "https://images.nintendolife.com/20b32c3e340fc/large.jpg"
         },
         {
-            "title": "Why There's Simply No Need For A Password Manager Anymore - bgr.com",
-            "description": "With OS-level password managers, passkeys, and biometric authentication technology, there's no longer much need for third-party password managers.",
-            "url": "https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/",
-            "image": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-a-password-manager-anymore/l-intro-1771313773.jpg"
+            "title": "Galaxy S26 Ultra battery life, charging seem unchanged in leaked promo [Gallery] - 9to5Google",
+            "description": "In the lead-up to Samsung\u2019s Unpacked event next week, a major leak of promo materials confirms a few key details...",
+            "url": "http://9to5google.com/2026/02/21/galaxy-s26-ultra-battery-life-charging-seem-unchanged-in-leaked-promo-gallery/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-promo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company - Ars Technica",
-            "description": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
-            "url": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/02/dice_spencer-1152x648.jpg"
+            "title": "Galaxy AI turns into a multi-agent ecosystem, adds deep integration with Perplexity AI - GSMArena.com news - GSMArena.com",
+            "description": "The improved system will allow you to work with multiple AI agents seamlessly, without needing to switch between apps or repeat commands.",
+            "url": "https://www.gsmarena.com/galaxy_ai_turns_into_a_multiagent_ecosystem_adds_deep_integration_with_perplexity_ai-news-71652.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/26/02/samsung-galaxy-ai-perplexity/-952x498w6/gsmarena_000.jpg"
         },
         {
-            "title": "Fury over Discord\u2019s age checks explodes after shady Persona test in UK - Ars Technica",
-            "description": "Persona confirmed all age-check data from Discord's UK test was deleted.",
-            "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2260552299-1024x648.jpg"
+            "title": "AdGuard Family Plan: 1 price, 9 devices, endless protection for $16 - Mashable",
+            "description": "Clean internet, once and for all.",
+            "url": "https://mashable.com/article/feb-21-adguard-family-plan-lifetime-subscription",
+            "image": "https://helios-i.mashable.com/imagery/articles/04jeo0CeLOdY5cVT8SzhWo3/hero-image.fill.size_1200x675.v1771496273.jpg"
         },
         {
-            "title": "Apple's Low-Cost Colorful MacBook: All the Rumors - MacRumors",
-            "description": "Apple has been developing a more affordable version of the MacBook, and it's rumored to be launching in under two weeks. This is going to be one...",
-            "url": "https://www.macrumors.com/2026/02/20/low-cost-macbook-latest-rumors/",
-            "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg"
+            "title": "Every Shining Game, Ranked - Time Extension",
+            "description": "A light in the darkness",
+            "url": "https://www.timeextension.com/guides/every-shining-game-ranked",
+            "image": "https://images.timeextension.com/9829386330bcd/large.jpg"
         },
         {
-            "title": "Android malware is now using Gemini AI to adapt in real time (Updated: Google statement) - Android Authority",
-            "description": "Researchers say PromptSpy is the first Android malware to use generative AI during execution, querying Gemini to stay on a device.",
-            "url": "https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg"
+            "title": "The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku",
+            "description": "On the series\u2019 40th anniversary, we look back at all of its attempted space missions",
+            "url": "https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580",
+            "image": "https://kotaku.com/app/uploads/2026/02/link-1200x675.jpg"
         }
     ]
 }
