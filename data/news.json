@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Gallery: Here's A Look At Pok\u00e9mon FireRed And LeafGreen On Switch - Nintendo Life",
-            "description": "\"Shades of your journey await!\"",
-            "url": "https://www.nintendolife.com/news/2026/02/gallery-heres-a-look-at-pokemon-firered-and-leafgreen-on-switch",
-            "image": "https://images.nintendolife.com/20b32c3e340fc/large.jpg"
+            "title": "\u2018Flow\u2019 dramatically improves Android voice typing without replacing Gboard - 9to5Google",
+            "description": "Voice-to-text on Android is really good if you\u2019re using a Pixel, and pretty hit or miss everywhere else. But the...",
+            "url": "http://9to5google.com/2026/02/23/flow-dramatically-improves-android-voice-typing-without-replacing-gboard/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/wispr-flow-android-3.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Galaxy S26 Ultra battery life, charging seem unchanged in leaked promo [Gallery] - 9to5Google",
-            "description": "In the lead-up to Samsung\u2019s Unpacked event next week, a major leak of promo materials confirms a few key details...",
-            "url": "http://9to5google.com/2026/02/21/galaxy-s26-ultra-battery-life-charging-seem-unchanged-in-leaked-promo-gallery/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-promo-leak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Forget a Second Screen, This $799 Portable Monitor Adds Three 18.5-Inch Displays to Your Laptop - Yanko Design",
+            "description": "The average laptop screen sits somewhere between 13 and 15.6 inches, which sounds perfectly reasonable until you start juggling four browser tabs, a Figma file",
+            "url": "https://www.yankodesign.com/2026/02/22/forget-a-second-screen-this-799-portable-monitor-adds-three-18-5-inch-displays-to-your-laptop/",
+            "image": "https://www.yankodesign.com/images/design_news/2026/02/3-in-1-portable-laptop-monitor-lets-you-multitask-and-vibe-code-on-steroids/maghub_quad_max_1.jpeg"
         },
         {
-            "title": "Galaxy AI turns into a multi-agent ecosystem, adds deep integration with Perplexity AI - GSMArena.com news - GSMArena.com",
-            "description": "The improved system will allow you to work with multiple AI agents seamlessly, without needing to switch between apps or repeat commands.",
-            "url": "https://www.gsmarena.com/galaxy_ai_turns_into_a_multiagent_ecosystem_adds_deep_integration_with_perplexity_ai-news-71652.php",
-            "image": "https://fdn.gsmarena.com/imgroot/news/26/02/samsung-galaxy-ai-perplexity/-952x498w6/gsmarena_000.jpg"
+            "title": "4 Things You Didn't Know HDMI Ports Can Do - SlashGear",
+            "description": "HDMI ports can unlock enhanced video modes, auto game mode switching, 4K at 120Hz with VRR, and high-quality audio via eARC.",
+            "url": "https://www.slashgear.com/2104457/things-you-didnt-know-hdmi-ports-can-do/",
+            "image": "https://www.slashgear.com/img/gallery/4-things-you-didnt-know-hdmi-ports-can-do/l-intro-1771431313.jpg"
         },
         {
-            "title": "AdGuard Family Plan: 1 price, 9 devices, endless protection for $16 - Mashable",
-            "description": "Clean internet, once and for all.",
-            "url": "https://mashable.com/article/feb-21-adguard-family-plan-lifetime-subscription",
-            "image": "https://helios-i.mashable.com/imagery/articles/04jeo0CeLOdY5cVT8SzhWo3/hero-image.fill.size_1200x675.v1771496273.jpg"
+            "title": "The FBI Says These Wi-Fi Routers Are Unsafe, And Here's Why - SlashGear",
+            "description": "The FBI has named a series of Wi-Fi routers as being unsafe. If you're using a router from this brand, you might want to check if yours is one of the models.",
+            "url": "https://www.slashgear.com/2104404/wifi-routers-unsafe-fbi-warning/",
+            "image": "https://www.slashgear.com/img/gallery/the-fbi-says-these-wi-fi-routers-are-unsafe-and-heres-why/l-intro-1771433236.jpg"
         },
         {
-            "title": "Every Shining Game, Ranked - Time Extension",
-            "description": "A light in the darkness",
-            "url": "https://www.timeextension.com/guides/every-shining-game-ranked",
-            "image": "https://images.timeextension.com/9829386330bcd/large.jpg"
+            "title": "iOS 26.3.1 Update for iPhones Coming Soon as 'Apple Experience' Nears - MacRumors",
+            "description": "Apple's software engineers are testing iOS 26.3.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS...",
+            "url": "https://www.macrumors.com/2026/02/22/ios-26-3-1-coming-soon/",
+            "image": "https://images.macrumors.com/t/RQXx89jTNFavi6hhdF7mKFC6JYw=/2500x/article-new/2026/02/iOS-26.3.1-Feature.jpg"
         },
         {
-            "title": "The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku",
-            "description": "On the series\u2019 40th anniversary, we look back at all of its attempted space missions",
-            "url": "https://kotaku.com/legend-zelda-sci-fi-concept-art-40th-anniversary-2000672580",
-            "image": "https://kotaku.com/app/uploads/2026/02/link-1200x675.jpg"
+            "title": "Linus Torvalds jokingly ponders his successor as Linux boss - theregister.com",
+            "description": ": Emperor Penguin releases kernel 7.0 rc1 with some numerological musings",
+            "url": "https://www.theregister.com/2026/02/23/linux_7_0_rc1/",
+            "image": "https://regmedia.co.uk/2024/10/08/shutterstock_linus.jpg"
         }
     ]
 }
