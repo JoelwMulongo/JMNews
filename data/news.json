@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "macOS Will Alert You to MacBook Neo's USB-C Port Limitation - MacRumors",
-            "description": "The new MacBook Neo is equipped with two USB-C ports, but they are not the same. The left USB-C port supports USB 3 speeds of up to 10 Gb/s, while...",
-            "url": "https://www.macrumors.com/2026/03/04/macbook-neo-usb-c-port-limitation/",
-            "image": "https://images.macrumors.com/t/rptdbDB_0-JRVAZqdq3ohLTxlsg=/2000x/article-new/2026/03/macbook-neo-ports.jpg"
+            "title": "Capcom's astronaut and small girl-starring Pragmata gets yet another new release date - Eurogamer",
+            "description": "Pragmata - the long-in-the-works space-based caper from Capcom - has a new release date.",
+            "url": "https://www.eurogamer.net/capcoms-astronaut-and-small-girl-starring-pragmata-gets-yet-another-new-release-date",
+            "image": "https://assetsio.gnwcdn.com/Diana-and-Hugh-in-Pragmata.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Apple Does Not Include a Charger With All New MacBooks in UK and EU - MacRumors",
-            "description": "None of the new MacBook Neo, MacBook Air, or MacBook Pro models unveiled this week come with a charger in the UK and EU countries, such as Germany,...",
-            "url": "https://www.macrumors.com/2026/03/04/macbook-neo-no-charger-in-uk-or-eu/",
+            "title": "Here\u2019s how the new M5 Max chip did on early Geekbench tests - 9to5Mac",
+            "description": "While the new Macs won\u2019t be available until March 11, the first M5 Max benchmark has already appeared on Geekbench. Here are the results.",
+            "url": "https://9to5mac.com/2026/03/05/heres-how-the-new-m5-max-chip-did-on-early-geekbench-tests/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+            "title": "Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything",
+            "description": "Director Masahiro Sakurai reveals that he was behind the lyrics for Kirby Air Riders' main theme song and explains why he kept it a secret.",
+            "url": "https://nintendoeverything.com/kirby-air-riders-main-theme-song-lyrics-masahiro-sakurai/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-lyrics-Masahiro-Sakurai.jpg"
+        },
+        {
+            "title": "Bungie asks sites to delay Marathon reviews, with release date Steam player count below 100K - Notebookcheck",
+            "description": "Gamers may have to form their own opinions about whether Marathon was worth the wait. Although not mandatory, Bungie has asked websites to postpone reviews, leaving Metacritic blank. Naysayers think the unremarkable Marathon Steam player count reflects a lack\u2026",
+            "url": "https://www.notebookcheck.net/Bungie-asks-sites-to-delay-Marathon-reviews-with-release-date-Steam-player-count-below-100K.1243596.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MarathonMetacriticBanner.jpg"
+        },
+        {
+            "title": "First MacBook Neo Benchmarks Are In: Here's How It Compares to the M1 MacBook Air - MacRumors",
+            "description": "Benchmarks for the new MacBook Neo surfaced today, and unsurprisingly, CPU performance is almost identical to the iPhone 16 Pro. The MacBook Neo uses...",
+            "url": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/",
             "image": "https://images.macrumors.com/t/eUtUULFLe-rs76M241emfNWEyQ4=/2500x/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg"
         },
         {
-            "title": "Everything Apple announced: M5 chips, iPhone 17e, new displays - Mashable",
-            "description": "Apple dropped a ton of new hardware this week. Here's a breakdown.",
-            "url": "https://mashable.com/article/apple-announced-macbook-neo-iphone-17e",
-            "image": "https://helios-i.mashable.com/imagery/articles/03kwJHx7LykIh7BO9PejERI/hero-image.fill.size_1200x675.v1772648592.jpg"
-        },
-        {
-            "title": "Highguard Skeleton Crew Crunches To Ship Update Amid Pile-On - Kotaku",
-            "description": "The major update adds an entire skill tree, XP progression, and hero",
-            "url": "https://kotaku.com/highguard-final-update-shutdown-concord-toxic-2000675964",
-            "image": "https://kotaku.com/app/uploads/2026/02/highguardsa-1200x675.jpg"
-        },
-        {
-            "title": "Apple Music to add Transparency Tags to distinguish AI music, says report - TechCrunch",
-            "description": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
-            "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
-            "image": "https://techcrunch.com/wp-content/uploads/2020/09/apple-music-icon-ios-2020.jpg?resize=1200,675"
-        },
-        {
-            "title": "There's Some inFAMOUS: Second Son in Control Resonant, Says Remedy - Push Square",
-            "description": "We can see it",
-            "url": "https://www.pushsquare.com/news/2026/03/theres-some-infamous-second-son-in-control-resonant-says-remedy",
-            "image": "https://images.pushsquare.com/83c397913f418/large.jpg"
+            "title": "Google releases Pixel 10a \u2018stallion\u2019 factory images - 9to5Google",
+            "description": "With the Pixel 10a now on store shelves, Google today released factory images for \"stallion.\u201d There are two builds...",
+            "url": "http://9to5google.com/2026/03/05/pixel-10a-factory-images/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10a-review-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
