@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Capcom's astronaut and small girl-starring Pragmata gets yet another new release date - Eurogamer",
-            "description": "Pragmata - the long-in-the-works space-based caper from Capcom - has a new release date.",
-            "url": "https://www.eurogamer.net/capcoms-astronaut-and-small-girl-starring-pragmata-gets-yet-another-new-release-date",
-            "image": "https://assetsio.gnwcdn.com/Diana-and-Hugh-in-Pragmata.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge",
+            "description": "DJI will pay Sammy Azdoufal $30,000 after he used Claude Code to accidentally access a network of 7,000 robot vacuums.",
+            "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/romo.jpg?quality=90&strip=all&crop=0%2C10.719532078152%2C100%2C78.560935843696&w=1200"
         },
         {
-            "title": "Here\u2019s how the new M5 Max chip did on early Geekbench tests - 9to5Mac",
-            "description": "While the new Macs won\u2019t be available until March 11, the first M5 Max benchmark has already appeared on Geekbench. Here are the results.",
-            "url": "https://9to5mac.com/2026/03/05/heres-how-the-new-m5-max-chip-did-on-early-geekbench-tests/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Early Pixel 11 case leak points at a less-protruded camera island - Android Police",
+            "description": "The device is still roughly 6 months away",
+            "url": "https://www.androidpolice.com/early-pixel-11-leak-case-leak/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/pixel-10-pro-xl-back-wood.JPG?w=1600&h=900&fit=crop"
         },
         {
-            "title": "Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything",
-            "description": "Director Masahiro Sakurai reveals that he was behind the lyrics for Kirby Air Riders' main theme song and explains why he kept it a secret.",
-            "url": "https://nintendoeverything.com/kirby-air-riders-main-theme-song-lyrics-masahiro-sakurai/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-lyrics-Masahiro-Sakurai.jpg"
+            "title": "Valve\u2019s Steam Machine becomes less of a certainty in 2026 after passing product update - 9to5Google",
+            "description": "Valve got tons of folks excited about its new Steam Machine, catering to gamers who want a familiar library and...",
+            "url": "http://9to5google.com/2026/03/06/valve-steam-machine-potentially-delayed-2027/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Steam-machine-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Bungie asks sites to delay Marathon reviews, with release date Steam player count below 100K - Notebookcheck",
-            "description": "Gamers may have to form their own opinions about whether Marathon was worth the wait. Although not mandatory, Bungie has asked websites to postpone reviews, leaving Metacritic blank. Naysayers think the unremarkable Marathon Steam player count reflects a lack\u2026",
-            "url": "https://www.notebookcheck.net/Bungie-asks-sites-to-delay-Marathon-reviews-with-release-date-Steam-player-count-below-100K.1243596.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MarathonMetacriticBanner.jpg"
+            "title": "Xbox Drops 2 AAA Free Games, No Game Pass Required To Play - GAMINGbible",
+            "description": "Xbox users can enjoy 4 AAA games for free for a limited time, with 2 games not requiring a Game Pass subscription! Have a good weekend gamers.",
+            "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-2-aaa-free-games-528407-20260306",
+            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt08688c64db00be11/69aae7a6b2d0790008d237b1/FBCFirebreakFReePlayDays.jpg"
         },
         {
-            "title": "First MacBook Neo Benchmarks Are In: Here's How It Compares to the M1 MacBook Air - MacRumors",
-            "description": "Benchmarks for the new MacBook Neo surfaced today, and unsurprisingly, CPU performance is almost identical to the iPhone 16 Pro. The MacBook Neo uses...",
-            "url": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/",
-            "image": "https://images.macrumors.com/t/eUtUULFLe-rs76M241emfNWEyQ4=/2500x/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg"
+            "title": "iPhone 17e Benchmarks Reveal A19 Chip Performance With a Tiny Catch - MacRumors",
+            "description": "The first benchmarks for the iPhone 17e surfaced in the Geekbench 6 database today, offering a closer look at the A19 chip's performance.   For...",
+            "url": "https://www.macrumors.com/2026/03/06/iphone-17e-benchmarks/",
+            "image": "https://images.macrumors.com/t/ALJ9t4uHvtVpxAmszZHd7_a-8n4=/2500x/article-new/2026/03/Apple-iPhone-17e-feature.jpg"
         },
         {
-            "title": "Google releases Pixel 10a \u2018stallion\u2019 factory images - 9to5Google",
-            "description": "With the Pixel 10a now on store shelves, Google today released factory images for \"stallion.\u201d There are two builds...",
-            "url": "http://9to5google.com/2026/03/05/pixel-10a-factory-images/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10a-review-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Breaking News: Ork in the Wild - Warhammer Community",
+            "description": "Choppa or Power Klaw? This Warboss has both\u2026",
+            "url": "https://www.warhammer-community.com/articles/0noqba4q/breaking-news-ork-in-the-wild",
+            "image": "https://assets.warhammer-community.com/ork-wb-feature-jb5wfmixxw.jpg"
         }
     ]
 }
