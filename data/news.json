@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Samsung Galaxy S26 and S26 Plus review: This again - The Verge",
-            "description": "Samsung\u2019s latest Galaxy S26 and S26 Plus flagship phones are going through the motions.",
-            "url": "https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+            "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
+            "description": "\"I literally thought I'd retire from the place\"",
+            "url": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard",
+            "image": "https://images.nintendolife.com/e3954b58a909a/large.jpg"
         },
         {
-            "title": "Xbox hardware teased at GDC, just one week after PC/console hybrid Project Helix was first confirmed - Eurogamer.net",
-            "description": "Microsoft has posted a set of photos giving us a small teaser for some unspecified work-in-progress Xbox hardware.",
-            "url": "https://www.eurogamer.net/xbox-hardware-teased-at-gdc-just-one-week-after-pcconsole-hybrid-project-helix-was-first-confirmed",
-            "image": "https://assetsio.gnwcdn.com/black-and-white-Xbox-hardware-teaser-showing-XDK-writing.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
+            "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook Neo can actually run games well.",
+            "url": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Oppo\u2019s new foldable isn\u2019t quite creaseless, but it\u2019s pretty damn close - The Verge",
-            "description": "The Oppo Find N6 has the shallowest crease of any foldable yet, thanks in part to 3D liquid printing in the hinge.",
-            "url": "https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/oppo-find-n6-zero-feel-crease-8.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+            "title": "Perplexity rolls out enterprise AI agent tools - Axios",
+            "description": "The AI startup claims to offer a safer version of OpenClaw",
+            "url": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
+            "image": "https://images.axios.com/KwLRjgHzIHGE0aBn0KF0KGds3Sk=/0x0:5712x3213/1366x768/2026/03/11/1773252173980.jpeg"
         },
         {
-            "title": "Falcom to announce final Trails game during 50th anniversary - Gematsu",
-            "description": "The latest issue of Weekly Famitsu features a four-page interview with Falcom president Toshihiro Kondo on the company\u2019s 45th anniversary, which it celebrated this week. Kondo discusses the T\u2026",
-            "url": "https://www.gematsu.com/2026/03/falcom-to-announce-final-trails-game-during-50th-anniversary",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Trails-Final-Game_03-11-26.jpg"
+            "title": "Pokemon Pokopia sales top 2.2 million in four days - Gematsu",
+            "description": "Total sales for Pokemon Pokopia surpassed 2.2 million units in its first four days of release, The Pokemon Company announced. One million units were sold in Japan alone.",
+            "url": "https://www.gematsu.com/2026/03/pokemon-pokopia-sales-top-2-2-million-in-four-days",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Pokemon-Pokopia-Sales_03-11-26.jpg"
         },
         {
-            "title": "Nintendo Shares Rally 10% as New Pok\u00e9mon Game Lifts Sentiment - Bloomberg",
-            "description": "Nintendo Co. shares gained as much as 10.5% in their steepest climb since April as the surprise success of its new Pok\u00e9mon game helped offset worries around rising memory costs.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iairJPpqQkI0/v1/1200x675.jpg"
+            "title": "Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch",
+            "description": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
+            "url": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800"
         },
         {
-            "title": "Photographer Tyler Stalman tests the MacBook Neo with pro photo and video workflows - 9to5Mac",
-            "description": "Watch as Tyler Stalman realizes halfway through the video that the MacBook Neo can handle more demanding workflows than he initially thought.",
-            "url": "https://9to5mac.com/2026/03/10/photographer-tyler-stalman-tests-the-macbook-neo-with-pro-photo-and-video-workflows/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/stalman-macbook-neo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
+            "description": "A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning from photonic chips, achieving ultrahigh spot rates, compact footprints and applications spanning displays, sensing and quantum photonics.",
+            "url": "https://www.nature.com/articles/s41586-025-10038-6",
+            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-10038-6/MediaObjects/41586_2025_10038_Fig1_HTML.png"
         }
     ]
 }
