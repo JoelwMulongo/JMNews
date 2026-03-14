@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
-            "description": "\"I literally thought I'd retire from the place\"",
-            "url": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard",
-            "image": "https://images.nintendolife.com/e3954b58a909a/large.jpg"
+            "title": "NVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances - Wccftech",
+            "description": "NVIDIA has teased its future GPUs with massive path tracing performance capabilities thanks to AI & RTX advancements, as Moore's Law is Dead.",
+            "url": "https://wccftech.com/nvidia-says-future-gaming-gpus-bring-a-1000000x-leap-path-tracing-performance-using-rtx-ai-advances/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/NVIDIA-GDC-2026-HERO-1920x1058.jpg"
         },
         {
-            "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
-            "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook Neo can actually run games well.",
-            "url": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\" - Nintendo Life",
+            "description": "New 'Challenge Mode' and outfits also available",
+            "url": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-gets-a-switch-2-release-free-upgrade-coming-soon",
+            "image": "https://images.nintendolife.com/d40352146c73e/large.jpg"
         },
         {
-            "title": "Perplexity rolls out enterprise AI agent tools - Axios",
-            "description": "The AI startup claims to offer a safer version of OpenClaw",
-            "url": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
-            "image": "https://images.axios.com/KwLRjgHzIHGE0aBn0KF0KGds3Sk=/0x0:5712x3213/1366x768/2026/03/11/1773252173980.jpeg"
+            "title": "Kirby Air Riders almost brought back the old City Trial map, Sakurai explains why it didn't happen - Nintendo Everything",
+            "description": "Director Masahiro Sakurai reveals that the original City Trial map was considered for Kirby Air Riders and talks about why it didn't work.",
+            "url": "https://nintendoeverything.com/kirby-air-riders-almost-brought-back-the-old-city-trial-map-sakurai-explains-why-it-didnt-happen/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-City-Trial-original-map.jpg"
         },
         {
-            "title": "Pokemon Pokopia sales top 2.2 million in four days - Gematsu",
-            "description": "Total sales for Pokemon Pokopia surpassed 2.2 million units in its first four days of release, The Pokemon Company announced. One million units were sold in Japan alone.",
-            "url": "https://www.gematsu.com/2026/03/pokemon-pokopia-sales-top-2-2-million-in-four-days",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Pokemon-Pokopia-Sales_03-11-26.jpg"
+            "title": "Marvel Maximum Collection Brings Six Superhero Titles To Switch This Month - Nintendo Life",
+            "description": "Physical pre-orders open alongside the digital launch",
+            "url": "https://www.nintendolife.com/news/2026/03/marvel-maximum-collection-brings-six-superhero-titles-to-switch-this-month",
+            "image": "https://images.nintendolife.com/b4c4dd43315a0/large.jpg"
         },
         {
-            "title": "Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch",
-            "description": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
-            "url": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
-            "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800"
+            "title": "Man rebuilding abandoned 80s supercar finally gets it running again after weeks and weeks of setbacks - supercarblondie.com",
+            "description": "A long-forgotten 80s supercar known as the Nova has finally fired back to life thanks to one determined car restoration effort",
+            "url": "https://supercarblondie.com/man-rebuilding-80s-nova-supercar-video/",
+            "image": "https://supercarblondie.com/wp-content/uploads/posing-with-Nova.webp"
         },
         {
-            "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
-            "description": "A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning from photonic chips, achieving ultrahigh spot rates, compact footprints and applications spanning displays, sensing and quantum photonics.",
-            "url": "https://www.nature.com/articles/s41586-025-10038-6",
-            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-10038-6/MediaObjects/41586_2025_10038_Fig1_HTML.png"
+            "title": "Blight: Survival Remerges After 1.5 Million Steam Wishlists and a Viral Trailer With a New Look at Gameplay - IGN",
+            "description": "Blight: Survival has reemerged with a new gameplay trailer \u2014 and its developers are promising big news in 2026 after a whopping 1.5 million Steam wishlists.",
+            "url": "https://www.ign.com/articles/blight-survival-remerges-after-15-million-steam-wishlists-and-a-viral-trailer-with-a-new-look-at-gameplay",
+            "image": "https://assets-prd.ignimgs.com/2026/03/12/blight-main-1773325702778.png?width=1280&format=jpg&auto=webp&quality=80"
         }
     ]
 }
