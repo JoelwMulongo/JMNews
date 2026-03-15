@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "NVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances - Wccftech",
-            "description": "NVIDIA has teased its future GPUs with massive path tracing performance capabilities thanks to AI & RTX advancements, as Moore's Law is Dead.",
-            "url": "https://wccftech.com/nvidia-says-future-gaming-gpus-bring-a-1000000x-leap-path-tracing-performance-using-rtx-ai-advances/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/NVIDIA-GDC-2026-HERO-1920x1058.jpg"
+            "title": "5 Android phones you should buy instead of the Nothing Phone 4a Pro - Android Authority",
+            "description": "The Nothing Phone 4a Pro has a crazy design and a good price. But should you buy it? These five other phones will make you think twice.",
+            "url": "https://www.androidauthority.com/nothing-phone-4a-pro-alternatives-3648028/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Phone-4a-pro-Silver.jpg"
         },
         {
-            "title": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\" - Nintendo Life",
-            "description": "New 'Challenge Mode' and outfits also available",
-            "url": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-gets-a-switch-2-release-free-upgrade-coming-soon",
-            "image": "https://images.nintendolife.com/d40352146c73e/large.jpg"
+            "title": "Apple hosts 50th anniversary celebrations around the world - Apple",
+            "description": "Apple kicked off celebrations in New York for its 50th anniversary and will continue commemorating the milestone throughout the month.",
+            "url": "https://www.apple.com/newsroom/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/",
+            "image": "https://www.apple.com/newsroom/images/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/tile/Apple-50-year-anniversary-New-York-Alicia-Keys-01-lp.jpg.og.jpg?202603140314"
         },
         {
-            "title": "Kirby Air Riders almost brought back the old City Trial map, Sakurai explains why it didn't happen - Nintendo Everything",
-            "description": "Director Masahiro Sakurai reveals that the original City Trial map was considered for Kirby Air Riders and talks about why it didn't work.",
-            "url": "https://nintendoeverything.com/kirby-air-riders-almost-brought-back-the-old-city-trial-map-sakurai-explains-why-it-didnt-happen/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-City-Trial-original-map.jpg"
+            "title": "12 Milwaukee Tools Under $50 Worth Adding To Your Collection - SlashGear",
+            "description": "Milwaukee is a toolmaker known for its high-end professional tools, but the brand has a lot to offer in the lowest price range as well.",
+            "url": "https://www.slashgear.com/2119676/milwaukee-tools-under-50-dollars-worth-buying/",
+            "image": "https://www.slashgear.com/img/gallery/12-milwaukee-tools-under-50-worth-adding-to-your-collection/l-intro-1773133002.jpg"
         },
         {
-            "title": "Marvel Maximum Collection Brings Six Superhero Titles To Switch This Month - Nintendo Life",
-            "description": "Physical pre-orders open alongside the digital launch",
-            "url": "https://www.nintendolife.com/news/2026/03/marvel-maximum-collection-brings-six-superhero-titles-to-switch-this-month",
-            "image": "https://images.nintendolife.com/b4c4dd43315a0/large.jpg"
+            "title": "Costco Is Selling A 75-Inch Smart TV For Under $500 All Through March 2026 - bgr.com",
+            "description": "If you're eyeing a new TV and want something that's a big screen with a small price, Costco is offering a stellar deal on a 75-inch Smart TV.",
+            "url": "https://www.bgr.com/2122872/costco-500-off-75-inch-tcl-tv-march-2026-deal/",
+            "image": "https://www.bgr.com/img/gallery/costco-is-selling-a-75-inch-smart-tv-for-under-500-all-through-march-2026/l-intro-1773434246.jpg"
         },
         {
-            "title": "Man rebuilding abandoned 80s supercar finally gets it running again after weeks and weeks of setbacks - supercarblondie.com",
-            "description": "A long-forgotten 80s supercar known as the Nova has finally fired back to life thanks to one determined car restoration effort",
-            "url": "https://supercarblondie.com/man-rebuilding-80s-nova-supercar-video/",
-            "image": "https://supercarblondie.com/wp-content/uploads/posing-with-Nova.webp"
-        },
-        {
-            "title": "Blight: Survival Remerges After 1.5 Million Steam Wishlists and a Viral Trailer With a New Look at Gameplay - IGN",
-            "description": "Blight: Survival has reemerged with a new gameplay trailer \u2014 and its developers are promising big news in 2026 after a whopping 1.5 million Steam wishlists.",
-            "url": "https://www.ign.com/articles/blight-survival-remerges-after-15-million-steam-wishlists-and-a-viral-trailer-with-a-new-look-at-gameplay",
-            "image": "https://assets-prd.ignimgs.com/2026/03/12/blight-main-1773325702778.png?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Rebranded GDC Festival of Gaming attracts 20,000 attendees - Game Developer",
+            "description": "The week-long showcase took place from March 9 to March 13.",
+            "url": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees",
+            "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3539823935b5ebc4/69b4995c127c165a0bcfc825/GDC_Header.png?disable=upscale&width=1200&height=630&fit=crop"
         }
     ]
 }
