@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "5 Android phones you should buy instead of the Nothing Phone 4a Pro - Android Authority",
-            "description": "The Nothing Phone 4a Pro has a crazy design and a good price. But should you buy it? These five other phones will make you think twice.",
-            "url": "https://www.androidauthority.com/nothing-phone-4a-pro-alternatives-3648028/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Phone-4a-pro-Silver.jpg"
+            "title": "Mario Kart World Hori Racing Wheels Releasing For Switch 2 This Month - Nintendo Life",
+            "description": "Pre-orders open for the 'Mini' and 'Deluxe' versions",
+            "url": "https://www.nintendolife.com/news/2026/03/mario-kart-world-hori-racing-wheels-releasing-for-switch-2-this-month",
+            "image": "https://images.nintendolife.com/eb615ac1018f3/large.jpg"
         },
         {
-            "title": "Apple hosts 50th anniversary celebrations around the world - Apple",
-            "description": "Apple kicked off celebrations in New York for its 50th anniversary and will continue commemorating the milestone throughout the month.",
-            "url": "https://www.apple.com/newsroom/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/",
-            "image": "https://www.apple.com/newsroom/images/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/tile/Apple-50-year-anniversary-New-York-Alicia-Keys-01-lp.jpg.og.jpg?202603140314"
+            "title": "Europe Makes Big Changes To Game Ratings - Dark Horizons",
+            "description": "The European game ratings board (PEGI) has announced that, starting in June, it will introduce minimum age ratings for games with what\u2019s dubbed \u2018interactive risk\u2019 features. Under the new rules games with \u2018paid random items\u2019 (aka. loot boxes) will have a defau\u2026",
+            "url": "https://www.darkhorizons.com/europe-makes-big-changes-to-game-ratings/",
+            "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/03/europe-makes-big-changes-to-game-ratings.jpg"
         },
         {
-            "title": "12 Milwaukee Tools Under $50 Worth Adding To Your Collection - SlashGear",
-            "description": "Milwaukee is a toolmaker known for its high-end professional tools, but the brand has a lot to offer in the lowest price range as well.",
-            "url": "https://www.slashgear.com/2119676/milwaukee-tools-under-50-dollars-worth-buying/",
-            "image": "https://www.slashgear.com/img/gallery/12-milwaukee-tools-under-50-worth-adding-to-your-collection/l-intro-1773133002.jpg"
+            "title": "This Printed Zipper Repair Requires No Unsewing - Hackaday",
+            "description": "If a zipper breaks, a 3D printer might not be the first tool one reaches for \u2014 but it\u2019s more feasible than one might think. [MisterJ]\u2019s zipper slider replacement is the kind of 3D\u2026",
+            "url": "https://hackaday.com/2026/03/14/this-printed-zipper-repair-requires-no-unsewing/",
+            "image": "https://hackaday.com/wp-content/uploads/2026/03/zipper_v3_cover_43-banner-1.png"
         },
         {
-            "title": "Costco Is Selling A 75-Inch Smart TV For Under $500 All Through March 2026 - bgr.com",
-            "description": "If you're eyeing a new TV and want something that's a big screen with a small price, Costco is offering a stellar deal on a 75-inch Smart TV.",
-            "url": "https://www.bgr.com/2122872/costco-500-off-75-inch-tcl-tv-march-2026-deal/",
-            "image": "https://www.bgr.com/img/gallery/costco-is-selling-a-75-inch-smart-tv-for-under-500-all-through-march-2026/l-intro-1773434246.jpg"
+            "title": "iPhone Fold Rumors Are Heating Up, But I'm Not Buying One. Here's Why - PCMag",
+            "description": "I'm not against foldables, but some of the reports about what Apple has in store give me pause, including an eye-popping price tag and the lack of one key feature.",
+            "url": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why",
+            "image": "https://i.pcmag.com/imagery/articles/05R82RXrzJKoNJ1iW6IXz96-1.fit_lim.size_1200x630.v1773488953.png"
         },
         {
-            "title": "Rebranded GDC Festival of Gaming attracts 20,000 attendees - Game Developer",
-            "description": "The week-long showcase took place from March 9 to March 13.",
-            "url": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees",
-            "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3539823935b5ebc4/69b4995c127c165a0bcfc825/GDC_Header.png?disable=upscale&width=1200&height=630&fit=crop"
+            "title": "Resident Evil Requiem Has Idle Reload Animations That Most Players Won't Ever See - TheGamer",
+            "description": "It only triggers in the safe rooms.",
+            "url": "https://www.thegamer.com/resident-evil-requiem-idle-reload-animation/",
+            "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/grace-ashcroft.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+            "title": "Deals: Galaxy S26 series now available, S25 and Pixel 10 models on sale - GSMArena.com news - GSMArena.com",
+            "description": "With the pre-orders over, you now have to pay full price for a 512GB S26 phone - previously, you could get it at the price of a 256GB unit.",
+            "url": "https://www.gsmarena.com/deals_galaxy_s26_series_now_available_s25_and_pixel_10_models_on_sale-news-71941.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/26/03/spring-deals-us-11/-952x498w6/gsmarena_us.jpg"
         }
     ]
 }
