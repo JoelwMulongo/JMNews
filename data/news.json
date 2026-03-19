@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Street Fighter 6 Alex and balance update patch notes - EventHubs",
-            "description": "The long content drought in Street Fighter 6 that spanned five months is about to be finally over, and there will be quite a bit for players to sink their teeth into.Capcom just released the official patch notes for ...",
-            "url": "https://www.eventhubs.com/news/2026/mar/16/street-fighter-alex-patch-notes/",
-            "image": "https://media.eventhubs.com/images/2026/03/16-street-fighter-alex-patch-notest.webp"
+            "title": "Download the brand new Black Library app today - Warhammer Community",
+            "description": "Get eight full stories for free when you try the app.",
+            "url": "https://www.warhammer-community.com/articles/ftfv93jv/download-the-brand-new-black-library-app-today",
+            "image": "https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png"
         },
         {
-            "title": "Clean your feed: Refresh your Instagram diet - Axios",
-            "description": "It's not about missing out; it's about reclaiming your attention.",
-            "url": "https://www.axios.com/2026/03/17/clean-your-feed-refresh-your-instagram-diet",
-            "image": "https://images.axios.com/kHPz8IP3GCN8hHlNgKAICIHfXSQ=/0x0:1920x1080/1366x768/2026/01/05/1767636385732.jpeg"
+            "title": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
+            "description": "Following concerns that upscaling feature detracts from creative expression, Jensen Huang says it \"doesn't change artistic control\"",
+            "url": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology",
+            "image": "https://assetsio.gnwcdn.com/nvidia-dlss_2m7KplY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "YouTuber upgrades MacBook Neo to 1TB, posts ASMR video of the process - 9to5Mac",
-            "description": "YouTube creator DirectorFeng is back with another ASMR-themed video in which they attempt to upgrade the storage on a new Apple device.",
-            "url": "https://9to5mac.com/2026/03/16/youtuber-upgrades-macbook-neo-to-1tb-posts-asmr-video-of-the-process/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbookneo-1tb.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Intel enables Precompiled Shader Delivery on Arc B-series and Core Ultra iGPUs in new driver, up to 3x faster loading times - VideoCardz.com",
+            "description": "Intel Arc gets Graphics Shader Distribution Service, 13 games supported at launch Today, Intel has rolled out its Graphics Shader Distribution Service in",
+            "url": "https://videocardz.com/newz/intel-enables-precompiled-shader-selivery-on-arc-b-series-and-core-ultra-igpus-in-new-driver-up-to-3x-faster-loading-times",
+            "image": "https://cdn.videocardz.com/1/2026/03/INTEL-PRECOMPILED-SHADER-ARC-GPU-HERO.jpg"
         },
         {
-            "title": "GameStop Declares Xbox360, PS3 Retro Consoles, Millennials Are In Shambles - OutKick",
-            "description": "GameStop released a memo designating the Xbox 360, PlayStation 3, and Wii U retro consoles, reminding every Millennial who grew up with those systems they are now washed.",
-            "url": "https://www.outkick.com/culture/gamestop-declares-xbox360-ps3-retro-consoles-millennials-shambles",
-            "image": "https://static.outkick.com/www.outkick.com/content/uploads/2026/03/spin-zone-98.png"
+            "title": "Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac",
+            "description": "DuckDB compared the MacBook Neo with a range of cloud servers to see how Apple\u2019s new entry-level laptop performs on heavy database workloads.",
+            "url": "https://9to5mac.com/2026/03/17/benchmarks-show-macbook-neo-rivaling-more-powerful-cloud-servers-in-database-workloads/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-silver-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Nintendo Switch 2 and Switch update 22.0.0 out now, patch notes - Nintendo Everything",
-            "description": "Nintendo Switch 2 and Switch just got a new firmware update with version 22.0.0 and here are the patch notes including Friend List notes.",
-            "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-0-0-out-now-patch-notes/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-update-22.0.0.jpg"
-        },
-        {
-            "title": "Is This What You Think Of Us - aftermath.site",
-            "description": "The feeding ramp is polished to a mirror sheen",
-            "url": "https://aftermath.site/microsoft-copilot-ai-xbox/",
-            "image": "https://images.unsplash.com/photo-1621259183018-5a0fd57fcfd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ0fHx4Ym94fGVufDB8fHx8MTc3MzcwNzEwNXww&ixlib=rb-4.1.0&q=80&w=2000"
+            "title": "CERN Discovers New Particle After Upgrading Large Hadron Collider - ScienceAlert",
+            "description": "The Large Hadron Collider has discovered a new particle, the 80th identified so far by the world's most powerful particle smasher, Europe's CERN physics laboratory announced Tuesday.",
+            "url": "https://www.sciencealert.com/cern-discovers-new-particle-after-upgrading-large-hadron-collider",
+            "image": "https://www.sciencealert.com/images/2026/03/Artists-impression-of-the-new-CERN-particle-which-contains-two-charm-quarks-and-one-down-quark.jpg"
         }
     ]
 }
