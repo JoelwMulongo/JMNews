@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Download the brand new Black Library app today - Warhammer Community",
-            "description": "Get eight full stories for free when you try the app.",
-            "url": "https://www.warhammer-community.com/articles/ftfv93jv/download-the-brand-new-black-library-app-today",
-            "image": "https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png"
+            "title": "Tomb Raider I-III Remastered Publisher Responds To AI Outfit Allegations - Nintendo Life",
+            "description": "Wardrobe malfunction",
+            "url": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-publisher-responds-to-ai-outfit-allegations",
+            "image": "https://images.nintendolife.com/04782231a3147/large.jpg"
         },
         {
-            "title": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
-            "description": "Following concerns that upscaling feature detracts from creative expression, Jensen Huang says it \"doesn't change artistic control\"",
-            "url": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology",
-            "image": "https://assetsio.gnwcdn.com/nvidia-dlss_2m7KplY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Pearl Abyss shares tumble after Crimson Desert fails to meet expectations - Eurogamer",
+            "description": "Pearl Abyss' shares dropped by nearly 30 percent after reviews for Crimson Desert went live last night.",
+            "url": "https://www.eurogamer.net/pearl-abyss-shares-tumble-after-crimson-desert-fails-to-meet-expectations",
+            "image": "https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-during-a-sword-fight.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Intel enables Precompiled Shader Delivery on Arc B-series and Core Ultra iGPUs in new driver, up to 3x faster loading times - VideoCardz.com",
-            "description": "Intel Arc gets Graphics Shader Distribution Service, 13 games supported at launch Today, Intel has rolled out its Graphics Shader Distribution Service in",
-            "url": "https://videocardz.com/newz/intel-enables-precompiled-shader-selivery-on-arc-b-series-and-core-ultra-igpus-in-new-driver-up-to-3x-faster-loading-times",
-            "image": "https://cdn.videocardz.com/1/2026/03/INTEL-PRECOMPILED-SHADER-ARC-GPU-HERO.jpg"
+            "title": "Amazon Alexa's UK personality to change with Echo AI update - BBC",
+            "description": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.",
+            "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44c0/live/7208ab00-22e2-11f1-b297-95b0a0a8331e.jpg"
         },
         {
-            "title": "Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac",
-            "description": "DuckDB compared the MacBook Neo with a range of cloud servers to see how Apple\u2019s new entry-level laptop performs on heavy database workloads.",
-            "url": "https://9to5mac.com/2026/03/17/benchmarks-show-macbook-neo-rivaling-more-powerful-cloud-servers-in-database-workloads/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-silver-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Tim Cook on iPhone's Future: 'There's So Much Left That We Can Do' - MacRumors",
+            "description": "In an interview with Nikias Molina at New York's Grand Central Terminal last week, Apple's CEO Tim Cook briefly commented on the future of...",
+            "url": "https://www.macrumors.com/2026/03/18/tim-cook-comments-on-iphone-future/",
+            "image": "https://images.macrumors.com/t/ifxwRcZgwvurs4DL1GejlAlvKQA=/1600x/article-new/2025/09/iPhone-17-Pro-Colors.jpg"
         },
         {
-            "title": "CERN Discovers New Particle After Upgrading Large Hadron Collider - ScienceAlert",
-            "description": "The Large Hadron Collider has discovered a new particle, the 80th identified so far by the world's most powerful particle smasher, Europe's CERN physics laboratory announced Tuesday.",
-            "url": "https://www.sciencealert.com/cern-discovers-new-particle-after-upgrading-large-hadron-collider",
-            "image": "https://www.sciencealert.com/images/2026/03/Artists-impression-of-the-new-CERN-particle-which-contains-two-charm-quarks-and-one-down-quark.jpg"
+            "title": "By Director Mr. Sakurai, Kirby Air Riders: Development Insights \u2014 Part 4 - nintendo.com",
+            "description": "Join Kirby Air Riders director Masahiro Sakurai as he shares insights into the development and details behind some of the game's modes and features. Check out the rest of the interview Part 1: Air Ride and Top Ride Part 2: Cramming everything into S\u2026",
+            "url": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-4/",
+            "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
+        },
+        {
+            "title": "Apple warns iPhone users to update software after mass hacking campaigns - NBC News",
+            "description": "Apple is encouraging people to update their iPhones in light of new research that has pointed to vulnerabilities in older versions of the iOS operating system.",
+            "url": "https://www.nbcnews.com/tech/security/apple-iphone-users-update-software-hacking-campaigns-rcna264199",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250226-iphone-apple-ew-156p-a28d50.jpg"
         }
     ]
 }
