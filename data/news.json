@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Tomb Raider I-III Remastered Publisher Responds To AI Outfit Allegations - Nintendo Life",
-            "description": "Wardrobe malfunction",
-            "url": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-publisher-responds-to-ai-outfit-allegations",
-            "image": "https://images.nintendolife.com/04782231a3147/large.jpg"
+            "title": "Google's AI plans for Fitbit include your medical records - Mashable",
+            "description": "This isn't your father's Fitbit.",
+            "url": "https://mashable.com/article/google-fitbit-ai",
+            "image": "https://helios-i.mashable.com/imagery/articles/05XSAOrKQaik3Nx4CLp9mUg/hero-image.fill.size_1200x675.v1773966280.jpg"
         },
         {
-            "title": "Pearl Abyss shares tumble after Crimson Desert fails to meet expectations - Eurogamer",
-            "description": "Pearl Abyss' shares dropped by nearly 30 percent after reviews for Crimson Desert went live last night.",
-            "url": "https://www.eurogamer.net/pearl-abyss-shares-tumble-after-crimson-desert-fails-to-meet-expectations",
-            "image": "https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-during-a-sword-fight.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
+            "description": "The consensus among early adopters is that Anthropic has successfully internalized the most desirable features of the open-source movement\u2014multi-channel support and long-term memory",
+            "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3dBMtm7xGFxoVBUCdLdtS9/76357f5bb295d3a62476a2c00e629c44/Gemini_Generated_Image_ezvr5vezvr5vezvr.png?w=800&q=75"
         },
         {
-            "title": "Amazon Alexa's UK personality to change with Echo AI update - BBC",
-            "description": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.",
-            "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/44c0/live/7208ab00-22e2-11f1-b297-95b0a0a8331e.jpg"
+            "title": "AI is changing the style and substance of human writing, study finds - NBC News",
+            "description": "Teams from Google and leading universities found that large-language models change the voice, tone and intended meaning of human authors.",
+            "url": "https://www.nbcnews.com/tech/tech-news/ai-changing-style-substance-human-writing-study-finds-rcna263789",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260318-ai-speaking-lr-b30938.jpg"
         },
         {
-            "title": "Tim Cook on iPhone's Future: 'There's So Much Left That We Can Do' - MacRumors",
-            "description": "In an interview with Nikias Molina at New York's Grand Central Terminal last week, Apple's CEO Tim Cook briefly commented on the future of...",
-            "url": "https://www.macrumors.com/2026/03/18/tim-cook-comments-on-iphone-future/",
-            "image": "https://images.macrumors.com/t/ifxwRcZgwvurs4DL1GejlAlvKQA=/1600x/article-new/2025/09/iPhone-17-Pro-Colors.jpg"
+            "title": "Crimson Desert Day One Update Goes Live in Full on PC, in Part on Console \u2014 Check Out the Patch Notes - IGN",
+            "description": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some significant improvements to the game, some balance changes, and various fixes. Pearl Abyss recommended players download the patch \u201cfor the best experience.\u201d C\u2026",
+            "url": "https://www.ign.com/articles/crimson-desert-day-one-update-goes-live-in-full-on-pc-in-part-on-console-check-out-the-patch-notes",
+            "image": "https://assets-prd.ignimgs.com/2026/03/19/cd-main-1773960325692.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "By Director Mr. Sakurai, Kirby Air Riders: Development Insights \u2014 Part 4 - nintendo.com",
-            "description": "Join Kirby Air Riders director Masahiro Sakurai as he shares insights into the development and details behind some of the game's modes and features. Check out the rest of the interview Part 1: Air Ride and Top Ride Part 2: Cramming everything into S\u2026",
-            "url": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-4/",
-            "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg"
+            "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
+            "description": "Redditor scores an iBuyPower gaming PC at Costco for $1000, featuring Ryzen 7 9800X3D and RTX 5070, worth nearly $2500",
+            "url": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/Costco-iBuypower-gaming-PC-deal.jpg"
         },
         {
-            "title": "Apple warns iPhone users to update software after mass hacking campaigns - NBC News",
-            "description": "Apple is encouraging people to update their iPhones in light of new research that has pointed to vulnerabilities in older versions of the iOS operating system.",
-            "url": "https://www.nbcnews.com/tech/security/apple-iphone-users-update-software-hacking-campaigns-rcna264199",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250226-iphone-apple-ew-156p-a28d50.jpg"
+            "title": "New dispute emerges around Subnautica 2\u2019s early access release - Game File | Stephen Totilo",
+            "description": "Restored CEO's legal team says this week's announcement of a May launch was improper",
+            "url": "https://www.gamefile.news/p/subnautica-2-early-access-may-dispute",
+            "image": "https://substackcdn.com/image/fetch/$s_!0tlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F719511aa-85dc-4fae-ac9b-850b6bbfc51f_2994x1516.png"
         }
     ]
 }
