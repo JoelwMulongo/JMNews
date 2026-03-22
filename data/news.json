@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Google's AI plans for Fitbit include your medical records - Mashable",
-            "description": "This isn't your father's Fitbit.",
-            "url": "https://mashable.com/article/google-fitbit-ai",
-            "image": "https://helios-i.mashable.com/imagery/articles/05XSAOrKQaik3Nx4CLp9mUg/hero-image.fill.size_1200x675.v1773966280.jpg"
+            "title": "The end of the ISS is looming, and the US could have a big problem - CNN",
+            "description": "As NASA aims to return astronauts to the moon, a multibillion-dollar question mark looms: What will the space agency do when the International Space Station retires?",
+            "url": "https://www.cnn.com/2026/03/21/science/nasa-iss-space-station-retires",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/0302381-orig.jpg?c=16x9&q=w_800,c_fill"
         },
         {
-            "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
-            "description": "The consensus among early adopters is that Anthropic has successfully internalized the most desirable features of the open-source movement\u2014multi-channel support and long-term memory",
-            "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
-            "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3dBMtm7xGFxoVBUCdLdtS9/76357f5bb295d3a62476a2c00e629c44/Gemini_Generated_Image_ezvr5vezvr5vezvr.png?w=800&q=75"
+            "title": "iOS 26.3.1 (a): Apple\u2019s Hidden iPhone Update Recommended For Hundreds Of Millions Of Users - Forbes",
+            "description": "The latest iPhone update has arrived and it\u2019s different from previous updates. Here\u2019s why and what to do about it.",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/03/21/iphone-alert-why-you-must-check-this-hidden-setting-for-urgent-ios-2631-a-fix/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/696f9917e18383b28f33c10b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "AI is changing the style and substance of human writing, study finds - NBC News",
-            "description": "Teams from Google and leading universities found that large-language models change the voice, tone and intended meaning of human authors.",
-            "url": "https://www.nbcnews.com/tech/tech-news/ai-changing-style-substance-human-writing-study-finds-rcna263789",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260318-ai-speaking-lr-b30938.jpg"
+            "title": "Gran Turismo 7 Was an Inspiration for Microsoft Flight Sim 2024's PSVR2 Mode, Coming Soon - Push Square",
+            "description": "Out early this year",
+            "url": "https://www.pushsquare.com/news/2026/03/gran-turismo-7-was-an-inspiration-for-microsoft-flight-sim-2024s-psvr2-mode-coming-soon",
+            "image": "https://images.pushsquare.com/19f04f502f9dd/large.jpg"
         },
         {
-            "title": "Crimson Desert Day One Update Goes Live in Full on PC, in Part on Console \u2014 Check Out the Patch Notes - IGN",
-            "description": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some significant improvements to the game, some balance changes, and various fixes. Pearl Abyss recommended players download the patch \u201cfor the best experience.\u201d C\u2026",
-            "url": "https://www.ign.com/articles/crimson-desert-day-one-update-goes-live-in-full-on-pc-in-part-on-console-check-out-the-patch-notes",
-            "image": "https://assets-prd.ignimgs.com/2026/03/19/cd-main-1773960325692.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
+            "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline.",
+            "url": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302",
+            "image": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg"
         },
         {
-            "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
-            "description": "Redditor scores an iBuyPower gaming PC at Costco for $1000, featuring Ryzen 7 9800X3D and RTX 5070, worth nearly $2500",
-            "url": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/Costco-iBuypower-gaming-PC-deal.jpg"
+            "title": "iOS 26.4 will automatically turn on strict security feature for all iPhones - 9to5Mac",
+            "description": "iOS 26.4 is the next big iPhone release, and Apple plans to enable a key security feature by default in the update: Stolen Device Protection.",
+            "url": "https://9to5mac.com/2026/03/20/ios-26-4-will-activate-key-theft-prevention-feature-on-all-iphones/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "New dispute emerges around Subnautica 2\u2019s early access release - Game File | Stephen Totilo",
-            "description": "Restored CEO's legal team says this week's announcement of a May launch was improper",
-            "url": "https://www.gamefile.news/p/subnautica-2-early-access-may-dispute",
-            "image": "https://substackcdn.com/image/fetch/$s_!0tlF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F719511aa-85dc-4fae-ac9b-850b6bbfc51f_2994x1516.png"
+            "title": "Apple explains why M5 chips have three different core types in new interview - 9to5Mac",
+            "description": "Apple explains M5's three core types: super cores for single-thread tasks, performance cores for multi-threading, and efficiency cores.",
+            "url": "https://9to5mac.com/2026/03/20/apple-explains-why-m5-chips-have-three-different-core-types-in-new-interview/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Apple-touts-Fusion-Architecture-for-M5-Pro-and-M5-Max-chips-with-super-cores.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
