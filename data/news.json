@@ -1,40 +1,28 @@
 {
     "articles": [
         {
-            "title": "The \u2018P.T. Barnum of the miniature world\u2019 moved his dollhouse emporium to Fall River - The Boston Globe",
-            "description": "Flip This Dollhouse founder Nathaniel Ellis built miniatures for Taylor Swift's Eras Tour and Hollywood. Now, he and his collection are settling into a new home of their own.",
-            "url": "https://www.bostonglobe.com/2026/04/06/arts/flip-this-dollhouse/",
-            "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PNLU4IXQ3VBSZH7BASI3Z3LGKA.jpg?auth=5e7dfe9f3ac64ea7a312387b50d6d2f5073022525a10e8491d7546ae6d9af557&width=1440"
+            "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
+            "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "These 14+ New PS5, PS4, and PS Plus Games Are Coming Out This Week (6th-12th April) - Push Square",
-            "description": "Starfield! People of Note! Tiny Bookshop!",
-            "url": "https://www.pushsquare.com/guides/these-14plus-new-ps5-ps4-and-ps-plus-games-are-coming-out-this-week-6th-12th-april",
-            "image": "https://images.pushsquare.com/301bffd409f98/large.jpg"
+            "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
+            "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/07/google-offers-free-pc-upgrade-for-500-million-windows-users/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "\u2018Stop Texting\u2019\u2014Apple Changes iPhone After 15 Years - Forbes",
-            "description": "The FBI warned smartphone users to stop sending texts \u2014 here's what happens now.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/06/stop-texting-apple-changes-iphone-after-15-years/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/65744e9437fe0bbac67751bf/0x0.jpg?format=jpg&crop=1862,1184,x412,y479,safe&height=900&width=1600&fit=bounds"
+            "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
+            "description": "Included in the new game update",
+            "url": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support",
+            "image": "https://images.nintendolife.com/66327a56b2038/large.jpg"
         },
         {
-            "title": "\"What's going on?!!\": World of Warcraft delivers epic live moment I didn\u2019t think was still possible - Windows Central",
-            "description": "During World of Warcraft's \"Race to World First\" esports event, U.S. team Liquid discovered live to thousands that the final boss had a secret final phase.",
-            "url": "https://www.windowscentral.com/gaming/pc-gaming/whats-going-on-world-of-warcraft-just-created-a-truly-insane-epic-moment-in-gaming-history-i-had-no-idea-blizzard-was-still-capable",
-            "image": "https://cdn.mos.cms.futurecdn.net/Px2BcPMxNN7ddRGVUm9Hwk-1356-80.jpg"
-        },
-        {
-            "title": "Stop pasting this into AI \u2014 7 things you should never share with a chatbot - Tom's Guide",
-            "description": "AI tools aren\u2019t designed to store sensitive information like private documents or bank details \u2014 so don\u2019t treat them like a safe",
-            "url": "https://www.tomsguide.com/ai/never-paste-these-into-ai-7-things-you-should-never-share-with-a-chatbot",
-            "image": "https://cdn.mos.cms.futurecdn.net/ggfqETDAhhJhzfhkdsPiV3-1920-80.jpg"
-        },
-        {
-            "title": "Pocket-Sized E-Ink Gets A Firmware Upgrade - Hackaday",
-            "description": "Not so long ago, e-ink devices were rare and fairly pricey. As they have become more common and cheaper, some cool form-factor devices have emerged that suffer from subpar software. [Concretedog] p\u2026",
-            "url": "https://hackaday.com/2026/04/05/pocket-sized-e-ink-gets-a-firmware-upgrade/",
-            "image": "https://hackaday.com/wp-content/uploads/2026/04/IMG_20260401_142901-16-9.png"
+            "title": "Polls: Are you more or less interested to play with Ingrid after the divisive and mysterious girl's teaser in Street Fighter 6? - EventHubs",
+            "description": "Street Fighter 6 is now approaching the end of its third season, but the game still has one more character to add to the roster for it \u2014 and she's one of the most intriguing divisive choices in the series ...",
+            "url": "https://www.eventhubs.com/news/2026/apr/06/ingrid-interest-vote-sf6/",
+            "image": "https://media.eventhubs.com/images/2026/04/06-ingrid-interest-vote-sf6t.webp"
         }
     ]
 }
