@@ -1,28 +1,40 @@
 {
     "articles": [
         {
+            "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
+            "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on how much it can help \u2014 or hinder \u2014 your health journey.",
+            "url": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268422_Victoria_CGM_continuous_Glucose_Monitor_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
             "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
             "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
-            "url": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
             "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
-            "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/07/google-offers-free-pc-upgrade-for-500-million-windows-users/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds"
+            "title": "Why Microsoft\u2019s war on Windows\u2019 Control Panel is taking so long - theverge.com",
+            "description": "It\u2019s all to do with pesky printer and network drivers.",
+            "url": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/controlpanel.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
-            "description": "Included in the new game update",
-            "url": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support",
-            "image": "https://images.nintendolife.com/66327a56b2038/large.jpg"
+            "title": "Google\u2019s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
+            "description": "Fixes game crashes and Quick Share issues",
+            "url": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/img_1140.jpg?w=1600&h=900&fit=crop"
         },
         {
-            "title": "Polls: Are you more or less interested to play with Ingrid after the divisive and mysterious girl's teaser in Street Fighter 6? - EventHubs",
-            "description": "Street Fighter 6 is now approaching the end of its third season, but the game still has one more character to add to the roster for it \u2014 and she's one of the most intriguing divisive choices in the series ...",
-            "url": "https://www.eventhubs.com/news/2026/apr/06/ingrid-interest-vote-sf6/",
-            "image": "https://media.eventhubs.com/images/2026/04/06-ingrid-interest-vote-sf6t.webp"
+            "title": "PSA: You Can Now Download Pok\u00e9mon Champions On Switch - Nintendo Life",
+            "description": "There's also a free update for Switch 2",
+            "url": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch",
+            "image": "https://images.nintendolife.com/841c5b5bb7549/large.jpg"
+        },
+        {
+            "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
+            "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gamepad buttons, sticks, and triggers behave.",
+            "url": "https://www.androidauthority.com/android-17-controller-remapping-3655681/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-Game-Controller-Remapping-Hero-Image-scaled.jpeg"
         }
     ]
 }
