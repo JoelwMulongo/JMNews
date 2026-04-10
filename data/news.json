@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
-            "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on how much it can help \u2014 or hinder \u2014 your health journey.",
-            "url": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268422_Victoria_CGM_continuous_Glucose_Monitor_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Google\u2019s Gmail Upgrade Decision\u20142 Billion Users Must Act Now - Forbes",
+            "description": "You have been warned \u2014 do not lave this \"overwhelming\" decision until it's too late.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/09/googles-gmail-upgrade-decision-2-billion-users-must-act-now/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/690f1d9e7a80b726e48fa3dd/0x0.jpg?format=jpg&crop=2327,1308,x507,y643,safe&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
-            "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
-            "url": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors",
+            "description": "Apple today released a minor iOS 26.4.1 update for the iPhone 11 and newer. While the release notes for the update only mention unspecified \"bug...",
+            "url": "https://www.macrumors.com/2026/04/08/ios-26-4-1-has-two-changes-for-iphones/",
+            "image": "https://images.macrumors.com/t/lG7WfPPNLChspQLST-lns4Uitr4=/2500x/article-new/2026/04/iOS-26.4.1-Feature-1.jpg"
         },
         {
-            "title": "Why Microsoft\u2019s war on Windows\u2019 Control Panel is taking so long - theverge.com",
-            "description": "It\u2019s all to do with pesky printer and network drivers.",
-            "url": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/controlpanel.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "My Nintendo Store Restocks Super Mario 40th Anniversary Reward (North America) - Nintendo Life",
+            "description": "Get this pin set while you can!",
+            "url": "https://www.nintendolife.com/news/2026/04/my-nintendo-store-restocks-super-mario-40th-anniversary-reward-north-america",
+            "image": "https://images.nintendolife.com/dd2e3cdfbfea3/large.jpg"
         },
         {
-            "title": "Google\u2019s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
-            "description": "Fixes game crashes and Quick Share issues",
-            "url": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/img_1140.jpg?w=1600&h=900&fit=crop"
+            "title": "Nintendo Expands Switch Online's NES Library With Three More Games - Nintendo Life",
+            "description": "Play them today",
+            "url": "https://www.nintendolife.com/news/2026/04/nintendo-expands-switch-onlines-nes-library-with-three-more-games",
+            "image": "https://images.nintendolife.com/fcf0820ca2a9a/large.jpg"
         },
         {
-            "title": "PSA: You Can Now Download Pok\u00e9mon Champions On Switch - Nintendo Life",
-            "description": "There's also a free update for Switch 2",
-            "url": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch",
-            "image": "https://images.nintendolife.com/841c5b5bb7549/large.jpg"
-        },
-        {
-            "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
-            "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gamepad buttons, sticks, and triggers behave.",
-            "url": "https://www.androidauthority.com/android-17-controller-remapping-3655681/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-Game-Controller-Remapping-Hero-Image-scaled.jpeg"
+            "title": "Gemini gets notebooks to help you organize projects - The Verge",
+            "description": "Google\u2019s Gemini is getting a feature called \u201cnotebooks\u201d to help you organize things about certain topics in a single place while using the AI chatbot.",
+            "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
     ]
 }
