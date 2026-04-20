@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "It's No Mustang: 911 GT3 RS WIth Manthey Kit Sets N\u00fcrburgring Lap Time - Motor1.com",
-            "description": "Watch a 911 GT3 RS with the $116,160 Manthey Kit demolish the N\u00fcrburgring Nordschleife as it tries to set a lap record.",
-            "url": "https://www.motor1.com/news/793299/porsche-911-gt3-rs-manthey-kit-nubrurgring-lap/",
-            "image": "https://cdn.motor1.com/images/mgl/Rqkbjx/s1/porsche-911-gt3-rs-with-manthey-kit-nurburgring-lap-time.jpg"
+            "title": "Lakefront N.J. home is a steal for $550,000. Here\u2019s why. - NJ.com",
+            "description": "It's listed for less than the statewide median sales price of $570,000.",
+            "url": "https://www.nj.com/realestate-news/2026/04/lakefront-nj-home-is-a-steal-for-550000-heres-why.html",
+            "image": "https://www.nj.com/resizer/v2/I5J4S2MNOBAADBUWGVJEM7O3VI.png?auth=e3b80845a61e4cd2ebd8499969d7241b4c5a766b9da3f31672a535503b8c506d&width=1280&smart=true&quality=90"
         },
         {
-            "title": "Google Starts Scanning All Your Photos As New Update Goes Live - Forbes",
-            "description": "Google wants its AI to see all the photos of \"you and your loved ones.\" Billions of users must now decide.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/18/google-starts-scanning-all-your-photos-as-new-update-goes-live/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69e31225b144f448687b057e/0x0.jpg?format=jpg&crop=849,540,x202,y19,safe&height=900&width=1600&fit=bounds"
+            "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
+            "description": "It released Tony Hawk's Pro Skater 3 + 4 last year",
+            "url": "https://www.nintendolife.com/news/2026/04/metroid-prime-remastered-studio-iron-galaxy-announces-more-layoffs",
+            "image": "https://images.nintendolife.com/a10d1587d8ab1/large.jpg"
         },
         {
-            "title": "'Starting In April'\u2014Microsoft Changes Windows Update After 15 Years - Forbes",
-            "description": "Security certificates on more than a billion Windows PCs expire in 8 weeks \u2014 check yours now.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/04/18/starting-in-april-microsoft-changes-windows-update-after-15-years/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2609,1468,x224,y480,safe&height=900&width=1600&fit=bounds"
+            "title": "Next Big PS5 Exclusive Confirms Huge PS5 Pro Upgrade - ComicBook.com",
+            "description": "The next big PS5 exclusive game, which is set to release later this month, has confirmed a huge PS5 Pro upgrade.",
+            "url": "http://comicbook.com/gaming/news/ps5-pro-exclusive-game-upgrade-april/",
+            "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/p-s-5-p-r-o.png?resize=2000,1125"
         },
         {
-            "title": "5+ Things to Know About the Next Mac Studio - MacRumors",
-            "description": "Apple is working on an updated version of the Mac Studio that's expected at some point in 2026, and with supplies of existing machines running...",
-            "url": "https://www.macrumors.com/2026/04/17/mac-studio-rumor-recap-april/",
-            "image": "https://images.macrumors.com/t/LX2SJf0l-MX75qIa3R6d1KYa9cE=/2500x/article-new/2023/06/mac-studio-green.jpg"
+            "title": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free - GAMINGbible",
+            "description": "Steam users have a free alternative to Crimson Desert they've been sleeping on.",
+            "url": "https://www.gamingbible.com/news/platform/steam/steam-rpg-surpasses-crimson-desert-free-060133-20260416",
+            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd913bf8eb10ab068/69e0df66a778322ad804b9ff/crimsondesertsteamfreegame.jpg"
         },
         {
-            "title": "'WTF Embark' \u2014 Arc Raiders Expedition Changes Leave Players Who Spent Months Saving Millions of Credits Feeling Left Behind - IGN",
-            "description": "Embark Studios has once again announced tweaks to the Arc Raiders Expedition window, and players who have spent months saving millions of credits are feeling left behind.",
-            "url": "https://www.ign.com/articles/arc-raiders-players-are-disappointed-in-the-new-expedition-changes",
-            "image": "https://assets-prd.ignimgs.com/2026/03/17/arc-raiders-march-1773758300338.png?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Microsoft is giving Windows 11 File Explorer a speed boost, dark mode fix, and reducing explorer.exe crashes - Windows Latest",
+            "description": "Microsoft now says it's preparing a big update for File Explorer that would allow it to run faster, address 'white flashes,' and more.",
+            "url": "https://www.windowslatest.com/2026/04/19/microsoft-is-giving-windows-11-file-explorer-a-speed-boost-dark-mode-fix-and-new-archive-support-in-next-update/",
+            "image": "https://www.windowslatest.com/wp-content/uploads/2026/04/Windows-11-File-Explorer-update.jpg"
         },
         {
-            "title": "Intel eases reliance on TSMC with Core Series 3 CPUs - theregister.com",
-            "description": ": Stripped-down Ultra for laptops and low-power edge boxes",
-            "url": "https://www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/",
-            "image": "https://regmedia.co.uk/2026/04/17/core_series_3_chip.jpg"
+            "title": "How One Line Of TF2 Code Ruined This Simple Feature - Hackaday",
+            "description": "Ever encountered a minor annoying bug in a video game? How about one dating back to 2018? Usually, you have no hope of fixing it, but this time is different. [Joey Cheerio] shows the first-time pro\u2026",
+            "url": "https://hackaday.com/2026/04/18/how-one-line-of-tf2-code-ruined-this-simple-feature/",
+            "image": "https://hackaday.com/wp-content/uploads/2026/04/ORB.jpg"
         }
     ]
 }
