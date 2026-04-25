@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Crimson Desert Update 1.04.00 Out Now \u2014 Check Out the Patch Notes - IGN",
-            "description": "Crimson Desert developer Pearl Abyss has released update 1.04.00, which makes significant improvements to the game. Chief among them is the addition of difficulty settings, new storage improvements, new pets, keyboard/mouse and controller preset options, new \u2026",
-            "url": "https://www.ign.com/articles/crimson-desert-gets-its-biggest-patch-yet-adds-difficulty-settings-much-needed-storage-improvements-and-even-birds-as-pets",
-            "image": "https://assets-prd.ignimgs.com/2026/04/23/ss-da5b8d5347b66aa994119fc7052ca43896971da9-1920x1080-1776933671093.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
+            "description": "An Unreal Engine 5 game that looks nothing like it.",
+            "url": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable",
+            "image": "https://images.digitalfoundry.net/671f5fc827b1e/large.jpg"
         },
         {
-            "title": "Honor\u2019s new phones look like iPhones for Android - The Verge",
-            "description": "Want an iPhone 17 Pro* for less?",
-            "url": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/honor-600-pro-orange.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+            "title": "Leak reveals new Xbox Game Pass \u201cStarter Edition\u201d that\u2019s part of Discord Nitro - The Verge",
+            "description": "Microsoft is getting ready to bundle Xbox Game Pass with Discord Nitro. A more limited \u201cStarter Edition\u201d is on the way.",
+            "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Android 17 QPR1 Beta 1 is already here with a sneak peek at September's Feature Drop - Android Authority",
-            "description": "We've only had Android 17 Beta 4 for less than a week now, and Google's already giving us an early look at Android 17 QPR1 Beta 1.",
-            "url": "https://www.androidauthority.com/android-17-qpr1-beta-1-3660122/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Android-17-stock-image.jpg"
+            "title": "Diablo 4: Lord of Hatred will release earlier than expected in the US, and teams up with Overwatch for some of the coolest skins I've ever seen - Windows Central",
+            "description": "The Diablo 4 developer chat just dropped a bunch of new info, Overwatch Skins, Twitch Drops, and a bucket of updates with Patch 3.0.0",
+            "url": "https://www.windowscentral.com/gaming/diablo-4-lord-of-hatred-will-release-earlier-than-expected-in-the-us-and-teams-up-with-overwatch-for-some-of-the-coolest-skins-ive-ever-seen",
+            "image": "https://cdn.mos.cms.futurecdn.net/uivMtbJFfr9i3t6gA2s7oT-2560-80.jpg"
         },
         {
-            "title": "Round Up: This PS5 Game Changes Based on Other Players, and Reviewers Are Liking It - Push Square",
-            "description": "Tides of Tomorrow attracting plenty of praise",
-            "url": "https://www.pushsquare.com/features/round-up-this-ps5-game-changes-based-on-other-players-and-reviewers-are-liking-it",
-            "image": "https://images.pushsquare.com/8dce7c44d4bc2/large.jpg"
+            "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
+            "description": "Apple has released a new iPhone update \u2014 that has taken many by surprise \u2014 to address a vulnerability that was recently exploited by the FBI.",
+            "url": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/69a89dd24b8a0538e24e9c45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Switchable 2D\u20133D display through a metasurface lenticular lens - Nature",
-            "description": "A full-colour 2D\u20133D switchable light-field display powered by a metasurface lenticular lens is proposed that is a promising solution for next-generation display technologies in both consumer electronics and commercial applications.",
-            "url": "https://www.nature.com/articles/s41586-026-10318-9",
-            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10318-9/MediaObjects/41586_2026_10318_Fig1_HTML.png"
-        },
-        {
-            "title": "Ingrid's movelist and mechanics details revealed for Street Fighter 6 with her unique Sun Crest abilities and tons of attacks - EventHubs",
-            "description": "After waiting 10 months since her initial reveal, Ingrid just received her gameplay trailer for Street Fighter 6, but that's not all we got to dig into.Capcom also just released a bunch of additional details on Ingrid's ...",
-            "url": "https://www.eventhubs.com/news/2026/apr/22/ingrid-movelist-details-sf6/",
-            "image": "https://media.eventhubs.com/images/2026/04/22-ingrid-movelist-details-sf6t.webp"
+            "title": "\"Pulsing Aura\" Set Revealed for \"Pocket\" Featuring Mega Lucario ex! - PokeBeach",
+            "description": "The next Pocket set will be named\u00a0Pulsing Aura (B3) and will release on April 28th! It will feature Mega Lucario ex. (A future TCG set named Aura",
+            "url": "https://www.pokebeach.com/2026/04/pulsing-aura-set-revealed-for-pocket-featuring-mega-lucario",
+            "image": "https://www.pokebeach.com/news/2026/04/Pokemon_TCG_Pocket_Pulsing_Aura_Mega_Lucario_ex.png"
         }
     ]
 }
