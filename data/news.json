@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Today\u2019s NYT Strands Hints, Spangram, Answers For Monday, May 4 (May The Forest Be With You) - Forbes",
-            "description": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
-            "url": "https://www.forbes.com/sites/paultassi/2026/05/03/todays-nyt-strands-hints-spangram-answers-for-monday-may-4-may-the-forest-be-with-you/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/69a8d28280b584aef715cac6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "Why Reddit blocked my daily visit to its mobile website - Ars Technica",
+            "description": "Reddit REALLY wants you to use its app.",
+            "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg"
         },
         {
-            "title": "Gemini will get new third-party smart speakers, early listing reveals ahead of Google Home Speaker - 9to5Google",
-            "description": "Gemini is reviving the idea of a smart speaker for Google, with the upcoming \u201cGoogle Home Speaker\u201d being the first...",
-            "url": "http://9to5google.com/2026/05/03/google-gemini-smart-speakers-third-party-walmart/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Speaker-Berry4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Xbox is giving achievement art an upgrade on Series X consoles - TrueAchievements",
+            "description": "Microsoft has rolled out an update to some Xbox Insiders that improves the sharpness of achievement art on Xbox Series X consoles.",
+            "url": "https://www.trueachievements.com/news/xbox-achievement-art-upgrade-series-x",
+            "image": "https://www.trueachievements.com/imgs/173893/xbox-is-giving-achievement-art-an-upgrade-on-series-x-consoles.jpg"
         },
         {
-            "title": "Leaker claims Dark Souls trilogy remake in development - My Nintendo News",
-            "description": "Shirrako, a leaker with a relatively unknown track record, has stated on X that Bandai Namco is preparing a Dark Souls trilogy remake for undisclosed platforms. A release window was not reported\u2026",
-            "url": "https://mynintendonews.com/2026/05/03/leaker-claims-dark-souls-trilogy-remake-in-development/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2018/09/dark_souls_remastered.jpg?fit=1600%2C800&ssl=1"
+            "title": "Our Daughter Overheard Some \u2026 Bombastic Noises While Staying at Our Friends\u2019 House. Now She\u2019s Traumatized. - Slate",
+            "description": "I'm not sure if I should tell them.",
+            "url": "https://slate.com/advice/2026/05/parenting-advice-sex-noise-trauma.html",
+            "image": "https://compote.slate.com/images/6b1f28bb-ff47-4ba5-b9d5-da627c0c6cfb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
         },
         {
-            "title": "Gemini app getting full redesign that overhauls every part of the UI - 9to5Google",
-            "description": "Google has been working on a Gemini app redesign for the past few months, and we now have our first look at the full overhaul.",
-            "url": "http://9to5google.com/2026/05/03/gemini-full-redesign/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Patch Notes 1.27.0 - ARC Raiders",
+            "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+            "url": "https://arcraiders.com/news/patch-notes-1-27-0",
+            "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png"
         },
         {
-            "title": "PS6 Early Info on Cloud Streaming, Machine Learning, and New Horror Game Uncovered - MP1st",
-            "description": "PS6 advanced machine learning, cloud streaming upgrades, and a new horror game in development on Unreal Engine 5 uncovered.",
-            "url": "https://mp1st.com/news/ps6-early-info-cloud-streaming-machine-learning-new-horror-game-uncovered",
-            "image": "https://mp1st.com/wp-content/uploads/2026/04/v2-600x338.png"
+            "title": "Samsung can't stop leaking its upcoming foldables in One UI 9 - Android Authority",
+            "description": "We dug into Samsung's One UI 9 software and found images showing off the Wide Fold and Galaxy Z Fold 8 devices.",
+            "url": "https://www.androidauthority.com/samsung-wide-fold-galaxy-z-fold-8-one-ui-9-leak-3663410/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/galaxy-z-fold-wide-cad-render-1.jpg"
         },
         {
-            "title": "Marvel Snap studio insists: \"This is us making hard decisions to keep going, not a sign we're winding down\" - Eurogamer.net",
-            "description": "Marvel Snap developer Second Dinner has assured fans \"we're still here\" after high-profile exits triggered fears about \u2026",
-            "url": "https://www.eurogamer.net/marvel-snap-studio-insists-this-is-us-making-hard-decisions-to-keep-going-not-a-sign-were-winding-down",
-            "image": "https://assetsio.gnwcdn.com/MarvelSnap_2023_S18_KA_V08.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Microsoft Edge Stores All Saved Passwords in Cleartext Process Memory at Launch - CyberSecurityNews",
+            "description": "A security researcher has discovered that Microsoft Edge decrypts every stored password into process memory the moment the browser launches and keeps them there as cleartext, regardless of whether the user ever visits those sites. The finding, disclosed on Ap\u2026",
+            "url": "https://cybersecuritynews.com/microsoft-edge-passwords-cleartext/",
+            "image": "http://cybersecuritynews.com/wp-content/uploads/2026/05/Microsoft-Edge-Passwords-Cleartext.webp"
         }
     ]
 }
