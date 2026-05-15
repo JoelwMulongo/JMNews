@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Xiaomi officially announces new flagship phone with Leica cameras and large display - Notebookcheck",
-            "description": "The Xiaomi 17 Max has been confirmed for a May launch in China, with pre-orders already open. The company has teased the device in a light blue colorway, revealing its design language and a few key highlights. Separately, a leak has shown the device in multip\u2026",
-            "url": "https://www.notebookcheck.net/Xiaomi-officially-announces-new-flagship-phone-with-Leica-cameras-and-large-display.1295508.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Max-official.png"
+            "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later - MacRumors",
+            "description": "Apple is already planning a second version of the \"four-edge bending\" display that is rumored to debut on next year's 20th-anniversary...",
+            "url": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/",
+            "image": "https://images.macrumors.com/t/28K8GzT_qW1bSru-H9LUBSEsEIQ=/2500x/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg"
         },
         {
-            "title": "Sony\u2019s new Xperia phone gets an overdue redesign - The Verge",
-            "description": "The Sony Xperia 1 VIII gets a new look with a refreshed square camera module, but still no US release.",
-            "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sony-xperia-1-viii-colors.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+            "title": "Why Apple is Putting Cameras in the New AirPods Pro 4 (Ultra) - Geeky Gadgets",
+            "description": "Discover why the upcoming AirPods Pro 4 feature cameras. Explore the new visual AI capabilities, real-time translation, and more.",
+            "url": "https://www.geeky-gadgets.com/why-airpods-pro-have-cameras/",
+            "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/2026-AirPods-1.jpg"
         },
         {
-            "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
-            "description": "Apple\u2019s WWDC 2026 is expected to preview iOS 27, a smarter Siri, broader AI model options, and macOS 27 design refinements.",
-            "url": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-preview/",
-            "image": "https://assets.techrepublic.com/uploads/2026/05/WWDC-2026.jpg?f=jpeg"
+            "title": "New Fragnesia Linux flaw lets attackers gain root privileges - BleepingComputer",
+            "description": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root.",
+            "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+            "image": "https://www.bleepstatic.com/content/hl-images/2025/10/31/Linux.jpg"
         },
         {
-            "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs - The Register",
-            "description": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
-            "url": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224",
-            "image": "https://image.theregister.com/5239252.jpg?imageId=5239252&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+            "title": "5 Virtual Boy games added to Nintendo Classics - My Nintendo News",
+            "description": "Nintendo has added five more Virtual Boy games to the ever expanding Nintendo Switch Online service library. The following 1995-released games are included in the update: Jack Bros\u2026",
+            "url": "https://mynintendonews.com/2026/05/14/5-virtual-boy-games-added-to-nintendo-classics/",
+            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/09/virtual_boy_nintendo_classics.jpeg?fit=2560%2C1440&ssl=1"
         },
         {
-            "title": "DeepMind details Googlebook \u2018Magic Pointer\u2019 with demos you can try, also coming to Gemini in Chrome - 9to5Google",
-            "description": "The Magic Pointer on Googlebook was built with Google DeepMind. The research team behind this underlying capability...",
-            "url": "http://9to5google.com/2026/05/12/deepmind-googlebook-magic-pointer/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Googlebook-Magic-Pointer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-            "title": "Ultralight laptop under 1 kg: Lenovo officially launches ThinkPad X13 Gen 7 - Notebookcheck",
-            "description": "Lenovo has officially unveiled a new addition to their ThinkPad line: The ultralight Lenovo ThinkPad X13 Gen 7, which has a starting weight of less than 1 kg. The new model launches with both AMD Ryzen 400 and Intel Panther Lake CPUs.",
-            "url": "https://www.notebookcheck.net/Ultralight-laptop-under-1-kg-Lenovo-officially-launches-ThinkPad-X13-Gen-7.1295182.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ThinkPad-X13-Gen-7_AMD_03.png"
+            "title": "Microsoft\u2019s multi-agent AI system tops Anthropic\u2019s Mythos on cybersecurity benchmark - GeekWire",
+            "description": "Microsoft's new vulnerability-scanning system, codenamed MDASH, scored 88.45% on the CyberGym benchmark, surpassing single-model systems from Anthropic and OpenAI by using more than 100 specialized AI agents across multiple models.",
+            "url": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+            "image": "https://cdn.geekwire.com/wp-content/uploads/2026/05/cyber.png"
         }
     ]
 }
