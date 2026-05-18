@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft appears to rebrand Xbox as XBOX - VideoCardz.com",
-            "description": "No description available.",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dkVKQ2NRLVBVVi1IZ3pRUnh0NU1iUHRRaTA0S0FDa3dNWDJTLUtrUGJfLXdqd1VXUFVqXzFjT0JLZTlxU0JIVHhYUExibUxjWFRyY0JBbF9FbkgtbHQ0U2Jic01UTWhaME02U1pqcEhDRGtWTTdnRg?oc=5",
-            "image": null
+            "title": "ASUS Republic of Gamers Announces ROG NUC 16 - ASUS Pressroom",
+            "description": "ROG NUC 16: ASUS unveils a compact gaming PC for gamers and creators. Features Intel Core Ultra, NVIDIA RTX 5080 Laptop GPU, AI-enhanced graphics, QuietFlow cooling, and versatile dual-orientation design. Subscribe to ASUS Pressroom for the latest tech update\u2026",
+            "url": "https://press.asus.com/news/press_releases/rog-nuc-16-compact-gaming-pc-rtx-5080-ai/",
+            "image": "https://press.asus.com/assets/w_1200,h_630/2729b113-4987-4c6d-b82d-a98f2cfd530f/ROG%20NUC%2016%20Image.png"
         },
         {
-            "title": "Strange Metal From Beyond Our World Spotted in an Ancient Treasure Stash - ScienceAlert",
-            "description": "Amidst a cache of glittering golden treasures from the Iberian Bronze Age, a pair of corroded objects might be the most precious of all.",
-            "url": "https://www.sciencealert.com/strange-metal-from-beyond-our-world-spotted-in-an-ancient-treasure-stash",
-            "image": "https://www.sciencealert.com/images/2026/01/The-Treasure-of-Villena2026.jpg"
+            "title": "Big Nintendo Switch 2 and Switch sale live with games as low as $15 - Nintendo Everything",
+            "description": "A big sale has just started for Nintendo Switch 1 and 2 that discounts some notable games to as low as $15 - here's the full list.",
+            "url": "https://nintendoeverything.com/big-nintendo-switch-2-and-switch-sale-live-with-games-as-low-as-15/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-1-2-15-sale-GameStop.jpg"
         },
         {
-            "title": "New The Sims 4 Hotfix Update Announced For Next Week - Sims Community",
-            "description": "It's never an easy patch release for The Sims 4. The Sims Direct Communications announced today that they'll be releasing a new The Sims 4 Hotfix Update",
-            "url": "https://simscommunity.info/2026/05/16/sims-4-hotfix-update-may-2026-info/",
-            "image": "https://simscommunity.info/wp-content/uploads/2026/02/sims-4-hotfix-update-FI.jpg"
+            "title": "A new tool just combined ChatGPT, Claude, Gemini, and more \u2014 lifetime access is on sale for $70 - Mashable",
+            "description": "A lifetime subscription with access to 20+ AI models usually costs $619",
+            "url": "https://mashable.com/article/may-16-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+            "image": "https://helios-i.mashable.com/imagery/articles/00XR5sFYIGjnJKvnOxjmrui/hero-image.fill.size_1200x675.v1778668066.jpg"
         },
         {
-            "title": "Nintendo president hints they\u2019re preparing to continue support for original Switch - My Nintendo News",
-            "description": "The Nintendo Switch has a ridiculously large instal base and not everyone has shifted over to the newer Nintendo Switch 2, which has recently been announced to be getting a price increase.",
-            "url": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/",
-            "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/nintendo_switch_and_nintendo_switch_2.jpg?fit=2000%2C1125&ssl=1"
+            "title": "Scientists Uncover an \u201cAlien\u201d Metal Hidden in a 3,000-Year-Old Year-Old Treasure Stash - The Daily Galaxy",
+            "description": "A Spanish museum guarded a 3,000-year-old secret. Two corroded objects in Europe's richest Bronze Age gold hoard were made from metal that fell from the sky.",
+            "url": "https://dailygalaxy.com/2026/05/space-metal-bronze-age-hoard-villena-spain/",
+            "image": "https://dailygalaxy.com/wp-content/uploads/2026/05/A-Bronze-Age-Hoard-Just-Revealed-a-Secret-That-Fell-From-the-Sky-scaled.jpg"
         },
         {
-            "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
-            "description": "A small issue is having big consequences in Lord of Hatred",
-            "url": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580",
-            "image": "https://kotaku.com/app/uploads/2026/05/image-80.jpg"
+            "title": "Microsoft Confirms Active 0-Day Exploit\u2014Check Emergency Mitigation Now - Forbes",
+            "description": "Microsoft Exchange users are urged to mitigate a zero-day vulnerability that CISA has confirmed is under active exploitation.",
+            "url": "https://www.forbes.com/sites/daveywinder/2026/05/17/microsoft-exchange-active-0-day-exploit-enable-emergency-mitigation-now/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a089505605e4fcb2a0a192a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Intel\u2019s NUCs Live On\u2026 as an Excessive Asus Mini Gaming PC - Gizmodo",
-            "description": "The Asus ROG NUC 16 seems like an excellent console-like PC until you see its supposed price.",
-            "url": "https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279",
-            "image": "https://gizmodo.com/app/uploads/2026/05/ROG-NUC-16-Image-1200x675.jpg"
+            "title": "I removed Samsung's unremovable apps, and now my phone zips along - Android Police",
+            "description": "Half an hour with ADB and my Samsung finally runs clean",
+            "url": "https://www.androidpolice.com/removed-samsungs-unremovable-apps-now-phone-zips-along/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-samsung-smartphone-displaying-a-menu-to-uninstall-a-system-app-with-a-large-red-trash-can-icon-in-the-foreground.png?w=1600&h=900&fit=crop"
         }
     ]
 }
