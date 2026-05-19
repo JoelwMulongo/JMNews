@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "ASUS Republic of Gamers Announces ROG NUC 16 - ASUS Pressroom",
-            "description": "ROG NUC 16: ASUS unveils a compact gaming PC for gamers and creators. Features Intel Core Ultra, NVIDIA RTX 5080 Laptop GPU, AI-enhanced graphics, QuietFlow cooling, and versatile dual-orientation design. Subscribe to ASUS Pressroom for the latest tech update\u2026",
-            "url": "https://press.asus.com/news/press_releases/rog-nuc-16-compact-gaming-pc-rtx-5080-ai/",
-            "image": "https://press.asus.com/assets/w_1200,h_630/2729b113-4987-4c6d-b82d-a98f2cfd530f/ROG%20NUC%2016%20Image.png"
+            "title": "The Subnautica 2 fish self-defence debate rages on, as the game\u2019s non-violent themes clash with player desire to fend off underwater threats - Eurogamer",
+            "description": "Unknown Worlds has stayed true to its oceanic pacifism themes, while the realities of living with dangerous animals has some players frustrated.",
+            "url": "https://www.eurogamer.net/subnautica-2-self-defence-fish-fighting",
+            "image": "https://assetsio.gnwcdn.com/screenshot-from-subnautica-2-showing-a-character-with-a-cracked-diving-mask.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Big Nintendo Switch 2 and Switch sale live with games as low as $15 - Nintendo Everything",
-            "description": "A big sale has just started for Nintendo Switch 1 and 2 that discounts some notable games to as low as $15 - here's the full list.",
-            "url": "https://nintendoeverything.com/big-nintendo-switch-2-and-switch-sale-live-with-games-as-low-as-15/",
-            "image": "https://nintendoeverything.com/wp-content/uploads/Switch-1-2-15-sale-GameStop.jpg"
+            "title": "'No One Else in the Business Would Have Done It' \u2014 Take-Two Boss Reveals Borderlands' Last Minute Art Style Change Cost an Extra $50 Million, but Insists the Game Would Have Flopped Without It - IGN",
+            "description": "Borderlands\u2019 well-documented 11th hour art style change cost Take-Two an extra $50 million in development costs and delayed the game by a year, but without it the now successful franchise would have flopped straight out the gate.",
+            "url": "https://www.ign.com/articles/take-two-boss-says-borderlands-last-minute-art-style-change-cost-50-million-but-without-it-the-game-would-have-flopped",
+            "image": "https://assets-prd.ignimgs.com/2026/05/18/ss-8de560caa17336bf6c2f5044b0e8aab2c0af6eff-1920x1080-1779100793204.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "A new tool just combined ChatGPT, Claude, Gemini, and more \u2014 lifetime access is on sale for $70 - Mashable",
-            "description": "A lifetime subscription with access to 20+ AI models usually costs $619",
-            "url": "https://mashable.com/article/may-16-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-            "image": "https://helios-i.mashable.com/imagery/articles/00XR5sFYIGjnJKvnOxjmrui/hero-image.fill.size_1200x675.v1778668066.jpg"
+            "title": "This music streaming app nobody talks about actually beats the giants - Android Police",
+            "description": "I'm never going back to Spotify or Tidal",
+            "url": "https://www.androidpolice.com/this-music-streaming-app-nobody-talks-about-actually-beats-the-giants/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-woman-wearing-white-headphones-with-the-qobuz-logo-behind-her-against-an-orange-and-red-background.png?w=1600&h=900&fit=crop"
         },
         {
-            "title": "Scientists Uncover an \u201cAlien\u201d Metal Hidden in a 3,000-Year-Old Year-Old Treasure Stash - The Daily Galaxy",
-            "description": "A Spanish museum guarded a 3,000-year-old secret. Two corroded objects in Europe's richest Bronze Age gold hoard were made from metal that fell from the sky.",
-            "url": "https://dailygalaxy.com/2026/05/space-metal-bronze-age-hoard-villena-spain/",
-            "image": "https://dailygalaxy.com/wp-content/uploads/2026/05/A-Bronze-Age-Hoard-Just-Revealed-a-Secret-That-Fell-From-the-Sky-scaled.jpg"
+            "title": "I pay for Gemini, ChatGPT, and Claude \u2014 and there's a clear winner - Android Authority",
+            "description": "I pay for ChatGPT, Gemini, and Claude. After spending time with all three, I keep coming back to only one of them.",
+            "url": "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg"
         },
         {
-            "title": "Microsoft Confirms Active 0-Day Exploit\u2014Check Emergency Mitigation Now - Forbes",
-            "description": "Microsoft Exchange users are urged to mitigate a zero-day vulnerability that CISA has confirmed is under active exploitation.",
-            "url": "https://www.forbes.com/sites/daveywinder/2026/05/17/microsoft-exchange-active-0-day-exploit-enable-emergency-mitigation-now/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a089505605e4fcb2a0a192a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "GTA 6 Pre-Orders Set To Arrive Today As PS5 Store Updates Early - GAMINGbible",
+            "description": "Reports claim six initial versions will be revealed.",
+            "url": "https://www.gamingbible.com/news/gta-6-pre-orders-ps5-store-updates-early-660100-20260518",
+            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt626e65cd72bc617a/6a0ad56bb4213e36991e0c8b/gta6preorderps.jpg"
         },
         {
-            "title": "I removed Samsung's unremovable apps, and now my phone zips along - Android Police",
-            "description": "Half an hour with ADB and my Samsung finally runs clean",
-            "url": "https://www.androidpolice.com/removed-samsungs-unremovable-apps-now-phone-zips-along/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-samsung-smartphone-displaying-a-menu-to-uninstall-a-system-app-with-a-large-red-trash-can-icon-in-the-foreground.png?w=1600&h=900&fit=crop"
+            "title": "Xbox Game Pass loses another five games in May 2026 - TrueAchievements",
+            "description": "The next batch of games leaving Xbox Game Pass in May 2026 has now been confirmed. Another five games will drop out of the subscription service at the end of May.",
+            "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-may-2026-wave-2",
+            "image": "https://www.trueachievements.com/imgs/174215/xbox-game-pass-loses-another-five-games-in-may-2026.jpg"
         }
     ]
 }
