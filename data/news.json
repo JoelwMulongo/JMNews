@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Subnautica 2 fish self-defence debate rages on, as the game\u2019s non-violent themes clash with player desire to fend off underwater threats - Eurogamer",
-            "description": "Unknown Worlds has stayed true to its oceanic pacifism themes, while the realities of living with dangerous animals has some players frustrated.",
-            "url": "https://www.eurogamer.net/subnautica-2-self-defence-fish-fighting",
-            "image": "https://assetsio.gnwcdn.com/screenshot-from-subnautica-2-showing-a-character-with-a-cracked-diving-mask.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Apple unveils new accessibility features, and updates with Apple Intelligence - Apple",
+            "description": "Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.",
+            "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+            "image": "https://www.apple.com/newsroom/images/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/tile/Apple-accessibility-features-VoiceOver-with-Apple-Intelligence-lp.jpg.og.jpg?202605191201"
         },
         {
-            "title": "'No One Else in the Business Would Have Done It' \u2014 Take-Two Boss Reveals Borderlands' Last Minute Art Style Change Cost an Extra $50 Million, but Insists the Game Would Have Flopped Without It - IGN",
-            "description": "Borderlands\u2019 well-documented 11th hour art style change cost Take-Two an extra $50 million in development costs and delayed the game by a year, but without it the now successful franchise would have flopped straight out the gate.",
-            "url": "https://www.ign.com/articles/take-two-boss-says-borderlands-last-minute-art-style-change-cost-50-million-but-without-it-the-game-would-have-flopped",
-            "image": "https://assets-prd.ignimgs.com/2026/05/18/ss-8de560caa17336bf6c2f5044b0e8aab2c0af6eff-1920x1080-1779100793204.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "At last, The Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam - Eurogamer",
+            "description": "This update has introduced a variety of new game tags for different genres, which should help categorize upcoming genres.",
+            "url": "https://www.eurogamer.net/bullet-heaven-steam-tag-update",
+            "image": "https://assetsio.gnwcdn.com/vampire-survivors_8uaCwOR.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "This music streaming app nobody talks about actually beats the giants - Android Police",
-            "description": "I'm never going back to Spotify or Tidal",
-            "url": "https://www.androidpolice.com/this-music-streaming-app-nobody-talks-about-actually-beats-the-giants/",
-            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-woman-wearing-white-headphones-with-the-qobuz-logo-behind-her-against-an-orange-and-red-background.png?w=1600&h=900&fit=crop"
+            "title": "Xbox Player Voice requests reveal what fans want most from Microsoft - TrueAchievements",
+            "description": "Xbox fans have wasted no time in submitting feedback to Microsoft with the new Xbox Player Voice portal. Here are the top 10 requests from players.",
+            "url": "https://www.trueachievements.com/news/xbox-player-voice-top-feedback-requests",
+            "image": "https://www.trueachievements.com/imgs/175245/xbox-player-voice-reveals-what-fans-want-most-from-microsoft.jpg"
         },
         {
-            "title": "I pay for Gemini, ChatGPT, and Claude \u2014 and there's a clear winner - Android Authority",
-            "description": "I pay for ChatGPT, Gemini, and Claude. After spending time with all three, I keep coming back to only one of them.",
-            "url": "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg"
+            "title": "Gemini is in danger of going full Copilot - The Verge",
+            "description": "Google is getting ready to launch more Gemini features at I/O 2026. Let\u2019s hope the company learned from Microsoft\u2019s Copilot mistakes.",
+            "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
         },
         {
-            "title": "GTA 6 Pre-Orders Set To Arrive Today As PS5 Store Updates Early - GAMINGbible",
-            "description": "Reports claim six initial versions will be revealed.",
-            "url": "https://www.gamingbible.com/news/gta-6-pre-orders-ps5-store-updates-early-660100-20260518",
-            "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt626e65cd72bc617a/6a0ad56bb4213e36991e0c8b/gta6preorderps.jpg"
+            "title": "Nintendo has just announced Wario Ware-like game Pictonico! for mobile phones, and it looks absolutely bonkers - Eurogamer",
+            "description": "Nintendo's latest surprise announcement is Pictonico! for mobile phones, a Wario Ware-inspired game that's free to start playing but comes with DLC packs.",
+            "url": "https://www.eurogamer.net/nintendo-pictonico-announcement",
+            "image": "https://assetsio.gnwcdn.com/Pictonico_trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Xbox Game Pass loses another five games in May 2026 - TrueAchievements",
-            "description": "The next batch of games leaving Xbox Game Pass in May 2026 has now been confirmed. Another five games will drop out of the subscription service at the end of May.",
-            "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-may-2026-wave-2",
-            "image": "https://www.trueachievements.com/imgs/174215/xbox-game-pass-loses-another-five-games-in-may-2026.jpg"
+            "title": "Patch Notes 1.29.0 - ARC Raiders",
+            "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+            "url": "https://arcraiders.com/news/patch-notes-1-29-0",
+            "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png"
         }
     ]
 }
