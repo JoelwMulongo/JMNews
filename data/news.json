@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple unveils new accessibility features, and updates with Apple Intelligence - Apple",
-            "description": "Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.",
-            "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-            "image": "https://www.apple.com/newsroom/images/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/tile/Apple-accessibility-features-VoiceOver-with-Apple-Intelligence-lp.jpg.og.jpg?202605191201"
+            "title": "Yearslong fight over users\u2019 right to tweak smart TV software heads to trial - Ars Technica",
+            "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
+            "url": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg"
         },
         {
-            "title": "At last, The Bullet Heaven genre - popularised by hits like Vampire Survivors - has been sanctioned by Steam - Eurogamer",
-            "description": "This update has introduced a variety of new game tags for different genres, which should help categorize upcoming genres.",
-            "url": "https://www.eurogamer.net/bullet-heaven-steam-tag-update",
-            "image": "https://assetsio.gnwcdn.com/vampire-survivors_8uaCwOR.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Round Up: The Reviews For Lego Batman: Legacy Of The Dark Knight Are In - Nintendo Life",
+            "description": "How does it hold up on other platforms?",
+            "url": "https://www.nintendolife.com/news/2026/05/round-up-the-reviews-for-lego-batman-legacy-of-the-dark-knight-are-in",
+            "image": "https://images.nintendolife.com/92045aacac4dc/large.jpg"
         },
         {
-            "title": "Xbox Player Voice requests reveal what fans want most from Microsoft - TrueAchievements",
-            "description": "Xbox fans have wasted no time in submitting feedback to Microsoft with the new Xbox Player Voice portal. Here are the top 10 requests from players.",
-            "url": "https://www.trueachievements.com/news/xbox-player-voice-top-feedback-requests",
-            "image": "https://www.trueachievements.com/imgs/175245/xbox-player-voice-reveals-what-fans-want-most-from-microsoft.jpg"
+            "title": "PlayStation just announced a new State of Play, and it'll be over an hour long - Eurogamer",
+            "description": "PlayStation has announced it will be kicking off the Summer Games Fest week with a brand new showcase.",
+            "url": "https://www.eurogamer.net/playstation-just-announced-a-new-state-of-play-and-itll-be-over-an-hour-long",
+            "image": "https://assetsio.gnwcdn.com/state-of-play_UI9BBFM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Gemini is in danger of going full Copilot - The Verge",
-            "description": "Google is getting ready to launch more Gemini features at I/O 2026. Let\u2019s hope the company learned from Microsoft\u2019s Copilot mistakes.",
-            "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+            "title": "A Letter To The Community From The Subnautica 2 Team - Unknown Worlds",
+            "description": "A letter from the Subnautica 2 team to the community, addressing some key feedback since launch.",
+            "url": "https://unknownworlds.com/news/subnautica-2-community-letter-feedback",
+            "image": "https://unknownworlds.com/_next/image?url=https:/d17c72h1ypygg7.cloudfront.net/SN_2_Waterslug_Home_1080p_394cb24f13.jpg&w=720&q=75"
         },
         {
-            "title": "Nintendo has just announced Wario Ware-like game Pictonico! for mobile phones, and it looks absolutely bonkers - Eurogamer",
-            "description": "Nintendo's latest surprise announcement is Pictonico! for mobile phones, a Wario Ware-inspired game that's free to start playing but comes with DLC packs.",
-            "url": "https://www.eurogamer.net/nintendo-pictonico-announcement",
-            "image": "https://assetsio.gnwcdn.com/Pictonico_trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Google expands AI push at I/O with enterprise-focused Gemini upgrades and smarter search tools - Yahoo Finance",
+            "description": "Alphabet Inc.\u2019s Google (NASDAQ:GOOG) on Tuesday introduced a range of new artificial intelligence tools at its annual I/O developer conference, including AI agents integrated directly into Search and a faster, lower-cost Gemini model aimed at enterprise custo\u2026",
+            "url": "https://investorshub.advfn.com/market-news/article/28706/google-expands-ai-push-at-i-o-with-enterprise-focused-gemini-upgrades-and-smarter-search-tools",
+            "image": "https://us.advfn-editors.com/wp-content/uploads/2025/12/google-logo-on-wall.png"
         },
         {
-            "title": "Patch Notes 1.29.0 - ARC Raiders",
-            "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-            "url": "https://arcraiders.com/news/patch-notes-1-29-0",
-            "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png"
+            "title": "Five Games Are Available Today Across Multiple Tiers Of Xbox Game Pass (May 20) - Pure Xbox",
+            "description": "Lots of new titles on XGP",
+            "url": "https://www.purexbox.com/news/2026/05/five-games-are-available-today-across-multiple-tiers-of-xbox-game-pass-may-20",
+            "image": "https://images.purexbox.com/b879938b34d3e/large.jpg"
         }
     ]
 }
