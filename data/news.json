@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch - London South East",
-            "description": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch | Financial News",
-            "url": "https://www.lse.co.uk/news/in-brief-frontier-developments-stock-up-on-new-warhammer-game-launch-jjvylje3akw5hgp.html",
-            "image": "https://static.lse.co.uk/images/logo-og.jpg"
+            "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
+            "description": "You\u2019ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper \u2026",
+            "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
+            "image": "https://hackaday.com/wp-content/uploads/2026/05/What-is-Flipper-One-new-e1779420323518.jpg"
         },
         {
-            "title": "Warhammer 40,000 Video Game Crossover Event \u2013 Tacticus and Dawn of War IV | Warhammer Skulls 2026 - Warhammer Community",
-            "description": "War escalates in Warhammer 40,000: Tacticus with the Warhammer 40,000: Dawn of War IV crossover!\n\nTake on the Primarch of the Dark Angels, Lion El\u2019Jonson, as he enters the fray as a new Guild Raid boss in Warhammer 40,000: Tacticus. Plus, characters from Warh\u2026",
-            "url": "https://www.warhammer-community.com/videos/6qylarrs/warhammer-40000-video-game-crossover-event-tacticus-and-dawn-of-war-iv-warhammer-skulls-2026",
-            "image": "https://assets.warhammer-community.com/ua_trailers_dow4_thumbnail-(1)-6jcfe3orxt.png"
+            "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
+            "description": "One of Google\u2019s first true hit pieces of hardware, 2013\u2019s Chromecast, is starting to stop working for some users are...",
+            "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/08/chromecast-2013-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Why cruise ships are sailing to a phantom destination that doesn\u2019t appear on any map - CNN",
-            "description": "Null Island isn\u2019t an actual place. But that hasn\u2019t stopped a small number of cruises from taking intrepid tourists to visit its location: 0 degrees latitude and longitude.",
-            "url": "https://www.cnn.com/travel/visiting-null-island-cruises",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/20240417-164609.jpg?c=16x9&q=w_800,c_fill"
+            "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
+            "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here are the details.",
+            "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google",
-            "description": "New usage limits have hit Google\u2019s Gemini AI models and, following user concerns, Google has raised those limits specifically for...",
-            "url": "http://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Antigravity-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
+            "description": "Social engineering scam uncovered",
+            "url": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk",
+            "image": "https://images.pushsquare.com/02c666ee9db27/large.jpg"
         },
         {
-            "title": "Google just replaced another major piece of Fitbit's identity - Android Authority",
-            "description": "Google has transitioned the Fitbit Community page to Google Health Community with no clear way of accessing the older forums.",
-            "url": "https://www.androidauthority.com/fitbit-community-google-health-community-3670056/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Health-Logo-on-phone-screen.jpg"
+            "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - The Motley Fool",
+            "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic.",
+            "url": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/",
+            "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871212%2Fgettyimages-1830082607-1200x600-7cb9712.jpg&w=1200&op=resize"
+        },
+        {
+            "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019 - TechCrunch",
+            "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+            "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965"
         }
     ]
 }
