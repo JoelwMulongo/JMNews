@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "The Outer Worlds 'Free' PS5 Upgrade Has Immediately Turned into a Mess - Push Square",
-            "description": "Mixed messaging from Obsidian",
-            "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
-            "image": "https://images.pushsquare.com/d7ecb2faf5221/large.jpg"
+            "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
+            "description": "An ancient killer has plagued humans for millennia.",
+            "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
+            "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg"
         },
         {
-            "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
-            "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-            "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800"
+            "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
+            "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+            "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg"
         },
         {
-            "title": "The golden age of handheld gaming is already over - The Verge",
-            "description": "With Valve raising the starting price of the Steam Deck gaming handheld to $789, handhelds aren\u2019t just getting more expensive \u2014 they\u2019re out of reach for many.",
-            "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "The Chrome browser is getting a big safety upgrade \u2014 if you use Windows - Android Authority",
+            "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen cookies to be exploited.",
+            "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg"
         },
         {
-            "title": "Anker announces a full Pok\u00e9mon-Themed tech collection for 2026 - Gizmochina",
-            "description": "Anker Japan launches a Pok\u00e9mon 30th anniversary tech collection featuring a 70W charger, travel adapter, pouch, and Soundcore earphones.",
-            "url": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/",
-            "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/Anker-USB-Fast-Charger-70W-Pikachu-Model.jpg"
+            "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
+            "description": "No description available.",
+            "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
+            "image": null
         },
         {
-            "title": "Square Enix Has \"No Plans\" To Sell A Switch 2 Upgrade For Dragon Quest XI S - Nintendo Life",
-            "description": "According to the official Switch listing",
-            "url": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s",
-            "image": "https://images.nintendolife.com/fbfe6d2f3d235/large.jpg"
+            "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
+            "description": "The Xbox CEO says hard choices are still ahead",
+            "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
+            "image": "https://images.purexbox.com/25641009dfbd8/large.jpg"
         },
         {
-            "title": "All 109 \"Paradox Drive\" Cards Revealed for \"Pocket!\" - PokeBeach",
-            "description": "Paradox Drive has just launched in Pokemon TCG Pocket as its B3a set! As the set name implies, it features Paradox Pokemon with \"Ancient\" and \"Future\"",
-            "url": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket",
-            "image": "https://www.pokebeach.com/news/2026/05/092-Koraidon-ex-Paradox-Drive.jpg"
+            "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
+            "description": "Six 0-days, three under active exploitation, more to come on July 14?",
+            "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+            "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
         }
     ]
 }
