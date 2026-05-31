@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
-            "description": "An ancient killer has plagued humans for millennia.",
-            "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
-            "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg"
+            "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia\u2019s new N1X laptop processors - The Verge",
+            "description": "All eyes area now on Nvidia\u2019s keynote at Computex on Sunday night.",
+            "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200"
         },
         {
-            "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
-            "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
-            "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg"
+            "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
+            "description": "Privacy-focused search engine DuckDuckGo has seen a surge in demand for its \"No AI\" search option in the wake of Google's May 19th I/O...",
+            "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
+            "image": "https://images.macrumors.com/t/Pm624KQECwxx7XGaA9p4-W2O0As=/1688x/article-new/2026/05/duckduckgo-no-ai.jpg"
         },
         {
-            "title": "The Chrome browser is getting a big safety upgrade \u2014 if you use Windows - Android Authority",
-            "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen cookies to be exploited.",
-            "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg"
+            "title": "Kuo: Apple\u2019s iPhone camera roadmap includes a costly upgrade - 9to5Mac",
+            "description": "Analyst Ming-Chi Kuo is out with a new look at Apple\u2019s upcoming iPhone camera plans, including an under-the-hood ultra-wide module change and a surprisingly steep cost increase.",
+            "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
-            "description": "No description available.",
-            "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
-            "image": null
+            "title": "Rayman Origins: Enhanced Edition leaked, first details and screenshots - Nintendo Everything",
+            "description": "Rayman leaks are springing up all over, and now one has happened for the unannounced Rayman Origins: Enhanced Edition. The title has surfaced over on the Xbox store. Ubisoft calls it the \u201cdefinitive experience\u201d with \u201c4K resolution, 60 FPS, and modern enhancem\u2026",
+            "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg"
         },
         {
-            "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
-            "description": "The Xbox CEO says hard choices are still ahead",
-            "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
-            "image": "https://images.purexbox.com/25641009dfbd8/large.jpg"
+            "title": "TP-Link Says Screw It, We\u2019re Doing Wi-Fi 8 Now - Gizmodo",
+            "description": "The company plans to launch its first router with the new standard in October.",
+            "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
+            "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg"
         },
         {
-            "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
-            "description": "Six 0-days, three under active exploitation, more to come on July 14?",
-            "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-            "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+            "title": "Xbox CCO Matt Booty confirms it will show off PS5 availability for games at the Xbox Games Showcase - Windows Central",
+            "description": "Microsoft's Xbox CCO Matt Booty has confirmed it will broadcast multiplatform availability of titles shown at the Xbox Games Showcase next week.",
+            "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
+            "image": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg"
         }
     ]
 }
