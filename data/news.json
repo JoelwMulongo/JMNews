@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches - Bloomberg.com",
-            "description": "Also: The latest on iOS 27, iOS 28, new Apple TV and HomePod mini.",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isTbSjRqYCUA/v8/1200x800.jpg"
+            "title": "How to Watch the XBOX Games Showcase and Gears of War: E-Day Direct on Sunday - XBOX Wire",
+            "description": "This Sunday, June 7, our yearly double feature returns, offering you a look at what's next from XBOX and our incredible partners across the world \u2013 here's everything you need to know to tune in.",
+            "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
+            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/2026_Showcase_DoubleFeature_16x9-1-503e797dfa7152ff8c4e.jpg"
         },
         {
-            "title": "007 First Light is already discounted for the PS5 and Steam - The Verge",
-            "description": "You can get a deal on the latest James Bond game, 007 First Light, at Costco and Fanatical, which saves you up to $10 depending on the platform.",
-            "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "title": "Apple's Smart Glasses Reportedly Delayed Until Late 2027 - CNET",
+            "description": "Still, the glasses are regarded by company leadership as a top priority, Bloomberg's Mark Gurman writes.",
+            "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
+            "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Persona 6 Rumors About New Hero Are Fueling A Fan Art Frenzy - Kotaku",
-            "description": "Nobody wants to talk about Jane Persona 6, though",
-            "url": "https://kotaku.com/alleged-persona-6-leaks-fuel-fan-art-frenzy-and-john-persona-6-merch-2000700620",
-            "image": "https://kotaku.com/app/uploads/2023/02/d56777b18082b512df78ee1e5f090bcc-1200x675.jpg"
+            "title": "Strava declares war on scrapers ahead of IPO - TechCrunch",
+            "description": "Strava will charge a flat monthly fee from developers to access its API",
+            "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800"
         },
         {
-            "title": "Little Nightmares 2 Enhanced Edition is finally available on Nintendo Switch 2 - Eurogamer",
-            "description": "Little Nightmares 2's Enhanced Edition is finally available on Nintendo Switch 2.",
-            "url": "https://www.eurogamer.net/little-nightmares-2-enhanced-edition-switch-2",
-            "image": "https://assetsio.gnwcdn.com/little-nightmares-2s-free-enhanced-edition-update-out-now-for-pc-ps5-and-xbox-series-x-s-1629905869658.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "MacBook Neo rival launched at $599; Nvidia PC chip takes on Apple Silicon - 9to5Mac",
+            "description": "It was clear that the launch of the MacBook Neo at just $599 took most Windows PC makers by surprise....",
+            "url": "https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/MacBook-Neo-rival-launched-at-599.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Qualcomm\u2019s Snapdragon C Is Hiding A Nasty Secret That, If Proven, Will Make The MacBook Neo And Its A18 Pro Roar In Popularity - Wccftech",
-            "description": "A rumor has mentioned has shared some downright disappointing details of the Snapdragon C, making the MacBook Neo a better option",
-            "url": "https://wccftech.com/snapdragon-c-hiding-nasty-secret-making-macbook-neo-even-more-popular/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Snapdragon-C-2.jpg"
-        },
-        {
-            "title": "'Rucking' Is The Walking Trend You Need To Try. Here's Why. - HuffPost",
-            "description": "Bonus: You probably have the necessary gear in your closet right now.",
-            "url": "https://www.huffpost.com/entry/rucking-is-the-walking-trend-you-need-to-try-heres-why-goog_l_69fb6b97e4b065a1677a62bc",
-            "image": "https://img.huffingtonpost.com/asset/69fb6c88170000bc49844a53.jpeg?ops=500_281%2Cscalefit_1200_630"
+            "title": "June\u2019s Miniature of the Month and collectible coin revealed - Warhammer Community",
+            "description": "Get your free coin and miniature in store this month.",
+            "url": "https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed",
+            "image": "https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg"
         }
     ]
 }
