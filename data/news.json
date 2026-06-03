@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "How to Watch the XBOX Games Showcase and Gears of War: E-Day Direct on Sunday - XBOX Wire",
-            "description": "This Sunday, June 7, our yearly double feature returns, offering you a look at what's next from XBOX and our incredible partners across the world \u2013 here's everything you need to know to tune in.",
-            "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/",
-            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/2026_Showcase_DoubleFeature_16x9-1-503e797dfa7152ff8c4e.jpg"
+            "title": "New data shows Sony has been selling fewer and fewer copies of its PlayStation exclusives since 2020 - Eurogamer",
+            "description": "Newly-collated data on the sales performance of Sony's first-party PlayStation titles paints a grim picture.",
+            "url": "https://www.eurogamer.net/sony-playstation-first-party-sales-decline",
+            "image": "https://assetsio.gnwcdn.com/Aloy-looks-puzzled-in-a-screenshot-from-Horizon-Forbidden-West.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Apple's Smart Glasses Reportedly Delayed Until Late 2027 - CNET",
-            "description": "Still, the glasses are regarded by company leadership as a top priority, Bloomberg's Mark Gurman writes.",
-            "url": "https://www.cnet.com/tech/mobile/apple-smart-glasses-development-bumps-reported-delay/",
-            "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "New \u2018Crimson Desert\u2019 Roadmap Says It Will Patch The Story - Forbes",
+            "description": "Crimson Desert has undergone many fixes and seen many additions, but changing the lackluster story seemed impossible. Maybe not, according to a new roadmap.",
+            "url": "https://www.forbes.com/sites/paultassi/2026/06/02/new-crimson-desert-roadmap-says-it-will-patch-the-story/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed6738a67a7a588592777/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "Strava declares war on scrapers ahead of IPO - TechCrunch",
-            "description": "Strava will charge a flat monthly fee from developers to access its API",
-            "url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-            "image": "https://techcrunch.com/wp-content/uploads/2025/05/orange-shoes-strava.jpg?resize=1200,800"
+            "title": "PlayStation State Of Play: What Time, Where To Watch, What To Expect - Forbes",
+            "description": "Here's what time PlayStation's State of Play is today, where to watch and everything we might be able to expect, and not expect, from the show.",
+            "url": "https://www.forbes.com/sites/paultassi/2026/06/02/playstation-state-of-play-what-time-where-to-watch-what-to-expect/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ed26dc57d9986ce4b6d36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         },
         {
-            "title": "MacBook Neo rival launched at $599; Nvidia PC chip takes on Apple Silicon - 9to5Mac",
-            "description": "It was clear that the launch of the MacBook Neo at just $599 took most Windows PC makers by surprise....",
-            "url": "https://9to5mac.com/2026/06/01/macbook-neo-rival-launched-at-599-nvidia-pc-chip-takes-on-apple-silicon/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/MacBook-Neo-rival-launched-at-599.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet - The Verge",
+            "description": "Gemini Spark, Google\u2019s new agentic AI platform, can accomplish tasks around the web and even soon on your devices. It works astonishingly well \u2014 maybe too well.",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0%2C10.711701357851%2C100%2C78.576597284297&w=1200"
         },
         {
-            "title": "June\u2019s Miniature of the Month and collectible coin revealed - Warhammer Community",
-            "description": "Get your free coin and miniature in store this month.",
-            "url": "https://www.warhammer-community.com/articles/q17dwwtt/junes-miniature-of-the-month-and-collectible-coin-revealed",
-            "image": "https://assets.warhammer-community.com/motm-jun01-1-feature-t9maa9fbmm.jpg"
+            "title": "Studio Founded By Forza Horizon 5 Director Announces Open-World Action-Driving Game Clutch - Game Informer",
+            "description": "The game is set to launch on PS5, Xbox Series X/S, and PC in spring 2027.",
+            "url": "https://gameinformer.com/2026/06/02/studio-founded-by-forza-horizon-5-director-announces-open-world-action-driving-game",
+            "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/01/9d16af5f/clutch_screenshot_2.jpg.webp"
+        },
+        {
+            "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked - MacRumors",
+            "description": "Battery capacities for Apple's upcoming iPhone 18 Pro have allegedly surfaced, and the numbers suggest only a modest increase over the iPhone 17...",
+            "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+            "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg"
         }
     ]
 }
