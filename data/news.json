@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
-            "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make band and accessories",
-            "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
-            "image": "https://media.dcrainmaker.com/images/2026/06/FitbitAirCAD-1.png"
+            "title": "Yacht Club Games Teases Some \"Very Secret Things\" In Mina The Hollower - Nintendo Life",
+            "description": "But some playthroughs are missing up to \"50 percent of the game\"",
+            "url": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower",
+            "image": "https://images.nintendolife.com/7d67acfd0caba/large.jpg"
         },
         {
-            "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
-            "description": "Shokz\u2019 clip-on open earbuds are now available in two versions with lighter designs, improved bass and clarity, and better noise reduction during calls.",
-            "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/shokz_open2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200"
+            "title": "Black Ops 7's New Classic Mode Seems to Fix a Lot of Issues Players Have With the Game - IGN",
+            "description": "Call of Duty: Black Ops 7 players are having a blast with the games new mode, Black Ops Classic.",
+            "url": "https://www.ign.com/articles/black-ops-7s-new-classic-mode-seems-to-fix-a-lot-of-issues-players-have-with-the-game",
+            "image": "https://assets-prd.ignimgs.com/2025/11/04/blackops7thumb-1762276682204.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
-            "description": "Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm",
-            "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1",
-            "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af7516f-a1fd-4f7d-80ee-fcf988dd0745.jpg?source=next-barrier-page"
+            "title": "Microsoft\u2019s AI Chief Says Anthropic Models Are Too Expensive - Bloomberg.com",
+            "description": "The software company\u2019s AI chief is working to build cheaper in-house models",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKTzuLapJ28/v9/1200x800.jpg"
         },
         {
-            "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
-            "description": "In addition to Google AI Edge Gallery, the company also released the Gemma 4 12B model and the Google AI Edge Eloquent dictation app for the Mac.",
-            "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/google-ai-edge-gallery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "No Rest for the Wicked Developer Blames Series S for Xbox Release Delay - IGN",
+            "description": "The Xbox Series S is taking some heat once again following comments made by the founder of Moon Studio, the team behind action RPG No Rest for the Wicked.",
+            "url": "https://www.ign.com/articles/no-rest-for-the-wicked-developer-blames-series-s-for-xbox-release-delay",
+            "image": "https://assets-prd.ignimgs.com/2026/03/17/norestthumb-1773773043681.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Report details Apple\u2019s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac",
-            "description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work under the hood. Here are the details.",
-            "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "God of War Laufey Voted Best PS5 Game at State of Play - Push Square",
+            "description": "Wolverine not far behind",
+            "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play",
+            "image": "https://images.pushsquare.com/2fd0032e8a279/large.jpg"
+        },
+        {
+            "title": "Google Health 5.01 rolling out with 16 nutrition, fitness, & sleep fixes - 9to5Google",
+            "description": "The first big update (version 5.01) to the Google Health app is beginning to roll out with 16 additions and fixes...",
+            "url": "http://9to5google.com/2026/06/04/google-health-5-01-release-notes/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
