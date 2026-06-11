@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Watch: Nintendo Direct June 2026 - Live! - Nintendo Life",
-            "description": "We're so back",
-            "url": "https://www.nintendolife.com/news/2026/06/watch-nintendo-direct-june-2026-live",
-            "image": "https://images.nintendolife.com/2639e6b124c0d/large.jpg"
+            "title": "Gears of War creator Cliff Bleszinski believes Xbox is \"steering the 'ship' back in the right direction\", as E-Day skips PS5 - Eurogamer",
+            "description": "Gears of War creator Cliff 'CliffyB' Bleszinski says Xbox \"hurt their loyal tribal fanbase's perception of the brand\".",
+            "url": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski",
+            "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Apple dials down Liquid Glass, and the Mac looks way better for it - The Verge",
-            "description": "Hands-on with the developer beta of macOS 27 Golden Gate and its reduced Liquid Glass UI. We\u2019re taking an early look at Apple\u2019s upcoming OS for MacBooks and Mac desktops, announced at WWDC.",
-            "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/060926_MacBook_Neo_macOS_27_Golden_Gate_beta_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27 - MacRumors",
+            "description": "Apple this week revealed what its most advanced on-device AI model does, and the feature list is shorter than the hardware requirements might...",
+            "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
+            "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
         },
         {
-            "title": "Apple WWDC 2026 keynote event: Live updates on iOS 27 and Siri - Mashable",
-            "description": "Mashable is covering Apple's annual Worldwide Developers Conference with live updates. Get real-time updates on the latest news.",
-            "url": "https://mashable.com/tech/apple-wwdc-2026-keynote-live-updates",
-            "image": "https://helios-i.mashable.com/imagery/live_blogs/06XLLDMWqePQxZQ6Mc0kqMS/desktop_banner_image.fill.size_1200x675.v1780700508.jpg"
+            "title": "Microsoft is disabling Office 2019 for Mac next month - The Verge",
+            "description": "A certificate issue means Office 2019 for Mac users won\u2019t be able to edit or save documents starting July 13th.",
+            "url": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Everything New Coming To tvOS 27 For Apple TV Users - bgr.com",
-            "description": "Even though Apple didn't focus on what's coming to its set-top box in the WWDC keynote, there are at least eight features coming to Apple TV.",
-            "url": "https://www.bgr.com/2190232/tvos-27-new-features-apple-tv-wwdc-2026/",
-            "image": "https://www.bgr.com/img/gallery/everything-new-coming-to-tvos-27-for-apple-tv-users/l-intro-1780989841.jpg"
+            "title": "Logitech\u2019s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse - The Verge",
+            "description": "Logitech\u2019s new Mobi Fold is a compact travel mouse that manages to get even smaller by folding in half without skimping on features.",
+            "url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
         },
         {
-            "title": "Apple\u2019s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone - Bloomberg.com",
-            "description": "Apple Inc.\u2019s iOS 27 and related software updates offer the clearest public signs yet of the company\u2019s upcoming foldable iPhone, revealing references to folding hardware and new features designed for larger, more flexible displays.",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPsZiJEXOpI8/v0/1200x800.jpg"
+            "title": "Pok\u00e9mon Pokopia Updated To Version 1.1.0, Includes Improvements & Fixes - Nintendo Life",
+            "description": "Here are the full patch notes",
+            "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-0-includes-improvements-and-fixes",
+            "image": "https://images.nintendolife.com/9d103a5c2bb07/large.jpg"
+        },
+        {
+            "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints - Bloomberg.com",
+            "description": "Nintendo Co.\u2019s shares fell by the most in a month after the game maker\u2019s presentation of upcoming games came up short on brand-new titles from heavyweight franchises such as Mario.",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg"
         }
     ]
 }
