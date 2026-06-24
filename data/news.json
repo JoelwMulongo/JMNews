@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Your Storage Problem Has a Prime Day Solution. We Found SSDs Starting at $50 - CNET",
-            "description": "From budget picks to blazing-fast upgrades, here's every Prime Day SSD deal worth your attention.",
-            "url": "https://www.cnet.com/deals/best-prime-day-ssd-deals-2026-06-22/",
-            "image": "https://www.cnet.com/a/img/resize/d11e6b80d6ef9cb84f4a9ec9e6e6e14595333e96/hub/2026/06/12/99ccfa2e-c0c7-458d-862d-e63a39565a2d/best-ssd-deals.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech",
+            "description": "Prime Day deals have discounted a bunch of our favorite tech from headphones to TVs to iPhone accessories and more.",
+            "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg"
         },
         {
-            "title": "Sounds Like a Steal: 40+ Apple, Sony and Bose Deals Are Live With Prime Day Starting Tomorrow - CNET",
-            "description": "Whether you want the best of the best or a budget pair, these are our favorite deals.",
-            "url": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
-            "image": "https://www.cnet.com/a/img/resize/d04649385f4abb3c7b0a71c46d3ed471a5a3f604/hub/2026/06/15/052a7632-506a-4416-8059-466ad7e61502/prime-day-headphone-deals.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Prime Day Tablet Deals Are Live: 25+ Offers to Grab Right Now - CNET",
+            "description": "We're spotting massive discounts on iPads, Samsung Galaxy Tabs and more.",
+            "url": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-23/",
+            "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200"
         },
         {
-            "title": "Congratulations On Your Purchase Costs $1,000 on Steam, Seriously - Insider Gaming",
-            "description": "Congratulations On Your Purchase costs $1,000 on Steam, or close to \u00a3800, and it's absolutely breaking our minds.",
-            "url": "https://insider-gaming.com/congratulations-on-your-purchase-costs-1000-on-steam-seriously/",
-            "image": "https://insider-gaming.com/wp-content/uploads/2026/06/Congratulations-On-Your-Purchase-Costs-1000-on-Steam-Seriously-news.jpg"
+            "title": "Warhammer 40,000 Devs Announce And Roll Back Launcher In 24 Hours - Kotaku",
+            "description": "Owlcat Games\u2019 original announcement has nearly 2000 comments and zero likes",
+            "url": "https://kotaku.com/owlcat-games-launcher-steam-warhammer-40k-rogue-trader-2000709500",
+            "image": "https://kotaku.com/app/uploads/2026/06/roguetrader-1200x675.jpg"
         },
         {
-            "title": "Tech Experts Are Trying to Work Out What's Going on With That GTA 6 'Vampire' Ferris Wheel - IGN",
-            "description": "When Rockstar announced GTA 6 pre-orders would kick off on June 25, it did so with a short, looping video posted to the official website that offered a fresh look at Vice City. It\u2019s meant to be viewed as you scroll down, a cool piece of GTA 6 media that sets \u2026",
-            "url": "https://www.ign.com/articles/gta-6-vampire-ferris-wheel-sparks-tech-expert-investigation",
-            "image": "https://assets-prd.ignimgs.com/2026/06/22/ferris-wheel-1782128011373.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Prime Day Brings Seriously Deep Dell Deals With 33% Off Top Desktops, Laptops, and More - PCMag",
+            "description": "You're going to be bombarded by deals from all the top tech brands today, so get it started with steep discounts on Dell and Alienware hardware.",
+            "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-dell-deals-sales-laptops-desktops-monitors-2026",
+            "image": "https://i.pcmag.com/imagery/articles/04imUpi6AJsezrEFVRzHG5g-12.fit_lim.size_1200x630.v1782217995.png"
         },
         {
-            "title": "ICYMI: Nintendo Releases An Awesome Movie-Inspired Star Fox Poster - Nintendo Life",
-            "description": "Not long now",
-            "url": "https://www.nintendolife.com/news/2026/06/icymi-nintendo-releases-an-awesome-movie-inspired-star-fox-poster",
-            "image": "https://images.nintendolife.com/ea7203e6d10ba/large.jpg"
+            "title": "Meta launches cheaper smart glasses without Ray-Ban - The Verge",
+            "description": "Meta announces the $299 Meta Glasses. They\u2019re not Ray-Bans, but feature an updated AI, adjustable nosepads and temple tips, and a model designed by Kylie Jenner.",
+            "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&strip=all&crop=8.55%2C24.971192772515%2C82.25546875%2C66.205436991061&w=1200"
         },
         {
-            "title": "Read this before you vibe-code another app - The Verge",
-            "description": "Your dream vibe-coded app might be a security nightmare.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Here\u2019s how your phone is running after updating to Android 17 - 9to5Google",
+            "description": "How is Android 17 Pixel performance treating real users? Our latest poll results show a stable update for most, with minimal bugs.",
+            "url": "http://9to5google.com/2026/06/23/heres-how-your-phone-is-running-after-updating-to-android-17/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
