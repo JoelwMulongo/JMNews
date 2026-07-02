@@ -1,28 +1,40 @@
 {
     "articles": [
         {
-            "title": "Splatoon Raiders Direct 6.30.2026 - Nintendo",
-            "description": "Join us on June 30 at 7am PT for the Splatoon Raiders Direct! The presentation will last roughly 15 minutes and provide more info on the upcoming Nintendo Switch 2 game.",
-            "url": "https://www.nintendo.com/us/nintendo-direct/6-30-2026/",
-            "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto/Nintendo Direct/2026/AJpWlAFHdSFF/thumb"
+            "title": "Microsoft's Xbox Pulls Out of Project Fantasy Video Game From IO Interactive - Bloomberg.com",
+            "description": "The \u2018007: First Light\u2019 makers had teamed up with Xbox for the new video game",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-30/microsoft-s-xbox-pulls-out-of-project-fantasy-video-game-from-io-interactive",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9QGDukna4hM/v1/1200x655.jpg"
         },
         {
-            "title": "US bill requiring paid games to be playable after they shut down has failed to pass a Senate vote - Video Games Chronicle",
-            "description": "Stop Killing Games says it will try again with \"the funding to do this properly\"",
-            "url": "https://www.videogameschronicle.com/news/us-bill-requiring-paid-games-to-be-playable-after-they-shut-down-has-failed-to-pass-a-senate-vote/",
-            "image": "https://www.videogameschronicle.com/files/2023/12/the-crew.jpg"
+            "title": "StarCraft II 5.0.16 Hotfix Patch Notes - Blizzard News",
+            "description": "We have made some adjustment for Patch 5.0.16 based on feedback and player data.",
+            "url": "https://news.blizzard.com/en-us/article/24289266/starcraft-ii-5-0-16-hotfix-patch-notes",
+            "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg"
         },
         {
-            "title": "Minecraft 26.3 Snapshot 2 - Minecraft",
-            "description": "Minecraft 26.3 Snapshot 2",
-            "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2",
-            "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-2/new-article-hero-image.jpg"
+            "title": "Google\u2019s killing off Tenor GIF searches in other apps - The Verge",
+            "description": "The GIF-picking interfaces in some of your favorite online platforms might look different going forward, as Google prepares to shut down the Tenor API.",
+            "url": "https://www.theverge.com/tech/959658/google-tenor-api-shutdown-gif-picker",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25842651/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
-            "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holiday weekend.",
-            "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
-            "image": "https://www.cnet.com/a/img/resize/dea3c7728dc926da2c683b2e5e3969463b96d428/hub/2026/06/25/5b9e26d5-38d8-400a-9cc8-b5244d0ee6f7/under-50-promo-june-pd.jpg?auto=webp&fit=crop&height=675&width=1200"
+            "title": "Xbox weighs canceling Blade game and shuttering Arkane - The Verge",
+            "description": "Microsoft could shut at least five studios as part of big Xbox layoffs starting next week.",
+            "url": "https://www.theverge.com/report/959467/microsoft-xbox-cancel-blade-game-arkane-studios-closure",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/yXT9Lzrt7E8-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+            "title": "Gmail Live Just Arrived on Android and iOS - Droid Life",
+            "description": "Gmail Live is available on Android and iOS to users with Google AI Pro and AI Ultra subscriptions. This is the new way to search - here's how to access.",
+            "url": "https://www.droid-life.com/2026/06/30/gmail-live-android-ios-download/",
+            "image": "https://www.droid-life.com/wp-content/uploads/2026/06/Gmail-Live-2-1200x628.jpg"
+        },
+        {
+            "title": "Report: Apple Watch Redesign Coming Next Year With New Band System - MacRumors",
+            "description": "A \"major overhaul\" of the Apple Watch's design is due to arrive next year with a new system for connecting bands, according to a known...",
+            "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
+            "image": "https://images.macrumors.com/t/po0ZwGNs8BnlRUCTQZIflqA4FrM=/2000x/article-new/2023/08/series-10-apple-watch-titanium-digital-crown.jpg"
         }
     ]
 }
