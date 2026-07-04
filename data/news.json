@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500 - 9to5Mac",
-            "description": "Apple plans to manufacture and sell around 10 million foldable iPhone Ultra models, according to a new report. That\u2019s roughly...",
-            "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
+            "description": "\"Pretty cool for the 20 minutes that it worked\".",
+            "url": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure",
+            "image": "https://images.digitalfoundry.net/1dd11b5f89249/large.jpg"
         },
         {
-            "title": "Apple to launch 5 new iPhone models to gain market share amid memory crunch - Nikkei Asia",
-            "description": "Company raises production target for first foldable phone to about 10 million units",
-            "url": "https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch",
-            "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F2%2F7%2F3%2F12673722-1-eng-GB%2Ff4caf2b6bcca-2025-09-19T021830Z_1248217950_RC2OUGAC0T7R_RTRMADP_3_APPLE-TAIWAN.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630"
+            "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold - Eurogamer.net",
+            "description": "The Sony disc-making operation is already planning to retrain its 300 employees to make microlenses.",
+            "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
+            "image": "https://assetsio.gnwcdn.com/sad-kratos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Onimusha PS5 Has Actually Brought Its Launch Forward to 4th September - Push Square",
-            "description": "Now releasing three weeks earlier",
-            "url": "https://www.pushsquare.com/news/2026/07/onimusha-ps5-has-actually-brought-its-launch-forward-to-4th-september",
-            "image": "https://images.pushsquare.com/258b53361cc46/large.jpg"
+            "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
+            "description": "The \"behavioural immune system\" can drive harsher moral judgement and may even contribute to xenophobia.",
+            "url": "https://www.bbc.com/future/article/20260702-ebola-and-hantavirus-how-fear-of-infection-warps-our-psychology",
+            "image": "https://ychef.files.bbci.co.uk/624x351/p0nwc51l.jpg"
         },
         {
-            "title": "Bethesda Shows Off Oblivion Remastered Switch 2 Physical Release - Nintendo Life",
-            "description": "\"I knew I could count on you\"",
-            "url": "https://www.nintendolife.com/news/2026/07/bethesda-shows-off-oblivion-remastered-switch-2-physical-release",
-            "image": "https://images.nintendolife.com/626cd3f62a458/large.jpg"
+            "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels - MacRumors",
+            "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by...",
+            "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+            "image": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg"
         },
         {
-            "title": "'Billionaires\u2019 Vagina Club' sees Silicon Valley's richest wives spend $30K to 'healthmaxxx' their sex lives - New York Post",
-            "description": "The nickname was coined by concierge gynecologist Sally Greenwald, an assistant clinical professor at Stanford, to describe her fast-growing practice, which caters to billionaire wives, executives \u2026",
-            "url": "https://nypost.com/2026/07/01/us-news/billionaires-vagina-club-sees-silicon-valleys-richest-wives-spend-30k-to-healthmaxxx-their-sex-lives/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/132972249.jpg?quality=75&strip=all&w=1200"
+            "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America) - Nintendo Life",
+            "description": "Splashing news",
+            "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
+            "image": "https://images.nintendolife.com/82c178da87a40/large.jpg"
         },
         {
-            "title": "World Of Warcraft Is Finally Fixing Its Stupidest Settings Problem After 22 Years - Kotaku",
-            "description": "I do not have time to pick up all of these Rust-Covered Blunderbusses",
-            "url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
-            "image": "https://kotaku.com/app/uploads/2026/07/WoWScrnShot_070126_153721.jpg"
+            "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes - Insider Gaming",
+            "description": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
+            "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
+            "image": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg"
         }
     ]
 }
