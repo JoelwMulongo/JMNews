@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
-            "description": "\"Pretty cool for the 20 minutes that it worked\".",
-            "url": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure",
-            "image": "https://images.digitalfoundry.net/1dd11b5f89249/large.jpg"
+            "title": "Qi fan fan - The Verge",
+            "description": "Active cooling really works as demonstrated on a Kuxiu D5 \u00a0Qi2.2 charging dock. Useful at Qi 25W, it\u2019ll likely be required for QI 50W.",
+            "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG20260703155425.jpeg?quality=90&strip=all&crop=0%2C28.891819371728%2C100%2C69.808027923211&w=1200"
         },
         {
-            "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold - Eurogamer.net",
-            "description": "The Sony disc-making operation is already planning to retrain its 300 employees to make microlenses.",
-            "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
-            "image": "https://assetsio.gnwcdn.com/sad-kratos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
+            "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
+            "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-prices/-952x498w6/gsmarena_000.jpg"
         },
         {
-            "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
-            "description": "The \"behavioural immune system\" can drive harsher moral judgement and may even contribute to xenophobia.",
-            "url": "https://www.bbc.com/future/article/20260702-ebola-and-hantavirus-how-fear-of-infection-warps-our-psychology",
-            "image": "https://ychef.files.bbci.co.uk/624x351/p0nwc51l.jpg"
+            "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
+            "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android. A patch is out; update",
+            "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
         },
         {
-            "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels - MacRumors",
-            "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by...",
-            "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
-            "image": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg"
+            "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
+            "description": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 17 and iPhone 17e, according to supply chain...",
+            "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
+            "image": "https://images.macrumors.com/t/UEZCUOG8YOUhjIDEsGIoroluUAw=/1950x/article-new/2025/09/iphone-17-ceramic-shield.jpg"
         },
         {
-            "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America) - Nintendo Life",
-            "description": "Splashing news",
-            "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
-            "image": "https://images.nintendolife.com/82c178da87a40/large.jpg"
+            "title": "Danganronpa 2x2 Game Reveals \u2018Slayhem\u2019 Title for New Scenario, Delay to Early 2027 - Anime News Network",
+            "description": "New alternate \u201cSlayhem\u201d scenario to be about 35 hours long",
+            "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
+            "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg"
         },
         {
-            "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes - Insider Gaming",
-            "description": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
-            "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
-            "image": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg"
+            "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
+            "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
+            "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
+            "image": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg"
         }
     ]
 }
