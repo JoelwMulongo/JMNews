@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
-            "description": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it\u2019s powerless to actually stop Sony \u2014 and indeed any company \u2014 from killing discs.",
-            "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
-            "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "PS5's Physical Disc Debacle Will Attract More Anger if This Xbox Rumour Is True - Push Square",
+            "description": "Next week could be interesting",
+            "url": "https://www.pushsquare.com/news/2026/07/ps5s-physical-disc-debacle-will-attract-more-anger-if-this-xbox-rumour-is-true",
+            "image": "https://images.pushsquare.com/2096e140ba34a/large.jpg"
         },
         {
-            "title": "Pok\u00e9mon GO Fest Global 2026: Sunday Raids - Pok\u00e9mon GO Hub",
-            "description": "Pok\u00e9mon GO Fest 2026: Global takes place from July 11-12, from 10:00 am local time, to 7:00 pm local time on each day. Mega Mewtwo X and Y will make their Pok\u00e9mon GO debut, along with Zeraora! To celebrate 10 years of Pok\u00e9mon GO, this years Global GO Fest eve\u2026",
-            "url": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/",
-            "image": "https://pokemongohub.net/wp-content/uploads/2026/05/mega-mewtwo-x-y-pokemon-go.jpeg"
+            "title": "10 Essential Apple Watch Features You Have To Enable Yourself - bgr.com",
+            "description": "Customizing workouts, changing your Control Center, and setting up a sleep schedule are essential Apple Watch features you should enable and test.",
+            "url": "https://www.bgr.com/2207756/essential-apple-watch-features-enable-yourself/",
+            "image": "https://www.bgr.com/img/gallery/10-essential-apple-watch-features-you-have-to-enable-yourself/l-intro-1783100542.jpg"
         },
         {
-            "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
-            "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
-            "url": "https://www.bbc.com/news/articles/cjrg9r80908o",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg"
+            "title": "5 Star Trek Gadgets That Have (Or Will Soon) Become Real World Tech - bgr.com",
+            "description": "\"Star Trek\" has inspired technologies like humanoid robots, universal translation devices, hypospray-like medical jet injectors, and even virtual environments.",
+            "url": "https://www.bgr.com/2212472/star-trek-gadgets-real-world-tech/",
+            "image": "https://www.bgr.com/img/gallery/5-star-trek-gadgets-that-have-or-will-soon-become-real-world-tech/l-intro-1783703808.jpg"
         },
         {
-            "title": "iOS 27: What's New With the Mail App - MacRumors",
-            "description": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search...",
-            "url": "https://www.macrumors.com/guide/ios-27-mail/",
-            "image": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg"
+            "title": "GTA Online The Kortz Center Heist Update Download Goes Live Early - RockstarINTEL",
+            "description": "The upcoming GTA Online The Kortz Center Heist DLC is now available to download ahead of its official release on Tuesday July 14th. Much like how previous GTA Online updates could be pre-downloaded, Rockstar Games have done the same here with this summer\u2019s bi\u2026",
+            "url": "https://rockstarintel.com/gta-online-the-kortz-center-heist-update-download-goes-live-early/",
+            "image": "https://rockstarintel.com/wp-content/uploads/2026/07/ff97a2a5a3c452c1049a75eae778870674ff0e48-scaled.jpg"
         },
         {
-            "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
-            "description": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem.",
-            "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
-            "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg"
+            "title": "Nintendo\u2019s next major Lego set is a $200 Donkey Kong arcade machine - Video Games Chronicle",
+            "description": "The $200 Donkey Kong Lego set is reportedly releasing in August",
+            "url": "https://www.videogameschronicle.com/news/nintendos-next-major-lego-set-is-a-200-donkey-kong-arcade-machine/",
+            "image": "https://www.videogameschronicle.com/files/2026/07/Screenshot-2026-07-12-112306.jpg"
+        },
+        {
+            "title": "I couldn't have been more wrong about the Fitbit Air \u2014 here's what changed my mind - Android Authority",
+            "description": "I expected the Fitbit Air to confirm everything I liked about WHOOP. Instead, after three weeks of testing, it completely changed my mind.",
+            "url": "https://www.androidauthority.com/i-couldnt-have-been-more-wrong-about-the-fitbit-air-3685038/",
+            "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/fitbit-air-open.jpg"
         }
     ]
 }
