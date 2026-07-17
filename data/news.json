@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable",
-            "description": "Ahead of Galaxy Unpacked, Samsung is pulling back the curtains on a new foldable phone feature that will debut at the event.",
-            "url": "https://mashable.com/tech/samsung-announces-flex-titanium-foldable-display-unpacked",
-            "image": "https://helios-i.mashable.com/imagery/articles/04YEvKW5wPpeu3a7nOXfema/hero-image.fill.size_1200x675.v1784060184.jpg"
+            "title": "OnePlus officially gives up on the US and Europe - The Verge",
+            "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to Oppo\u2019s ColorOS for future software updates.",
+            "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
         },
         {
-            "title": "60+ PS5, PS4 Games to Buy in PS Store's Massive Summer Sale - Push Square",
-            "description": "PS5 and PS4 games going cheap we recommend",
-            "url": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-massive-summer-sale",
-            "image": "https://images.pushsquare.com/f9f7bea1b831b/large.jpg"
+            "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
+            "description": "The HD-2D RPG adventure unfolds this October",
+            "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch",
+            "image": "https://images.nintendolife.com/f52f691db3d8a/large.jpg"
         },
         {
-            "title": "Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it - Eurogamer.net",
-            "description": "Battlefield 6's upcoming season may be bringing more to the game than we initially thought, and some of it was entirely unexpected.",
-            "url": "https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease",
-            "image": "https://assetsio.gnwcdn.com/battlefield-6-season-4-cover-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
+            "description": "No description available.",
+            "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
+            "image": "https://assets-prd.ignimgs.com/2026/07/13/thumbnail-1783966106284.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
-            "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon\u2026",
-            "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-            "image": null
+            "title": "Mario Tennis Fever Free 'Super Mario Galaxy' Update Out Now, Here Are The Full Patch Notes - nintendolife.com",
+            "description": "Including a new court, GameShare and much more",
+            "url": "https://www.nintendolife.com/news/2026/07/mario-tennis-fever-free-super-mario-galaxy-update-out-now-here-are-the-full-patch-notes",
+            "image": "https://images.nintendolife.com/b329e0b81d456/large.jpg"
         },
         {
-            "title": "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion - Yahoo Finance",
-            "description": "(Bloomberg) -- OpenAI's much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of...",
-            "url": "https://finance.yahoo.com/news/openais-first-device-will-be-movable-screenless-speaker-built-as-ai-companion-205215714.html",
-            "image": "https://s.yimg.com/lo/mysterio/api/7F85885F91C2A1DEFEADF53949011A7BA8552513B4F7EE28479FDD8F32C33885/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2Fcd1c1d23e85d499e0b9e3ddd8e80caaf"
+            "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
+            "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to install it and what else is new.",
+            "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/10-AirPods-EQ-iOS-27-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Google and Epic give up fighting \u2014 third-party Android app stores are coming next week - The Verge",
-            "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit changing how Android app stores work in the United States.",
-            "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Skullcandy\u2019s New Wireless Headphones Have So Much Bose in Them - Gizmodo",
+            "description": "There are three technologies in the Crusher 1080 ANC that have never been in a non-Bose pair of wireless headphones before.",
+            "url": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885",
+            "image": "https://gizmodo.com/app/uploads/2026/07/skullcandy-crusher-1080-ANC-1200x675.jpg"
         }
     ]
 }
