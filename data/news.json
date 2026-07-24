@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Garmin just launched the screen-free Cirqa Smart Band, and it looks a lot like Whoop - Mashable",
-            "description": "But unlike the Whoop, it's subscription-free.",
-            "url": "https://mashable.com/tech/garmin-cirqa-smart-band-launch-price-specs",
-            "image": "https://helios-i.mashable.com/imagery/articles/04ZaQ8AoqmluZf4uWBl9jfg/hero-image.fill.size_1200x675.v1784645134.png"
+            "title": "Google now lets you sign in to your account using a selfie video - The Verge",
+            "description": "Capturing a short selfie video of your moving face is Google\u2019s latest approach to streamlining access to your account.",
+            "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Langrisser: Sea of Sword first gameplay trailer, details, and screenshots - Gematsu",
-            "description": "BlackJack Studio has released the first gameplay trailer, information, and screenshots for the newly announced \u201cnext-generation fantasy tactical RPG\u201d Langrisser: Sea of Sword.",
-            "url": "https://www.gematsu.com/2026/07/langrisser-sea-of-sword-first-gameplay-trailer-details-and-screenshots",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Langrisser-Sea-of-Sword_2026_07-21-26_001.jpg"
+            "title": "The fight for the future of foldable phones is here - NBC News",
+            "description": "Samsung has owned the market for foldable phones. Now Apple is getting in on it. NBC News chief tech analyst Joanna Stern breaks it down.",
+            "url": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-Samsung-fold-aa-538-e8ca18.jpg"
         },
         {
-            "title": "LG to Ban Residential Proxies from Smart TV Apps - Krebs on Security",
-            "description": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers\u2026",
-            "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-            "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/pac-man-brightdata.png"
+            "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
+            "description": "Sorry, no Classic model this year.",
+            "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
+            "image": "https://helios-i.mashable.com/imagery/articles/00bmlFYXKkX5DOgEBjGTUKx/hero-image.fill.size_1200x675.v1784656829.jpg"
         },
         {
-            "title": "Claude Code brings live iOS app testing into its Mac app - 9to5Mac",
-            "description": "Claude Code\u2019s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed.",
-            "url": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "MacBook Neo 2: Here\u2019s everything we know so far - 9to5Mac",
+            "description": "Apple's next MacBook Neo is reportedly coming in 2027 with the better performance, new colors, and more. Here's everything we know.",
+            "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Sony\u2019s 'ironic' PlayStation disc decision upends gamer conventions and threatens a $7 billion resale market - CNBC",
-            "description": "In 2013, Sony tweaked Xbox by showing how easy it was to share a PlayStation disc. Now, gamers say Sony has become exactly what it mocked.",
-            "url": "https://www.cnbc.com/2026/07/22/sonys-playstation-disc-decision-threatens-a-7-billion-resale-market-.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108337118-1784520909551-gettyimages-2285443186-pekiaridis-notitle260714_np7em.jpeg?v=1784520941&w=1920&h=1080"
+            "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
+            "description": "First four compatible titles can be run with an 11-year-old graphics card.",
+            "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp"
         },
         {
-            "title": "New technique enables LIGO to peer farther into the distant universe - Phys.org",
-            "description": "Scientists at the University of California, Riverside, have developed a new way to help gravitational-wave observatories see farther into the universe by solving one of their biggest challenges: tiny heat-induced distortions in the massive mirrors at the hear\u2026",
-            "url": "https://phys.org/news/2026-07-technique-enables-ligo-peer-distant.html",
-            "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-technique-enables.jpg"
+            "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8 - 9to5Google",
+            "description": "The Galaxy Z Fold 8 and Flip 8 are the first devices with Gemini Intelligence, as well as Gemini Nano 4...",
+            "url": "http://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         }
     ]
 }
