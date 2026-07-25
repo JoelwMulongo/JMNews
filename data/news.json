@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Google now lets you sign in to your account using a selfie video - The Verge",
-            "description": "Capturing a short selfie video of your moving face is Google\u2019s latest approach to streamlining access to your account.",
-            "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
+            "description": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups.",
+            "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK109_microsoft.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "The fight for the future of foldable phones is here - NBC News",
-            "description": "Samsung has owned the market for foldable phones. Now Apple is getting in on it. NBC News chief tech analyst Joanna Stern breaks it down.",
-            "url": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260722-Samsung-fold-aa-538-e8ca18.jpg"
+            "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
+            "description": "Disgaea creator Sohei Niikawa has strong thoughts on Sony's planned move away from physical media.",
+            "url": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator",
+            "image": "https://assetsio.gnwcdn.com/Niikawa-discs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
-            "description": "Sorry, no Classic model this year.",
-            "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
-            "image": "https://helios-i.mashable.com/imagery/articles/00bmlFYXKkX5DOgEBjGTUKx/hero-image.fill.size_1200x675.v1784656829.jpg"
+            "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
+            "description": "All 76 cards from\u00a0Storm Emeralda have been officially revealed! The set stars Mega Rayquaza ex and will release in Japan on July 31st as their sixth",
+            "url": "https://www.pokebeach.com/2026/07/storm-emeralda-all-76-main-set-cards-revealed",
+            "image": "https://www.pokebeach.com/news/2026/07/050396_P_MREKKUUZAIEKKUSU_Pgay.jpg"
         },
         {
-            "title": "MacBook Neo 2: Here\u2019s everything we know so far - 9to5Mac",
-            "description": "Apple's next MacBook Neo is reportedly coming in 2027 with the better performance, new colors, and more. Here's everything we know.",
-            "url": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Xenoblade Chronicles 2 - Switch 2 Edition Overview Reveals New Pyra & Mythra Outfits, Merc Assault And Momo - Nintendo Life",
+            "description": "Rex and Pyra return next week",
+            "url": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-switch-2-edition-overview-reveals-new-pyra-and-mythra-outfits-merc-assault-and-momo",
+            "image": "https://images.nintendolife.com/6424c83b51456/large.jpg"
         },
         {
-            "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
-            "description": "First four compatible titles can be run with an 11-year-old graphics card.",
-            "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp"
+            "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price - CNET",
+            "description": "The Galaxy Z Fold 8 Ultra improves where it matters, but the new price might sting.",
+            "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Galaxy-Z-Fold-8-Ultra-vs-Galaxy-Z-Fold-7.png"
         },
         {
-            "title": "Gemini Intelligence and Gemini Nano 4 launch with Galaxy Z Fold 8, Flip 8 - 9to5Google",
-            "description": "The Galaxy Z Fold 8 and Flip 8 are the first devices with Gemini Intelligence, as well as Gemini Nano 4...",
-            "url": "http://9to5google.com/2026/07/22/gemini-nano-4-intelligence-samsung-fold-8/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Samsung-with-Gemini-Intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
+            "description": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone...",
+            "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+            "image": "https://images.macrumors.com/t/Xtie1Trx_2uq8RQmD7eMLST6NXM=/1706x/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Vertical.jpg"
         }
     ]
 }
