@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Microsoft warns travelers amid hotel Wi-Fi hacks - WMUR",
-            "description": "Microsoft is warning travelers to be cautious when connecting to hotel Wi-Fi networks after identifying a campaign in which hackers use fake login pages to steal account credentials. The warning comes as many Granite Staters head out on vacation or welcome vi\u2026",
-            "url": "https://www.wmur.com/article/microsoft-hotel-hacks/73337749",
-            "image": "https://kubrick.htvapps.com/vidthumb/2d6d2be3-042b-4239-91fd-3736f6c5f8c1/9e9cb804-16d9-4975-97b2-f7cb314fa58e.jpg?crop=0.816xw%3A0.815xh%3B0.0212xw%2C0&resize=1200%3A*"
+            "title": "Google Assistant will disappear from your phone next month - The Verge",
+            "description": "\ufeffIt\u2019ll be Gemini or nothing on Android from September 4th.",
+            "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&strip=all&crop=0%2C10.722193687064%2C100%2C78.555612625872&w=1200"
         },
         {
-            "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content - Bloomberg.com",
-            "description": "Apple Inc. briefly removed the Telegram messaging app from its App Store after finding content on the platform that violated a ban on child sexual abuse material.",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdRTndkBnd4/v0/1200x800.jpg"
+            "title": "Gene-edited beagles may offer a future option for people with dog allergies - AP News",
+            "description": "Scientists at a biotech company have used gene editing to create two hypoallergenic beagles that don't trigger allergies. Using a Nobel Prize-winning editing tool called CRISPR, they switched off a gene that produces the main allergy-causing protein in dogs. \u2026",
+            "url": "https://apnews.com/article/hypoallergenic-dogs-crispr-pet-allergies-f5bd8cb438dfd1a9d1cccd4a1d46fd2a",
+            "image": "https://dims.apnews.com/dims4/default/e6c7222/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2Fe9%2Fa8aec042142d1536c55cf9ab63f7%2F74a316d4df0a48b3ab3aa0861f0b3a97"
         },
         {
-            "title": "I'm Warning You, These 16 Absolutely Cooky Facts Will Forever Occupy Real Estate In Your Brain - BuzzFeed",
-            "description": "Can't wait to whip one of these out at a dinner party 10 years from now.",
-            "url": "https://www.buzzfeed.com/nicolebeckett/weirdest-facts",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/17/thumb/T5gru-_8N.jpg?crop=5999:3141;0,5%26downsize=1250:*"
+            "title": "\u2018We take your feedback to heart\u2019: Game Freak is planning regular Beast of Reincarnation updates, starting next week - Video Games Chronicle",
+            "description": "Reviews for the game have been mixed so far",
+            "url": "https://www.videogameschronicle.com/news/we-take-your-feedback-to-heart-game-freak-is-planning-regular-beast-of-reincarnation-updates-starting-next-week/",
+            "image": "https://www.videogameschronicle.com/files/2026/08/beast-of-reincarnation-steam-screenshot-6.jpg"
         },
         {
-            "title": "Tetris 99's New Crossover Event Celebrates Splatoon Raiders, Unlock A Special Theme - Nintendo Life",
-            "description": "Drop in later this week",
-            "url": "https://www.nintendolife.com/news/2026/08/tetris-99s-new-crossover-event-celebrates-splatoon-raiders-unlock-a-special-theme",
-            "image": "https://images.nintendolife.com/afe968594129b/large.jpg"
+            "title": "Leaked Galaxy S26 FE firmware shows wallpapers, hints at One UI 9.5 - SamMobile",
+            "description": "Leaked firmware for the Galaxy S26 FE revealed new wallpapers and gives us a hint at what the One UI 9.5 update banner will look like.",
+            "url": "https://www.sammobile.com/news/leaked-galaxy-s26-fe-firmware-wallpapers-one-ui-9-5/",
+            "image": "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-design-2-1.jpg"
         },
         {
-            "title": "PlayStation Plus Essential August Monthly Free Games Rolling Out Now - PlayStation LifeStyle",
-            "description": "PS Plus Essential August 2026 monthly free games have begun rolling out, starting with Japan and Asia where it\u2019s Tuesday, August 4.",
-            "url": "https://www.playstationlifestyle.net/2026/08/03/ps-plus-essential-august-monthly-free-games-out-now/",
-            "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/07/ps-plus-august.jpg?resize=1200,630"
-        },
-        {
-            "title": "Apple plans to open iPhone clipboard access to Windows PCs - 9to5Mac",
-            "description": "Apple will let users copy and paste content between an iPhone and a Windows PC, following an interoperability request from Microsoft in the EU.",
-            "url": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/",
-            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Even-Windows-fans-see-the-MacBook-Neo-as-a-winner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "The Pixel 10 gets the spotlight in Google's August update - Android Police",
+            "description": "It fixes several GPU-related issues",
+            "url": "https://www.androidpolice.com/pixel-10-gets-the-spotlight-in-googles-august-update/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/pixel-10-pro-xl-back-log.JPG?w=1600&h=900&fit=crop"
         }
     ]
 }
