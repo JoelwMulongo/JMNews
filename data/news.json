@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
-            "description": "Will we finally see foldable phones enter the mainstream?",
-            "url": "https://mashable.com/tech/samsung-galaxy-z-foldables-break-sales-records-korea-europe",
-            "image": "https://helios-i.mashable.com/imagery/articles/04MU8YLieh4SnQZQji07ChT/hero-image.fill.size_1200x675.v1785960797.jpg"
+            "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google",
+            "description": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency.",
+            "url": "http://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
+            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Wear-OS-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Full Teardown Of A 2026 Amazon Fire Stick HD - Hackaday",
-            "description": "After the release of Google\u2019s Chromecast so-called \u2018streaming sticks\u2019 have remained a popular form factor, even though such technology is these days part of \u2018smart\u2019 TV\u2026",
-            "url": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/",
-            "image": "https://hackaday.com/wp-content/uploads/2026/08/amazon_fire_stick_hd_internals_electronupdate_youtube.jpg"
+            "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
+            "description": "The upgrades will help both paid and free users.",
+            "url": "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid",
+            "image": "https://images.axios.com/3EWLGC0rbJqIU0XVPJzNwxuwb8c=/0x56:3803x2195/1366x768/2026/08/06/1786034604750.jpeg"
         },
         {
-            "title": "Halo Studios hit by layoffs just days after Halo: Campaign Evolved launch - Windows Central",
-            "description": "A number of developers previously employed at Halo Studios have posted on LinkedIn confirming layoffs at the studio.",
-            "url": "https://www.windowscentral.com/gaming/halo/halo-studios-is-the-latest-xbox-games-studio-to-be-hit-by-layoffs-just-days-after-campaign-evolved-launch-as-reports-reveal-troubled-development",
-            "image": "https://cdn.mos.cms.futurecdn.net/VqP76GcpWXZmVVaCkv8DoN-1920-80.jpg"
+            "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
+            "description": "Splatoon Raiders gets its first post-launch update with version 1.1.1, and here are the patch notes from Nintendo.",
+            "url": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/",
+            "image": "https://nintendoeverything.com/wp-content/uploads/Splatoon-Raiders-1.1.1-update.jpg"
         },
         {
-            "title": "Google Is Finally Shutting Down the Google Assistant. Here's What Android Users Need to Know - inc.com",
-            "description": "No description available.",
-            "url": "https://www.inc.com/georgia-fearn/google-is-finally-shutting-down-the-google-assistant-heres-what-android-users-need-to-know/91385340",
-            "image": null
+            "title": "iPhone 18 Pro price: Here\u2019s how much more it could cost - 9to5Mac",
+            "description": "The iPhone 18 Pro will cost more than the iPhone 17 Pro, with estimates ranging from $100 to $300. Here's what to expect.",
+            "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
+            "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
-            "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
-            "description": "Minecraft is getting a proper Nintendo Switch 2 version very soon, and Switch 1 owners will be entitled to an upgrade",
-            "url": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners",
-            "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
+            "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+            "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
         },
         {
-            "title": "Next Xbox console will play every generation according to leaked Microsoft memo - Dexerto",
-            "description": "The next generation of Xbox could be Microsoft\u2019s most backwards-compatible console yet after a newly leaked internal memo was revealed.",
-            "url": "https://www.dexerto.com/gaming/next-xbox-console-will-play-every-generation-according-to-leaked-microsoft-memo-3395110/",
-            "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/05/Xbox.jpg"
+            "title": "Trevor Noah is hosting Google\u2019s Pixel 11 launch event - theverge.com",
+            "description": "Comedian Trevor Noah will host August 12th\u2019s Made by Google event for Pixel hardware. Other celebrities like Alex Cooper and Stephen Curry will appear, too.",
+            "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200"
         }
     ]
 }
