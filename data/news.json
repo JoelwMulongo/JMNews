@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Burnout Revenge Is Actually the Best One - IGN",
-            "description": "Burnout Revenge is actually the best one.",
-            "url": "https://www.ign.com/articles/burnout-revenge-is-actually-the-best-one",
-            "image": "https://assets-prd.ignimgs.com/2026/08/10/burnout-revenge-blog-1786358503441.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication - MacRumors",
+            "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References...",
+            "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+            "image": "https://images.macrumors.com/t/wLgAAiLwH3el2P4hkJrGBrtRWVY=/2500x/article-new/2025/08/iOS-26-Glass-Photos-Feature.jpg"
         },
         {
-            "title": "PSA: Steam Machine and Steam Controller Customers in Europe Hit by Cyber Attack - Digital Foundry",
-            "description": "\"Expect fake messages that mention your hardware order and appear to come from Valve.\"",
-            "url": "https://www.digitalfoundry.net/news/2026/08/psa-steam-machine-and-steam-controller-customers-in-europe-hit-by-cyber-attack",
-            "image": "https://images.digitalfoundry.net/7eb71780f601a/large.jpg"
+            "title": "13 Fields of Mistria Tips For First-Time Farmers - Kotaku",
+            "description": "Starting your first farm in Mistria 1.0? Here are a few things that will make your journey easier",
+            "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
+            "image": "https://kotaku.com/app/uploads/2026/08/fields-of-mistria-trailer-1.jpg"
         },
         {
-            "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss - Eurogamer.net",
-            "description": "In an unprecedented move for video games, Rockstar is debuting a new GTA 6 trailer exclusively on subscription service Netflix. Will you watch it there?",
-            "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-            "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-            "title": "Ford's fastest ever Mustang is so wide it had to use legal loophole to avoid being treated the same way as a truck - supercarblondie.com",
-            "description": "The 2025 Ford Mustang GTD is so wide that Ford had to rely on a legal loophole to get around an unusual US vehicle regulation",
-            "url": "https://supercarblondie.com/ford-mustang-gtd-so-wide-it-needed-legal-loophole-to-get-around-regulations/",
-            "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Ford-Mustang-GTD-featured-image.webp"
-        },
-        {
-            "title": "Square Enix Reportedly Halted a Nearly Finished Final Fantasy IX Remake and Has Now Pivoted Away from Mining Its Past - Wccftech",
-            "description": "Square Enix reportedly halted a nearly finished Final Fantasy IX remake and has now pivoted away from mining the franchise's back catalog.",
-            "url": "https://wccftech.com/square-enix-halted-final-fantasy-9-remake-pivot/",
-            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Final-Fantasy-IX-HD-1920x1080.jpeg"
-        },
-        {
-            "title": "Asking Eric: My parents are ditching the family for Florida - I\u2019m not happy about it - AL.com",
+            "title": "Leaked Galaxy S26 FE specs confirm another battery disappointment from Samsung - PhoneArena",
             "description": "No description available.",
-            "url": "https://www.al.com/advice/2026/08/asking-eric-my-parents-are-ditching-the-family-for-florida-im-not-happy-about-it.html",
+            "url": "https://www.phonearena.com/news/leaked-galaxy-s26-fe-specs-confirm-another-battery-disappointment-from-samsung_id182497",
             "image": null
+        },
+        {
+            "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement - Ars Technica",
+            "description": "Our discussion takes place live on August 11 at 3 pm ET.",
+            "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg"
+        },
+        {
+            "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game - IGN",
+            "description": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of the game.",
+            "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
+            "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+            "title": "Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds - arstechnica.com",
+            "description": "A reminder of the perils of digital ownership.",
+            "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg"
         }
     ]
 }
