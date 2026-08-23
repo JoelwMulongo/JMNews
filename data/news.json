@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "AEW lost an insane amount of money on the Fight Forever video game - Cageside Seats",
-            "description": "Fight Forever was a \u201cmassive loss\u201d for AEW, which explains why Tony Khan isn\u2019t in a rush to make another video game.",
-            "url": "https://www.cagesideseats.com/aew/470109/aew-fight-forever-video-game-massive-loss-30-million-dollars-future-sequel-licensing-rumor",
-            "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/08/tk006.jpg?quality=90&strip=all&crop=0,3.7366959247359,100,89.122159718343"
+            "title": "New Orks Codex exclusive on Warhammer TV - Warhammer Community",
+            "description": "The Battle Report team takes the brand new Orks rules out for a spin.",
+            "url": "https://www.warhammer-community.com/articles/n3hnhwmv/new-orks-codex-exclusive-on-warhammer-tv",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/whplus-aug18-1-feature-i79fgno81q.jpg"
         },
         {
-            "title": "Google posts Pixel Watch 5 factory images with one unified build - 9to5Google",
-            "description": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixel Watch 5.",
-            "url": "http://9to5google.com/2026/08/20/pixel-watch-5-images/",
-            "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-watch-5-39.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+            "title": "Nintendo Wipes Out Hundreds Of Switch Emulator Repositories - Nintendo Life",
+            "description": "In a new wave of GitHub takedowns",
+            "url": "https://www.nintendolife.com/news/2026/08/nintendo-wipes-out-hundreds-of-switch-emulator-repositories",
+            "image": "https://images.nintendolife.com/218e4bc586f26/large.jpg"
         },
         {
-            "title": "All Admin Panel Lobby Hack Codes For Free Rewards - IGN",
-            "description": "Fortnite Chapter 7 Season 4 Override is here and, in a first for the battle royale, you can input lobby hacks for free rewards starting August 20, 2026! This",
-            "url": "https://www.ign.com/wikis/fortnite/All_Admin_Panel_Lobby_Hack_Codes_For_Free_Rewards",
-            "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/fortnite/2/2a/Fortnite_cheat_master_jonesy_sprite.png"
+            "title": "Psychonauts Developer Double Fine Gets Rights To Games Back, But Union Future Uncertain - Aftermath",
+            "description": "Good news and bad news",
+            "url": "https://aftermath.site/double-fine-independent-game-jam-union/",
+            "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/df7.jpg"
         },
         {
-            "title": "25 Things From The 2000s That Millennials Got To Experience, But Gen Z'ers Will Never Understand - BuzzFeed",
-            "description": "\"The early 2000s were a blur between house parties, underground raves, punk shows, days at Disneyland, and/or the beach. ... I remember it being fun.\"",
-            "url": "https://www.buzzfeed.com/lizmrichardson/best-2000s-trends-millennials-remember",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/20/19/thumb/RexGFTKi4x.jpg?crop=2500:1309;0,100%26downsize=1250:*"
+            "title": "Amazon hiked prices on Echo, Fire TV, Kindle, eero to offset \u2018significant increases\u2019 in memory costs - Fortune",
+            "description": "The e-commerce company's hardware price hikes follow similar moves by Apple, Dell, and Microsoft Xbox.",
+            "url": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2201505685-e1787356134569.jpg?resize=1200,600"
         },
         {
-            "title": "Hacker targets \u2018Grand Theft Auto VI\u2019 in apparent leak - NBC News",
-            "description": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated \u201cGrand Theft Auto VI,\u201d with the alleged hacker warning other publishers that \u201cno one is safe\u201d from similar breaches.",
-            "url": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231204-grand-theft-auto-6-ew-700p-36dff5.jpg"
+            "title": "HoverAir\u2019s transforming modular drone has already been halted in the US - The Verge",
+            "description": "The HoverAir Versa \u2014 a baby steadycam with snap-on propeller wings that transform it into a drone \u2014 has already stopped taking US orders just three days after its Indiegogo debut.",
+            "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
+        },
+        {
+            "title": "Ow! My Balls! - Jalopnik",
+            "description": "The M Carbon Buckets in BMW's M2 CS did a commendable job holding my thunder thighs in place, but seem designed to ensure I can't have children in the future.",
+            "url": "https://www.jalopnik.com/2241980/bmw-m2-cs-uncomfortable-m-carbon-bucket-seats/",
+            "image": "https://www.jalopnik.com/img/gallery/ow-my-balls/l-intro-1787348497.jpg"
         }
     ]
 }
