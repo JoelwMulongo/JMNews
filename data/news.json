@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Don't miss out on the limited-time Xbox 25th Anniversary badge - TrueAchievements",
-            "description": "You can join in on the celebrations for Xbox's 25th Anniversary by claiming a special badge for your Xbox account, but it's only available for a limited time.",
-            "url": "https://www.trueachievements.com/news/xbox-25th-anniversary-badge",
-            "image": "https://www.trueachievements.com/imgs/177783/xbox-25th-anniversary-badge.jpg"
+            "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
+            "description": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+            "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
         },
         {
-            "title": "'It's very counterintuitive': The quantum batteries that upend the rules of charging - BBC",
-            "description": "The world's first quantum battery prototype is here and it has some bizarre properties. Could these devices one day power quantum computing \u2013 or even your phone?",
-            "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-            "image": "https://ychef.files.bbci.co.uk/624x351/p0p61k4w.jpg"
+            "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
+            "description": "Though PS5 Pro is a class apart.",
+            "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
+            "image": "https://images.digitalfoundry.net/bb3aab1058c80/large.jpg"
         },
         {
-            "title": "Xbox Game Pass adds one new game today and a title for Premium - TrueAchievements",
-            "description": "Xbox Game Pass adds 2D platforming autoshooter Blood Dungeon as a day-one title today, as well as a new game for Premium subscribers.",
-            "url": "https://www.trueachievements.com/news/aerial-knights-dropshot-blood-dungeon-xbox-game-pass",
-            "image": "https://www.trueachievements.com/imgs/177781/aerial-knights-dropshot-blood-dungeon-xbox-game-pass.jpg"
+            "title": "Elden Ring On Switch 2 \u2013 The Worst Way To Play The Best Game - Game Informer",
+            "description": "Elden Ring on Switch 2 gets the job done admirably, but it is the inferior version of a fantastic game. - Game Informer",
+            "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
+            "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/06/04/51cc860d/eldenringswitch2.jpg.webp"
         },
         {
-            "title": "5 More August 2026 PS Plus Extra Games Available to Download Now - Push Square",
-            "description": "The last PS Plus drop of the month",
-            "url": "https://www.pushsquare.com/news/2026/08/5-more-august-2026-ps-plus-extra-games-available-to-download-now",
-            "image": "https://images.pushsquare.com/5b5f7992ce117/large.jpg"
+            "title": "Apple Maps has ads now - The Verge",
+            "description": "Ads are starting to show up in the Apple Maps iPhone app, at the top of search results and suggested places labeled with an \u201cad\u201d icon.",
+            "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "Android is getting its own weird dots to cure car sickness - The Verge",
-            "description": "Google\u2019s Motion Assist taps into your device\u2019s accelerometer and gyroscope to place dots around the periphery of the display that move in harmony with the car.",
-            "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&strip=all&crop=0%2C7.2800565316545%2C100%2C85.439886936691&w=1200"
+            "title": "The Porsche 911 GT3 Touring punches above its weight class - Ars Technica",
+            "description": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
+            "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/09-992.2-Porsche-911-GT3-Touring-1152x648.jpg"
         },
         {
-            "title": "Omega Just Released a Mini Moonwatch - WIRED",
-            "description": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
-            "url": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
-            "image": "https://media.wired.com/photos/6a8d4a7500aa0aeb44d47176/191:100/w_1280,c_limit/32430385001002_SP_Packshot_ThreeQuarter_4x5_RVB.jpg"
+            "title": "Netflix\u2019s \u2018GTA 6\u2019 Extended Look Isn\u2019t The Only \u2018GTA\u2019 Preview Tomorrow - Forbes",
+            "description": "A long 'GTA 6' story section has just leaked with Lucia spoilers, but there will be more official coverage after the Netflix event.",
+            "url": "https://www.forbes.com/sites/paultassi/2026/08/26/netflixs-gta-6-extended-look-isnt-the-only-gta-preview-tomorrow/",
+            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8f04eee8fd9a722b18df3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         }
     ]
 }
