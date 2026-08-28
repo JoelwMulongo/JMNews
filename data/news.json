@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text - Ars Technica",
-            "description": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-            "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
+            "title": "\u2018GTA 6\u2019 Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety",
+            "description": "Netflix dropped 27 minutes of new \"GTA 6\" content Thursday in a collaboration with Rockstar Games ahead of November release.",
+            "url": "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/",
+            "image": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1"
         },
         {
-            "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
-            "description": "Though PS5 Pro is a class apart.",
-            "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
-            "image": "https://images.digitalfoundry.net/bb3aab1058c80/large.jpg"
+            "title": "\u2018Is It Four Characters Now?\u2019 \u2014 Rockstar Briefly Thought About Doubling the Number of GTA 6 Protagonists - IGN",
+            "description": "Following GTA 5\u2019s three playable characters, Rockstar considered putting four protagonists in GTA 6 before settling on its criminal couple.",
+            "url": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar",
+            "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-8-blogroll-1787855254976.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Elden Ring On Switch 2 \u2013 The Worst Way To Play The Best Game - Game Informer",
-            "description": "Elden Ring on Switch 2 gets the job done admirably, but it is the inferior version of a fantastic game. - Game Informer",
-            "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
-            "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/06/04/51cc860d/eldenringswitch2.jpg.webp"
+            "title": "The Witcher 3: Wild Hunt \u2013 Songs of the Past Preview: Coming Out - Game Informer",
+            "description": "The Witcher 3: Wild Hunt \u2013 Songs of the Past (PlayStation 5, Xbox Series X/S, PC) Preview: We get an extended look at the newly announced expansion for The",
+            "url": "https://gameinformer.com/preview/2026/08/27/coming-out-of-retirement",
+            "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/08/27/7c4c6e7f/tw1.jpg.webp"
         },
         {
-            "title": "Apple Maps has ads now - The Verge",
-            "description": "Ads are starting to show up in the Apple Maps iPhone app, at the top of search results and suggested places labeled with an \u201cad\u201d icon.",
-            "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared - MacRumors",
+            "description": "Apple this week announced a new Mac Studio with the M5 Max and M5 Ultra chips, discontinuing the M4 Max and M3 Ultra models that had been on sale...",
+            "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
+            "image": "https://images.macrumors.com/t/PFozRveafHuOQ8hWTGEo10_MBn0=/1672x/article-new/2026/08/image.png"
         },
         {
-            "title": "The Porsche 911 GT3 Touring punches above its weight class - Ars Technica",
-            "description": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
-            "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/09-992.2-Porsche-911-GT3-Touring-1152x648.jpg"
-        },
-        {
-            "title": "Netflix\u2019s \u2018GTA 6\u2019 Extended Look Isn\u2019t The Only \u2018GTA\u2019 Preview Tomorrow - Forbes",
-            "description": "A long 'GTA 6' story section has just leaked with Lucia spoilers, but there will be more official coverage after the Netflix event.",
-            "url": "https://www.forbes.com/sites/paultassi/2026/08/26/netflixs-gta-6-extended-look-isnt-the-only-gta-preview-tomorrow/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/6a8f04eee8fd9a722b18df3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+            "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs - The Verge",
+            "description": "The Bravia 6 is Sony\u2019s first OLED TV with four HDMI 2.1 ports.",
+            "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&strip=all&crop=22.8,26.981624602649,54.8,43.036703918969"
         }
     ]
 }
