@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "\u2018GTA 6\u2019 Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety",
-            "description": "Netflix dropped 27 minutes of new \"GTA 6\" content Thursday in a collaboration with Rockstar Games ahead of November release.",
-            "url": "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/",
-            "image": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1"
+            "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode - Eurogamer.net",
+            "description": "The GTA 6 extended look trailer was apparently captured on PS5. Maybe that's why people noticed some frame-rate choppiness. But what FPS will it run at?",
+            "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+            "image": "https://assetsio.gnwcdn.com/lucia-gta-6-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "\u2018Is It Four Characters Now?\u2019 \u2014 Rockstar Briefly Thought About Doubling the Number of GTA 6 Protagonists - IGN",
-            "description": "Following GTA 5\u2019s three playable characters, Rockstar considered putting four protagonists in GTA 6 before settling on its criminal couple.",
-            "url": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar",
-            "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-8-blogroll-1787855254976.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "STRANGER THAN HEAVEN Gamescom 2026 demo playthrough - Gematsu",
+            "description": "Publisher SEGA and developer RGG Studio have released a 12-minute playthrough of the Gamescom 2026 demo for 50-year action adventure saga STRANGER THAN HEAVEN.",
+            "url": "https://www.gematsu.com/2026/08/stranger-than-heaven-gamescom-2026-demo-playthrough",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Stranger-Than-Heaven-Gameplay_08-28-26.jpg"
         },
         {
-            "title": "The Witcher 3: Wild Hunt \u2013 Songs of the Past Preview: Coming Out - Game Informer",
-            "description": "The Witcher 3: Wild Hunt \u2013 Songs of the Past (PlayStation 5, Xbox Series X/S, PC) Preview: We get an extended look at the newly announced expansion for The",
-            "url": "https://gameinformer.com/preview/2026/08/27/coming-out-of-retirement",
-            "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/08/27/7c4c6e7f/tw1.jpg.webp"
+            "title": "Apple Isn\u2019t Following Its Typical Playbook for the September iPhone Event - CNET",
+            "description": "Tim Cook is having a wild last week on the job.",
+            "url": "https://www.cnet.com/tech/computing/apple-isnt-following-its-typical-playbook-for-the-september-iphone-event/",
+            "image": "https://www.cnet.com/wp-content/uploads/sites/2/260827_CLEAN_OMT-Ep_186_Surprise-Macs-Not-Your-Typical-iPhone-Event-Time_v1.jpg"
         },
         {
-            "title": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared - MacRumors",
-            "description": "Apple this week announced a new Mac Studio with the M5 Max and M5 Ultra chips, discontinuing the M4 Max and M3 Ultra models that had been on sale...",
-            "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
-            "image": "https://images.macrumors.com/t/PFozRveafHuOQ8hWTGEo10_MBn0=/1672x/article-new/2026/08/image.png"
+            "title": "Star Citizen's Squadron 42 Delayed Yet Again To, Er, Avoid GTA 6 - Kotaku",
+            "description": "Mmmm hmmmm. Yup. That's the reason. It's definitely that",
+            "url": "https://kotaku.com/star-citizen-squadron-42-delay-gta-6-chris-roberts-rockstar-billion-dollars-2000729284",
+            "image": "https://kotaku.com/app/uploads/2026/08/squadron42-1200x675.jpg"
         },
         {
-            "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs - The Verge",
-            "description": "The Bravia 6 is Sony\u2019s first OLED TV with four HDMI 2.1 ports.",
-            "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&strip=all&crop=22.8,26.981624602649,54.8,43.036703918969"
+            "title": "People are itching to create the Gen Z version of Friends. Here's five reasons it's impossible - BBC",
+            "description": "The legacy of Friends can be seen in a new wave of US sitcoms about twenty-something pals hitting the small screen. But, unlike the classic show, they're struggling to make a mark.",
+            "url": "https://www.bbc.com/culture/article/20260827-five-reasons-why-the-gen-z-friends-is-impossible",
+            "image": "https://ychef.files.bbci.co.uk/624x351/p0p6llbm.jpg"
+        },
+        {
+            "title": "Managers Beware: \u2018Grand Theft Auto VI\u2019 Is Going to Be a Work Blackout - WSJ",
+            "description": "After waiting 13 years for a new installment in the hit series, gamers have deemed it an unofficial holiday; \u2018right out of the gate we\u2019re going hard\u2019",
+            "url": "https://www.wsj.com/arts-culture/people-are-saving-up-their-vacation-days-to-binge-grand-theft-auto-vi-90cda437",
+            "image": "https://images.wsj.net/im-18195340/social"
         }
     ]
 }
