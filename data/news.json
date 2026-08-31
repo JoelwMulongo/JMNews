@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "\u2018Force Restart\u2019\u2014Microsoft Changes Windows Update Next Month - Forbes",
-            "description": "Your Windows PC will force restart in September \u2014 here's why.",
-            "url": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/",
-            "image": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&crop=1066,658,x1778,y566,safe&height=900&width=1600&fit=bounds"
+            "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5 - Kotaku",
+            "description": "Is Rockstar Games' much-anticipated GTA 6 the best thing since sliced bread, or just GTA 5 with a new coat of paint?",
+            "url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
+            "image": "https://kotaku.com/app/uploads/2026/08/gta-compariosns.jpg"
         },
         {
-            "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out - Mashable",
-            "description": "This is how it was always going to go.",
-            "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-memecoin-crash",
-            "image": "https://helios-i.mashable.com/imagery/articles/06gC5gJTWClWo7sagOMS435/hero-image.fill.size_1200x675.v1787927398.jpg"
+            "title": "Fable Gets Forgiving PC Minimum Hardware Requirements and Potential 60 FPS Cap - TechPowerUp",
+            "description": "Following the official announcement that Fable would be released on February 23, 2027, Playground Games and Xbox Game Studios have finally released the full PC minimum and recommended hardware requirements for the series reboot, and if the game runs well on t\u2026",
+            "url": "https://www.techpowerup.com/352143/fable-gets-forgiving-pc-minimum-hardware-requirements-and-potential-60-fps-cap",
+            "image": "https://www.techpowerup.com/img/jsBcAojFAXRexRcB.jpg"
         },
         {
-            "title": "All iRacing content will be available in career mode at \u2018zero extra cost\u2019 - Traxion.GG",
-            "description": "All content will be available in iRacing's career mode at \u2018zero extra cost\u2019, according to Senior Vice President and Executive Producer, Greg Hill.",
-            "url": "https://traxion.gg/all-iracing-content-will-be-available-in-career-mode-at-zero-extra-cost/",
-            "image": "https://traxion.gg/wp-content/uploads/2026/08/2-21.jpg"
+            "title": "GeForce RTX 3080 Drops From 138 FPS to 4 FPS When DLSS 5 Neural Rendering is Enabled; Reports Confirm Similar Performance Drop With RTX 30 Series - Wccftech",
+            "description": "DLSS 5 Neural Rendering runs on RTX 30 series but suffers a 97% FPS drop, making it unplayable, while RTX 50 series officially supports it",
+            "url": "https://wccftech.com/dlss-5-enabled-on-rtx-3080-in-deep-rock-galactic/",
+            "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/RTX-3080-DLSS-5-Deep-Rock-Galactic.jpg"
         },
         {
-            "title": "Google further buries search results under AI mode - The Verge",
-            "description": "Google Search now automatically expands AI Overviews at the top of the results page for some searches, as reported by Search Engine Roundtable.",
-            "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed - MacRumors",
+            "description": "Bloomberg's Mark Gurman today further outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 set to be unveiled on...",
+            "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
+            "image": "https://images.macrumors.com/t/itXpxZhPI2ghl9y-F07iMpgetFQ=/1960x/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg"
         },
         {
-            "title": "Fatal Fury: City of the Wolves is free to play for the weekend though only on one platform, Standard Edition on sale for just $10 - EventHubs",
-            "description": "Duck King just launched as the second DLC character of Fatal Fury: City of the Wolves Season 3, and there's a few special offers going around for the game right now.Players who've never hopped on to the ...",
-            "url": "https://www.eventhubs.com/news/2026/aug/28/fatal-fury-free-sale/",
-            "image": "https://media.eventhubs.com/images/2026/08/28-fatal-fury-free-salet.webp"
+            "title": "How Apple Stumbled Into AI Hardware Success With the Mac - The Information",
+            "description": "The hottest products at Apple right now are not the iPhone, the iPad or a buzzy new show on the company\u2019s streaming service. They are two of the lowliest members of Apple\u2019s venerable Mac product line: its boxy Mac mini and Mac Studio computers, which come wit\u2026",
+            "url": "https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac",
+            "image": "https://tii.imgix.net/production/articles/17738/c0662bf6-923c-4011-9b92-8c878fd15f49.png?fm=jpg&auto=compress&w=1200&frame=0"
+        },
+        {
+            "title": "It\u2019s a Small Detail That Can Absolutely Ruin a Vacation. Don\u2019t Leave Until You\u2019ve Packed This One Piece of Tech. - Slate",
+            "description": "Just don\u2019t forget the remote!",
+            "url": "https://slate.com/life/2026/08/roku-amazon-fire-stick-google-apple-tv-streaming-travel-tips.html",
+            "image": "https://compote.slate.com/images/850700c9-3eb6-443a-9e8f-290ac2c8dbd2.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
         }
     ]
 }
