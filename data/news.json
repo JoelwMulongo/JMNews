@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "LG TVs caught spying even when offline or on standby - The Verge",
-            "description": "Gamers Nexus gives you another reason to never connect your smart TV to the internet.",
-            "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200"
+            "title": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors",
+            "description": "A series of screenshots shared with MacRumors today seemingly show Verizon's AI chat assistant answering detailed questions about the iPhone 18...",
+            "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
+            "image": "https://images.macrumors.com/t/3W26Rv2AgG-jzjMnQcwrrXDfnrc=/2500x/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg"
         },
         {
-            "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early - Eurogamer.net",
-            "description": "A lot of Xbox owners will be teleporting to New Zealand to play Grand Theft Auto 6 at the earliest possible moment.",
-            "url": "https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s",
-            "image": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Samsung \u2018advice\u2019 to Apple suggests it fears the build quality of the iPhone Duo - 9to5mac.com",
+            "description": "Samsung says it welcomes Apple\u2019s entry into the foldable smartphone market, although the company appears to feel threatened by the...",
+            "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Sigma's Lightweight 85mm f/1.2 Art Is Official, But Canon RF Shooters Are Out in the Cold - Canon Rumors",
-            "description": "Sigma has officially announced the Sigma 85mm f/1.2 DG Art for E and L mounts. As usual, Nikon and Canon mounts are left looking in from the outside. This one may sting more than most releases, as the 85mm f/1.2 prime lens is a \"core\" product for most manufac\u2026",
-            "url": "https://www.canonrumors.com/sigma-officially-announces-the-85mm-f-1-2-dg-art-for-only-1599/",
-            "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/sigma-85mm-f1.2-dg-art-header-1600.jpg"
+            "title": "Apple\u2019s (AAPL) \u201cSurprise and Shine\u201d Event Tests Its Foldable iPhone Against Huawei and Xiaomi - Yahoo Finance",
+            "description": "Wall Street sees Apple Inc. (NASDAQ:AAPL) entering a significant hardware cycle ahead of its \u201cSurprise and Shine\u201d event streaming live on Wednesday, Septembe...",
+            "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/febefbf2643d69823e527822a23551589e58d52f8e55554e897c0177e598007d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F62cb46e6eeef5e0adeaa5b81e9188f72.jpg"
         },
         {
-            "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood - Eurogamer.net",
-            "description": "Capcom has released a gameplay trailer for Arjun, a brand-new character coming to the fighting game on the 13th October as part of the season 4 character pass.",
-            "url": "https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer",
-            "image": "https://assetsio.gnwcdn.com/arjun-street-fighter-6-gameplay-trailer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "The new Apple Watch will use microphone and other sensors to generate AI recaps of your day - 9to5Mac",
+            "description": "Apple will announce the new Apple Watch lineup later today, and Mark Gurman at Bloomberg has the early scoop. He...",
+            "url": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-lineup.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Canon EOS R8 Mark II Leak: Specs, IBIS Upgrades, and Design Revealed Ahead of Launch - Canon Rumors",
-            "description": "The Canon EOS R8 Mark II will be announced on September 15, 2026, along with a new Speedlite EL-5 II and R8 Mark II Ergonomic Grip. So far, the rumored camera specifications have been well received. What tends to be hard to come by with Canon releases is imag\u2026",
-            "url": "https://www.canonrumors.com/here-is-what-the-new-canon-eos-r8-mark-ii-will-look-like/",
-            "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/canon-eos-r8-mark-ii-mockup-header.jpg"
+            "title": "Google warns of new Chrome zero-day bug exploited in attacks - bleepingcomputer.com",
+            "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.",
+            "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+            "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/Google_Chrome.jpg"
+        },
+        {
+            "title": "OM System PEN review: Get the F out! This camera isn't a PEN-F II \u2013 but it's better in every single way - Digital Camera World",
+            "description": "The OM System PEN is the ultimate everyday carry \u2013\u00a0and in many ways, a better Lumix L10 than the actual L10",
+            "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/om-system-pen-review",
+            "image": "https://cdn.mos.cms.futurecdn.net/KJbo8qw2nnfj272cgSmRtH-2560-80.jpg"
         }
     ]
 }
