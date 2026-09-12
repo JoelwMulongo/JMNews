@@ -1,34 +1,34 @@
 {
     "articles": [
         {
-            "title": "GTA 6 DualSense pre-orders LIVE \u2014 limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
-            "description": "Add some Vice City to your PS5 setup",
-            "url": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates",
-            "image": "https://cdn.mos.cms.futurecdn.net/EPt7Jojwcu8g3LTUtBYAnA-2000-80.jpg"
+            "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
+            "description": "Simplicity\u2014combined with the difficulty of getting stuff done\u2014makes ClickFix ideal.",
+            "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
         },
         {
-            "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn\u2019t announced - 9to5Mac",
-            "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are here, and new findings reveal they each have a surprise upgrade not mentioned by Apple.",
-            "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-brown.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Samsung\u2019s open-ear Galaxy Buds On leak with clip design, \u2018Auto Volume,\u2019 gestures [Gallery] - 9to5Google",
+            "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
+            "url": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/",
+            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-buds-on-sg-leak-5.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "We\u2019re Tracking Every Zelda Switch 2 Restock for You - CNET",
-            "description": "Nintendo's limited-edition Legend of Zelda 40th Anniversary console arrives Oct. 29, and we're watching for restocks so you don't have to.",
-            "url": "https://www.cnet.com/deals/legend-of-zelda-40th-anniversary-nintendo-switch-2-console-preorder-restock/",
-            "image": "https://www.cnet.com/wp-content/uploads/sites/2/Switch-2-\u2013-The-Legend-of-Zelda-\u2013-40th-Anniversary-Edition.jpg"
+            "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+            "description": "Welcome back, ceramic cases!",
+            "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
+            "image": "https://helios-i.mashable.com/imagery/articles/01x0H7AdKnXe9mTOVdAHzgq/hero-image.fill.size_1200x675.v1789057814.png"
         },
         {
-            "title": "Nintendo Announces Big 'Customer Appreciation Sale' Supported By Tariff Refunds It Doesn't Want To Pay Back To Players - kotaku.com",
-            "description": "No, the company won't provide any refunds, but it will sell you some games and merch at a discounted price",
-            "url": "https://kotaku.com/nintendo-announces-big-customer-appreciation-sale-supported-by-tariff-refunds-it-doesnt-want-to-pay-back-to-players-2000733198",
-            "image": "https://kotaku.com/app/uploads/2025/04/7bf825228bc5a4348589aff4ffc376c7-1200x675.jpg"
+            "title": "T-Mobile will charge $5/month for Apple\u2019s new iPhone Handoff feature - 9to5Mac",
+            "description": "Apple\u2019s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile.",
+            "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
-            "description": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.",
-            "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108360732-1789051519125-108360732-17889791162026-09-09t183658z_709713620_rc2ufna9okmb_rtrmadp_0_apple-event-1.jpg?v=1789051526&w=1920&h=1080"
+            "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
+            "description": "No description available.",
+            "url": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan",
+            "image": null
         }
     ]
 }
