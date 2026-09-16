@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows - MacRumors",
-            "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to...",
-            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-            "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg"
+            "title": "Mercari and Pokemon Target Scalpers By Banning Listings of Sealed \"30th Anniversary\" Products - PokeBeach",
+            "description": "In partnership with The Pokemon Company, Japanese resale marketplace Mercari has announced a temporary ban on listings of sealed 30th Anniversary",
+            "url": "https://www.pokebeach.com/2026/09/mercari-and-pokemon-target-scalpers-by-banning-listings-of-sealed-30th-anniversary-products",
+            "image": "https://www.pokebeach.com/news/2026/09/30th-Celebration-Booster-Box-Japanese.webp"
         },
         {
-            "title": "They created Siri before Apple bought it. They\u2019re still waiting for their original vision to come true - CNN",
-            "description": "Dag Kittlaus and Adam Cheyer, known for creating an assistant that\u2019s now found in billions of Apple devices, have been thinking about what comes after the search engine for a long time.",
-            "url": "https://www.cnn.com/2026/09/14/tech/siri-founders-apple-ai",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2252639401.jpg?c=16x9&q=w_800,c_fill"
+            "title": "Apple Watch adds an all-new Readiness app, here\u2019s how it works - 9to5Mac",
+            "description": "Apple Watch is gaining an all-new health-related app called Readiness. Here\u2019s what you need to know about Apple\u2019s new fitness-focused...",
+            "url": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?resize=1200,628"
         },
         {
-            "title": "Fire Emblem: Fortune's Weave Gets A Seven-Minute Overview Trailer - Nintendo Life",
-            "description": "Ready for this week's launch",
-            "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer",
-            "image": "https://images.nintendolife.com/4b808ea46c7c3/large.jpg"
+            "title": "Total War: SHOGUN 2 Complete Edition announced for PC - Gematsu",
+            "description": "Publisher SEGA and developer Creative Assembly have announced Total War: SHOGUN 2 Complete Edition, which includes the base game, all downloadable content, and a range of improvements such as updat\u2026",
+            "url": "https://www.gematsu.com/2026/09/total-war-shogun-2-complete-edition-announced-for-pc",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/09/SHOGUN-2-CE_09-15-26.jpg"
         },
         {
-            "title": "'You're Gonna See Me in It' \u2014 King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN",
-            "description": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar\u2019s tightly controlled marketing script.",
-            "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
-            "image": "https://assets-prd.ignimgs.com/2026/09/14/brian-heder-01-0r-ute88os9k-1789380658191.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Fujifilm\u2019s Instax Pal 2 is a tiny digital camera that may not disappoint - theverge.com",
+            "description": "\ufeffThe $170 Pal 2 includes an LCD screen, a 10-megapixel sensor, autofocus, and face detection.",
+            "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/instax4.jpg?quality=90&strip=all&crop=0,10.715508985803,100,78.568982028394"
         },
         {
-            "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility - MacRumors",
-            "description": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen.  ...",
-            "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
-            "image": "https://images.macrumors.com/t/1lygljCOZBkj565M6S2GQ6yjgXg=/1600x/article-new/2026/09/iphone-duo-case.jpg"
+            "title": "No One Can Believe The Current Price Of An Nvidia RTX 5090 - Kotaku",
+            "description": "The top-end GPU has hit astronomical prices, even in large retail stores",
+            "url": "https://kotaku.com/nvidia-rtx-5090-gpu-stock-best-buy-amazon-price-genai-ai-2000734583",
+            "image": "https://kotaku.com/app/uploads/2026/09/rtx5090.jpg"
+        },
+        {
+            "title": "Battery draining faster after updating to iOS 27? Don\u2019t panic \u2026 - 9to5Mac",
+            "description": "If you\u2019ve just updated your iPhone to iOS 27, you may have felt concerned after seeing your battery draining faster...",
+            "url": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&strip=all&resize=1200,628"
         }
     ]
 }
