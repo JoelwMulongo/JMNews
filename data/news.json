@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Users find a default, mandatory Windows feature freezes your PC when you use internet - neowin.net",
+            "title": "Stanley Parable Co-Designer Perfectly Explains Why People Play 1,600 Hours Of Dota 2 And Still Hate It - Kotaku",
+            "description": "This is exactly how I've felt",
+            "url": "https://kotaku.com/stanley-parable-co-designer-perfectly-explains-why-people-play-1600-hours-of-dota-2-and-still-hate-it-2000737905",
+            "image": "https://kotaku.com/app/uploads/2026/09/dota-2-1200x675.jpg"
+        },
+        {
+            "title": "Humans Are Reading Copilot Prompts \u2014 And They're Horrified - 404 Media",
+            "description": "Human contractors are reviewing Copilot users\u2019 prompts and uploaded images, according to internal documents obtained by 404 Media. The contractors are also bombarded with users\u2019 requests for sexual AI images.",
+            "url": "https://www.404media.co/humans-reading-copilot-prompts-images/",
+            "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/rubaitul-azad-44aUjjY0LYQ-unsplash.jpg"
+        },
+        {
+            "title": "What's The Best Automotive YouTube Video You've Seen Recently? - Jalopnik",
+            "description": "The internet is a big place, with lots of cool content hiding in plain sight. Tell us about the coolest automotive video you've seen lately.",
+            "url": "https://www.jalopnik.com/2269331/best-automotive-youtube-video-youve-seen-recently-reader-question/",
+            "image": "https://www.jalopnik.com/img/gallery/whats-the-best-automotive-youtube-video-youve-seen-recently/l-intro-1790364147.jpg"
+        },
+        {
+            "title": "Malicious browser extensions can hijack AI assistants - Fox News",
+            "description": "BragJack research reveals how a single malicious browser extension could hijack Gemini, Perplexity Comet and Edge AI agents with zero clicks.",
+            "url": "https://www.foxnews.com/tech/malicious-browser-extensions-hijack-ai-assistants",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/browser-extension-malware.jpg"
+        },
+        {
+            "title": "'My Orc Was Grunting During the Intro and I Had No Idea Why' \u2014 WoW Forever Beta Player Dies to a Near Perfect Griefing Tactic That I'm Sure Blizzard Will Patch Out - IGN",
+            "description": "World of Warcraft Forever\u2019s beta marches on, and all evidence points to it being a massive success. But it\u2019s worth remembering this is a beta, and a beta is for reporting issues. Enter one of the best WoW griefing tactics I\u2019ve ever seen.",
+            "url": "https://www.ign.com/articles/wow-forever-beta-player-dies-to-a-near-perfect-griefing-tactic-that-im-sure-blizzard-will-patch-out",
+            "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+            "title": "Samsung is unexpectedly bringing the Galaxy S25 series, Z Fold 7, and Z Flip 7 up to date - PhoneArena",
             "description": "No description available.",
-            "url": "https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/",
+            "url": "https://www.phonearena.com/news/samsung-galaxy-s25-plus-ultra-z-fold-7-z-flip-7-one-ui-9-update-rollout-start_id183652",
             "image": null
-        },
-        {
-            "title": "Meta\u2019s VR Glasses Are What the Apple Vision Pro Should Have Been - Bloomberg.com",
-            "description": "Apple weighs what to do next with its headset.",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6",
-            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLXDyUjhFLnw/v18/1200x800.jpg"
-        },
-        {
-            "title": "How much should you actually tip on a 'free' walking tour? - BBC",
-            "description": "They're advertised as free \u2013 but guides often pay a fee for every guest. Here's what travellers should know before joining one.",
-            "url": "https://www.bbc.com/travel/article/20260924-how-much-should-you-actually-pay-on-a-free-walking-tour",
-            "image": "https://ychef.files.bbci.co.uk/624x351/p0pc7npb.jpg"
-        },
-        {
-            "title": "Googlebooks might be the real deal - The Verge",
-            "description": "Plus: New Meta glasses, Remedy\u2019s Control sequel, Microsoft\u2019s updated Surface Mouse, and more.",
-            "url": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0%2C3.4168590960013%2C100%2C93.166281807997&w=1200"
-        },
-        {
-            "title": "25+ Of The Best Discounted Games From Xbox's Open World Sale - purexbox.com",
-            "description": "Big worlds, small prices",
-            "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale",
-            "image": "https://images.purexbox.com/06bb311b673be/large.jpg"
-        },
-        {
-            "title": "Terrell Williams is back with the Patriots after beating prostate cancer. He has a message for everyone. - The Boston Globe",
-            "description": "Like this columnist learned: It doesn't matter how tough you think you are. Testing is vital, especially for Black men.",
-            "url": "https://www.bostonglobe.com/2026/09/27/sports/patriots-terrell-williams-prostate-cancer/",
-            "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7TRLGXZLP2IYEUGL7B2WF5KIXY.JPG?auth=3972485972a74aeddd57f475dc69c97d7f7d8cb5ffd9e6c4beeba06d0c68b412&width=1440"
         }
     ]
 }
