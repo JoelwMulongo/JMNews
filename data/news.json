@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Home Assistant renames Home Assistant Cloud to Link - The Verge",
-            "description": "\ufeffFounder Paulus Schoutsen explains why the smart home platform is dropping \u201ccloud\u201d from its name and how a new hub and AI agents could take it mainstream.",
-            "url": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nabucasa.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "\u2018Tinder Swindler\u2019 romance fraudster promises \u2018safe\u2019 dating app \u2013 using intel from con man playbook - Fox News",
+            "description": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
+            "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
+            "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Shimon-Hayut.jpg"
         },
         {
-            "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch - Eurogamer.net",
-            "description": "The Witcher 3 has been patched to address lighting issues in the Remastered edition. This has been a hotly debated topic since the overhaul was released.",
-            "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
-            "image": "https://assetsio.gnwcdn.com/geralt-horse-witcher-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
+            "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the...",
+            "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+            "image": "https://images.macrumors.com/t/-EqV_WsH-3zWuaclf21YDFIvVhg=/1600x/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg"
         },
         {
-            "title": "GTA 6 Rating Officially Confirms Sex Will Indeed Be in the Game - Polygon.com",
-            "description": "Grand Theft Auto 6 has received its rating across several countries, giving players interesting information about its explicit content.",
-            "url": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/",
-            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/games-in-development-hell-gta-6.jpg?w=1600&h=900&fit=crop"
+            "title": "\u2018A Future Where We Create Games Together With AI\u2019 \u2014 Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+            "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+            "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+            "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately' - MacRumors",
-            "description": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on its network are experiencing cellular issues....",
-            "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
-            "image": "https://images.macrumors.com/t/rg8EDzX_tTUcquU3LV5ww4-P3Fc=/1600x/article-new/2026/10/iPhone-18-Pro-Max-ATT.jpg"
+            "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
+            "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+            "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
         },
         {
-            "title": "Apple\u2019s reportedly developing a smart home camera that doesn\u2019t record video - The Verge",
-            "description": "A smart home camera Apple\u2019s working on would give users text descriptions of events instead of recordings, according to Bloomberg\u2019s Mark Gurman.",
-            "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
+            "description": "But the race isn't over yet...",
+            "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+            "image": "https://images.nintendolife.com/cc53314210756/1280x720.jpg"
+        },
+        {
+            "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+            "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+            "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg"
         }
     ]
 }
