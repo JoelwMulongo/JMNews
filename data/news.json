@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Microsoft\u2019s Surface Laptop Ultra has built-in magnetic USB-C charging - The Verge",
-            "description": "Microsoft has announced a Magnetic Connect USB-C charging port for the Surface Laptop Ultra.",
-            "url": "https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-1.40.31-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C92.549835777698&w=1200"
+            "title": "These US states just said \u2018no\u2019 to Apple Wallet driver\u2019s licenses - 9to5Mac",
+            "description": "Apple Wallet driver\u2019s licenses keeps expanding to more US states, but two states recently indicated they won\u2019t launch support anytime soon.",
+            "url": "https://9to5mac.com/2026/10/08/these-us-states-just-said-no-to-apple-wallet-drivers-licenses/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
-            "description": "With yesterday's October 2026 update, the Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold are not yet running Android 17 QPR1.",
-            "url": "http://9to5google.com/2026/10/07/pixel-11-no-android-17-qpr1/",
-            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-color-family-1.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Free Play Days \u2013 ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More - XBOX Wire",
+            "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. Discover how to participate, keep your progress, and take ad\u2026",
+            "url": "https://news.xbox.com/en-us/2026/10/08/free-play-days-10-08-2026/",
+            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/FY26-Social-FPD_10-08-2026_1920x1080-3674c710590bef8ec839.jpg"
         },
         {
-            "title": "The best Amazon Prime Day deals of day 2: savings on headphones, OLED TVs, Dolby Atmos soundbars and more, direct from our experts - What Hi-Fi?",
-            "description": "Our reviewers are adding the top audio and home cinema savings they\u2019ve spotted live!",
-            "url": "https://www.whathifi.com/live/news/big-deal-days-2026-hi-fi-home-cinema-deals",
-            "image": "https://cdn.mos.cms.futurecdn.net/gg6qX453NT7mvFBeyydUBW-1486-80.jpeg"
+            "title": "Physical Sales Of Wolverine Estimated To Be Surprisingly High For A Company That's About To Ditch Discs - Kotaku",
+            "description": "What would it take for Sony to walk the controversial move back?",
+            "url": "https://kotaku.com/physical-sales-of-wolverine-estimated-to-be-surprisingly-high-for-a-company-thats-about-to-ditch-discs-2000742653",
+            "image": "https://kotaku.com/app/uploads/2026/06/wolverine-2.jpg"
         },
         {
-            "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users - Kotaku",
-            "description": "Astrocade is filled with AI slop, but millions of people don't seem to care",
-            "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
-            "image": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg"
+            "title": "Amazon\u2019s new Alexa Tablets are an iPad-inspired reboot, complete with the Play Store - 9to5Google",
+            "description": "After more than a decade of ignoring Google's app store, Amazon is finally bringing real Play Store support to its rebooted tablet lineup.",
+            "url": "http://9to5google.com/2026/10/08/amazon-alexa-tablets-2026-play-store-support/",
+            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/alexa-tablets.png?resize=1200,628"
         },
         {
-            "title": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More - XBOX Wire",
-            "description": "Hope you\u2019ve been having fun digging in with Bravo Squad for Gears of War: E-Day or clearing the dungeons in Minecraft Dungeons II. When you\u2019re ready for your next game, we\u2019ve got more coming soon.",
-            "url": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/",
-            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon0610_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-cbf1b2ed3dea08b65ef4.jpg"
+            "title": "Google is launching a one-stop Gemini agent for your work tasks - The Verge",
+            "description": "Google is launching Gemini agent, an AI-powered assistant for enterprise users that they can interact with and assign tasks from a single interface.",
+            "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&strip=all&crop=0%2C3.4845840605003%2C100%2C93.030831878999&w=1200"
+        },
+        {
+            "title": "Witcher 3 Remastered patch rolls out on PC and console, with separate Switch 2 patch earmarked to address blurry visuals - Eurogamer.net",
+            "description": "CD Projekt Red continues fixing The Witcher 3 Remastered, this time addressing bugs while improving console performance and adding lighting options like Bloom.",
+            "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2",
+            "image": "https://assetsio.gnwcdn.com/yennefer-witcher-3_59DfK6B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
     ]
 }
