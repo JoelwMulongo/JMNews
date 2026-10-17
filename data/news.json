@@ -1,40 +1,28 @@
 {
     "articles": [
         {
-            "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
-            "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
-            "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080"
+            "title": "Apple iPhone Duo preorders sell out, deliveries extend to late January - Yahoo Finance",
+            "description": "Apple's iPhone Duo preorders sell out immediately.",
+            "url": "https://finance.yahoo.com/technology/article/apple-iphone-duo-preorders-sell-out-deliveries-extend-to-late-january-130026634.html",
+            "image": "https://s.yimg.com/lo/mysterio/api/12dc35b7b5240b5a278c3d265bccc0ce64659c0890869c4f6ad3bc121b7421c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F9dfce725-f1c2-4de1-bc5c-218e82be619c"
         },
         {
-            "title": "Apple Now Inviting Media to October 28 'Launch Experience' - MacRumors",
-            "description": "No description available.",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzdlc2JrdWVnZ3dtOGs5RENyNUhjZGpPTkRSTmowN0VhQVJxOVhZSEVGV2ZnNkZMWG9zdG8yUWkzbjdmYVhnQTVmVHhjdnVWcGhwYmJhMVJ2WGN1aE1wX19Uclo3cHZwZmJFcnYwaFhzcVdESHNWWFZMdW9Nc1Q5eXAzMFdqOHYzQmVJ?oc=5",
-            "image": null
+            "title": "Da Red Gobbo returns with a new festive miniature - Warhammer Community",
+            "description": "Plus, there\u2019s a new novel starring the galaxy\u2019s greatest revolutionary gretchin.",
+            "url": "https://www.warhammer-community.com/articles/8prrlmvd/da-red-gobbo-returns-with-a-new-festive-miniature",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/redgobbo-oct16-2-share-y1uhpeeemp.jpg"
         },
         {
-            "title": "Big Walk Isn't On Xbox Because Of The 'Palestinian-Led BDS Movement' - Aftermath",
-            "description": "No description available.",
-            "url": "https://aftermath.site/big-walk-xbox-bds-palestine-boycott/",
-            "image": null
+            "title": "Microsoft Surface Laptop Ultra Review: Complicated, yet So Damn Worth Getting Stuck In - Gizmodo",
+            "description": "The Microsoft Surface Laptop Ultra isn't just a MacBook Pro for PCs. It's a strong sign that local compute power is what we actually need in the so-called \"AI era.\"",
+            "url": "https://gizmodo.com/microsoft-surface-laptop-ultra-review-2000826722",
+            "image": "https://gizmodo.com/app/uploads/2026/10/Microsoft-Surface-Laptop-Ultra-Review-13-1200x675.jpg"
         },
         {
-            "title": "Ubisoft to reduce workforce across D\u00fcsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\" - GamesIndustry.biz",
-            "description": "No description available.",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWVoY2RrYXhrMGMxOTl2eWlXSjVHa2EwTEp2V28tZkVCV3JpbW1JcjBKUTJQUDVKbzFoaUZGc0dtdzlxU29kdHlwQVI4NzJBbmpQNmpfZ1ZLbENZRHR0RHluejB6aTdnQWpON2F5N241OHgzcC1ybUs5RHRjZzdjdGJGb0R3eWx6djJrQjBMS1JScGFXRkJoRHhTdU0zYnVRMlRNT0Y5S004d3NqLUtBMDF4NENRUUR4QmNfVHlPaUdVaS1kQ0Fic080QUNKVU53M3A4?oc=5",
-            "image": null
-        },
-        {
-            "title": "AI Controls IPhone Via ESP32 - Hackaday",
-            "description": "Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or\u2026 you could grab a microcontroller off the shelf and \u2026",
-            "url": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/",
-            "image": "https://hackaday.com/wp-content/uploads/2026/10/A-7-ESP32-lets-an-AI-set-an-alarm-on-a-stock-iPhone-no-Mac-no-jailbreak-0-20-screenshot-1.png"
-        },
-        {
-            "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
-            "description": "Three separate waves will be released",
-            "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
-            "image": "https://images.nintendolife.com/fa2d30d6a1d4f/1280x720.jpg"
+            "title": "Googlebook review: Android on a laptop is still Android - Ars Technica",
+            "description": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+            "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Googlebooks-1-1152x648.jpg"
         }
     ]
 }
