@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The S\u00e9ance of Blake Manor, and More - XBOX Wire",
-            "description": "Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that \u201cPlay Next List\u201d and let\u2019s get to it!",
-            "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
-            "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-f6dc970066614f9c5440.jpg"
+            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games - The Verge",
+            "description": "Microsoft\u2019s new Advanced Shader Delivery technology is now part of Nvidia\u2019s drivers.",
+            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
-            "title": "AMD and Microsoft announce FSR 4.1 support for Xbox Series X|S and Xbox Ally, bringing huge performance gains - Windows Central",
-            "description": "In a video address, AMD revealed FSR 4.1 support is coming \"soon\" to Xbox consoles, and this week to Xbox Ally.",
-            "url": "https://www.windowscentral.com/gaming/xbox/amd-and-microsoft-announce-fsr-4-1-support-for-xbox-series-x-s-and-xbox-ally-bringing-huge-performance-gains",
-            "image": "https://cdn.mos.cms.futurecdn.net/YkMGdaPGBKycUSyjpmBBZX-1179-80.jpg"
+            "title": "Microsoft: FSR 4.1 Coming \"Very Soon\" to Xbox Game Developers for Series X, Series S - Digital Foundry",
+            "description": "How will FSR 4.1 stack up against PS5's QSSR and Pro's PSSR 2?",
+            "url": "https://www.digitalfoundry.net/news/2026/10/microsoft-fsr-4-1-coming-very-soon-to-xbox-game-developers-for-series-x-series-s",
+            "image": "https://images.digitalfoundry.net/848f3e853ecff/1280x720.jpg"
         },
         {
-            "title": "On Warhammer TV this week \u2013 Devastation and drybrushing - Warhammer Community",
-            "description": "Enjoy lore, painting challenges, and episode two of Arkanaut.",
-            "url": "https://www.warhammer-community.com/articles/thujy0zv/on-warhammer-tv-this-week-devastation-and-drybrushing",
-            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/whplus-oct20-2-share-nqkocmwgay.jpg"
+            "title": "Here's our second wave of Xbox Game Pass games for October 2026 - Eurogamer.net",
+            "description": "The second batch of Xbox Game Pass games this month includes the console debuts of two genuine corkers.",
+            "url": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
+            "image": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Apple explains why HomeView couldn\u2019t launch until now - 9to5Mac",
-            "description": "Apple\u2019s HomeView was reportedly delayed significantly from its initial launch target, here\u2019s why it couldn\u2019t launch until now per Apple.",
-            "url": "https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "The past, present, and future share a show floor at Pinball Expo 2026 - Ars Technica",
+            "description": "Flipping through the highlights in and around Pinball Expo 2026.",
+            "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg"
         },
         {
-            "title": "Ys VIII: Lacrimosa of DANA coming to Switch 2 on February 25, 2027 - Gematsu",
-            "description": "Publisher NIS America and developer Falcom will release a Switch 2 version of action RPG Ys VIII: Lacrimosa of DANA on February 25, 2027, the companies announced. It will feature Spanish-language s\u2026",
-            "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Ys-VIII-Switch-2_10-20-26.jpg"
+            "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind - Eurogamer.net",
+            "description": "FM27 is getting a free trial period with saves that carry over to the full game, with pre-orders not opening until the trial starts.",
+            "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
+            "image": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+            "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month - Eurogamer.net",
+            "description": "Xbox is said to be laying off some employees this month, with two more waves planned for the near future.",
+            "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
+            "image": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
     ]
 }
