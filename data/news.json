@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games - The Verge",
-            "description": "Microsoft\u2019s new Advanced Shader Delivery technology is now part of Nvidia\u2019s drivers.",
-            "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "title": "Warhammer Tone Pro: Superb coverage and vibrant colours - Warhammer Community",
+            "description": "Learn how even yellow and white are a breeze with the new paints.",
+            "url": "https://www.warhammer-community.com/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-2-share-g1ylepkxxw.jpg"
         },
         {
-            "title": "Microsoft: FSR 4.1 Coming \"Very Soon\" to Xbox Game Developers for Series X, Series S - Digital Foundry",
-            "description": "How will FSR 4.1 stack up against PS5's QSSR and Pro's PSSR 2?",
-            "url": "https://www.digitalfoundry.net/news/2026/10/microsoft-fsr-4-1-coming-very-soon-to-xbox-game-developers-for-series-x-series-s",
-            "image": "https://images.digitalfoundry.net/848f3e853ecff/1280x720.jpg"
+            "title": "Tzeentch Daemons return via Made to Order - Warhammer Community",
+            "description": "Classic miniatures are coming back \u2013 just as planned.",
+            "url": "https://www.warhammer-community.com/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tzemto-oct22-2-share-jll5vwxssg.jpg"
         },
         {
-            "title": "Here's our second wave of Xbox Game Pass games for October 2026 - Eurogamer.net",
-            "description": "The second batch of Xbox Game Pass games this month includes the console debuts of two genuine corkers.",
-            "url": "https://www.eurogamer.net/xbox-game-pass-list-october-2026",
-            "image": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo - MacRumors",
+            "description": "Apple today highlighted more than 50 third-party App Store apps that are or will soon be fully optimized for the iPhone Duo and its various layouts...",
+            "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+            "image": "https://images.macrumors.com/t/BANHsGJWWM8qtc3b-G0ZHChHWL8=/2038x/article-new/2026/10/iPhone-Duo-Apps-feature.jpg"
         },
         {
-            "title": "The past, present, and future share a show floor at Pinball Expo 2026 - Ars Technica",
-            "description": "Flipping through the highlights in and around Pinball Expo 2026.",
-            "url": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg"
+            "title": "COROS DURA 2 SOLAR Review: Big Upgrade, Bigger Price - BIKEPACKING.com",
+            "description": "Neil's latest review digs into his experience with the COROS DURA 2 Solar, a new bike computer that claims to improve on the first model...",
+            "url": "https://bikepacking.com/gear/coros-dura-2-solar-review/",
+            "image": "https://bikepacking.com/wp-content/uploads/2026/10/Coros-Dura-2-solar-review_share.jpg"
         },
         {
-            "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind - Eurogamer.net",
-            "description": "FM27 is getting a free trial period with saves that carry over to the full game, with pre-orders not opening until the trial starts.",
-            "url": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days",
-            "image": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-            "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month - Eurogamer.net",
-            "description": "Xbox is said to be laying off some employees this month, with two more waves planned for the near future.",
-            "url": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report",
-            "image": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2 - GamesIndustry.biz",
+            "description": "PlayStation 5 spending rose 43% year over year, while unit sales increased 22%",
+            "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+            "image": "https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
     ]
 }
