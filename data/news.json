@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Warhammer Tone Pro: Superb coverage and vibrant colours - Warhammer Community",
-            "description": "Learn how even yellow and white are a breeze with the new paints.",
-            "url": "https://www.warhammer-community.com/articles/focygbei/warhammer-tone-pro-superb-coverage-and-vibrant-colours",
-            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tonepro_keyfeatures3-oct22-2-share-g1ylepkxxw.jpg"
+            "title": "Dell releases new 16-inch laptop globally with 1,600-nit OLED display and up to 128 GB RAM - Notebookcheck",
+            "description": "Dell is now selling its latest 16-inch laptop globally. Featuring 18-core or 20-core Nvidia RTX Spark N1X chipsets, the XPS 16 Creator Edition also offers up to 128 GB of RAM, a 120 Hz VRR OLED display and a 99 Wh battery.",
+            "url": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-1-600-nit-OLED-display-and-up-to-128-GB-RAM.1431301.0.html",
+            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dell-XPS-16-Creator-Edition-laptop-global-release-kv.jpg"
         },
         {
-            "title": "Tzeentch Daemons return via Made to Order - Warhammer Community",
-            "description": "Classic miniatures are coming back \u2013 just as planned.",
-            "url": "https://www.warhammer-community.com/articles/tzzxr1jc/tzeentch-daemons-return-via-made-to-order",
-            "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/tzemto-oct22-2-share-jll5vwxssg.jpg"
+            "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac",
+            "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple...",
+            "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo - MacRumors",
-            "description": "Apple today highlighted more than 50 third-party App Store apps that are or will soon be fully optimized for the iPhone Duo and its various layouts...",
-            "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
-            "image": "https://images.macrumors.com/t/BANHsGJWWM8qtc3b-G0ZHChHWL8=/2038x/article-new/2026/10/iPhone-Duo-Apps-feature.jpg"
+            "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
+            "description": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the shuttles in\u00a0National Geographic\u00a0foldouts, where they even to\u2026",
+            "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+            "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cs_discovery_s_top.jpg"
         },
         {
-            "title": "COROS DURA 2 SOLAR Review: Big Upgrade, Bigger Price - BIKEPACKING.com",
-            "description": "Neil's latest review digs into his experience with the COROS DURA 2 Solar, a new bike computer that claims to improve on the first model...",
-            "url": "https://bikepacking.com/gear/coros-dura-2-solar-review/",
-            "image": "https://bikepacking.com/wp-content/uploads/2026/10/Coros-Dura-2-solar-review_share.jpg"
+            "title": "You Should Enable This Chrome Feature That Flags Suspicious Websites - Lifehacker",
+            "description": "Google will warn you if you navigate to a site that looks like other known scams.",
+            "url": "https://lifehacker.com/tech/you-should-enable-this-chrome-feature-that-flags-suspicious-websites",
+            "image": "https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.fill.size_1200x675.jpg"
         },
         {
-            "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2 - GamesIndustry.biz",
-            "description": "PlayStation 5 spending rose 43% year over year, while unit sales increased 22%",
-            "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
-            "image": "https://assetsio.gnwcdn.com/marvels-wolverine.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next - A.V. Club",
+            "description": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next",
+            "url": "https://www.avclub.com/sony-discontinues-4k-blu-ray-players",
+            "image": "https://www.avclub.com/wp-content/uploads/2026/10/23/sony-logo-feature.jpg"
+        },
+        {
+            "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles - Nintendo Life",
+            "description": "Avenging Spirit, Mole Mania & Revenge of the 'Gator are back",
+            "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
+            "image": "https://images.nintendolife.com/b5623332e96f3/1280x720.jpg"
         }
     ]
 }
