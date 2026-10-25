@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Dell releases new 16-inch laptop globally with 1,600-nit OLED display and up to 128 GB RAM - Notebookcheck",
-            "description": "Dell is now selling its latest 16-inch laptop globally. Featuring 18-core or 20-core Nvidia RTX Spark N1X chipsets, the XPS 16 Creator Edition also offers up to 128 GB of RAM, a 120 Hz VRR OLED display and a 99 Wh battery.",
-            "url": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-1-600-nit-OLED-display-and-up-to-128-GB-RAM.1431301.0.html",
-            "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dell-XPS-16-Creator-Edition-laptop-global-release-kv.jpg"
+            "title": "It\u2019s time to find a new browser - The Verge",
+            "description": "Plus: Call of Duty: Modern Warfare 4, Wildwood, Claude Duet, and more in this week\u2019s Installer.",
+            "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200"
         },
         {
-            "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch - 9to5Mac",
-            "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple...",
-            "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "'Super Mario' Creator Breaks Down The Problem With AI Perfectly - Polygon.com",
+            "description": "Nintendo's Shigeru Miyamoto, known for Zelda and Mario, just gave the world a master class on the limits of AI creation",
+            "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
+            "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/08/super-mario-odyssey-trailer.jpg?w=1600&h=900&fit=crop"
         },
         {
-            "title": "A Typography Geek Pointed Out Something About The Space Shuttle Discovery And Now I Can't Unsee It - The Autopian",
-            "description": "Even though I was born in the Apollo Era, barely, the spacecraft that I think had the most influence on my childhood had to be the Space Shuttles. I remember poring over diagrams and drawings of the shuttles in\u00a0National Geographic\u00a0foldouts, where they even to\u2026",
-            "url": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
-            "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cs_discovery_s_top.jpg"
+            "title": "Apple exploring fix for Safari\u2019s cramped layout on the iPhone Duo\u2019s outer display - 9to5Mac",
+            "description": "Apple\u2019s is exploring ways to let websites make better use of the iPhone Duo\u2019s outer display. Here are the details.",
+            "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "You Should Enable This Chrome Feature That Flags Suspicious Websites - Lifehacker",
-            "description": "Google will warn you if you navigate to a site that looks like other known scams.",
-            "url": "https://lifehacker.com/tech/you-should-enable-this-chrome-feature-that-flags-suspicious-websites",
-            "image": "https://lifehacker.com/imagery/articles/01M5G96TB4CQW2Y4HX5EPNGGJD/hero-image.fill.size_1200x675.jpg"
+            "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published - Nintendo Life",
+            "description": "Cover up?",
+            "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+            "image": "https://images.nintendolife.com/84f3b7c35dd08/1280x720.jpg"
         },
         {
-            "title": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next - A.V. Club",
-            "description": "Sony's abandonment of physical media might be coming for 4K Blu-ray players next",
-            "url": "https://www.avclub.com/sony-discontinues-4k-blu-ray-players",
-            "image": "https://www.avclub.com/wp-content/uploads/2026/10/23/sony-logo-feature.jpg"
-        },
-        {
-            "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles - Nintendo Life",
-            "description": "Avenging Spirit, Mole Mania & Revenge of the 'Gator are back",
-            "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-            "image": "https://images.nintendolife.com/b5623332e96f3/1280x720.jpg"
+            "title": "The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS - MacRumors",
+            "description": "The iPhone Duo has an all-new form factor with multiple folding and orientation options, and app developers are having some fun with it. You can find...",
+            "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
+            "image": "https://images.macrumors.com/t/hymIUIn9qThsSXiszB3vmdtVE8I=/1600x/article-new/2026/10/tiny-computer-iphone-duo.jpg"
         }
     ]
 }
