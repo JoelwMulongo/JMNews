@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Final Fantasy And Chrono Trigger Veterans Believe Modern Developers Must Possess Skill To Take An Idea 'From 0 To 1' In The Age Of AI - Kotaku",
-            "description": "Yoshinori Kitase and other Square Enix creatives also reflected on the SNES development of the Mana series",
-            "url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
-            "image": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg"
+            "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
+            "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the details.",
+            "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "The 13 scariest, spookiest video games you should play this Halloween - Eurogamer.net",
-            "description": "The nights are drawing in, which can only mean one thing: more bed. But also the impending frights and sights of All Ha\u2026",
-            "url": "https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween",
-            "image": "https://assetsio.gnwcdn.com/spooky-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
+            "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+            "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
         },
         {
-            "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip - TechCrunch",
-            "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
-            "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-9.44.29-AM.png?resize=1200,792"
+            "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
+            "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+            "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+            "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
         },
         {
-            "title": "After a year of testing, one of Steam's best features is finally out of beta, making it easier to find games you might actually like - Eurogamer.net",
-            "description": "Valve's latest attempt at improving game discoverability is here, offering personalised Steam recommendations based on most-played games.",
-            "url": "https://www.eurogamer.net/steam-personal-calendar-full-release",
-            "image": "https://assetsio.gnwcdn.com/steam-personal-calendar-final-release-crop-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "Nintendo Indie World Showcase set for October 28 - Gematsu",
+            "description": "Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / 10:00 a.m. ET featuring roughly 15 minutes of news and updates on independent games coming to Switch 2 and Switch, the com\u2026",
+            "url": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
+            "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Nindie-World-Ann_10-27-26.jpg"
         },
         {
-            "title": "Golden Joystick's \"Ultimate Game of the Year\" nominees are revealed, and votes are open until October 30 - Windows Central",
-            "description": "As the 44th Golden Joystick Awards show approaches, the nominees for its Ultimate Game of the Year award have been revealed. Here's the games you can vote for.",
-            "url": "https://www.windowscentral.com/gaming/golden-joystick-ultimate-goty-2026-votes-open",
-            "image": "https://cdn.mos.cms.futurecdn.net/U7crtxZgBvVfXnDtoaiZED-1920-80.jpg"
-        },
-        {
-            "title": "Hackers Begin Dumping Nintendo Switch 2 Games As Expanded Exploit Breaks Console Security - Kotaku",
-            "description": "New exploit allows for game dumps, but will probably be patched soon",
-            "url": "https://kotaku.com/hackers-begin-dumping-nintendo-switch-2-games-as-expanded-exploit-breaks-console-security-2000749440",
-            "image": "https://kotaku.com/app/uploads/2026/10/Nintendo-Switch-2-Console.jpeg"
+            "title": "Apple Creator Studio gets powerful new AI features using OpenAI models - 9to5Mac",
+            "description": "Apple Creator Studio updates have today been announced, with what the company describes as \u201cpowerful new AI features\u201d using a...",
+            "url": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&resize=1200,628"
         }
     ]
 }
