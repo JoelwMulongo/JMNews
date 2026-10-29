@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
-            "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the details.",
-            "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Apple Unveils Touch-Screen MacBook Pro, Reversing Longheld Jobs Stance - Bloomberg.com",
+            "description": "After two decades of spurning the idea, Apple Inc. unveiled an overhauled MacBook Pro that includes a touch screen, giving its flagship laptop a feature that has become a must-have in the personal computer industry.",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance",
+            "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izVhD1OaMHr8/v2/1200x800.jpg"
         },
         {
-            "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
-            "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-            "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
+            "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
+            "description": "Google announced the Connected Apps Platform as a \u201cunified way for more app developers to bring their capabilities directly into Gemini and Search.\u201d",
+            "url": "http://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
+            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Splashscreen.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
-            "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-            "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
+            "title": "Here\u2019s all 23 games shown during Nintendo\u2019s latest Indie World presentation - Video Games Chronicle",
+            "description": "The 15-minute show gave viewers a look at new indie games coming to Switch and Switch 2",
+            "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+            "image": "https://www.videogameschronicle.com/files/2026/10/indie-world.jpg"
         },
         {
-            "title": "Nintendo Indie World Showcase set for October 28 - Gematsu",
-            "description": "Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / 10:00 a.m. ET featuring roughly 15 minutes of news and updates on independent games coming to Switch 2 and Switch, the com\u2026",
-            "url": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
-            "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Nindie-World-Ann_10-27-26.jpg"
+            "title": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency - Eurogamer.net",
+            "description": "Life is Strange developer Don't Nod - maker of Remember Me, Vampyr, Banishers, Jusant, and many more - is in dire straits.",
+            "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+            "image": "https://assetsio.gnwcdn.com/lost-records-bloom-and-rage-a.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "Apple Creator Studio gets powerful new AI features using OpenAI models - 9to5Mac",
-            "description": "Apple Creator Studio updates have today been announced, with what the company describes as \u201cpowerful new AI features\u201d using a...",
-            "url": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Dynamax Trails: Eternatus Returns - Pok\u00e9mon GO Hub",
+            "description": "Pok\u00e9mon GO\u2019s Dynamax Trails event runs from November 16 at 10:00 a.m. to November 23 at 8:00 p.m. local time, bringing a week of Max Battles and the return of Eternatus! Expect more Power Spots active than usual, GO Pass and GO Pass Deluxe, themed wild encoun\u2026",
+            "url": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/",
+            "image": "https://pokemongohub.net/wp-content/uploads/2026/10/eternatus.jpg"
+        },
+        {
+            "title": "Reddit is the latest platform to embrace the \u2018For You\u2019 feed - TechCrunch",
+            "description": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+            "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
         }
     ]
 }
