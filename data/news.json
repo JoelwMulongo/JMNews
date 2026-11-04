@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Microsoft issues final warning and guidance on Entra ID MemberOf retirement - Neowin",
-            "description": "No description available.",
-            "url": "https://www.neowin.net/news/microsoft-issues-final-warning-and-guidance-on-entra-id-memberof-retirement/",
-            "image": null
+            "title": "War Thunder gets DLSS 5 this month, NVIDIA claims up to 400 FPS at 4K - VideoCardz.com",
+            "description": "NVIDIA adds War Thunder to its DLSS 5 lineup, bringing Neural Rendering, Ray Reconstruction, and up to 6X Frame Generation. The update arrives in mid-November with new military vehicles.",
+            "url": "https://videocardz.com/newz/war-thunder-gets-dlss-5-this-month-nvidia-claims-up-to-400-fps-at-4k",
+            "image": "https://cdn.videocardz.com/1/2026/11/DLSS5-GAMES-NOVEMBER-2026.webp"
         },
         {
-            "title": "Walmart\u2019s \u2018GTA 6\u2019 preorder bonus leaked: How to score the free \"surprise and delight bag\" - Mashable",
-            "description": "Walmart is trying to get you to buy a disc-less box.",
-            "url": "https://mashable.com/tech/gta-6-free-preorder-bonus-how-to-claim",
-            "image": "https://helios-i.mashable.com/imagery/articles/02aC6cl7XAkZgt0MfrP6aCN/hero-image.fill.size_1200x675.v1793633323.jpg"
+            "title": "Golden Demon 2026 \u2013 SPIEL Essen Finalists, Part One - Warhammer Community",
+            "description": "See loads of awesome miniatures that earned Finalist pins.",
+            "url": "https://www.warhammer-community.com/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-2-share-hffil5pmu3.jpg"
         },
         {
-            "title": "Apple Isn't Done With 2026: Here's What's Still Coming - MacRumors",
-            "description": "Apple's busiest season isn't over yet. Far from it. With two hardware launch dates still to come in November, plus software updates and new...",
-            "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
-            "image": "https://images.macrumors.com/t/5C51h-KnaF-p-m9DVQNl9lRwN8A=/1600x/article-new/2026/08/Apple-Logo-Gradient-16x9-1.jpg"
+            "title": "It Sure Looks Like BioWare Had A Big N7 Day Blowout Planned Before It Was Shut Down - Kotaku",
+            "description": "The Mass Effect studio was shuttered weeks before its annual celebration would have taken place",
+            "url": "https://kotaku.com/bioware-n7-day-mass-effect-sales-deals-merchandise-2000752753",
+            "image": "https://kotaku.com/app/uploads/2021/06/2fea610b2e26dae8ab702c67f5c50e43.jpg"
         },
         {
-            "title": "Here\u2019s what\u2019s coming for the MacBook Pro next year, per report - 9to5Mac",
-            "description": "Apple just unveiled a huge update to the Mac lineup last week, introducing the MacBook Pro with PROLED XDR Display....",
-            "url": "https://9to5mac.com/2026/11/02/heres-whats-coming-for-the-macbook-pro-next-year-per-report/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow-logo.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Apple explains the $400 premium for the MacBook Pro with PROLED XDR Display - 9to5Mac",
+            "description": "Apple argued that the touchscreen isn\u2019t the headline feature of the MacBook\u00a0Pro with\u00a0PROLED\u00a0XDR Display, merely a bonus. The headline should...",
+            "url": "https://9to5mac.com/2026/11/03/apple-explains-the-400-premium-for-the-macbook-pro-with-proled-xdr-display/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "As the controversy around AI-created video game copies continues, Anthropic seemingly restricts Claude's cloning abilities - Eurogamer.net",
-            "description": "New rules built into Claude apparently prevent it from making game clones, but still permits original ideas and games using original assets.",
-            "url": "https://www.eurogamer.net/anthropic-claude-generative-ai-game-clones-update",
-            "image": "https://assetsio.gnwcdn.com/Stellar-Blade_robotic-old-man.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-            "title": "Inside Apple\u2019s Slog to Create Its First Robot - The Information",
-            "description": "Apple\u2019s new CEO John Ternus wants the company to get serious about robots, but judging by Apple\u2019s plodding progress on the first one it hopes to sell\u2014a device with a nine-inch screen that swivels around on an arm and resembles the Pixar lamp\u2014he could face an \u2026",
-            "url": "https://www.theinformation.com/articles/inside-apples-slog-create-first-robot",
-            "image": "https://tii.imgix.net/production/articles/18092/58fefe72-1333-42e4-a9f7-d83fd1f11d5e.png?fm=jpg&auto=compress&w=1200&frame=0"
+            "title": "Xbox's New 25 Years Bundle Retails For $569.99, And Here's The Full List Of Games - Pure Xbox",
+            "description": "It's mainly intended as a freebie for PC buyers though",
+            "url": "https://www.purexbox.com/news/2026/11/xboxs-new-25-years-bundle-retails-for-usd569-99-and-heres-the-full-list-of-games",
+            "image": "https://images.purexbox.com/e09db123587a7/1280x720.jpg"
         }
     ]
 }
