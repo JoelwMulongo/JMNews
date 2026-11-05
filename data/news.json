@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "War Thunder gets DLSS 5 this month, NVIDIA claims up to 400 FPS at 4K - VideoCardz.com",
-            "description": "NVIDIA adds War Thunder to its DLSS 5 lineup, bringing Neural Rendering, Ray Reconstruction, and up to 6X Frame Generation. The update arrives in mid-November with new military vehicles.",
-            "url": "https://videocardz.com/newz/war-thunder-gets-dlss-5-this-month-nvidia-claims-up-to-400-fps-at-4k",
-            "image": "https://cdn.videocardz.com/1/2026/11/DLSS5-GAMES-NOVEMBER-2026.webp"
+            "title": "Assassin's Creed Valhalla adds two Xbox achievements with New Game+ update - TrueAchievements",
+            "description": "If you thought you were done with Assassin's Creed Valhalla, think again. The New Game+ Update adds two more Xbox achievements to the action-RPG.",
+            "url": "https://www.trueachievements.com/news/assassins-creed-valhalla-new-game-plus-achievements",
+            "image": "https://www.trueachievements.com/imgs/xl/129521/assassins-creed-valhalla.jpg"
         },
         {
-            "title": "Golden Demon 2026 \u2013 SPIEL Essen Finalists, Part One - Warhammer Community",
-            "description": "See loads of awesome miniatures that earned Finalist pins.",
-            "url": "https://www.warhammer-community.com/articles/2cgtngr4/golden-demon-2026-spiel-essen-finalists-part-one",
-            "image": "https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/gd_finalists1-nov03-2-share-hffil5pmu3.jpg"
+            "title": "Nintendo\u2019s Switch 2 Game Card Situation Just Became Dire - Gizmodo",
+            "description": "We're reaching a point where owning a physical title could soon be treated as a luxury.",
+            "url": "https://gizmodo.com/nintendos-switch-2-game-cards-matronix-2000834832",
+            "image": "https://gizmodo.com/app/uploads/2025/06/DSC00618-1200x675.jpg"
         },
         {
-            "title": "It Sure Looks Like BioWare Had A Big N7 Day Blowout Planned Before It Was Shut Down - Kotaku",
-            "description": "The Mass Effect studio was shuttered weeks before its annual celebration would have taken place",
-            "url": "https://kotaku.com/bioware-n7-day-mass-effect-sales-deals-merchandise-2000752753",
-            "image": "https://kotaku.com/app/uploads/2021/06/2fea610b2e26dae8ab702c67f5c50e43.jpg"
+            "title": "Pok\u00e9mon Pokopia Expansion Pass\u2014Part 2: Dazzling Decorations Available December 9 - Pokemon.com",
+            "description": "The Pok\u00e9mon Pokopia Expansion Pass\u2014Part 2: Dazzling Decorations paid DLC arrives December 9, 2026.",
+            "url": "https://www.pokemon.com/us/news/pokemon-pokopia-expansion-pass-part-2-dazzling-decorations-available-december-9",
+            "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-pokopia/2026/11/04/pokemon-pokopia-169-en.png"
         },
         {
-            "title": "Apple explains the $400 premium for the MacBook Pro with PROLED XDR Display - 9to5Mac",
-            "description": "Apple argued that the touchscreen isn\u2019t the headline feature of the MacBook\u00a0Pro with\u00a0PROLED\u00a0XDR Display, merely a bonus. The headline should...",
-            "url": "https://9to5mac.com/2026/11/03/apple-explains-the-400-premium-for-the-macbook-pro-with-proled-xdr-display/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "\u2018Harassed and extorted\u2019: Diner slams restaurant\u2019s sneaky \u2018admin fee\u2019 - New York Post",
+            "description": "An outraged diner is calling out a major restaurant chain after discovering a surprise \u201cadmin fee\u201d quietly tacked onto his dinner bill.",
+            "url": "https://nypost.com/2026/11/04/lifestyle/diner-fumes-over-sneaky-admin-fee-on-earls-kitchen-bill/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147438119.jpg?quality=75&strip=all&w=1200"
         },
         {
-            "title": "Xbox's New 25 Years Bundle Retails For $569.99, And Here's The Full List Of Games - Pure Xbox",
-            "description": "It's mainly intended as a freebie for PC buyers though",
-            "url": "https://www.purexbox.com/news/2026/11/xboxs-new-25-years-bundle-retails-for-usd569-99-and-heres-the-full-list-of-games",
-            "image": "https://images.purexbox.com/e09db123587a7/1280x720.jpg"
+            "title": "Apple May Phase Out Non-Touch High-End MacBook Pros - MacRumors",
+            "description": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman.   Writing in his...",
+            "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
+            "image": "https://images.macrumors.com/t/nbgKwh_JVhUXfXXq_ntMhJ827JE=/1960x/article-new/2025/10/MacBook-Pro-M5-Screen.jpg"
+        },
+        {
+            "title": "Call of Duty: Warzone Season 1 Brings Hajin, Zodiac and a Full Level Reset - The Loadout",
+            "description": "Call of Duty: Warzone Season 1 starts November 6 with the Hajin and Zodiac maps, a level reset, new field gear and Modern Warfare 4 weapons.",
+            "url": "https://theloadout.com/call-of-duty-warzone-season-1-brings-hajin-zodiac-and-a-full-level-reset",
+            "image": "https://theloadout.com/wp-content/uploads/2026/11/call-of-duty-warzone-season-1-brings-hajin-zodiac-and-a-full.webp"
         }
     ]
 }
