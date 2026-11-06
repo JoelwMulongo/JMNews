@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Assassin's Creed Valhalla adds two Xbox achievements with New Game+ update - TrueAchievements",
-            "description": "If you thought you were done with Assassin's Creed Valhalla, think again. The New Game+ Update adds two more Xbox achievements to the action-RPG.",
-            "url": "https://www.trueachievements.com/news/assassins-creed-valhalla-new-game-plus-achievements",
-            "image": "https://www.trueachievements.com/imgs/xl/129521/assassins-creed-valhalla.jpg"
+            "title": "Gamers go to ridiculous lengths to \u201cimprove\u201d GTA VI with Nvidia\u2019s DLSS 5 - Ars Technica",
+            "description": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+            "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png"
         },
         {
-            "title": "Nintendo\u2019s Switch 2 Game Card Situation Just Became Dire - Gizmodo",
-            "description": "We're reaching a point where owning a physical title could soon be treated as a luxury.",
-            "url": "https://gizmodo.com/nintendos-switch-2-game-cards-matronix-2000834832",
-            "image": "https://gizmodo.com/app/uploads/2025/06/DSC00618-1200x675.jpg"
+            "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
+            "description": "Microsoft is overhauling its Xbox PC app and Xbox Cloud Gaming design. A new, faster UI is rolling out to testers.",
+            "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&strip=all&crop=0%2C4.3743779624242%2C100%2C91.251244075152&w=1200"
         },
         {
-            "title": "Pok\u00e9mon Pokopia Expansion Pass\u2014Part 2: Dazzling Decorations Available December 9 - Pokemon.com",
-            "description": "The Pok\u00e9mon Pokopia Expansion Pass\u2014Part 2: Dazzling Decorations paid DLC arrives December 9, 2026.",
-            "url": "https://www.pokemon.com/us/news/pokemon-pokopia-expansion-pass-part-2-dazzling-decorations-available-december-9",
-            "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-pokopia/2026/11/04/pokemon-pokopia-169-en.png"
+            "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more - Eurogamer.net",
+            "description": "Rockstar Games have released an album of new in-game Grand Theft Auto 6, which offer perhaps our final peak at the game before its launch later this month.",
+            "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+            "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "\u2018Harassed and extorted\u2019: Diner slams restaurant\u2019s sneaky \u2018admin fee\u2019 - New York Post",
-            "description": "An outraged diner is calling out a major restaurant chain after discovering a surprise \u201cadmin fee\u201d quietly tacked onto his dinner bill.",
-            "url": "https://nypost.com/2026/11/04/lifestyle/diner-fumes-over-sneaky-admin-fee-on-earls-kitchen-bill/",
-            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147438119.jpg?quality=75&strip=all&w=1200"
+            "title": "Free Play Days: Try These Xbox Games For Free (November 5-8) - Pure Xbox",
+            "description": "Presenting your latest batch of weekend freebies!",
+            "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-5-8",
+            "image": "https://images.purexbox.com/75e03f213efe7/1280x720.jpg"
         },
         {
-            "title": "Apple May Phase Out Non-Touch High-End MacBook Pros - MacRumors",
-            "description": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman.   Writing in his...",
-            "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
-            "image": "https://images.macrumors.com/t/nbgKwh_JVhUXfXXq_ntMhJ827JE=/1960x/article-new/2025/10/MacBook-Pro-M5-Screen.jpg"
+            "title": "Sony revives the Walkman\u2019s iconic MDR-3 headphones with USB-C for $60 - 9to5Google",
+            "description": "Sony is bringing back its iconic Walkman MDR-3 headphones for the modern era with a USB-C connection and a price...",
+            "url": "http://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/",
+            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Call of Duty: Warzone Season 1 Brings Hajin, Zodiac and a Full Level Reset - The Loadout",
-            "description": "Call of Duty: Warzone Season 1 starts November 6 with the Hajin and Zodiac maps, a level reset, new field gear and Modern Warfare 4 weapons.",
-            "url": "https://theloadout.com/call-of-duty-warzone-season-1-brings-hajin-zodiac-and-a-full-level-reset",
-            "image": "https://theloadout.com/wp-content/uploads/2026/11/call-of-duty-warzone-season-1-brings-hajin-zodiac-and-a-full.webp"
+            "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux - The Hacker News",
+            "description": "OpenSSH 10.6p2 fixes a critical password bypass allowing access to key-only accounts on affected Alpine Linux servers using long passwords.",
+            "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
         }
     ]
 }
