@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Gamers go to ridiculous lengths to \u201cimprove\u201d GTA VI with Nvidia\u2019s DLSS 5 - Ars Technica",
-            "description": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-            "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png"
+            "title": "GhostMap: an app can brick Android device, leaving it in crash loop - Cybernews",
+            "description": "Android 10 and later face GhostMap Android vulnerability that can force boot loops after app install, Bitdefender says.",
+            "url": "https://cybernews.com/security/new-android-vulnerability-ghostmap-crash-loop/",
+            "image": "https://media.cybernews.com/images/featured-big/2026/11/android.jpg"
         },
         {
-            "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
-            "description": "Microsoft is overhauling its Xbox PC app and Xbox Cloud Gaming design. A new, faster UI is rolling out to testers.",
-            "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&strip=all&crop=0%2C4.3743779624242%2C100%2C91.251244075152&w=1200"
+            "title": "Apple explains how to turn off the new MacBook Pro\u2019s glowing logo - 9to5Mac",
+            "description": "Apple knows that not everyone will want to keep it on. Here\u2019s the company\u2019s official guide to turning it off.",
+            "url": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more - Eurogamer.net",
-            "description": "Rockstar Games have released an album of new in-game Grand Theft Auto 6, which offer perhaps our final peak at the game before its launch later this month.",
-            "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-            "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "The gifts teens are actually asking for this year, according to shopping editors and real teens - NBC News",
+            "description": "Looking for gifts for teenage girls and boys? Discover our picks for stylish, practical and personalized presents, with recommendations from real teens.",
+            "url": "https://www.nbcnews.com/select/shopping/best-gifts-for-teens-2026-rcna607267",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-gift-guide-teens-oo-main-89df68.jpg"
         },
         {
-            "title": "Free Play Days: Try These Xbox Games For Free (November 5-8) - Pure Xbox",
-            "description": "Presenting your latest batch of weekend freebies!",
-            "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-5-8",
-            "image": "https://images.purexbox.com/75e03f213efe7/1280x720.jpg"
+            "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
+            "description": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.   The...",
+            "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
+            "image": "https://images.macrumors.com/t/moB5pnioz9ULPrWGK9M7DZdy-9Y=/1600x/article-new/2026/10/hero_medium_2x-feature1.jpg"
         },
         {
-            "title": "Sony revives the Walkman\u2019s iconic MDR-3 headphones with USB-C for $60 - 9to5Google",
-            "description": "Sony is bringing back its iconic Walkman MDR-3 headphones for the modern era with a USB-C connection and a price...",
-            "url": "http://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/",
-            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/sony-mdr-3r-1_c24aeb.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "New Xbox PC App Claims 60% Faster Launch Times and UX Improvements - TechPowerUp",
+            "description": "Epic Games's recent proclamation of significantly faster launch times on its new vibe-coded Epic Games Launcher, followed by a Steam update making similar performance improvements, seems to have inspired Microsoft's Xbox to put in the work to improve its Xbox\u2026",
+            "url": "https://www.techpowerup.com/354525/new-xbox-pc-app-claims-60-faster-launch-times-and-ux-improvements",
+            "image": "https://www.techpowerup.com/img/FZr9vA8SJkZdK5YD.jpg"
         },
         {
-            "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux - The Hacker News",
-            "description": "OpenSSH 10.6p2 fixes a critical password bypass allowing access to key-only accounts on affected Alpine Linux servers using long passwords.",
-            "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
+            "title": "Apple's First Touchscreen Mac is Now Arriving to Customers - MacRumors",
+            "description": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLED iPad mini, M6...",
+            "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
+            "image": "https://images.macrumors.com/t/XM5h7IRnM8GreuKQNQzYWM9F_xE=/2500x/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg"
         }
     ]
 }
