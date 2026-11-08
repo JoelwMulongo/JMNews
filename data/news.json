@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "GhostMap: an app can brick Android device, leaving it in crash loop - Cybernews",
-            "description": "Android 10 and later face GhostMap Android vulnerability that can force boot loops after app install, Bitdefender says.",
-            "url": "https://cybernews.com/security/new-android-vulnerability-ghostmap-crash-loop/",
-            "image": "https://media.cybernews.com/images/featured-big/2026/11/android.jpg"
+            "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
+            "description": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a headache for World of Warcraft's retail arm.",
+            "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked",
+            "image": "https://cdn.mos.cms.futurecdn.net/qSjugCWqy45jwEfZ3P9DRQ-2325-80.jpg"
         },
         {
-            "title": "Apple explains how to turn off the new MacBook Pro\u2019s glowing logo - 9to5Mac",
-            "description": "Apple knows that not everyone will want to keep it on. Here\u2019s the company\u2019s official guide to turning it off.",
-            "url": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
+            "description": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+            "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+            "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "The gifts teens are actually asking for this year, according to shopping editors and real teens - NBC News",
-            "description": "Looking for gifts for teenage girls and boys? Discover our picks for stylish, practical and personalized presents, with recommendations from real teens.",
-            "url": "https://www.nbcnews.com/select/shopping/best-gifts-for-teens-2026-rcna607267",
-            "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-gift-guide-teens-oo-main-89df68.jpg"
+            "title": "GTA 6 Physical Edition Poster Revealed By Retailer - RockstarINTEL",
+            "description": "A new GTA 6 poster that could come as part of the code in box copies of the game has been revealed. However, it may end up being limited to select retailers and it might not even be truly official. German retailer MediaMarkt has published a couple of images s\u2026",
+            "url": "https://rockstarintel.com/gta-6-physical-edition-poster-revealed-by-retailer/",
+            "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Jason_and_Lucia_15-0m-_zb-mcy2zr-1280.webp"
         },
         {
-            "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
-            "description": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.   The...",
-            "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
-            "image": "https://images.macrumors.com/t/moB5pnioz9ULPrWGK9M7DZdy-9Y=/1600x/article-new/2026/10/hero_medium_2x-feature1.jpg"
+            "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake - Kotaku",
+            "description": "These boots weren\u2019t made for walking",
+            "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
+            "image": "https://kotaku.com/app/uploads/2026/11/linkgoron.jpg"
         },
         {
-            "title": "New Xbox PC App Claims 60% Faster Launch Times and UX Improvements - TechPowerUp",
-            "description": "Epic Games's recent proclamation of significantly faster launch times on its new vibe-coded Epic Games Launcher, followed by a Steam update making similar performance improvements, seems to have inspired Microsoft's Xbox to put in the work to improve its Xbox\u2026",
-            "url": "https://www.techpowerup.com/354525/new-xbox-pc-app-claims-60-faster-launch-times-and-ux-improvements",
-            "image": "https://www.techpowerup.com/img/FZr9vA8SJkZdK5YD.jpg"
-        },
-        {
-            "title": "Apple's First Touchscreen Mac is Now Arriving to Customers - MacRumors",
-            "description": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLED iPad mini, M6...",
-            "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
-            "image": "https://images.macrumors.com/t/XM5h7IRnM8GreuKQNQzYWM9F_xE=/2500x/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg"
+            "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
+            "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+            "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif"
         }
     ]
 }
