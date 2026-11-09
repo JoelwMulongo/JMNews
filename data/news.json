@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
-            "description": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a headache for World of Warcraft's retail arm.",
-            "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked",
-            "image": "https://cdn.mos.cms.futurecdn.net/qSjugCWqy45jwEfZ3P9DRQ-2325-80.jpg"
+            "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85 - IGN",
+            "description": "New videos from the set of Miami Vice \u201885 reveal Austin Butler\u2019s Sonny Crockett and Michael B. Jordan\u201ds Ricardo Tubbs driving in a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Konsinski\u2019s film is retelling. And \u2026",
+            "url": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+            "image": "https://assets-prd.ignimgs.com/2026/10/12/mv85-austin-sonny-1280-1791830924948.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
-            "description": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-            "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
-            "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "Akai MPC is moving toward an open platform, and the first step is here - synth anatomy",
+            "description": "The Akai MPC framework components are now open-source, including the MPC Standalone (G1 & G2), Force, and MPC Sample",
+            "url": "https://synthanatomy.com/2026/11/akai-mpc-is-now-open-source-standalone-and-mpc-sample.html",
+            "image": "https://synthanatomy.com/wp-content/uploads/2026/11/Akai-MPC-Open-Source.jpg"
         },
         {
-            "title": "GTA 6 Physical Edition Poster Revealed By Retailer - RockstarINTEL",
-            "description": "A new GTA 6 poster that could come as part of the code in box copies of the game has been revealed. However, it may end up being limited to select retailers and it might not even be truly official. German retailer MediaMarkt has published a couple of images s\u2026",
-            "url": "https://rockstarintel.com/gta-6-physical-edition-poster-revealed-by-retailer/",
-            "image": "https://rockstarintel.com/wp-content/uploads/2026/11/Jason_and_Lucia_15-0m-_zb-mcy2zr-1280.webp"
+            "title": "Sunday Preview \u2013 New Battleforce Boxes Muster for Action - Warhammer Community",
+            "description": "Incredible new boxed sets for Warhammer 40,000, Warhammer Age of Sigmar, and Warhammer: The Horus Heresy.",
+            "url": "https://www.warhammer-community.com/articles/rufkxsxw/sunday-preview-new-battleforce-boxes-muster-for-action",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/sundaypreview-nov08-2-share-pzooonrqws.jpg"
         },
         {
-            "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake - Kotaku",
-            "description": "These boots weren\u2019t made for walking",
-            "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
-            "image": "https://kotaku.com/app/uploads/2026/11/linkgoron.jpg"
+            "title": "3 Affordable Retro Consoles You Can Buy From GameStop - BGR",
+            "description": "Not interested or able in buying the latest gaming console or a new gaming PC? You can still find some pretty stellar deals on retro consoles.",
+            "url": "https://www.bgr.com/2306012/affordable-retro-consoles-buy-from-gamestop/",
+            "image": "https://www.bgr.com/img/gallery/3-affordable-retro-consoles-you-can-buy-from-gamestop/l-intro-1793742309.jpg"
         },
         {
-            "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
-            "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
-            "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif"
+            "title": "Ocarina of Time's tougher Master Quest might be coming back, if this datamine is right - Eurogamer.net",
+            "description": "Dataminers have found references to Master Quest in the Ocarina of Time remake's files, suggesting the tougher, mirrored mode could arrive as DLC.",
+            "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine",
+            "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-08-at-17.31.26.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+            "title": "Motorola is quietly building apps and features that make Pixel and Samsung phones feel behind the times - Android Police",
+            "description": "The Signature 27 targets what Pixel and Galaxy phones usually win on",
+            "url": "https://www.androidpolice.com/motorola-quietly-building-apps-and-features-make-pixel-and-samsung-phones-feel-behind/",
+            "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/11/motorola-signature-27-smartphone-showing-its-rear-cameras-against-a-brown-leather-background.png?w=1600&h=900&fit=crop"
         }
     ]
 }
