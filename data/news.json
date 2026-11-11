@@ -1,40 +1,34 @@
 {
     "articles": [
         {
-            "title": "Review: Unno Horn - 2026 XC Group Test - Pinkbike",
-            "description": "The Unno Horn blends speed and comfort in an intriguing way.",
-            "url": "https://www.pinkbike.com/news/review-unno-horn-2026-xc-group-test.html",
-            "image": "https://ep1.pinkbike.org/p4pb30483580/p4pb30483580.jpg"
+            "title": "Achievements Could Be Making Gaming Worse for Everyone - IGN",
+            "description": "There's no achievement for beating Phantom Blade Zero's most difficult mode, and trophy hunters are to blame.",
+            "url": "https://www.ign.com/articles/phantom-blade-zero-doesnt-have-an-achievement-for-beating-its-hardest-mode-a-growing-trend-in-the-games-industry-is-to-blame",
+            "image": "https://assets-prd.ignimgs.com/2026/11/10/phantombladezero-trophies-blogroll-1794299608508.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-            "title": "Beloved Mario Content Creator Says His Health Is Failing But 'Only Blindness Or Death' Will Stop Him From Posting Mario Facts - Kotaku",
-            "description": "'If I should one day stop posting: thank you very much for reading.'",
-            "url": "https://kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083",
-            "image": "https://kotaku.com/app/uploads/2025/10/sad-mario.jpg"
+            "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
+            "description": "Rockstar Games is making GTA VI available on Xbox Cloud Gaming at launch. Xbox One consoles will be able to stream the game.",
+            "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gta6.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
         },
         {
-            "title": "\u2018Even if Someone Does Get It Running on PC, That\u2019s Not Going To Be a Good Experience\u2019 \u2013 Why AI Cloning Won\u2019t Sink GTA 6\u2019s Launch, but Could Reshape Game Development - IGN",
-            "description": "Will AI-made PC ports impact GTA 6's launch? The experts say no, but vibe-coding is here to reshape the games industry as we know it.",
-            "url": "https://www.ign.com/articles/even-if-someone-does-get-it-running-on-pc-thats-not-going-to-be-a-good-experience-why-ai-cloning-wont-sink-gta-6s-launch-but-could-reshape-game-development",
-            "image": "https://assets-prd.ignimgs.com/2026/11/09/gta6-launch-ai-blogroll-1794222934628.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "title": "iPhone Air 2 and iPhone 18 dummy models leak - GSMArena.com news - GSMArena.com",
+            "description": "The new iPhones are expected to be unveiled next Spring. Apple is expected to launch the standard iPhone 18 and the iPhone Air 2 in spring 2027. While...",
+            "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php",
+            "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-18-air-2-dummy-units-leak/-952x498w6/gsmarena_00.jpg"
         },
         {
-            "title": "Leak reveals details for more iPhone 18 models launching early 2027 - 9to5Mac",
-            "description": "A new leak outlines several features of the forthcoming iPhone 18 and iPhone 18e models, which could be more alike than ever.",
-            "url": "https://9to5mac.com/2026/11/09/leak-reveals-details-for-more-iphone-18-models-launching-early-2027/",
-            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&resize=1200,628"
+            "title": "Despite promising a heady mix of Vampire Survivors and Warhammer fan-service, Warhammer Survivors is somehow less than the sum of its parts - Eurogamer.net",
+            "description": "But then, maybe the stress of the early game even makes Warhammer Survivors' eventual catharsis even better...",
+            "url": "https://www.eurogamer.net/warhammer-survivors-now-playing",
+            "image": "https://assetsio.gnwcdn.com/warhammer-survivors_5jrmIgw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "'The Best RPG I've Played This Year' - Queen's Domain Is A Low-Key GOTY Contender On Xbox - Pure Xbox",
-            "description": "It's getting some stunning feedback",
-            "url": "https://www.purexbox.com/news/2026/11/the-best-rpg-ive-played-this-year-queens-domain-is-a-low-key-goty-contender-on-xbox",
-            "image": "https://images.purexbox.com/e3fdafb8e73f7/1280x720.jpg"
-        },
-        {
-            "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends - TechCrunch",
-            "description": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-            "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/11/Drops-app.png?w=1200"
+            "title": "Mini Review: Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy (Switch 2) - Pleasant But Perplexingly Piecemeal - Nintendo Life",
+            "description": "Leave them wanting Olimore",
+            "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+            "image": "https://images.nintendolife.com/391431227159e/1280x720.jpg"
         }
     ]
 }
