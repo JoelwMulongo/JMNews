@@ -1,34 +1,40 @@
 {
     "articles": [
         {
-            "title": "Jeff Kaplan Blames Overwatch 2\u2019s Messy Reveal On Blizzard Hubris: \u2018You Guys Are F*cking Idiots\u2019 - Kotaku",
-            "description": "The sequel that never truly came to be was announced in 2019",
-            "url": "https://kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275",
-            "image": "https://kotaku.com/app/uploads/2026/11/kaplan.jpg"
+            "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
+            "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals remain a solitary activity.",
+            "url": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/",
+            "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UYCAEIQAQKJVU52LUFO4B3DBE.jpg&w=1440"
         },
         {
-            "title": "An Expert And A Noob Play \u2018Final Fantasy Resonance\u2019 - Defector",
-            "description": "While there are many fantastic Japanese role-playing game (JRPG, for short) series out there, and with apologies to Dragon Quest and Persona, Final Fantasy is the biggest and most important of them all. Every numbered entry in the main series is an event, and\u2026",
-            "url": "https://defector.com/an-expert-and-a-noob-play-final-fantasy-resonance",
-            "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/cloud1.png"
+            "title": "Exclusive | People are \u2018carrotmaxxing\u2019 and \u2018shrimpmaxxing\u2019 for tanner skin \u2014 no sun (or food) required - New York Post",
+            "description": "For those who don\u2019t want to go through the trouble of \u201ccarrotmaxxing,\u201d so-called tanning pills offer a convenient alternative \u2014 but dietitians warn it\u2019s even riskier than do\u2026",
+            "url": "https://nypost.com/2026/11/13/health/people-are-carrotmaxxing-and-shrimpmaxxing-for-tanner-skin/",
+            "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-mbuux6cr1-1793990376243.jpg?quality=75&strip=all&1793972397&w=1200"
         },
         {
-            "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395 - Ars Technica",
-            "description": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-            "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg"
+            "title": "Apple Launches Two Products Today - MacRumors",
+            "description": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have...",
+            "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+            "image": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg"
         },
         {
-            "title": "Get Shiny Xerneas in Pok\u00e9mon Legends: Z\u2011A via Mystery Gift - Pokemon.com",
-            "description": "Learn the password to add this Legendary Pok\u00e9mon to your Pok\u00e9mon Legends: Z-A team.",
-            "url": "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
-            "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/distributions/2026/xerneas/pokemon-legends-z-a-169-en.png"
+            "title": "Microsoft confirms Windows activation failures after November updates - BleepingComputer",
+            "description": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes.",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+            "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/0_Windows.jpg"
         },
         {
-            "title": "I've tested Apple's new Apple TV 4K against the previous model \u2013 is it worth the massive price hike? - What Hi-Fi?",
-            "description": "Apple's latest 4K streamer improves on its excellent predecessor, but are the picture, sound and feature upgrades enough to justify the higher price?",
-            "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/apple-tv-4k-2026",
-            "image": "https://cdn.mos.cms.futurecdn.net/noM5jcJmf4HKH6ukNWGjE-1920-80.jpg"
+            "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" - Nintendo Life",
+            "description": "The team maybe went \"a step too far\", according to the producer",
+            "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+            "image": "https://images.nintendolife.com/ef2581fe276ed/1280x720.jpg"
+        },
+        {
+            "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
+            "description": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary with a slew of new additions to its Xbox Backwards Compatibility on PC program, but it seems as though Xbox CEO, Asha Sharma, had one more trick up her sleeve, \u2026",
+            "url": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game",
+            "image": "https://www.techpowerup.com/img/TuL11dwliNqllxF2.jpg"
         }
     ]
 }
