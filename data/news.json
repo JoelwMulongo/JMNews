@@ -1,40 +1,40 @@
 {
     "articles": [
         {
-            "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch - Game Developer",
-            "description": "Firaxis, a sibling studio to Take-Two\u2019s Rockstar Games, is known for games like Sid Meier\u2019s Civilization VII and Marvel\u2019s Midnight Suns.",
-            "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
-            "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd7a51f4543729098/68b9b02ba65a196166536be0/civilization_vii.jpg?disable=upscale&width=1200&height=630&fit=crop"
+            "title": "Rayman Legends Retold Reveals Another Musical Level, And Uhh... Just Watch - Nintendo Life",
+            "description": "It's dynamite",
+            "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-another-musical-level-and-uhh-just-watch",
+            "image": "https://images.nintendolife.com/fb499c129102d/1280x720.jpg"
         },
         {
-            "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early - Mashable",
-            "description": "There's a trick that'll give you a head start on \"Grand Theft Auto VI.\"",
-            "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5",
-            "image": "https://helios-i.mashable.com/imagery/articles/041h5WaujIQNRXQS9gCi1CL/hero-image.fill.size_1200x675.v1794912087.jpg"
+            "title": "GTA 6 is so big, it managed to break Reddit - and it isn't even actually out yet - Eurogamer.net",
+            "description": "A post on the GTA 6 Reddit, verified by moderators, has said that the \r\nSubReddit is struggling with tech issues such as broken post flairs and busted comments.",
+            "url": "https://www.eurogamer.net/grand-theft-auto-6-breaks-reddit-not-out-yet",
+            "image": "https://assetsio.gnwcdn.com/reddit-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-            "title": "GTA Lucia actor finally revealed and yes, it's who we thought it was - Eurogamer.net",
-            "description": "Manni L. Perez has been confirmed as GTA 6\u2019s Lucia Caminos after The Game Awards nominated her for the role, days before the game launches.",
-            "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
-            "image": "https://assetsio.gnwcdn.com/GTA-6---Lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "title": "8BitDo Reveals Its Own GameCube Controller For Switch 2 - Nintendo Life",
+            "description": "And it's more affordable than Nintendo's",
+            "url": "https://www.nintendolife.com/news/2026/11/8bitdo-reveals-its-own-gamecube-controller-for-switch-2",
+            "image": "https://images.nintendolife.com/758e8b2543372/1280x720.jpg"
         },
         {
-            "title": "You can now assign Gemini \u2018tasks\u2019 for free in six countries - 9to5Google",
-            "description": "Starting today, the Gemini app\u2019s tasks feature, previously known as Spark, is now available for free users after previously requiring AI Pro.",
-            "url": "http://9to5google.com/2026/11/17/gemini-tasks-free/",
-            "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-task-free-cover.webp?resize=1200,628"
+            "title": "iPhone 18, iPhone Air 2 get new release timing updates - 9to5Mac",
+            "description": "iPhone 18 and iPhone Air 2 were absent from Apple's fall lineup, but they're still coming\u2014and a new report covers release timing.",
+            "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
+            "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628"
         },
         {
-            "title": "The Game Awards Nominations 2026: \u2018GTA 6\u2019 Lands Game of the Year Nom Ahead of Thursday Release - Variety",
-            "description": "The nominations for the 2026 Game Awards have been revealed.",
-            "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
-            "image": "https://variety.com/wp-content/uploads/2026/08/GTA-6-2.png?w=1000&h=563&crop=1"
+            "title": "Designers\u2019 notes: The Doom of Lord Carrard lore - Warhammer Community",
+            "description": "Learn about the background of the Bretonnian baron\u2019s fateful quest.",
+            "url": "https://www.warhammer-community.com/articles/n4q6qfxp/designers-notes-the-doom-of-lord-carrard-lore",
+            "image": "https://assets.warhammer-community.com/articles/0-2026/november/wc-16-11/tow_dolclore-nov18-2-share-i4pnd4mr1j.jpg"
         },
         {
-            "title": "Google makes it easier to use Gemini without training AI on your data - Ars Technica",
-            "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-            "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-            "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
+            "title": "GTA 6 reviews say highly-anticipated game is a masterpiece - BBC",
+            "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+            "url": "https://www.bbc.com/news/articles/cw8r75xm8v4po",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
         }
     ]
 }
